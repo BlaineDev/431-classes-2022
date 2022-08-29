@@ -5,8 +5,8 @@
 
 ## How do I get to this README page?
 
-The main website for this class is https://thomaselove.github.io/431-2022/. 
-- From that site, get here by 
+The main website for this class is https://thomaselove.github.io/431-2022/. From that site, get here by 
+
 - selecting [Calendar](https://thomaselove.github.io/431-2022/calendar.html)
 - then select today's class ([Class 01: 2021-08-24](https://github.com/THOMASELOVE/431-classes-22/tree/main/class01)).
 
@@ -21,10 +21,8 @@ Class | HTML Link to Slides | Date | Quarto file
 
 ## Announcements
 
+1. Thank you to those of you who've completed the [Welcome to 431 Survey](https://bit.ly/431-2022-welcome-survey). 
+    - If you haven't completed this yet, please do so as soon as possible. Dr. Love will discuss the Survey results in our next two classes.
+    - If you are not yet enrolled in this class, we're full. Please talk to me before you leave this room.
 
 
-1. Thank you to the 60 of you who've completed the [Welcome to 431 Survey](https://bit.ly/431-2021-welcome-survey). 
-    - If you haven't completed this yet (Ali Alhomoud, Paula Ambrose, Siddharth Dugar and Tianze Wang), please do so this afternoon. 
-    - If you are not yet enrolled in this class (including Brian Hiidel) please talk to me before you leave this room.
-    - Dr. Love will discuss the results in Class 02.
-    - To answer one very common question now, it is our goal to record each class and make those recordings available to you, starting with Class 02.
