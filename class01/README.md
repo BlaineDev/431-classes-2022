@@ -2,7 +2,7 @@
 
 ## As you walk in...
 
-Be sure to get one of the "Convenient Pieces of Paper" handouts we're passing out. **Don't** write on it yet. Instead, get to know those around you.
+Be sure to get one of the "*A Convenient Piece of Paper*" handouts. **Don't** write on it yet. Instead, get to know those around you.
 
 ## This is the README page for Class 01. How do I get to it?
 
@@ -29,7 +29,7 @@ Class | HTML Link to Slides | Date | Quarto file
     - If you are not yet enrolled in this class, please talk to me before you leave this room. 
         - We're full here, but there is a Section 2 from 4:00 - 5:15 on Tuesdays and Thursdays. 
 
-2. We'll start today on [the main page](https://thomaselove.github.io/431/) for the course, and look over:
+2. As part of our slides today, we'll visit [the main course page](https://thomaselove.github.io/431/) for the course, and look over:
 
 - the [Syllabus](https://thomaselove.github.io/431-syllabus-2022/)
 - the [Course Notes](https://thomaselove.github.io/431-notes/) (main text for the course)
@@ -38,9 +38,8 @@ Class | HTML Link to Slides | Date | Quarto file
 - the information available on [getting R and R Studio](https://thomaselove.github.io/431-2022/software.html#installing-r-and-r-studio) and some [R packages and data sets](https://thomaselove.github.io/431-2022/software.html#installing-r-packages-and-datacode-for-431) installed on your computer.
 - the [Campuswire discussion forum](https://thomaselove.github.io/431-2022/campuswire.html) for the class, and other [ways you can get help from us](https://thomaselove.github.io/431-2022/contact.html)
     - [Campuswire](https://thomaselove.github.io/431-2022/campuswire.html) is the best place to ask (and answer) questions outside of class time, especially before TA office hours begin on 2022-09-06.
-- the [Canvas](https://canvas.case.edu/) page for the course
-    - We use [Canvas](https://canvas.case.edu/) as a place to turn in assignments. That's about it.
-- the Shared Google Drive for the course, which you should find listed as **431 Fall 2022 Dr Love and Students** on your CWRU Google Drive. At the moment, it contains nothing, but that will change.
+- the [Canvas](https://canvas.case.edu/) page for the course, which we use only as a place to turn in some assignments.
+- the Shared Google Drive for the course, which you should find listed as **431 Fall 2022 Dr Love and Students** on your CWRU Google Drive. At the moment, it contains nothing of particular importance, but that will change.
 
 3. RStudio's [incredibly useful Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/) are a great source of help, too.
 
@@ -63,6 +62,7 @@ Class | HTML Link to Slides | Date | Quarto file
 - XKCD on [Correlation vs. Causation](https://xkcd.com/552)
 - Syllabus [description of TAs and their backgrounds](https://thomaselove.github.io/431-syllabus-2022/teaching-assistants.html)
 - The Art of Statistics, by David Spiegelhalter, is the book you need to purchase. [Dr. Spiegelhalter's web site is here](http://www.statslab.cam.ac.uk/~david/).
+- Age-Guessing Activity Form is at https://bit.ly/431-2022-class01-breakout. Some of you will need this during class (one person per group.)
 - Hans Rosling and "The Joy of Stats" is [on YouTube here](https://www.youtube.com/watch?v=jbkSRLYSojo).
     - The [20 minute version](https://www.youtube.com/watch?v=RUwS1uAdUcI) from 2007 TED talk
     - The [full documentary from the BBC](https://www.gapminder.org/videos/the-joy-of-stats/)
