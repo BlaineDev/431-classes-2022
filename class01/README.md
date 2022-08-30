@@ -19,6 +19,8 @@ Class | HTML Link to Slides | Date | Quarto file | Access the Recording
 :---: | :------------: | :---: | :--------------: | :----------:
 01 | [Slides for Class 01](https://thomaselove.github.io/431-slides-2022/class01.html) | 2022-08-30 | [Quarto for Class 01 slides](https://thomaselove.github.io/431-slides-2022/class01.qmd) | To Be Announced
 
+https://github.com/THOMASELOVE/431-slides-2022/blob/main/class01.qmd
+
 - The **HTML Link to Slides** provides the version of the slides I suggest you focus on during class.
 - The Quarto file links provide the code I used (in [Quarto](https://quarto.org/)) to build the slides.
 
