@@ -24,11 +24,11 @@ Class | HTML Link to Slides | Date | Quarto file (download) | Access the Recordi
 
 ## Announcements
 
-1. Thank you to the 43 of you who've completed the [Welcome to 431 Survey](https://bit.ly/431-2022-welcome-survey) (as of 10:12 AM today.) 
-    - If you are one of the 17 enrolled students who hasn't completed this yet, please do so today. 
+1. Thank you to the 48 of you who've completed the [Welcome to 431 Survey](https://bit.ly/431-2022-welcome-survey) (as of 12:49 PM today.) 
+    - If you are one of the 12 enrolled students who hasn't completed this yet, please do so today. 
     - Dr. Love will discuss the Survey results once they are complete. 
         - For now, I'll agree that there's a lot of work in this course, but your predecessors have found it rewarding.
-    - If you are not enrolled in this class, please talk to me before you leave this room. 
+    - If you are **not yet enrolled** in this class, please talk to me before you leave this room. 
         - We're (more than) full here, but there is a Section 2 of 431 from 4:00 - 5:15 on Tuesdays and Thursdays. 
 
 2. As part of our slides today, we'll visit [the main course page](https://thomaselove.github.io/431/) for the course, and look over:
