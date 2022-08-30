@@ -43,7 +43,7 @@ Class | HTML Link to Slides | Date | Quarto file
 
 3. RStudio's [incredibly useful Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/) are a great source of help, too.
 
-## Ten Things To Do After Class (if you haven't, already)
+## Ten Things To Do After Class 01 (if you haven't, already)
 
 1.  Bookmark and familiarize yourself with the [main course website](https://thomaselove.github.io/431-2022/), being sure to visit the [Course Calendar](https://thomaselove.github.io/431-2022/calendar.html) and see what's ahead of you.
 2.  Read through the [Course Syllabus](https://thomaselove.github.io/431-syllabus-2022/).
