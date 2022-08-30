@@ -15,9 +15,9 @@ The main website for this class is https://thomaselove.github.io/431-2022/. From
 
 ## Today's Slides
 
-Class | HTML Link to Slides | Date | Quarto file
-:---: | :------------: | :---: | :--------------:
-01 | [Slides for Class 01](https://thomaselove.github.io/431-slides-2022/class01.html) | 2022-08-30 | [Quarto for Class 01 slides](class01.qmd)
+Class | HTML Link to Slides | Date | Quarto file | Access the Recording
+:---: | :------------: | :---: | :--------------: | :----------:
+01 | [Slides for Class 01](https://thomaselove.github.io/431-slides-2022/class01.html) | 2022-08-30 | [Quarto for Class 01 slides](class01.qmd) | To Be Announced
 
 - The **HTML Link to Slides** provides the version of the slides I suggest you focus on during class.
 - The Quarto file links provide the code I used (in [Quarto](https://quarto.org/)) to build the slides.
