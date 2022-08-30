@@ -6,7 +6,7 @@ Be sure to get one of the "*A Convenient Piece of Paper*" handouts. **Don't** wr
 
 ## This is the README page for Class 01.
 
-- Each class' README serves as a **starting point** for that class session.
+- Each class' README serves as a starting point for that class session.
 
 The main website for this class is https://thomaselove.github.io/431-2022/. From that site, get to this README by 
 
