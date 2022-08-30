@@ -24,8 +24,8 @@ Class | HTML Link to Slides | Date | Quarto file (download) | Access the Recordi
 
 ## Announcements
 
-1. Thank you to those of you who've completed the [Welcome to 431 Survey](https://bit.ly/431-2022-welcome-survey). 
-    - If you haven't completed this yet, please do so as soon as possible. Dr. Love will discuss the Survey results once they are complete.
+1. Thank you to the 43 of you who've completed the [Welcome to 431 Survey](https://bit.ly/431-2022-welcome-survey) (as of 10:12 AM today.) 
+    - If you are one of the 17 enrolled students who hasn't completed this yet, please do so today. Dr. Love will discuss the Survey results once they are complete.
     - If you are not yet enrolled in this class, please talk to me before you leave this room. 
         - We're full here, but there is a Section 2 from 4:00 - 5:15 on Tuesdays and Thursdays. 
 
@@ -63,7 +63,7 @@ Class | HTML Link to Slides | Date | Quarto file (download) | Access the Recordi
 2. Read through the [Course Syllabus](https://thomaselove.github.io/431-syllabus-2022/).
 3. Obtain David Spiegelhalter's *The Art of Statistics: How to Learn from Data* (~$20), and read the Introduction.
     - Our [Calendar](https://thomaselove.github.io/431/calendar.html) provides reading lists on weekends, anticipating that you'll complete the suggested reading before the next class.
-4. Complete the [Welcome to 431 survey](https://bit.ly/431-2022-welcome-survey). Thanks if you've already done this.
+4. Complete the [Welcome to 431 survey](https://bit.ly/431-2022-welcome-survey), if you haven't yet. Thanks if you've already done this.
 5. Get started [installing the software](https://thomaselove.github.io/431-2022/software.html) you'll need.
 6. Sign up for the (free) [Campuswire discussion forum](https://thomaselove.github.io/431-2022/campuswire.html).
 7. Take a look at the [Course Notes](https://thomaselove.github.io/431-notes/). Part A is now a complete version.
