@@ -37,7 +37,8 @@ Class | HTML Link to Slides | Date | Quarto file
 - the [Assignments](https://thomaselove.github.io/431-2022/assignments.html), including the [first Lab](https://github.com/THOMASELOVE/431-labs-2022)
 - the information available on [getting R and R Studio](https://thomaselove.github.io/431-2022/software.html#installing-r-and-r-studio) and some [R packages and data sets](https://thomaselove.github.io/431-2022/software.html#installing-r-packages-and-datacode-for-431) installed on your computer.
 - the [Campuswire discussion forum](https://thomaselove.github.io/431-2022/campuswire.html) for the class, and other [ways you can get help from us](https://thomaselove.github.io/431-2022/contact.html)
-    - [Campuswire](https://thomaselove.github.io/431-2022/campuswire.html) is the best place to ask (and answer) questions outside of class time, especially before TA office hours begin on 2022-09-06.
+    - [Campuswire](https://thomaselove.github.io/431-2022/campuswire.html) is the best place to ask (and answer) questions outside of class time.
+    - TA Office Hours will begin on Tuesday 2022-09-06. All are held via Zoom. We'll get a schedule to you as soon as possible.
 - the [Canvas](https://canvas.case.edu/) page for the course, which we use only as a place to turn in some assignments.
 - the Shared Google Drive for the course, which you should find listed as **431 Fall 2022 Dr Love and Students** on your CWRU Google Drive. At the moment, it contains nothing of particular importance, but that will change.
 
