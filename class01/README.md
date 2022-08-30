@@ -4,9 +4,8 @@
 
 Be sure to get one of the "Convenient Pieces of Paper" handouts we're passing out. **Don't** write on it yet. Instead, get to know those around you.
 
-## How do I get to this README page?
+## This is the README page for Class 01. How do I get to it?
 
-- This is the README for Class 01 of Professor Love's 431 course for Fall 2021. 
 - Each class' README serves as a **starting point** for that class session.
 
 The main website for this class is https://thomaselove.github.io/431-2022/. From that site, get here by 
