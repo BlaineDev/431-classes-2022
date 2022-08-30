@@ -8,10 +8,10 @@ Be sure to get one of the "*A Convenient Piece of Paper*" handouts. **Don't** wr
 
 - Each class' README serves as a **starting point** for that class session.
 
-The main website for this class is https://thomaselove.github.io/431-2022/. From that site, get here by 
+The main website for this class is https://thomaselove.github.io/431-2022/. From that site, get to this README by 
 
 - selecting [Calendar](https://thomaselove.github.io/431-2022/calendar.html)
-- then select today's class (Class 01). Direct Link: https://github.com/THOMASELOVE/431-classes-2022/tree/main/class01
+- then selecting today's class (Class 01). Direct Link: https://github.com/THOMASELOVE/431-classes-2022/tree/main/class01
 
 ## Today's Slides
 
