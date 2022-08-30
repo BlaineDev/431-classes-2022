@@ -43,6 +43,17 @@ Class | HTML Link to Slides | Date | Quarto file
 
 3. RStudio's [incredibly useful Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/) are a great source of help, too.
 
+## Links from Today's Slides
+
+- XKCD on [Correlation vs. Causation](https://xkcd.com/552)
+- Syllabus description of [our Teaching Assistants and their backgrounds](https://thomaselove.github.io/431-syllabus-2022/teaching-assistants.html)
+- The Art of Statistics, by David Spiegelhalter, is the book you need to purchase. [Dr. Spiegelhalter's web site is here](http://www.statslab.cam.ac.uk/~david/).
+- Age-Guessing Activity Form is at https://bit.ly/431-2022-class01-breakout. Some of you will need this during class (one person per group.)
+- Hans Rosling and "The Joy of Stats" is [on YouTube here](https://www.youtube.com/watch?v=jbkSRLYSojo).
+    - The [20 minute version](https://www.youtube.com/watch?v=RUwS1uAdUcI) from 2007 TED talk
+    - The [full documentary from the BBC](https://www.gapminder.org/videos/the-joy-of-stats/)
+    - Video [playlist from Gapminder](https://www.gapminder.org/videos/)
+
 ## Ten Things To Do After Class 01 (if you haven't, already)
 
 1. Bookmark and familiarize yourself with the [main course website](https://thomaselove.github.io/431-2022/), being sure to visit the [Course Calendar](https://thomaselove.github.io/431-2022/calendar.html) and see what's ahead of you.
@@ -56,17 +67,6 @@ Class | HTML Link to Slides | Date | Quarto file
 8. You should also bookmark [Introduction to Modern Statistics](https://openintro-ims.netlify.app/) and [R for Data Science, 2nd ed.](https://r4ds.hadley.nz/). Each of these books is very useful. I would also bookmark the [RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/) page.
 9. Ask us questions. TA office hours start next Tuesday, but [Campuswire is available now](https://thomaselove.github.io/431-2022/campuswire.html).
 10. Take a look at [Lab 01 (due 2022-09-12)](https://github.com/THOMASELOVE/431-labs-2022) which is your first substantial deliverable. 
-
-## Links from Today's Slides
-
-- XKCD on [Correlation vs. Causation](https://xkcd.com/552)
-- Syllabus description of [our Teaching Assistants and their backgrounds](https://thomaselove.github.io/431-syllabus-2022/teaching-assistants.html)
-- The Art of Statistics, by David Spiegelhalter, is the book you need to purchase. [Dr. Spiegelhalter's web site is here](http://www.statslab.cam.ac.uk/~david/).
-- Age-Guessing Activity Form is at https://bit.ly/431-2022-class01-breakout. Some of you will need this during class (one person per group.)
-- Hans Rosling and "The Joy of Stats" is [on YouTube here](https://www.youtube.com/watch?v=jbkSRLYSojo).
-    - The [20 minute version](https://www.youtube.com/watch?v=RUwS1uAdUcI) from 2007 TED talk
-    - The [full documentary from the BBC](https://www.gapminder.org/videos/the-joy-of-stats/)
-    - Video [playlist from Gapminder](https://www.gapminder.org/videos/)
 
 ## One Last Thing
 
