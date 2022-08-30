@@ -60,7 +60,7 @@ Class | HTML Link to Slides | Date | Quarto file
 ## Links from Today's Slides
 
 - XKCD on [Correlation vs. Causation](https://xkcd.com/552)
-- Syllabus [description of TAs and their backgrounds](https://thomaselove.github.io/431-syllabus-2022/teaching-assistants.html)
+- Syllabus description of [our Teaching Assistants and their backgrounds](https://thomaselove.github.io/431-syllabus-2022/teaching-assistants.html)
 - The Art of Statistics, by David Spiegelhalter, is the book you need to purchase. [Dr. Spiegelhalter's web site is here](http://www.statslab.cam.ac.uk/~david/).
 - Age-Guessing Activity Form is at https://bit.ly/431-2022-class01-breakout. Some of you will need this during class (one person per group.)
 - Hans Rosling and "The Joy of Stats" is [on YouTube here](https://www.youtube.com/watch?v=jbkSRLYSojo).
