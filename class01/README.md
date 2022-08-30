@@ -1,18 +1,18 @@
 # 431 Class 01: 2022-08-30
 
-- This is the README for Class 01 of Professor Love's 431 course for Fall 2021. 
-- Each class' README serves as a **starting point** for that class session.
+## As you walk in...
+
+Be sure to get one of the "Convenient Pieces of Paper" handouts we're passing out. **Don't** write on it yet. Instead, get to know those around you.
 
 ## How do I get to this README page?
+
+- This is the README for Class 01 of Professor Love's 431 course for Fall 2021. 
+- Each class' README serves as a **starting point** for that class session.
 
 The main website for this class is https://thomaselove.github.io/431-2022/. From that site, get here by 
 
 - selecting [Calendar](https://thomaselove.github.io/431-2022/calendar.html)
 - then select today's class ([Class 01: 2021-08-24](https://github.com/THOMASELOVE/431-classes-22/tree/main/class01)).
-
-## As you walk in...
-
-Be sure to get one of the "Convenient Pieces of Paper" handouts we're passing out. Don't write on it yet. Instead, get to know someone sitting near you.
 
 ## Today's Slides
 
