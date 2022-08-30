@@ -10,6 +10,10 @@ The main website for this class is https://thomaselove.github.io/431-2022/. From
 - selecting [Calendar](https://thomaselove.github.io/431-2022/calendar.html)
 - then select today's class ([Class 01: 2021-08-24](https://github.com/THOMASELOVE/431-classes-22/tree/main/class01)).
 
+## As you walk in...
+
+Be sure to get one of the "Convenient Pieces of Paper" handouts we're passing out. Don't write on it yet. Instead, get to know someone sitting near you.
+
 ## Today's Slides
 
 Class | HTML Link to Slides | Date | Quarto file
