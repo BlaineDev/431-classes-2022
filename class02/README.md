@@ -6,9 +6,9 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 
 ## Today's Slides
 
-Class | HTML Link to Slides | Date | Quarto file
+Class | HTML Link to Slides | Date | Quarto file (download)
 :---: | :------------: | :---: | :--------------:
-02 | [Slides for Class 02](https://thomaselove.github.io/431-slides-2022/class02.html) | 2022-09-01 | [Quarto for Class 02 slides](class02.qmd)
+02 | [Slides for Class 02](https://thomaselove.github.io/431-slides-2022/class02.html) | 2022-09-01 | [Quarto for Class 02 slides](https://thomaselove.github.io/431-slides-2022/class02.qmd)
 
 ## Announcements
 
