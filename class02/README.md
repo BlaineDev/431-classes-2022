@@ -12,7 +12,8 @@ Class | HTML Link to Slides | Date | Quarto file (download)
 
 ## Announcements
 
-To come.
+1. Since we weren't able to record Class 01, I created a brief summary recording (5-6 minutes long) which you can watch, listen to, or download by visiting [Canvas](https://canvas.case.edu) and then selecting **Zoom**, then **Cloud Recordings** and selecting the Class 01 Summary recording.
+2. We're making every effort to record all subsequent classes in their entirety, which will be posted in the same way after class.
 
 ## One Last Thing
 
