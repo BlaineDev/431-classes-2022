@@ -29,7 +29,7 @@ Fridays | 5:30 to 7 PM
 Saturdays | 10 to 11:30 AM and 7 to 8:30 PM
 Sundays | 4 to 5:30 PM and 8 to 9:30 PM
 
-Details on how to access office hours via Zoom will be provided over the weekend.
+Details on how to access office hours via Zoom will be provided on our [Calendar](https://thomaselove.github.io/431-2022/calendar.html) and [Contact Us](https://thomaselove.github.io/431-2022/contact.html) pages over the weekend. In particular, our Shared Google Drive (431 Fall 2022 Dr Love and Students) will contain Zoom links for these sessions in a document called **TA office hours schedule and Zoom links**.
 
 ## Welcome to 431 Survey
 
