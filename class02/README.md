@@ -14,6 +14,7 @@ Class | HTML Link to Slides | Date | Quarto file (download)
 
 1. Since we weren't able to record Class 01, I created a brief summary recording (5-6 minutes long) which you can watch, listen to, or download by visiting [Canvas](https://canvas.case.edu) and then selecting **Zoom**, then **Cloud Recordings** and selecting the Class 01 Summary recording.
 2. We're making every effort to record today's all subsequent classes in their entirety, which will be posted (in theory) to the same place on [Canvas](https://canvas.case.edu).
+3. Thank you to Moein Amin, Sarah Barker, Sahana Kannan, Aqsa Khan, Marie Masotya, Ben Mittman and An Nguyen for serving as recorders for their groups in the Photo Age Guess Activity in Class 01. I appreciate it.
 
 ## TA Office Hours will begin next Tuesday 2022-09-06.
 
