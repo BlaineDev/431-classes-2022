@@ -66,4 +66,4 @@ I now have survey responses from all of you. Thank you! A few comments and summa
 
 ## One Last Thing
 
-The 4-minute video from Hans Rosling I wanted to share with you last time is to be found [at this link](https://www.youtube.com/watch?v=jbkSRLYSojo). We'll see if I get there today, or not.
+The video from Hans Rosling I wanted to share with you last time is to be found [at this link](https://www.youtube.com/watch?v=jbkSRLYSojo). We'll see if I get there today, or not.
