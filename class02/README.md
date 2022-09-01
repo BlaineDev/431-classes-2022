@@ -4,12 +4,6 @@
 :-----------: | :--------------: | :----------: | :---------: | :-------------: | :-----------: | :------------:
 for everything | for deadlines | expectations | from Dr. Love | ways to get help | submission & recordings | for downloads
 
-## Today's Slides
-
-Class | HTML Link to Slides | Date | Quarto file (download)
-:---: | :------------: | :---: | :--------------:
-02 | [Slides for Class 02](https://thomaselove.github.io/431-slides-2022/class02.html) | 2022-09-01 | [Quarto for Class 02 slides](https://thomaselove.github.io/431-slides-2022/class02.qmd)
-
 ## Today's Opener: The Quick Survey
 
 As you come in, you will receive a paper survey with 15 questions. Please read these instructions carefully before writing anything down.
@@ -20,6 +14,12 @@ As you come in, you will receive a paper survey with 15 questions. Please read t
 4. When you are finished, thank your partner and raise your hand. Someone will come around to collect your survey.
 
 There is a [PDF copy of the Quick Survey here](https://github.com/THOMASELOVE/431-classes-2022/blob/main/class02/431_surveyhandout_2022-09-01.pdf), if you'd like to look at the form after your paper copy has been collected.
+
+## Today's Slides
+
+Class | HTML Link to Slides | Date | Quarto file (download)
+:---: | :------------: | :---: | :--------------:
+02 | [Slides for Class 02](https://thomaselove.github.io/431-slides-2022/class02.html) | 2022-09-01 | [Quarto for Class 02 slides](https://thomaselove.github.io/431-slides-2022/class02.qmd)
 
 ## Announcements
 
