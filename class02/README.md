@@ -14,7 +14,22 @@ Class | HTML Link to Slides | Date | Quarto file (download)
 
 1. Since we weren't able to record Class 01, I created a brief summary recording (5-6 minutes long) which you can watch, listen to, or download by visiting [Canvas](https://canvas.case.edu) and then selecting **Zoom**, then **Cloud Recordings** and selecting the Class 01 Summary recording.
 2. We're making every effort to record today's all subsequent classes in their entirety, which will be posted (in theory) to the same place on [Canvas](https://canvas.case.edu).
-3. TA Office Hours will begin next week.
+
+## TA Office Hours will begin next Tuesday 2022-09-06.
+
+The schedule of TA Office Hours for this term will be:
+
+Day | Time(s) (All times ET)
+:---: | :------------------------------:
+Mondays | 12 to 12:45 PM and 7:30 to 9 PM
+Tuesdays | 12 to 12:45 PM
+Wednesdays | 5:30 to 7 PM
+Thursdays | 12 to 12:45 PM and 6 to 7 PM
+Fridays | 5:30 to 7 PM
+Saturdays | 10 to 11:30 AM and 7 to 8:30 PM
+Sundays | 4 to 5:30 PM and 8 to 9:30 PM
+
+Details on how to access office hours via Zoom will be provided over the weekend.
 
 ## Welcome to 431 Survey
 
