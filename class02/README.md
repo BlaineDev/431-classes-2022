@@ -34,7 +34,9 @@ Details on how to access office hours via Zoom will be provided on our [Calendar
 
 ## Welcome to 431 Survey
 
-I now have survey responses from all of you. Thank you!
+I now have survey responses from all of you. Thank you! A few comments and summaries from me [are available here](https://docs.google.com/document/d/1492IKBLzElhpjiPPKSoocd3ZZt7tlM4NGB308HUW65s/edit?usp=sharing).
+
+- Note that this document is on our Shared Google Drive (431 Fall 2022 Dr Love and Students) and you must be logged into Google via your CWRU account to see the document.
 
 ## Things to Do This Weekend
 
@@ -53,4 +55,4 @@ I now have survey responses from all of you. Thank you!
 
 ## One Last Thing
 
-To come.
+The 4-minute video from Hans Rosling I wanted to share with you last time is to be found [at this link](https://www.youtube.com/watch?v=jbkSRLYSojo). We'll see if I get there today, or not.
