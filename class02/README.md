@@ -10,6 +10,17 @@ Class | HTML Link to Slides | Date | Quarto file (download)
 :---: | :------------: | :---: | :--------------:
 02 | [Slides for Class 02](https://thomaselove.github.io/431-slides-2022/class02.html) | 2022-09-01 | [Quarto for Class 02 slides](https://thomaselove.github.io/431-slides-2022/class02.qmd)
 
+## Today's Opener: The Quick Survey
+
+As you come in, you will receive a paper survey with 15 questions. Please read these instructions carefully before writing anything down.
+
+1. Introduce yourself to someone near you.
+2. Record the survey answers **for that other person**, while they record your responses.
+3. Be sure to complete all 15 questions (both sides of the paper).
+4. When you are finished, thank your partner and raise your hand. Someone will come around to collect your survey.
+
+There is a [PDF copy of the Quick Survey here](https://github.com/THOMASELOVE/431-classes-2022/blob/main/class02/431_surveyhandout_2022-09-01.pdf), if you'd like to look at the form after your paper copy has been collected.
+
 ## Announcements
 
 1. Since we weren't able to record Class 01, I created a brief summary recording (5-6 minutes long) which you can watch, listen to, or download by visiting [Canvas](https://canvas.case.edu) and then selecting **Zoom**, then **Cloud Recordings** and selecting the Class 01 Summary recording.
