@@ -13,23 +13,23 @@ Class | HTML Link to Slides | Date | Quarto file (download)
 ## Announcements
 
 1. Since we weren't able to record Class 01, I created a brief summary recording (5-6 minutes long) which you can watch, listen to, or download by visiting [Canvas](https://canvas.case.edu) and then selecting **Zoom**, then **Cloud Recordings** and selecting the Class 01 Summary recording.
-2. We're making every effort to record all subsequent classes in their entirety, which will be posted to the same place, in theory.
+2. We're making every effort to record today's all subsequent classes in their entirety, which will be posted (in theory) to the same place on [Canvas](https://canvas.case.edu).
+3. TA Office Hours will begin next week.
 
 ## Things to Do This Weekend
 
-1. Bookmark the [main course website](https://thomaselove.github.io/431-2022/), and the books [R for Data Science, 2nd ed.](https://r4ds.hadley.nz/) and [Introduction to Modern Statistics](https://openintro-ims.netlify.app/) as well as the [RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/) page.
-2. Read through the [Course Syllabus](https://thomaselove.github.io/431-syllabus-2022/). Hint: I'll know on Tuesday morning if you've done this.
-3. Read the introduction and perhaps Chapter 1 of Spiegelhalter's *The Art of Statistics: How to Learn from Data*
-4. [Install the software](https://thomaselove.github.io/431-2022/software.html) and R packages you'll need.
-5. Sign up for the (free) [Campuswire discussion forum](https://thomaselove.github.io/431-2022/campuswire.html) if you haven't already.
-6. Ask us questions. TA office hours start next Tuesday, but [Campuswire is available now](https://thomaselove.github.io/431-2022/campuswire.html).
-7. Take a look at the following items...
+1. Check the "431 Roster for Students to Check" I've posted to our Shared Drive, and let me know if you find an error on the list. If it's OK, no need to do anything. Remember that to access our Shared Google Drive (which is called 431 Fall 2022 Dr Love and Students) you'll need to be logged into Google via your CWRU account.
+2. Bookmark the [main course website](https://thomaselove.github.io/431-2022/), and the books [R for Data Science, 2nd ed.](https://r4ds.hadley.nz/) and [Introduction to Modern Statistics](https://openintro-ims.netlify.app/) as well as the [RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/) page.
+3. Read through the [Course Syllabus](https://thomaselove.github.io/431-syllabus-2022/). Hint: I'll know on Tuesday morning if you've done this.
+4. Read the introduction and perhaps Chapter 1 of Spiegelhalter's *The Art of Statistics: How to Learn from Data*
+5. [Install the software](https://thomaselove.github.io/431-2022/software.html) and R packages you'll need.
+6. Sign up for the (free) [Campuswire discussion forum](https://thomaselove.github.io/431-2022/campuswire.html) if you haven't already.
+7. **Ask us questions**. TA office hours start next Tuesday, but [Campuswire is available now](https://thomaselove.github.io/431-2022/campuswire.html).
+8. Take a look at the following items...
 
-    - the [Course Calendar](https://thomaselove.github.io/431-2022/calendar.html), 
+    - the [Course Calendar](https://thomaselove.github.io/431-2022/calendar.html), to see what's ahead of you
     - the [Course Notes](https://thomaselove.github.io/431-notes/) (where, as mentioned, I would try to skim from the start through Chapter 3),
     - and at your first substantial assignment: [Lab 01 (due 2022-09-12)](https://github.com/THOMASELOVE/431-labs-2022).
-
-
 
 ## One Last Thing
 
