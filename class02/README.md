@@ -16,9 +16,13 @@ Class | HTML Link to Slides | Date | Quarto file (download)
 2. We're making every effort to record today's all subsequent classes in their entirety, which will be posted (in theory) to the same place on [Canvas](https://canvas.case.edu).
 3. TA Office Hours will begin next week.
 
+## Welcome to 431 Survey
+
+I now have survey responses from all of you. Thank you!
+
 ## Things to Do This Weekend
 
-1. Check the "431 Roster for Students to Check" I've posted to our Shared Drive, and let me know if you find an error on the list. If it's OK, no need to do anything. Remember that to access our Shared Google Drive (which is called 431 Fall 2022 Dr Love and Students) you'll need to be logged into Google via your CWRU account.
+1. Check the "431 Roster for Students to Check" I've posted to our Shared Google Drive, and let me know if you find an error. If it's OK, no need to do anything. Remember that to access our Shared Google Drive (which is called 431 Fall 2022 Dr Love and Students) you'll need to be logged into Google via your CWRU account.
 2. Bookmark the [main course website](https://thomaselove.github.io/431-2022/), and the books [R for Data Science, 2nd ed.](https://r4ds.hadley.nz/) and [Introduction to Modern Statistics](https://openintro-ims.netlify.app/) as well as the [RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/) page.
 3. Read through the [Course Syllabus](https://thomaselove.github.io/431-syllabus-2022/). Hint: I'll know on Tuesday morning if you've done this.
 4. Read the introduction and perhaps Chapter 1 of Spiegelhalter's *The Art of Statistics: How to Learn from Data*
