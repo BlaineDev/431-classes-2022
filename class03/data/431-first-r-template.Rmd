@@ -1,11 +1,16 @@
 ---
-title: "A First R Markdown Template"
-author: "Your Name"
+title: "TITLE GOES HERE"
+author: "YOUR NAME SHOULD BE HERE"
 date: "`r Sys.Date()`"
 output:
   html_document: 
-    toc: TRUE
+    theme: paper
+    highlight: textmate
+    toc: true
+    toc_float: true
+    number_sections: true
     code_folding: show
+    code_download: true
 ---
 
 ```{r setup, message=FALSE}
@@ -13,13 +18,19 @@ knitr::opts_chunk$set(comment=NA)
 options(width = 70)
 ```
 
+# Load Packages and Set Theme {-}
+
 ```{r library_load, message = FALSE}
 
 ## add additional libraries/packages here, as needed
 ## leaving the tidyverse as the last package loaded
 
 library(tidyverse)
+
+theme_set(theme_bw())
 ```
+
+# Load Data {-}
 
 ```{r load_data}
 ## if you want to load in a data set called namebeta.csv
