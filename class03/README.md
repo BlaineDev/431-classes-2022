@@ -20,7 +20,11 @@ These items are also part of the newly revised [431-data page](https://github.co
 
 ## Announcements
 
-To come.
+1. If you’ve spent 15 minutes working on something and are stuck, don’t keep working on it. Step away for a while, and if you return and are still stuck, **ASK FOR HELP**.
+  - Use our [Campuswire discussion board](https://campuswire.com/) to ask (and answer) questions about the course. Open 24 hours a day, 7 days a week.
+  - Attend [TA office hours](https://thomaselove.github.io/431-2022/contact.html) (which began today at noon) to get one-on-one help or share a computer problem. Our Shared Google Drive (431 Fall 2022 Dr Love and Students) now contains Zoom links for TA office hours in a document called TA office hours schedule and Zoom links. No appointment is necessary. Please just drop in.
+  - I will also hold "drop-in" office hours before and after each class.
+  - Email Professor Love if you have any questions you don't feel comfortable asking in TA office hours or via Campuswire.
 
 ## One Last Thing
 
