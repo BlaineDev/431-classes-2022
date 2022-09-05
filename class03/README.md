@@ -10,7 +10,9 @@ Class | HTML Link to Slides | Date | Quarto file (download)
 :---: | :------------: | :---: | :--------------:
 03 | [Slides for Class 03](https://thomaselove.github.io/431-slides-2022/class03.html) | 2022-09-06 | [Quarto for Class 03 slides](https://thomaselove.github.io/431-slides-2022/class03.qmd)
 
-### Extra Materials for Class 03
+### Extra Materials for Class 03 found in the [data folder](https://github.com/THOMASELOVE/431-classes-2022/tree/main/class03/data)
+
+These items are also part of the newly revised [431-data page](https://github.com/THOMASELOVE/431-data).
 
 - [431-first-r-template.Rmd](data/431-first-r-template.Rmd) is the **template** I will start with in developing today's materials.
 - [431-class03-all-code.Rmd](data/431-class03-all-code.Rmd) is a revision of the template that includes all of the code I will develop today in [the slides](https://thomaselove.github.io/431-slides-2022/class03.html).
