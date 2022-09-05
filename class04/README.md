@@ -12,7 +12,21 @@ Class | HTML Link to Slides | Date | Quarto file (download)
 
 ## Announcements
 
-To come.
+1.
+2. 
+3. Here are ten more of the interesting or fun facts about you that you included in the [Welcome to 431 Survey](https://bit.ly/431-2022-welcome-survey).
+
+- I drove from Atlanta to Los Angeles and back on a road trip with friends (about 4400 miles, or 7000 kilometers.) 
+- I am a big University of North Carolina basketball fan.
+- I absolutely love to cook! I just tried my first Michelin star restaurant in Chicago this summer.
+- I am learning Spanish, and that will be my third language.
+- No matter what time of the day it is or what my current mood is, I will never say no to Biryani (an Indian Mughlai delicacy prepared from rice, chicken, and tons of spices.)
+- I have 7 dogs at my parents' house.
+- I have a ten year old daughter who is on a swim team.
+- I have a three-legged dog! She is a rescued pitbull and now she has a great life!
+- I joined Case's amateur radio club and am looking forward to getting my ham radio license.
+- I like photography and got to photograph Neil deGrasse Tyson when he spoke at my undergrad institution.
+
 
 ## One Last Thing
 
