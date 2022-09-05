@@ -26,7 +26,22 @@ These items are also part of the newly revised [431-data page](https://github.co
   - I will also hold "drop-in" office hours before and after each class.
   - Email Professor Love if you have any questions you don't feel comfortable asking in TA office hours or via Campuswire.
 
-2. More to come.
+2. I continue to threaten to show a [video from Hans Rosling](https://www.gapminder.org/fw/world-health-chart/). Today, I expect to do just that. 
+  - The updated [World Health Chart from Gapminder](https://www.gapminder.org/fw/world-health-chart/) may be of particular interest, and includes links to the [original video](https://www.youtube.com/watch?v=jbkSRLYSojo&feature=emb_imp_woyt) I planned to show to you, and the shorter update I will show today.
+  - Some related thoughts, plots and links to data can be found in [Health, Wealth and Education: Is There a Link for Countries?](https://www.stlouisfed.org/open-vault/2021/july/health-wealth-education-link-countries) posted in July 2021 by Heather Hennerich.
+
+3. Here are ten of the interesting or fun facts about you that you included in the [Welcome to 431 Survey](https://bit.ly/431-2022-welcome-survey).
+
+- I am a former pianist turned programmer.
+- I am a board-certified music therapist.
+- I have cycled across the state of Ohio seven times.
+- I am a certified scuba diver.
+- I am a gourmet pancake maker.
+- I am a quadruplet. Fraternal. 
+- I have played in the Little Italy Summer Bocce league.
+- I am afraid of dogs.
+- I enjoy knitting and spinning yarn.
+- I grew up in Idaho and love anything outdoors.
 
 ## One Last Thing
 
