@@ -10,6 +10,12 @@ Class | HTML Link to Slides | Date | Quarto file (download)
 :---: | :------------: | :---: | :--------------:
 03 | [Slides for Class 03](https://thomaselove.github.io/431-slides-2022/class03.html) | 2022-09-06 | [Quarto for Class 03 slides](https://thomaselove.github.io/431-slides-2022/class03.qmd)
 
+### Extra Materials for Class 03
+
+- [431-first-r-template.Rmd](data/431-first-r-template.Rmd) is the **template** I will start with in developing today's materials.
+- [431-class03-all-code.Rmd](data/431-class03-all-code.Rmd) is a revision of the template that includes all of the code I will develop today in [the slides](https://thomaselove.github.io/431-slides-2022/class03.html).
+- [quick_survey_2022.csv](data/quick_survey_2022.csv) contains the data from our [Quick Survey in Class 02 (pdf)](https://github.com/THOMASELOVE/431-classes-2022/blob/main/class02/431_surveyhandout_2022-09-01.pdf) for you and for students in the 2014-2021 versions of 431.
+
 ## Announcements
 
 To come.
