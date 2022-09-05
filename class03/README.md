@@ -30,7 +30,7 @@ These items are also part of the newly revised [431-data page](https://github.co
   - The updated [World Health Chart from Gapminder](https://www.gapminder.org/fw/world-health-chart/) may be of particular interest, and includes links to the [original video](https://www.youtube.com/watch?v=jbkSRLYSojo&feature=emb_imp_woyt) I planned to show to you, and the shorter update I will show today.
   - Some related thoughts, plots and links to data can be found in [Health, Wealth and Education: Is There a Link for Countries?](https://www.stlouisfed.org/open-vault/2021/july/health-wealth-education-link-countries) posted in July 2021 by Heather Hennerich.
 
-3. Here are ten of the interesting or fun facts about you that you included in the [Welcome to 431 Survey](https://bit.ly/431-2022-welcome-survey).
+3. Here are ten of the interesting or fun facts about you mentioned in the [Welcome to 431 Survey](https://bit.ly/431-2022-welcome-survey).
 
 - I am a former pianist turned programmer.
 - I am a board-certified music therapist.
