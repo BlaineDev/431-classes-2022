@@ -26,6 +26,8 @@ These items are also part of the newly revised [431-data page](https://github.co
   - I will also hold "drop-in" office hours before and after each class.
   - Email Professor Love if you have any questions you don't feel comfortable asking in TA office hours or via Campuswire.
 
+2. More to come.
+
 ## One Last Thing
 
 To come.
