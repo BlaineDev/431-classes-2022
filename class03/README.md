@@ -22,7 +22,7 @@ These items are also part of the newly revised [431-data page](https://github.co
 
 1. What is the distribution of pulse rates among students in 431 since 2014?
 2. Does the distribution of student heights change materially over time?
-3. Is a Normal distribution is a good model for our data?
+3. Is a Normal distribution a good model for our data?
 4. Do taller people appear to have paid less for their most recent haircut?
 5. Do students have a more substantial tobacco history if they prefer to speak English or a language other than English?
 
