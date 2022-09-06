@@ -50,7 +50,7 @@ These items are also part of the newly revised [431-data page](https://github.co
 
 ## What Should I Be Working On?
 
-1. The [Minute Paper after Class 03](https://bit.ly/431-2022-min-03), which is due at noon Wednesday 2022-09-06.
+1. The [Minute Paper after Class 03](https://bit.ly/431-2022-min-03), which is due at noon Wednesday 2022-09-07.
 2. Get R and R Studio up and running effectively, if you haven't done so already.
 3. Read through Chapter 1 of Spiegelhalter's *The Art of Statistics*.
 4. Complete [Lab 01](https://github.com/THOMASELOVE/431-labs-2022) by its deadline: Monday 2022-09-12 at 9 PM.
