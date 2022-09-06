@@ -31,11 +31,11 @@ These items are also part of the newly revised [431-data page](https://github.co
   - I will also hold "drop-in" office hours before and after each class.
   - Email Professor Love if you have any questions you don't feel comfortable asking in TA office hours or via Campuswire.
 
-2. I continue to threaten to show a [video from Hans Rosling](https://www.gapminder.org/fw/world-health-chart/). Today, I expect to do just that. 
+3. I continue to threaten to show a [video from Hans Rosling](https://www.gapminder.org/fw/world-health-chart/). Today, I expect to do just that. 
   - The updated [World Health Chart from Gapminder](https://www.gapminder.org/fw/world-health-chart/) may be of particular interest, and includes links to the [original video](https://www.youtube.com/watch?v=jbkSRLYSojo&feature=emb_imp_woyt) I planned to show to you, and the shorter update I will show today.
   - Some related thoughts, plots and links to data can be found in [Health, Wealth and Education: Is There a Link for Countries?](https://www.stlouisfed.org/open-vault/2021/july/health-wealth-education-link-countries) posted in July 2021 by Heather Hennerich.
 
-3. Here are ten of the interesting or fun facts about you mentioned in the [Welcome to 431 Survey](https://bit.ly/431-2022-welcome-survey).
+4. Here are ten of the interesting or fun facts about you mentioned in the [Welcome to 431 Survey](https://bit.ly/431-2022-welcome-survey).
 
 - I am a former pianist turned programmer.
 - I am a board-certified music therapist.
@@ -47,6 +47,14 @@ These items are also part of the newly revised [431-data page](https://github.co
 - I am afraid of dogs.
 - I enjoy knitting and spinning yarn.
 - I grew up in Idaho and love anything outdoors.
+
+## What Should I Be Working On?
+
+1. The [Minute Paper after Class 03](https://bit.ly/431-2022-min-03), which is due at noon Wednesday 2022-09-06.
+2. Get R and R Studio up and running effectively, if you haven't done so already.
+3. Read through Chapter 1 of Spiegelhalter's *The Art of Statistics*.
+4. Complete Lab 01 by its deadline, which is Monday 2022-09-12 at 9 PM.
+5. If you've not already done so, complete [these Tasks we'd hoped you'd do last weekend](https://github.com/THOMASELOVE/431-classes-2022/tree/main/class02#things-to-do-this-weekend).
 
 ## One Last Thing
 
