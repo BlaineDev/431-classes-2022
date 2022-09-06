@@ -53,23 +53,27 @@ All of this material is also demonstrated in early Chapters of the [Course Notes
 ## Announcements
  
 1. There is a [Minute Paper after Class 03](https://bit.ly/431-2022-min-03), which you need to complete by NOON Wednesday 2022-09-07. A Minute Paper is a short survey (completed using a Google Form) where you will answer a few questions about how the course is going for you.
-  - You'll need to be logged into Google via CWRU to complete the Minute Papers. 
-  - **Always** complete the Minute Paper even if you weren’t able to attend the most recent class. 
-  - More on the Minute Papers [here](https://github.com/THOMASELOVE/431-minute-2022), and [in the Syllabus](https://thomaselove.github.io/431-syllabus-2022/assignments.html#minute-papers).
+    - You'll need to be logged into Google via CWRU to complete the Minute Papers. 
+    - **Always** complete the Minute Paper even if you weren’t able to attend the most recent class. 
+    - More on the Minute Papers [here](https://github.com/THOMASELOVE/431-minute-2022), and [in the Syllabus](https://thomaselove.github.io/431-syllabus-2022/assignments.html#minute-papers).
 
 2. If you’ve spent 15 minutes working on something and are stuck, don’t keep working on it. Step away for a while, and if you return and are still stuck, **ASK FOR HELP**.
-  - Use our [Campuswire discussion board](https://campuswire.com/) to ask (and answer) questions about the course. Open 24 hours a day, 7 days a week.
-  - Attend [TA office hours](https://thomaselove.github.io/431-2022/contact.html) (which began today at noon) to get one-on-one help or share a computer problem. Our Shared Google Drive (431 Fall 2022 Dr Love and Students) now contains Zoom links for TA office hours in a document called TA office hours schedule and Zoom links. No appointment is necessary. Please just drop in.
-  - I will also hold "drop-in" office hours before and after each class.
-  - Email Professor Love if you have any questions you don't feel comfortable asking in TA office hours or via Campuswire.
+    - Use our [Campuswire discussion board](https://campuswire.com/) to ask (and answer) questions about the course. Open 24 hours a day, 7 days a week.
+    - Attend [TA office hours](https://thomaselove.github.io/431-2022/contact.html) (which began today at noon) to get one-on-one help or share a computer problem. Our Shared Google Drive (431 Fall 2022 Dr Love and Students) now contains Zoom links for TA office hours in a document called TA office hours schedule and Zoom links. No appointment is necessary. Please just drop in.
+    - Professor Love will also hold "drop-in" office hours before and after each class.
+    - Email Professor Love if you have any questions you don't feel comfortable asking in TA office hours or via Campuswire.
 
 3. I continue to threaten to show a [video from Hans Rosling](https://www.gapminder.org/fw/world-health-chart/). Today, I expect to do just that. 
-  - The updated [World Health Chart from Gapminder](https://www.gapminder.org/fw/world-health-chart/) may be of particular interest, and includes links to the [original video](https://www.youtube.com/watch?v=jbkSRLYSojo&feature=emb_imp_woyt) I planned to show to you, and the shorter update I will show today.
-  - Some related thoughts, plots and links to data can be found in [Health, Wealth and Education: Is There a Link for Countries?](https://www.stlouisfed.org/open-vault/2021/july/health-wealth-education-link-countries) posted in July 2021 by Heather Hennerich.
+    - The updated [World Health Chart from Gapminder](https://www.gapminder.org/fw/world-health-chart/) may be of particular interest, and includes links to the [original video](https://www.youtube.com/watch?v=jbkSRLYSojo&feature=emb_imp_woyt) I planned to show to you, and the shorter update I will show today.
+    - Some related thoughts, plots and links to data can be found in [Health, Wealth and Education: Is There a Link for Countries?](https://www.stlouisfed.org/open-vault/2021/july/health-wealth-education-link-countries) posted in July 2021 by Heather Hennerich.
 
 4. Now is the time (if you haven't already) to get started on Lab 01](https://github.com/THOMASELOVE/431-labs-2022), which is due Monday 2022-09-12 at 9 PM. 
-  - While you don't need to develop an R Markdown file for Lab 01, you do need to use R and R Studio a bit.
-  - You also need to have read the introduction to Spiegelhalter.
+    - While you don't need to develop an R Markdown file for Lab 01, you do need to use R and R Studio a bit.
+    - You also need to have read the introduction to Spiegelhalter.
+
+5. **Updates**
+    - The [431 Packages list](https://github.com/THOMASELOVE/431-packages) has been updated to include [the gtExtras package](https://jthomasmock.github.io/gtExtras/).
+    - The [431 Data page](https://github.com/THOMASELOVE/431-data) has been updated to include materials for today's class.
 
 ## 10 Interesting/Fun Facts about you, from the [Welcome to 431 Survey](https://bit.ly/431-2022-welcome-survey).
 
