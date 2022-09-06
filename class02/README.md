@@ -17,9 +17,9 @@ There is a [PDF copy of the Quick Survey here](https://github.com/THOMASELOVE/43
 
 ## Today's Slides
 
-Class | HTML Link to Slides | Date | Quarto file (download)
-:---: | :------------: | :---: | :--------------:
-02 | [Slides for Class 02](https://thomaselove.github.io/431-slides-2022/class02.html) | 2022-09-01 | [Quarto for Class 02 slides](https://thomaselove.github.io/431-slides-2022/class02.qmd)
+Class | HTML Link to Slides | Date | Quarto file (download) | Recording
+:---: | :------------: | :---: | :--------------: | :----:
+02 | [Slides for Class 02](https://thomaselove.github.io/431-slides-2022/class02.html) | 2022-09-01 | [Quarto for Class 02 slides](https://thomaselove.github.io/431-slides-2022/class02.qmd) | Posted to Zoom at [Canvas](https://canvas.case.edu).
 
 ## Announcements
 
