@@ -53,7 +53,7 @@ These items are also part of the newly revised [431-data page](https://github.co
 1. The [Minute Paper after Class 03](https://bit.ly/431-2022-min-03), which is due at noon Wednesday 2022-09-06.
 2. Get R and R Studio up and running effectively, if you haven't done so already.
 3. Read through Chapter 1 of Spiegelhalter's *The Art of Statistics*.
-4. Complete Lab 01 by its deadline, which is Monday 2022-09-12 at 9 PM.
+4. Complete [Lab 01](https://github.com/THOMASELOVE/431-labs-2022) by its deadline: Monday 2022-09-12 at 9 PM.
 5. If you've not already done so, complete [these Tasks we'd hoped you'd do last weekend](https://github.com/THOMASELOVE/431-classes-2022/tree/main/class02#things-to-do-this-weekend).
 
 ## One Last Thing
