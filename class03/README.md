@@ -67,7 +67,7 @@ All of this material is also demonstrated in early Chapters of the [Course Notes
     - The updated [World Health Chart from Gapminder](https://www.gapminder.org/fw/world-health-chart/) may be of particular interest, and includes links to the [original video](https://www.youtube.com/watch?v=jbkSRLYSojo&feature=emb_imp_woyt) I planned to show to you, and the shorter update I will show today.
     - Some related thoughts, plots and links to data can be found in [Health, Wealth and Education: Is There a Link for Countries?](https://www.stlouisfed.org/open-vault/2021/july/health-wealth-education-link-countries) posted in July 2021 by Heather Hennerich.
 
-4. Now is the time (if you haven't already) to get started on Lab 01](https://github.com/THOMASELOVE/431-labs-2022), which is due Monday 2022-09-12 at 9 PM. 
+4. Now is the time (if you haven't already) to [get started on Lab 01](https://github.com/THOMASELOVE/431-labs-2022), which is due Monday 2022-09-12 at 9 PM. 
     - While you don't need to develop an R Markdown file for Lab 01, you do need to use R and R Studio a bit.
     - You also need to have read the introduction to Spiegelhalter.
 
