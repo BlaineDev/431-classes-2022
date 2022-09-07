@@ -30,6 +30,11 @@ Class | HTML Link to Slides | Date | Quarto file (download) | Recording
     - I joined Case's amateur radio club and am looking forward to getting my ham radio license.
     - I like photography and got to photograph Neil deGrasse Tyson when he spoke at my undergrad institution.
 
+## Struggling with R?
+
+- Ask us questions on [Campuswire](https://campuswire.com/) or visit [TA office hours](https://thomaselove.github.io/431-2022/contact.html)!
+- Visit https://education.rstudio.com/learn/beginner/ for some other suggested approaches for beginners.
+
 ## Favorite Movies
 
 - We've now got 62 responses, describing 55 of your favorite movies. Thanks! 
@@ -42,7 +47,7 @@ Class | HTML Link to Slides | Date | Quarto file (download) | Recording
 
 1. Complete [Lab 01](https://github.com/THOMASELOVE/431-labs-2022) and submit to [Canvas](https://canvas.case.edu/) by its deadline: Monday 2022-09-12 at 9 PM.
 2. Read Spiegelhalter at least through Chapter 1.
-3. Ask questions (if you desire) through [Campuswire](https://campuswire.com/) or [TA office hours](https://thomaselove.github.io/431-2022/contact.html).
+3. Remember to ask questions through [Campuswire](https://campuswire.com/) or [TA office hours](https://thomaselove.github.io/431-2022/contact.html).
 
 ## One Last Thing
 
