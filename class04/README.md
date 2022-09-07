@@ -48,5 +48,5 @@ Class | HTML Link to Slides | Date | Quarto file (download) | Recording
 
 ![](dahly-2021-04-22.png)
 
-See [here](https://twitter.com/statsepi/status/1385126000149807105) for his 7-steps.
+See [here](https://twitter.com/statsepi/status/1385126000149807105) for details on Dr. Dahly's 7 step process.
 
