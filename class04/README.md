@@ -12,7 +12,7 @@ Class | HTML Link to Slides | Date | Quarto file (download) | Recording
 
 ## Announcements
 
-1. Feedback from the Minute Paper after Class 03 will be posted by class time.
+1. Feedback from the [Minute Paper after Class 03](https://github.com/THOMASELOVE/431-minute-2022) will be posted by class time.
 2. Here are ten more of the interesting or fun facts about you that you included in the [Welcome to 431 Survey](https://bit.ly/431-2022-welcome-survey).
     - I drove from Atlanta to Los Angeles and back on a road trip with friends (about 4400 miles, or 7000 kilometers.) 
     - I am a big University of North Carolina basketball fan.
