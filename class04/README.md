@@ -13,7 +13,7 @@ Class | HTML Link to Slides | Date | Quarto file (download) | Recording
 ## Announcements
 
 1. Feedback from the [Minute Paper after Class 03](https://github.com/THOMASELOVE/431-minute-2022) will be posted by class time.
-2. [Project A](https://thomaselove.github.io/431-2022/assignments.html#project-a) detailed instructions will be available next week.
+2. Detailed instructions for [Project A](https://thomaselove.github.io/431-2022/assignments.html#project-a) will be available next week.
 3. Here are ten more of the interesting or fun facts about you that you included in the [Welcome to 431 Survey](https://bit.ly/431-2022-welcome-survey).
     - I drove from Atlanta to Los Angeles and back on a road trip with friends (about 4400 miles, or 7000 kilometers.) 
     - I am a big University of North Carolina basketball fan.
@@ -36,9 +36,9 @@ Class | HTML Link to Slides | Date | Quarto file (download) | Recording
 
 ## What Should I Be Working On?
 
-1. Complete Lab 01 and submit to Canvas by its deadline: Monday 2022-09-12 at 9 PM.
+1. Complete [Lab 01](https://github.com/THOMASELOVE/431-labs-2022) and submit to [Canvas](https://canvas.case.edu/) by its deadline: Monday 2022-09-12 at 9 PM.
 2. Read Spiegelhalter at least through Chapter 1.
-3. Ask questions (if you desire) through Campuswire or TA office hours.
+3. Ask questions (if you desire) through [Campuswire](https://campuswire.com/) or [TA office hours](https://thomaselove.github.io/431-2022/contact.html).
 
 ## One Last Thing
 
