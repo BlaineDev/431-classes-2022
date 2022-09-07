@@ -46,4 +46,7 @@ Class | HTML Link to Slides | Date | Quarto file (download) | Recording
 
 ## One Last Thing
 
-To come.
+![](dahly-2021-04-22.png)
+
+See [here](https://twitter.com/statsepi/status/1385126000149807105) for his 7-steps.
+
