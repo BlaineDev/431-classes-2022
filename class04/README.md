@@ -28,7 +28,7 @@ Class | HTML Link to Slides | Date | Quarto file (download) | Recording
 
 ## Favorite Movies
 
-We've got 62 responses, describing 55 of your favorite movies. Thanks! An initial data set of 159 films mentioned by students in 2020-2022 is in the **movies_2022-09-08** sheet on our Shared Drive. More to come. Movies mentioned by more than one student this year are:
+We've got 62 responses, describing 55 of your favorite movies. Thanks! An initial data set of 159 films mentioned by students in 2020-2022 (44 of which are new to the list this year) is in the **movies_2022-09-08** sheet on our Shared Drive. More to come. Movies mentioned by more than one student this year are:
 
 ![](movies_multiple.png)
 
