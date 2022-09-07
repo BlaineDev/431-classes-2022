@@ -35,7 +35,7 @@ Class | HTML Link to Slides | Date | Quarto file (download) | Recording
 - Ask us questions on [Campuswire](https://campuswire.com/) or visit [TA office hours](https://thomaselove.github.io/431-2022/contact.html)!
 - Visit https://education.rstudio.com/learn/beginner/ for some other suggested approaches for beginners.
 
-## Setting Up R
+## RStudio's Appearance
 
 - At home, I use the following RStudio setup, which you can customize by visiting **Tools**... **Global Options** and then selecting Appearance
     - RStudio theme: Modern
