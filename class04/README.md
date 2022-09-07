@@ -13,7 +13,8 @@ Class | HTML Link to Slides | Date | Quarto file (download) | Recording
 ## Announcements
 
 1. Feedback from the [Minute Paper after Class 03](https://github.com/THOMASELOVE/431-minute-2022) will be posted by class time.
-2. Here are ten more of the interesting or fun facts about you that you included in the [Welcome to 431 Survey](https://bit.ly/431-2022-welcome-survey).
+2. [Project A](https://thomaselove.github.io/431-2022/assignments.html#project-a) detailed instructions will be available next week.
+3. Here are ten more of the interesting or fun facts about you that you included in the [Welcome to 431 Survey](https://bit.ly/431-2022-welcome-survey).
     - I drove from Atlanta to Los Angeles and back on a road trip with friends (about 4400 miles, or 7000 kilometers.) 
     - I am a big University of North Carolina basketball fan.
     - I absolutely love to cook! I just tried my first Michelin star restaurant in Chicago this summer.
@@ -30,6 +31,12 @@ Class | HTML Link to Slides | Date | Quarto file (download) | Recording
 We've got 62 responses, describing 55 of your favorite movies. Thanks! An initial data set of 159 films mentioned by students in 2020-2022 is in the **movies_2022-09-08** sheet on our Shared Drive. More to come. Movies mentioned by more than one student this year are:
 
 ![](movies_multiple.png)
+
+## What Should I Be Working On?
+
+1. Complete Lab 01 and submit to Canvas by its deadline: Monday 2022-09-12 at 9 PM.
+2. Read Spiegelhalter at least through Chapter 1.
+3. Ask questions (if you desire) through Campuswire or TA office hours.
 
 ## One Last Thing
 
