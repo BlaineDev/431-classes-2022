@@ -12,7 +12,7 @@ Class | HTML Link to Slides | Date | Quarto file (download) | Recording
 
 ## Announcements
 
-1. My feedback from the [Minute Paper after Class 03](https://bit.ly/431-2022-min03-feedback) is now available.
+1. Feedback from the [Minute Paper after Class 03](https://bit.ly/431-2022-min03-feedback) is now available.
 2. Detailed instructions for [Project A](https://thomaselove.github.io/431-2022/assignments.html#project-a) will be available next week.
 3. Here are ten more of the interesting or fun facts about you that you included in the [Welcome to 431 Survey](https://bit.ly/431-2022-welcome-survey).
     - I drove from Atlanta to Los Angeles and back on a road trip with friends (about 4400 miles, or 7000 kilometers.) 
