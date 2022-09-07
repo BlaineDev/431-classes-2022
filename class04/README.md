@@ -35,6 +35,18 @@ Class | HTML Link to Slides | Date | Quarto file (download) | Recording
 - Ask us questions on [Campuswire](https://campuswire.com/) or visit [TA office hours](https://thomaselove.github.io/431-2022/contact.html)!
 - Visit https://education.rstudio.com/learn/beginner/ for some other suggested approaches for beginners.
 
+## Setting Up R
+
+- At home, I use the following RStudio setup, which you can customize by visiting **Tools**... **Global Options** and then selecting Appearance
+    - RStudio theme: Modern
+    - Zoom: 100%
+    - Editor font: Lucida Console
+    - Editor font size: 11
+    - Editor theme: Tomorrow Night Bright
+- In class, I will (going forward) try to use the choices above, with more Zoom as needed, and:
+    - Editor font size: 12
+    - Editor theme: Crimson Editor
+
 ## Favorite Movies
 
 - We've now got 62 responses, describing 55 of your favorite movies. Thanks! 
