@@ -12,9 +12,8 @@ Class | HTML Link to Slides | Date | Quarto file (download) | Recording
 
 ## Announcements
 
-1.
-2. 
-3. Here are ten more of the interesting or fun facts about you that you included in the [Welcome to 431 Survey](https://bit.ly/431-2022-welcome-survey).
+1. Feedback from the Minute Paper after Class 03 will be posted by class time.
+2. Here are ten more of the interesting or fun facts about you that you included in the [Welcome to 431 Survey](https://bit.ly/431-2022-welcome-survey).
 
 - I drove from Atlanta to Los Angeles and back on a road trip with friends (about 4400 miles, or 7000 kilometers.) 
 - I am a big University of North Carolina basketball fan.
@@ -27,12 +26,11 @@ Class | HTML Link to Slides | Date | Quarto file (download) | Recording
 - I joined Case's amateur radio club and am looking forward to getting my ham radio license.
 - I like photography and got to photograph Neil deGrasse Tyson when he spoke at my undergrad institution.
 
-## Movies
+## Favorite Movies
 
-We've got 62 responses, describing 55 of your favorite movies. Thanks. An initial data set of films mentioned by folks in the last three years of this class is now available on our Shared Drive in the **movies_2022-09-08** sheet. Movies mentioned by more than one student this year are:
+We've got 62 responses, describing 55 of your favorite movies. Thanks. An initial data set of films mentioned by students in 2020-2022 is on our Shared Drive in the **movies_2022-09-08** sheet. More to come. Movies mentioned by more than one student this year are:
 
 ![](movies_multiple.png)
-
 
 ## One Last Thing
 
