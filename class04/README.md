@@ -10,6 +10,10 @@ Class | HTML Link to Slides | Date | Quarto file (download) | Recording
 :---: | :------------: | :---: | :--------------: | :----: 
 04 | [Slides for Class 04](https://thomaselove.github.io/431-slides-2022/class04.html) | 2022-09-08 | [Quarto for Class 04 slides](https://thomaselove.github.io/431-slides-2022/class04.qmd) | To be posted.
 
+## Quote of the Day
+
+> We also seem to be wired to jump to conclusions on the basis of small amounts of information. Ultimately I guess it comes back to the fact that the world is more complicated than any of us are capable of understanding. (Bill James)
+
 ## Announcements
 
 1. Feedback from the [Minute Paper after Class 03](https://bit.ly/431-2022-min03-feedback) is now available.
