@@ -27,6 +27,12 @@ Class | HTML Link to Slides | Date | Quarto file (download) | Recording
 - I joined Case's amateur radio club and am looking forward to getting my ham radio license.
 - I like photography and got to photograph Neil deGrasse Tyson when he spoke at my undergrad institution.
 
+## Movies
+
+We've got 62 responses, describing 55 of your favorite movies. Thanks. An initial data set of films mentioned by folks in the last three years of this class is now available on our Shared Drive in the **movies_2022-09-08** sheet. Movies mentioned by more than one student this year are:
+
+![](movies_multiple.png)
+
 
 ## One Last Thing
 
