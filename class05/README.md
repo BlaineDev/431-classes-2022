@@ -29,4 +29,4 @@ Class | HTML Link to Slides | Date | Quarto file (download) | Recording
 
 ## One Last Thing
 
-To come.
+The FiveThirtyEight website has a lot of interesting data projects going on. Take a minute to look at "[60 Percent Of Americans Will Have An Election Denier On The Ballot This Fall](https://projects.fivethirtyeight.com/republicans-trump-election-fraud/)"
