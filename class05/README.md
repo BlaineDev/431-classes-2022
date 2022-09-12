@@ -12,7 +12,7 @@ Class | HTML Link to Slides | Date | Quarto file (download) | Recording
 
 ## Announcements
 
-1. There is a [Minute Paper after Class 05](https://github.com/THOMASELOVE/431-minute-2022), which you'll need to complete by NOON Wednesday 2022-09-14.
+1. There is a [Minute Paper after Class 05](https://bit.ly/431-2022-min-05), which you'll need to complete by NOON Wednesday 2022-09-14.
 2. An answer sketch for Lab 01 will be available by class time.
 3. Detailed instructions for [Project A](https://thomaselove.github.io/431-projectA-2022/) are [now available](https://thomaselove.github.io/431-projectA-2022/).
     - Project A is the first of two real data science projects you’ll be doing this semester. For Project A, Professor Love will give you a lot of information but less flexibility than you’ll have in Project B. In particular, you’ll each be working with part of the same data set (the County Health Rankings 2022 data.) The three key analytic tasks you’ll complete are:
