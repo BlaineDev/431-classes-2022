@@ -34,7 +34,11 @@ Chapter 3 on [Troubleshooting and asking for help](https://learnr.numbat.space/c
     - Project A is a September/October activity. Project B is a November/December activity.
 5. We have updated the [Lab 02 instructions (fixing the hint)](https://github.com/THOMASELOVE/431-labs-2022).
 6. We have updated the [templates for Labs 02 and 03](https://github.com/THOMASELOVE/431-data) as well as added some materials for sample projects A and B to the [431-data page](https://github.com/THOMASELOVE/431-data). Grab the latest version of the zip file at the [431-data page](https://github.com/THOMASELOVE/431-data) to avoid some confusion. 
-7. One last batch of a dozen interesting or fun facts that you included in the [Welcome to 431 Survey](https://bit.ly/431-2022-welcome-survey).
+7. **What does the tidyverse include?** 
+    - The core packages in the `tidyverse` that load when you run `library(tidyverse)` are [`ggplot2`](https://ggplot2.tidyverse.org/), [`dplyr`](https://dplyr.tidyverse.org/), [`tidyr`](https://tidyr.tidyverse.org/), [`readr`](https://readr.tidyverse.org/), [`purrr`](https://purrr.tidyverse.org/), [`tibble`](https://tibble.tidyverse.org/), [`stringr`](https://stringr.tidyverse.org/) and [`forcats`](https://forcats.tidyverse.org/).
+    - When you *install* the `tidyverse` package, that also installs many additional non-core packages that need to be loaded on their own. These include: [`readxl`](https://readxl.tidyverse.org/), [`googlesheets4`](https://googlesheets4.tidyverse.org/), [`haven`](https://haven.tidyverse.org/), [`lubridate`](https://lubridate.tidyverse.org/) (which is, I believe, about to move to the core group), [`magrittr`](https://magrittr.tidyverse.org/) and [`glue`](https://github.com/tidyverse/glue) plus many more packages that I don't think we'll use this term.
+    - Visit [tidyverse.org](https://www.tidyverse.org/) and [R for Data Science](https://r4ds.had.co.nz/) for more details on the uses of these packages.
+8. One last batch of a dozen interesting or fun facts that you included in the [Welcome to 431 Survey](https://bit.ly/431-2022-welcome-survey).
     - I love folklore/mythology/fairy tales, and SCUBA diving.
     - I love to drive to discount furniture stores.
     - I sang at the Sistine Chapel.
