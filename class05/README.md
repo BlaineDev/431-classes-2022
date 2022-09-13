@@ -37,7 +37,7 @@ Chapter 3 on [Troubleshooting and asking for help](https://learnr.numbat.space/c
 7. **What does the tidyverse include?** 
     - The core packages in the `tidyverse` that load when you run `library(tidyverse)` are [`ggplot2`](https://ggplot2.tidyverse.org/), [`dplyr`](https://dplyr.tidyverse.org/), [`tidyr`](https://tidyr.tidyverse.org/), [`readr`](https://readr.tidyverse.org/), [`purrr`](https://purrr.tidyverse.org/), [`tibble`](https://tibble.tidyverse.org/), [`stringr`](https://stringr.tidyverse.org/) and [`forcats`](https://forcats.tidyverse.org/).
     - When you *install* the `tidyverse` package, that also installs many additional non-core packages that need to be loaded on their own. These include: [`readxl`](https://readxl.tidyverse.org/), [`googlesheets4`](https://googlesheets4.tidyverse.org/), [`haven`](https://haven.tidyverse.org/), [`lubridate`](https://lubridate.tidyverse.org/) (which is, I believe, about to move to the core group), [`magrittr`](https://magrittr.tidyverse.org/) and [`glue`](https://github.com/tidyverse/glue) plus many more packages that I don't think we'll use this term.
-    - Visit [tidyverse.org](https://www.tidyverse.org/) and [R for Data Science](https://r4ds.had.co.nz/) for more details on the uses of these packages.
+    - Visit [tidyverse.org](https://www.tidyverse.org/) and [R for Data Science](https://r4ds.hadley.nz/) for more details on the uses of these packages.
 8. One last batch of a dozen interesting or fun facts that you included in the [Welcome to 431 Survey](https://bit.ly/431-2022-welcome-survey).
     - I love folklore/mythology/fairy tales, and SCUBA diving.
     - I love to drive to discount furniture stores.
