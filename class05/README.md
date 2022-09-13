@@ -19,8 +19,9 @@ Class | HTML Link to Slides | Date | Quarto file (download) | Recording
     - You can work alone, or with one other person on Project A. If you work as a pair, you create one project together, and each of you receive the same grade.
     - You can *and should* get started on the [Data and Proposal](https://thomaselove.github.io/431-projectA-2022/) materials now. All of that work can (and should, ideally) be completed in September. The Analyses and Final Report will be done in October.
     - We'll give you a few minutes in Class 06 to chat with others and decide if you might like to work as partners.
-4. We have updated the [Lab 2 instructions (fixing the hint)](https://github.com/THOMASELOVE/431-labs-2022), and also the [templates for Labs 2 and 3](https://github.com/THOMASELOVE/431-data). Grab the latest versions to avoid some confusion. 
-5. One last batch of a dozen interesting or fun facts that you included in the [Welcome to 431 Survey](https://bit.ly/431-2022-welcome-survey).
+4. Detailed instructions for [Project B](https://thomaselove.github.io/431-projectA-2022/) are also now available, but I wouldn't think about that before you complete Project A in late October.
+5. We have updated the [Lab 2 instructions (fixing the hint)](https://github.com/THOMASELOVE/431-labs-2022), and also the [templates for Labs 2 and 3](https://github.com/THOMASELOVE/431-data) as well as added some materials for sample projects A and B to the [431-data page](https://github.com/THOMASELOVE/431-data). Grab the latest versions to avoid some confusion. 
+6. One last batch of a dozen interesting or fun facts that you included in the [Welcome to 431 Survey](https://bit.ly/431-2022-welcome-survey).
     - I love folklore/mythology/fairy tales, and SCUBA diving.
     - I love to drive to discount furniture stores.
     - I sang at the Sistine Chapel.
