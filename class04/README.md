@@ -8,7 +8,7 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 
 Class | HTML Link to Slides | Date | Quarto file (download) | Recording
 :---: | :------------: | :---: | :--------------: | :----: 
-04 | [Slides for Class 04](https://thomaselove.github.io/431-slides-2022/class04.html) | 2022-09-08 | [Quarto for Class 04 slides](https://thomaselove.github.io/431-slides-2022/class04.qmd) | To be posted.
+04 | [Slides for Class 04](https://thomaselove.github.io/431-slides-2022/class04.html) | 2022-09-08 | [Quarto for Class 04 slides](https://thomaselove.github.io/431-slides-2022/class04.qmd) | Posted to Zoom at [Canvas](https://canvas.case.edu).
 
 ## Quote of the Day
 
