@@ -26,6 +26,13 @@ Class | HTML Link to Slides | Date | Quarto file (download) | Recording
     - They can help with everything from homework assignments to competitive funding applications and even articles for publication. 
     - Some past PQHS students have attributed enormous improvement in their writing over the years to help they got from the WRC. 
 
+## What Should I Be Working On?
+
+1. This weekend would be a good time to [update your R packages](https://thomaselove.github.io/431-2022/software.html#updating-your-r-packages), and be sure you re-pull down the materials on our [431-data page](https://github.com/THOMASELOVE/431-data).
+2. Read Spiegelhalter through Chapter 2.
+3. Read through the [Project A instructions](https://thomaselove.github.io/431-projectA-2022/) and get started on selecting and cleaning your [Data](https://thomaselove.github.io/431-projectA-2022/data.html) so you can build your [Proposal](https://thomaselove.github.io/431-projectA-2022/proposal.html) in time for the early deadline on 2022-11-03 at noon you'll find in the [Calendar](https://thomaselove.github.io/431-2022/calendar.html).
+4. [Lab 02](https://github.com/THOMASELOVE/431-labs-2022) is due Monday 2022-09-26 at 9 PM. You should be mostly able to do this Lab, although completion of Lab 02 requires you to have read through Chapter 3 of Spiegelhalter's The Art of Statistics.
+
 ## Project A: Getting Started
 
 1. Remember that it is possible (but not in any way mandatory) to work with a partner on Project A. 
@@ -43,13 +50,6 @@ Class | HTML Link to Slides | Date | Quarto file (download) | Recording
 6. Now move on to the [Project A Proposal page](https://thomaselove.github.io/431-projectA-2022/proposal.html) and complete the requirements described there. 
     - Again, use the [Project A Proposal Example](https://thomaselove.github.io/431-projectA-2022/exampleA.html) as a template for your work.
 7. If you have questions, [visit TA office hours](https://thomaselove.github.io/431/contact.html) (ideally) or, if that's not possible, use the [projectA folder on Campuswire](https://campuswire.com/).
-
-## What Should I Be Working On?
-
-1. This weekend would be a good time to [update your R packages](https://thomaselove.github.io/431-2022/software.html#updating-your-r-packages), and be sure you re-pull down the materials on our [431-data page](https://github.com/THOMASELOVE/431-data).
-2. Read Spiegelhalter through Chapter 2.
-3. Read through the [Project A instructions](https://thomaselove.github.io/431-projectA-2022/) and get started on selecting and cleaning your [Data](https://thomaselove.github.io/431-projectA-2022/data.html) so you can build your [Proposal](https://thomaselove.github.io/431-projectA-2022/proposal.html) in time for the early deadline on 2022-11-03 at noon you'll find in the [Calendar](https://thomaselove.github.io/431-2022/calendar.html).
-4. [Lab 02](https://github.com/THOMASELOVE/431-labs-2022) is due Monday 2022-09-26 at 9 PM. You should be mostly able to do this Lab, although completion of Lab 02 requires you to have read through Chapter 3 of Spiegelhalter's The Art of Statistics.
 
 ## One Last Thing: On Writing Dates
 
