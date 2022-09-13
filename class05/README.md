@@ -12,7 +12,9 @@ Class | HTML Link to Slides | Date | Quarto file (download) | Recording
 
 ## Resource of the Day
 
-Chapter 3 on [Troubleshooting and asking for help](https://learnr.numbat.space/chapter3) from the good folks at [LearnR](https://learnr.numbat.space/) provides an interactive introduction to the topic. There's lots of great stuff at [LearnR](https://learnr.numbat.space/), including chapters on data wrangling, data visualization and linear regression, as well as the basics of R Markdown. I was alerted to this resource indirectly through [this tweet from Cynthia Huang](https://twitter.com/cynthiahqy/status/1559130278810886144?s=11&t=rxkhQ3svGtZ-SB_Qme248Q).
+Chapter 3 on [Troubleshooting and asking for help](https://learnr.numbat.space/chapter3) from the good folks at [LearnR](https://learnr.numbat.space/) provides an interactive introduction to the topic. There's lots of great stuff at [LearnR](https://learnr.numbat.space/), including chapters on [data wrangling](https://learnr.numbat.space/chapter5), [data visualization](https://learnr.numbat.space/chapter6) and [linear regression](https://learnr.numbat.space/chapter7), as well as the basics of [R Markdown](https://learnr.numbat.space/chapter8). 
+
+- I was alerted to this resource indirectly through [this tweet from Cynthia Huang](https://twitter.com/cynthiahqy/status/1559130278810886144?s=11&t=rxkhQ3svGtZ-SB_Qme248Q).
 
 ## Announcements
 
