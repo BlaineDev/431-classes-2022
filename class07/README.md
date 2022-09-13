@@ -17,3 +17,7 @@ To come.
 ## One Last Thing
 
 To come.
+
+## Theater
+
+Visit [my theater page](https://github.com/THOMASELOVE/theater) for information on the show (Something Rotten) I'm currently rehearsing, which will be presented October 28 - November 19.
