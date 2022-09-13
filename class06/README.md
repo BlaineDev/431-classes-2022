@@ -10,6 +10,10 @@ Class | HTML Link to Slides | Date | Quarto file (download) | Recording
 :---: | :------------: | :---: | :--------------: | :----: 
 06 | [Slides for Class 06](https://thomaselove.github.io/431-slides-2022/class06.html) | 2022-09-15 | [Quarto for Class 06 slides](https://thomaselove.github.io/431-slides-2022/class06.qmd) | Posted to Zoom at [Canvas](https://canvas.case.edu) ASAP.
 
+## Tweet of the Day
+
+![](https://github.com/THOMASELOVE/431-classes-2022/blob/main/class06/lukito_2020-09-07.png) [Link to tweet](https://twitter.com/JosephineLukito/status/1303081582492889088)
+
 ## Announcements
 
 1. Detailed instructions for [Project A](https://thomaselove.github.io/431-projectA-2022/) are [now available](https://thomaselove.github.io/431-projectA-2022/).
