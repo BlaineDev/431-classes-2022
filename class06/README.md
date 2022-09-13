@@ -21,7 +21,7 @@ Class | HTML Link to Slides | Date | Quarto file (download) | Recording
     - You can *and should* get started on the [Data and Proposal](https://thomaselove.github.io/431-projectA-2022/) materials now. All of that work can (and should, ideally) be completed in September. The Analyses and Final Report will be done in October.
     - We'll give you a few minutes **today** to chat with others and decide if you might like to work as partners.
 2. Feedback on the Minute Paper after Class 05 will be available by class time.
-3. The [Writing Resource Center is up and running again](https://case.edu/artsci/writing/resources/writing-center/online-tutoring)). 
+3. The [Writing Resource Center is up and running again](https://case.edu/artsci/writing/resources/writing-center/online-tutoring). 
     - The center’s team is available to help all undergraduate and graduate students, as well as faculty and staff, and both in-person and online appointments can be made by [going here](https://case.mywconline.com/). If you have questions, email them at `writingcenter` at `case` dot `edu`.
     - They can help with everything from homework assignments to competitive funding applications and even articles for publication. 
     - Some past PQHS students have attributed enormous improvement in their writing over the years to help they got from the WRC. 
