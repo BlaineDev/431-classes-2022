@@ -21,6 +21,11 @@ Class | HTML Link to Slides | Date | Quarto file (download) | Recording
     - You can *and should* get started on the [Data and Proposal](https://thomaselove.github.io/431-projectA-2022/) materials now. All of that work can (and should, ideally) be completed in September. The Analyses and Final Report will be done in October.
     - We'll give you a few minutes **today** to chat with others and decide if you might like to work as partners.
 2. Feedback on the Minute Paper after Class 05 will be available by class time.
+3. The [Writing Resource Center is up and running again](https://thedaily.case.edu/get-assistance-from-the-writing-resource-center-2/). 
+    - The center’s team is available to help all undergraduate and graduate students, as well as faculty and staff, and both in-person and online appointments can be made by [going here](https://case.mywconline.com/). If you have questions, email them at `writingcenter` at `case` dot `edu`.
+    - They can help with everything from homework assignments to competitive funding applications and even articles for publication. 
+    - Some past PQHS students have attributed enormous improvement in their writing over the years to help they got from the WRC. 
+4. 
 
 ## What Should I Be Working On?
 
@@ -29,6 +34,7 @@ Class | HTML Link to Slides | Date | Quarto file (download) | Recording
 3. Read through the [Project A instructions](https://thomaselove.github.io/431-projectA-2022/) and get started on selecting and cleaning your [Data](https://thomaselove.github.io/431-projectA-2022/data.html) so you can build your [Proposal](https://thomaselove.github.io/431-projectA-2022/proposal.html) in time for the early deadline on 2022-11-03 at noon you'll find in the [Calendar](https://thomaselove.github.io/431-2022/calendar.html).
 4. [Lab 02](https://github.com/THOMASELOVE/431-labs-2022) is due Monday 2022-09-26 at 9 PM. You should be mostly able to do this Lab, although completion of Lab 02 requires you to have read through Chapter 3 of Spiegelhalter's The Art of Statistics.
 
-## One Last Thing
+## One Last Thing: On Writing Dates
 
-To come.
+![](https://imgs.xkcd.com/comics/iso_8601.png) [Link at XKCD](https://xkcd.com/1179)
+
