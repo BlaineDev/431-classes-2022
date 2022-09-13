@@ -17,7 +17,7 @@ Class | HTML Link to Slides | Date | Quarto file (download) | Recording
 ## Announcements
 
 1. Detailed instructions for [Project A](https://thomaselove.github.io/431-projectA-2022/) are [now available](https://thomaselove.github.io/431-projectA-2022/).
-    - You can *and should* get started on the [Data and Proposal](https://thomaselove.github.io/431-projectA-2022/) materials now. All of that work can (and should, ideally) be completed in September. The Analyses and Final Report will be done in October.
+    - You can *and should* get started on the [Data and Proposal](https://thomaselove.github.io/431-projectA-2022/) materials now. All of that work can (and should, ideally) be completed in September. The Analyses and Final Report will be done in October. See my comments below on how to get started.
     - You can work alone, or with one other person on Project A. If you work as a pair, you create one project together, and each of you receive the same grade.
     - We'll give you a few minutes **today** to chat with others and decide if you might like to work as partners.
 2. Feedback on the Minute Paper after Class 05 will be available by class time.
