@@ -10,7 +10,8 @@ Class | HTML Link to Slides | Date | Quarto file (download) | Recording
 :---: | :------------: | :---: | :--------------: | :----: 
 05 | [Slides for Class 05](https://thomaselove.github.io/431-slides-2022/class05.html) | 2022-09-13 | [Quarto for Class 05 slides](https://thomaselove.github.io/431-slides-2022/class05.qmd) | Posted to Zoom at [Canvas](https://canvas.case.edu) ASAP.
 
-Note that today's slides are extra large, and will be used again in [Class 06](https://github.com/THOMASELOVE/431-classes-2022/tree/main/class06).
+- Note that today's slides are extra large, and will be used again in [Class 06](https://github.com/THOMASELOVE/431-classes-2022/tree/main/class06).
+- Today's slides use some material from [Allison Horst's Stats Illustrations](https://github.com/allisonhorst/stats-illustrations).
 
 ## Resource of the Day
 
