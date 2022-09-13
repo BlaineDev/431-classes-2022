@@ -16,7 +16,7 @@ Class | HTML Link to Slides | Date | Quarto file (download) | Recording
 2. An answer sketch (including grading rubric) for [Lab 01](https://github.com/THOMASELOVE/431-labs-2022#answer-sketches-and-grading-rubrics) is now available on our Shared Google Drive. 
     - Grades and the videos you developed for Question 1 should be available next Tuesday 2022-09-20.
 3. Detailed instructions for [Project A](https://thomaselove.github.io/431-projectA-2022/) are [now available](https://thomaselove.github.io/431-projectA-2022/).
-    - Project A is the first of two real data science projects you’ll be doing this semester. For Project A, Professor Love will give you a lot of information but less flexibility than you’ll have in Project B. In particular, you’ll each be working with part of the same data set (the County Health Rankings 2022 data.) 
+    - Project A is the first of two real data science projects you’ll be doing this semester. In Project A, you’ll each work with part of the [County Health Rankings 2022](https://www.countyhealthrankings.org/2022-measures) data. 
     - You can *and should* get started on the [Data and Proposal](https://thomaselove.github.io/431-projectA-2022/) materials now. All of that work can (and should, ideally) be completed in September. The Analyses and Final Report will be done in October.
     - Note that Dr. Love has provided you with a [Sample Proposal](https://thomaselove.github.io/431-projectA-2022/exampleA.html) to help you get started.
     - You can work alone, or with one other person on Project A. If you work as a pair, you create one project together, and each of you receive the same grade.
