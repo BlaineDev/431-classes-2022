@@ -10,6 +10,8 @@ Class | HTML Link to Slides | Date | Quarto file (download) | Recording
 :---: | :------------: | :---: | :--------------: | :----: 
 05 | [Slides for Class 05](https://thomaselove.github.io/431-slides-2022/class05.html) | 2022-09-13 | [Quarto for Class 05 slides](https://thomaselove.github.io/431-slides-2022/class05.qmd) | Posted to Zoom at [Canvas](https://canvas.case.edu) ASAP.
 
+Note that today's slides are extra large, and will be used again in [Class 06](https://github.com/THOMASELOVE/431-classes-2022/tree/main/class06).
+
 ## Resource of the Day
 
 Chapter 3 on [Troubleshooting and asking for help](https://learnr.numbat.space/chapter3) from the good folks at [LearnR](https://learnr.numbat.space/) provides an interactive introduction to the topic. There's lots of great stuff at [LearnR](https://learnr.numbat.space/), including chapters on [data wrangling](https://learnr.numbat.space/chapter5), [data visualization](https://learnr.numbat.space/chapter6) and [linear regression](https://learnr.numbat.space/chapter7), as well as the basics of [R Markdown](https://learnr.numbat.space/chapter8). 
