@@ -12,6 +12,7 @@ Class | HTML Link to Slides | Date | Quarto file (download) | Recording
 
 - Note that today's slides are extra large, and will be used again in [Class 06](https://github.com/THOMASELOVE/431-classes-2022/tree/main/class06).
 - Today's slides use some material from [Allison Horst's Stats Illustrations](https://github.com/allisonhorst/stats-illustrations).
+- The `dm_431.csv` data are now available on our [431-data page](https://github.com/THOMASELOVE/431-data) and also in the [data folder for Class 05](https://github.com/THOMASELOVE/431-classes-2022/tree/main/class05/data)
 
 ## Resource of the Day
 
