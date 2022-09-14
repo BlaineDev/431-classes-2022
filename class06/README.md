@@ -16,7 +16,7 @@ Class | HTML Link to Slides | Date | Quarto file (download) | Recording
 
 ## Announcements
 
-1. Note that I revised the slides for Classes 05 and 06 a bit, and we'll discuss that today. I also posted the `dm431.csv` file to our [431-data page] and to the data folder on this Class 06 page. 
+1. Note that I revised the slides for Classes 05 and 06 a bit, and we'll discuss that today. I also posted the `dm431.csv` file to our [431-data page](https://github.com/THOMASELOVE/431-data) and to the [data folder on this Class 06 page](https://github.com/THOMASELOVE/431-classes-2022/tree/main/class06/data). 
 2. Feedback on the Minute Paper after Class 05 will be available **by class time**.
 3. The [Writing Resource Center is up and running again](https://case.edu/artsci/writing/resources/writing-center/online-tutoring). 
     - The center’s team is available to help all undergraduate and graduate students, as well as faculty and staff, and both in-person and online appointments can be made by [going here](https://case.mywconline.com/). If you have questions, email them at `writingcenter` at `case` dot `edu`.
