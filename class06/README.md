@@ -10,9 +10,9 @@ Class | HTML Link to Slides | Date | Quarto file (download) | Recording
 :---: | :------------: | :---: | :--------------: | :----: 
 06 | [Slides for Class 06](https://thomaselove.github.io/431-slides-2022/class06.html) | 2022-09-15 | [Quarto for Class 06 slides](https://thomaselove.github.io/431-slides-2022/class06.qmd) | Posted to Zoom at [Canvas](https://canvas.case.edu) ASAP.
 
-## Tweet of the Day
+## On Writing Dates
 
-![](https://github.com/THOMASELOVE/431-classes-2022/blob/main/class06/lukito_2020-09-07.png) [Link to tweet](https://twitter.com/JosephineLukito/status/1303081582492889088)
+![](https://imgs.xkcd.com/comics/iso_8601.png) [Link at XKCD](https://xkcd.com/1179)
 
 ## Announcements
 
@@ -58,7 +58,7 @@ As you know, detailed instructions for [Project A](https://thomaselove.github.io
 3. Read through the [Project A instructions](https://thomaselove.github.io/431-projectA-2022/) and get started on selecting and cleaning your [Data](https://thomaselove.github.io/431-projectA-2022/data.html) so you can build your [Proposal](https://thomaselove.github.io/431-projectA-2022/proposal.html) in time for the early deadline on 2022-11-03 at noon you'll find in the [Calendar](https://thomaselove.github.io/431-2022/calendar.html).
 4. [Lab 02](https://github.com/THOMASELOVE/431-labs-2022) is due Monday 2022-09-26 at 9 PM. You should be mostly able to do this Lab, although completion of Lab 02 requires you to have read through Chapter 3 of Spiegelhalter's The Art of Statistics.
 
-## One Last Thing: On Writing Dates
+## One Last Thing: Tweet of the Day
 
-![](https://imgs.xkcd.com/comics/iso_8601.png) [Link at XKCD](https://xkcd.com/1179)
+![](https://github.com/THOMASELOVE/431-classes-2022/blob/main/class06/lukito_2020-09-07.png) [Link to tweet](https://twitter.com/JosephineLukito/status/1303081582492889088)
 
