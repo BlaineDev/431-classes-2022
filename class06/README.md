@@ -6,9 +6,9 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 
 ## Today's Slides
 
-Class | HTML Link to Slides | Date | Quarto file (download) | Recording
-:---: | :------------: | :---: | :--------------: | :----: 
-06 | [Slides for Class 06](https://thomaselove.github.io/431-slides-2022/class06.html) | 2022-09-15 | [Quarto for Class 06 slides](https://thomaselove.github.io/431-slides-2022/class06.qmd) | Posted to Zoom at [Canvas](https://canvas.case.edu) ASAP.
+Class | HTML Link to Slides | Date | Quarto file (download) | PDF (experimental) | Recording
+:---: | :------------: | :---: | :--------------: | :------: | :---------: 
+06 | [Slides for Class 06](https://thomaselove.github.io/431-slides-2022/class06.html) | 2022-09-15 | [Quarto for Class 06 slides](https://thomaselove.github.io/431-slides-2022/class06.qmd) | [Class 06 slides](https://github.com/THOMASELOVE/431-classes-2022/blob/main/class06/431%20Class%2006.pdf) | Posted to Zoom at [Canvas](https://canvas.case.edu) ASAP.
 
 ## On Writing Dates
 
