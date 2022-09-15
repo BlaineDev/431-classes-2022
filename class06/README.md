@@ -18,10 +18,10 @@ Class | HTML Link to Slides | Date | Quarto file (download) | PDF (experimental)
 
 ## Announcements
 
-1. Note that I revised the slides for Classes 05 and 06 a bit, and we'll discuss that today. 
+1. Note that I revised the slides for Classes 05 and 06 a bit (reposting them in both places), and we'll discuss that today. 
     - I also posted the `dm431.csv` file to our [431-data page](https://github.com/THOMASELOVE/431-data) and to the [data folder on this Class 06 page](https://github.com/THOMASELOVE/431-classes-2022/tree/main/class06/data). 
 2. Feedback on the Minute Paper after Class 05 [is now available](https://bit.ly/431-2022-min05-feedback).
-3. The [Writing Resource Center is up and running again](https://case.edu/artsci/writing/resources/writing-center/online-tutoring). 
+3. CWRU's [Writing Resource Center should be up and running again](https://case.edu/artsci/writing/resources/writing-center/online-tutoring). 
     - The center’s team is available to help all undergraduate and graduate students, as well as faculty and staff, and both in-person and online appointments can be made by [going here](https://case.mywconline.com/). If you have questions, email them at `writingcenter` at `case` dot `edu`.
     - They can help with everything from homework assignments to competitive funding applications and even articles for publication. 
     - Some past PQHS students have attributed enormous improvement in their writing over the years to help they got from the WRC. 
