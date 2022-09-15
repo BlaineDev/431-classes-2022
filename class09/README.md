@@ -6,12 +6,9 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 
 ## Today's Slides
 
-Class | HTML Link to Slides | Date | Quarto file (download) | Recording
-:---: | :------------: | :---: | :--------------: | :----: 
-09 | [Slides for Class 09](https://thomaselove.github.io/431-slides-2022/class09.html) | 2022-09-27 | [Quarto for Class 09 slides](https://thomaselove.github.io/431-slides-2022/class09.qmd) | Posted to Zoom at [Canvas](https://canvas.case.edu) when available.
-
-To print our RevealJS slides to pdf from the HTML Link, [follow these instructions](https://quarto.org/docs/presentations/revealjs/presenting.html#print-to-pdf) using Google Chrome as your browser.
-
+Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
+:---: | :--------: | :------: | :------: | :--------: | :-------------:
+09 | 2022-09-27 | **[Slides 09](https://thomaselove.github.io/431-slides-2022/class09.html)** | [Code 09](https://thomaselove.github.io/431-slides-2022/class09.qmd) | [PDF 09](431%20Class%2009.pdf) | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
 ## Announcements
 
