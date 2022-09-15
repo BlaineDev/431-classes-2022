@@ -10,6 +10,8 @@ Class | HTML Link to Slides | Date | Quarto file (download) | Recording
 :---: | :------------: | :---: | :--------------: | :----: 
 04 | [Slides for Class 04](https://thomaselove.github.io/431-slides-2022/class04.html) | 2022-09-08 | [Quarto for Class 04 slides](https://thomaselove.github.io/431-slides-2022/class04.qmd) | Posted to Zoom at [Canvas](https://canvas.case.edu).
 
+*To print our RevealJS (HTML) slides to pdf*, [follow these instructions](https://quarto.org/docs/presentations/revealjs/presenting.html#print-to-pdf) using Google Chrome as your browser.
+
 ## Quote of the Day
 
 > We also seem to be wired to jump to conclusions on the basis of small amounts of information. Ultimately I guess it comes back to the fact that the world is more complicated than any of us are capable of understanding. (Bill James)
