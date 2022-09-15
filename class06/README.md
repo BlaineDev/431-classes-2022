@@ -58,7 +58,7 @@ As you know, detailed instructions for [Project A](https://thomaselove.github.io
 
 1. This weekend would be a good time to [update your R packages](https://thomaselove.github.io/431-2022/software.html#updating-your-r-packages), and be sure you re-pull down the materials on our [431-data page](https://github.com/THOMASELOVE/431-data).
 2. Read Spiegelhalter through Chapter 2.
-3. Read through the [Project A instructions](https://thomaselove.github.io/431-projectA-2022/) and get started on selecting and cleaning your [Data](https://thomaselove.github.io/431-projectA-2022/data.html) so you can build your [Proposal](https://thomaselove.github.io/431-projectA-2022/proposal.html) in time for the early deadline on 2022-11-03 at noon you'll find in the [Calendar](https://thomaselove.github.io/431-2022/calendar.html).
+3. Read through the [Project A instructions](https://thomaselove.github.io/431-projectA-2022/) and get started on selecting and cleaning your [Data](https://thomaselove.github.io/431-projectA-2022/data.html) so you can build your [Proposal](https://thomaselove.github.io/431-projectA-2022/proposal.html) in time for the early deadline on 2022-10-03 at noon you'll find in the [Calendar](https://thomaselove.github.io/431-2022/calendar.html).
 4. [Lab 02](https://github.com/THOMASELOVE/431-labs-2022) is due Monday 2022-09-26 at 9 PM. You should be mostly able to do this Lab now, although completion of Lab 02 requires you to have read through Chapter 3 of Spiegelhalter's The Art of Statistics.
 
 ## One Last Thing: Tweet of the Day
