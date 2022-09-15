@@ -22,6 +22,8 @@ Class | HTML Link to Slides | Date | Quarto file (download) | Access a Recording
 - The **HTML Link to Slides** provides the version of the slides I suggest you focus on during class.
 - The Quarto file links provide the code I used (in [Quarto](https://quarto.org/)) to build the slides.
 
+*To print our RevealJS (HTML) slides to pdf*, [follow these instructions](https://quarto.org/docs/presentations/revealjs/presenting.html#print-to-pdf) using Google Chrome as your browser.
+
 ## Announcements
 
 1. Thank you to the 48 of you who've completed the [Welcome to 431 Survey](https://bit.ly/431-2022-welcome-survey) (as of 12:49 PM today.) 
