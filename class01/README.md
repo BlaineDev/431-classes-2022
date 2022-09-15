@@ -22,7 +22,7 @@ Class | HTML Link to Slides | Date | Quarto file (download) | Access a Recording
 - The **HTML Link to Slides** provides the version of the slides I suggest you focus on during class.
 - The Quarto file links provide the code I used (in [Quarto](https://quarto.org/)) to build the slides.
 
-*To print our RevealJS (HTML) slides to pdf*, [follow these instructions](https://quarto.org/docs/presentations/revealjs/presenting.html#print-to-pdf) using Google Chrome as your browser.
+To print our RevealJS slides to pdf from the HTML Link, [follow these instructions](https://quarto.org/docs/presentations/revealjs/presenting.html#print-to-pdf) using Google Chrome as your browser.
 
 ## Announcements
 
