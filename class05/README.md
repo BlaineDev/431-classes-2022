@@ -6,16 +6,18 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 
 ## Today's Slides
 
-Class | HTML Link to Slides | Date | Quarto file (download) | Recording
-:---: | :------------: | :---: | :--------------: | :----: 
-05 | [Slides for Class 05](https://thomaselove.github.io/431-slides-2022/class05.html) | 2022-09-13 | [Quarto for Class 05 slides](https://thomaselove.github.io/431-slides-2022/class05.qmd) | Posted to Zoom at [Canvas](https://canvas.case.edu).
+Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
+:---: | :--------: | :------: | :------: | :--------: | :-------------:
+05 | 2022-09-13 | **[Slides 05 (& 06)](https://thomaselove.github.io/431-slides-2022/class05.html)** | [Code 05 (& 06)](https://thomaselove.github.io/431-slides-2022/class05.qmd) | [PDF 05 (& 06)](431%20Class%2005%20(and%2006).pdf) | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
-- Note that today's slides are extra large, and will be used again in [Class 06](https://github.com/THOMASELOVE/431-classes-2022/tree/main/class06). 
-- The slides posted here and the slides posted for Class 06 were revised after Class 05 and are now identical, except for the date.
+- The **Reveal JS (HTML) Slides** link provides the version of the slides (in HTML) that I suggest you focus on during class.
+- The Quarto file links provide the code I used (in [Quarto](https://quarto.org/)) to build the slides.
+- The PDF file is a nearly-complete version of the posted HTML slides in a possibly more useful format. To print RevealJS slides to pdf from the HTML Link, [follow these instructions](https://quarto.org/docs/presentations/revealjs/presenting.html#print-to-pdf) using Google Chrome as your browser.
+
+Note that today's slides are extra large, and will be used again in [Class 06](https://github.com/THOMASELOVE/431-classes-2022/tree/main/class06). The slides posted here and the slides posted for Class 06 were revised after Class 05 and are now identical, except for the date.
+
 - Today's slides use some material from [Allison Horst's Stats Illustrations](https://github.com/allisonhorst/stats-illustrations).
 - The `dm_431.csv` data are now available on our [431-data page](https://github.com/THOMASELOVE/431-data) and also in the [data folder for Class 05](https://github.com/THOMASELOVE/431-classes-2022/tree/main/class05/data)
-
-To print our RevealJS slides to pdf from the HTML Link, [follow these instructions](https://quarto.org/docs/presentations/revealjs/presenting.html#print-to-pdf) using Google Chrome as your browser.
 
 ## Resource of the Day
 
