@@ -14,6 +14,8 @@ Class | HTML Link to Slides | Date | Quarto file (download) | Recording
 - Today's slides use some material from [Allison Horst's Stats Illustrations](https://github.com/allisonhorst/stats-illustrations).
 - The `dm_431.csv` data are now available on our [431-data page](https://github.com/THOMASELOVE/431-data) and also in the [data folder for Class 05](https://github.com/THOMASELOVE/431-classes-2022/tree/main/class05/data)
 
+*To print our RevealJS (HTML) slides to pdf*, [follow these instructions](https://quarto.org/docs/presentations/revealjs/presenting.html#print-to-pdf) using Google Chrome as your browser.
+
 ## Resource of the Day
 
 Chapter 3 on [Troubleshooting and asking for help](https://learnr.numbat.space/chapter3) from the good folks at [LearnR](https://learnr.numbat.space/) provides an interactive introduction to the topic. There's lots of great stuff at [LearnR](https://learnr.numbat.space/), including chapters on [data wrangling](https://learnr.numbat.space/chapter5), [data visualization](https://learnr.numbat.space/chapter6) and [linear regression](https://learnr.numbat.space/chapter7), as well as the basics of [R Markdown](https://learnr.numbat.space/chapter8). 
