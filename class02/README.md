@@ -21,6 +21,8 @@ Class | HTML Link to Slides | Date | Quarto file (download) | Recording
 :---: | :------------: | :---: | :--------------: | :----:
 02 | [Slides for Class 02](https://thomaselove.github.io/431-slides-2022/class02.html) | 2022-09-01 | [Quarto for Class 02 slides](https://thomaselove.github.io/431-slides-2022/class02.qmd) | Posted to Zoom at [Canvas](https://canvas.case.edu).
 
+*To print our RevealJS (HTML) slides to pdf*, [follow these instructions](https://quarto.org/docs/presentations/revealjs/presenting.html#print-to-pdf) using Google Chrome as your browser.
+
 ## Announcements
 
 1. Since we weren't able to record Class 01, I created a brief summary recording (5-6 minutes long) which you can watch, listen to, or download by visiting [Canvas](https://canvas.case.edu) and then selecting **Zoom**, then **Cloud Recordings** and selecting the Class 01 Summary recording.
