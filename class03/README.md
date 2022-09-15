@@ -6,11 +6,13 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 
 ## Today's Slides
 
-Class | HTML Link to Slides | Date | Quarto file (download) | Recording
-:---: | :------------: | :---: | :--------------: | :----:
-03 | [Slides for Class 03](https://thomaselove.github.io/431-slides-2022/class03.html) | 2022-09-06 | [Quarto for Class 03 slides](https://thomaselove.github.io/431-slides-2022/class03.qmd) | Posted to Zoom at [Canvas](https://canvas.case.edu).
+Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
+:---: | :--------: | :------: | :------: | :--------: | :-------------:
+03 | 2022-09-06 | **[Slides 03](https://thomaselove.github.io/431-slides-2022/class03.html)** | [Code 03](https://thomaselove.github.io/431-slides-2022/class03.qmd) | [PDF 03](431%20Class%2003.pdf) | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
-To print our RevealJS slides to pdf from the HTML Link, [follow these instructions](https://quarto.org/docs/presentations/revealjs/presenting.html#print-to-pdf) using Google Chrome as your browser.
+- The **Reveal JS (HTML) Slides** link provides the version of the slides (in HTML) that I suggest you focus on during class.
+- The Quarto file links provide the code I used (in [Quarto](https://quarto.org/)) to build the slides.
+- The PDF file is a nearly-complete version of the posted HTML slides in a possibly more useful format. To print RevealJS slides to pdf from the HTML Link, [follow these instructions](https://quarto.org/docs/presentations/revealjs/presenting.html#print-to-pdf) using Google Chrome as your browser.
 
 ### Extra Materials for Class 03 found in the [data folder](https://github.com/THOMASELOVE/431-classes-2022/tree/main/class03/data)
 
