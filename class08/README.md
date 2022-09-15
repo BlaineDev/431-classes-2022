@@ -10,7 +10,8 @@ Class | HTML Link to Slides | Date | Quarto file (download) | Recording
 :---: | :------------: | :---: | :--------------: | :----: 
 08 | [Slides for Class 08](https://thomaselove.github.io/431-slides-2022/class08.html) | 2022-09-22 | [Quarto for Class 08 slides](https://thomaselove.github.io/431-slides-2022/class08.qmd) | Posted to Zoom at [Canvas](https://canvas.case.edu) when available.
 
-*To print our RevealJS (HTML) slides to pdf*, [follow these instructions](https://quarto.org/docs/presentations/revealjs/presenting.html#print-to-pdf) using Google Chrome as your browser.
+To print our RevealJS slides to pdf from the HTML Link, [follow these instructions](https://quarto.org/docs/presentations/revealjs/presenting.html#print-to-pdf) using Google Chrome as your browser.
+
 
 ## Announcements
 
