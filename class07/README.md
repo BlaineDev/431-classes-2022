@@ -25,7 +25,7 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
     - To visit the 431 Grades Roster, check our Shared Google Drive, or simply visit https://bit.ly/431-grades-2022. 
     - Use your Lab Code to identify your feedback. 
     - What you'll find there at the moment are grades and feedback on Lab 1, as well as our records of your grades on the Welcome to 431 survey, and the first two Minute Papers.
-    - Be sure to review the [Lab Regrade Request Policy](https://github.com/THOMASELOVE/431-labs-2022/blob/main/README.md#lab-regrade-requests-will-be-reviewed-in-december) if you have questions about your grade on Lab 1.
+    - Please review the [Lab Regrade Request Policy](https://github.com/THOMASELOVE/431-labs-2022/blob/main/README.md#lab-regrade-requests-will-be-reviewed-in-december) if you have questions about your grade on Lab 1.
 
 ## One Last Thing
 
