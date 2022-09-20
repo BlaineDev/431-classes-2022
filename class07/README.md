@@ -18,7 +18,7 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 
 1. There is a [Minute Paper after Class 07](https://bit.ly/431-2022-min-07) due Wednesday 2022-09-21 (tomorrow) at noon.
 2. [Lab 02](https://github.com/THOMASELOVE/431-labs-2022) is due Monday 2022-09-26 at 9 PM. You'll want to have read Spiegelhalter through Chapter 3.
-3. I've revised the slides used in Classes 05 and 06 again to fix a non-critical typo.
+3. I've revised the slides used in Classes 05 and 06 slightly to fix a non-critical typo.
 4. I've changed the "Today's Slides" section in each README to include a PDF of the slides.
 5. I hope you've begun your [Project A](https://thomaselove.github.io/431-projectA-2022) data and proposal work.
 6. You should have received your 431 **Lab Code** in an email from Dr. Love this morning (2022-09-20). 
