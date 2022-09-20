@@ -22,14 +22,27 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 4. I've changed the "Today's Slides" section in each README to include a PDF of the slides.
 5. I hope you've begun your [Project A](https://thomaselove.github.io/431-projectA-2022) data and proposal work.
 6. You should have received your 431 **Lab Code** in an email from Dr. Love this morning (2022-09-20). 
-    - To visit the 431 Grades Roster, check our Shared Google Drive, or simply visit https://bit.ly/431-grades-2022. 
-    - Use your Lab Code to identify your feedback. 
-    - What you'll find there at the moment are grades and feedback on Lab 1, as well as our records of your grades on the Welcome to 431 survey, and the first two Minute Papers.
-    - Please review the [Lab Regrade Request Policy](https://github.com/THOMASELOVE/431-labs-2022/blob/main/README.md#lab-regrade-requests-will-be-reviewed-in-december) if you have questions about your grade on Lab 1.
+    - To visit the 431 Grades Roster, check our Shared Google Drive, or simply visit https://bit.ly/431-grades-2022. Use your Lab Code to identify your feedback. 
+    - What you'll find there at the moment are grades and feedback on Lab 1, as well as our records of your grades on the Welcome to 431 survey, and the first two Minute Papers. Please review the [Lab Regrade Request Policy](https://github.com/THOMASELOVE/431-labs-2022/blob/main/README.md#lab-regrade-requests-will-be-reviewed-in-december) if you have questions about your grade on Lab 1.
+    - If you haven't received your 431 Lab Code, contact Dr. Love via email today for a replacement.
 
 ## One Last Thing
 
-To come.
+The American Statistical Association and The New York Times have an ongoing collaboration entitled "[What's Going On In This Graph?](https://www.nytimes.com/column/whats-going-on-in-this-graph)" which is a great way to force yourself to think through some interesting visualization challenges and get a bit inspired. The most recent one (2022-09-21) is about [climate change in the Southwest United States](https://www.nytimes.com/2022/09/15/learning/whats-going-on-in-this-graph-sept-21-2022.html).
+
+Here's one I particularly liked [from 2017-10-10](https://www.nytimes.com/2017/10/09/learning/whats-going-on-in-this-graph-oct-10-2017.html):
+
+![](https://github.com/THOMASELOVE/431-classes-2022/blob/main/class07/nyt_2017-10-10.png)
+
+### Questions we might ask here...
+
+1. What do the axis labels tell us about what is being shown?
+2. How would you describe the relationship between the variables under study?
+3. What does the diagonal line indicate about the pattern?
+4. What characterizes the foods (granola, coconut oil, granola bats and frozen yogurt, for example) which appear in the lower right portion of the graph?
+5. What are the most unusual foods in terms of their position in the plot?
+6. Do these results surprise you or confirm your prior beliefs about the phenomena under study?
+7. Is there anything else worth noting about the graph?
 
 ## Theater
 
