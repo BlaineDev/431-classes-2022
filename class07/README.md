@@ -23,7 +23,7 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 5. I hope you've begun your [Project A](https://thomaselove.github.io/431-projectA-2022) data and proposal work.
 6. You should have received your 431 **Lab Code** in an email from Dr. Love this morning (2022-09-20). 
     - To visit the 431 Grades Roster, check our Shared Google Drive, or simply visit https://bit.ly/431-grades-2022. Use your Lab Code to identify your feedback. 
-    - What you'll find there at the moment are grades and feedback on Lab 1, as well as our records of your grades on the Welcome to 431 survey, and the first two Minute Papers. Please review the [Lab Regrade Request Policy](https://github.com/THOMASELOVE/431-labs-2022/blob/main/README.md#lab-regrade-requests-will-be-reviewed-in-december) if you have questions about your grade on Lab 1.
+    - What you'll find there at the moment are grades and feedback on Lab 1, as well as our records of your grades on the Welcome to 431 survey, and the first two Minute Papers. Please review the [Lab Regrade Request Policy](https://github.com/THOMASELOVE/431-labs-2022/blob/main/README.md#lab-regrade-requests-will-be-reviewed-in-december) if you have questions about your grade.
     - If you haven't received your 431 Lab Code, contact Dr. Love via email today for a replacement.
 
 ## One Last Thing
