@@ -17,7 +17,8 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 
 ## Announcements
 
-To come.
+1. I corrected a typo (I had 2021, when I meant 2022) in the Lab 02 instructions on Wednesday 2022-09-21. The Lab is still due Monday at 9 PM.
+2. Feedback on the Minute Paper after Class 07 will be available by class time.
 
 ## One Last Thing
 
