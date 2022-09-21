@@ -14,11 +14,14 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 - The Quarto file links provide the code I used (in [Quarto](https://quarto.org/)) to build the slides.
 - The PDF file is a nearly-complete version of the posted HTML slides in a possibly more useful format. To print RevealJS slides to pdf from the HTML Link, [follow these instructions](https://quarto.org/docs/presentations/revealjs/presenting.html#print-to-pdf) using Google Chrome as your browser.
 
-
 ## Announcements
 
-1. I corrected a typo (I had 2021, when I meant 2022) in the Lab 02 instructions on Wednesday 2022-09-21. The Lab is still due Monday at 9 PM.
-2. Feedback on the Minute Paper after Class 07 will be available by class time.
+1. Is it possible to turn off the lights directly above the screen? Let's **give it a try**.
+2. I corrected a typo (I had 2021, when I meant 2022) in the [Lab 02 instructions pdf](https://github.com/THOMASELOVE/431-labs-2022/blob/main/lab02.pdf) on Wednesday 2022-09-21. The Lab is still due Monday at 9 PM.
+3. [Feedback on the Minute Paper after Class 07](https://bit.ly/431-2022-min07-feedback) is now available. Thank you all for completing this on time, and thanks again to those of you who said nice things about the course so far. I appreciate it.
+4. **Looking for a Project A partner?** I posted a pinned note to Campuswire, where you can add your name to the Comments if you're still looking for a Project A partner, and (I hope) also identify other people looking for a partner from the list, once people add their name to it.
+5. Link to [RStudio's Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)
+6. I shared a couple of the many nice essays written in response to Questions 2 and 3 from Lab 01 on our Shared Drive, in the Lab Sketches and Rubrics |> Lab 01 folder. Thanks to the (unnamed here) authors.
 
 ## One Last Thing
 
