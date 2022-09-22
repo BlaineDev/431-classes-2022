@@ -17,7 +17,7 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 ## Announcements
 
 1. Is it possible to turn off the lights directly above the screen? Let's **give it a try**.
-2. I corrected a typo (I had 2021, when I meant 2022) in the [Lab 02 instructions pdf](https://github.com/THOMASELOVE/431-labs-2022/blob/main/lab02.pdf) on Wednesday 2022-09-21. The Lab is still due Monday at 9 PM.
+2. I corrected a typo (I had 2021, when I meant 2022) in the [Lab 02 instructions pdf](https://github.com/THOMASELOVE/431-labs-2022/blob/main/lab02.pdf) on Wednesday 2022-09-21. 
 3. [Feedback on the Minute Paper after Class 07](https://bit.ly/431-2022-min07-feedback) is now available. Thank you all for completing this on time, and thanks again to those of you who said nice things about the course so far. I appreciate it.
 4. **Looking for a Project A partner?** I posted a pinned note to Campuswire, where you can add your name to the Comments if you're still looking for a Project A partner, and (I hope) also identify other people looking for a partner from the list, once people add their name to it.
 5. Link to [RStudio's Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)
