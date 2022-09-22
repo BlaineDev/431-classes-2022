@@ -26,10 +26,11 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 ## What Should I Be Working On?
 
 1. Read Chapter 3 (Why are we looking at data anyway? Populations and measurement) of Spiegelhalter.
-2. [Lab 02](https://github.com/THOMASELOVE/431-labs-2022), due Monday at 9 PM.
-3. Work on selecting and cleaning [your data for Project A](https://thomaselove.github.io/431-projectA-2022/data.html), and then move on to building the [Project A proposal](https://thomaselove.github.io/431-projectA-2022/proposal.html) (early deadline: 2022-10-03 at Noon.)
-4. You should also be able to do most of [Lab 03](https://github.com/THOMASELOVE/431-labs-2022) at this point, which is also due Monday 2022-10-03, but at 9 PM. You'll need to have read Chapter 4 of Spiegelhalter.
-5. If you haven't recently [updated your R packages](https://thomaselove.github.io/431-2022/software.html#updating-your-r-packages), now would be a good time.
+2. Read the Minute Paper and Lab 1 feedback provided this week.
+3. [Lab 02](https://github.com/THOMASELOVE/431-labs-2022), due Monday at 9 PM.
+4. Work on selecting and cleaning [your data for Project A](https://thomaselove.github.io/431-projectA-2022/data.html), and then move on to building the [Project A proposal](https://thomaselove.github.io/431-projectA-2022/proposal.html) (early deadline: 2022-10-03 at Noon.)
+5. You should also be able to do most of [Lab 03](https://github.com/THOMASELOVE/431-labs-2022) at this point, which is also due Monday 2022-10-03, but at 9 PM. You'll need to have read Chapter 4 of Spiegelhalter.
+6. If you haven't recently [updated your R packages](https://thomaselove.github.io/431-2022/software.html#updating-your-r-packages), now would be a good time.
 
 ## One Last Thing
 
