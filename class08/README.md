@@ -23,6 +23,16 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 5. Link to [RStudio's Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/) is always useful.
 6. I shared a couple of the many nice essays written in response to Questions 2 and 3 from Lab 01 on our Shared Drive, in the Lab Sketches and Rubrics |> Lab 01 folder. Thanks to the (unnamed here) authors.
 
+## A few references from today's slides
+
+1. The [readxl](https://readxl.tidyverse.org/) package is a non-core part of the tidyverse which helps us read Excel files into R.
+    - Note that the [haven package](https://haven.tidyverse.org/) provides tidyverse solutions to read in SAS, SPSS and Stata data.
+2. The [kableExtra package's vignette](https://cran.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_html.html) helps explain the use of functions like `kbl()` and `kable_styling()` to improve tables.
+2. R Graphics Cookbook by Winston Chang (2nd Edition) is available at [https://r-graphics.org/](https://r-graphics.org/). It's the most useful book for `ggplot2` recipes.
+3. Our [431-data page](https://github.com/THOMASELOVE/431-data) includes:
+    - The `bootdif` function, which is part of the `Love-boost.R` script.
+    - The `dm_1000.Rds` data set we will create today.
+
 ## Where are we in the [Course Notes](https://thomaselove.github.io/431-notes/)?
 
 So far, we've discussed 
