@@ -19,13 +19,24 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 1. Is it possible to turn off the lights directly above the screen? Let's **give it a try**.
 2. I corrected a typo (I had 2021, when I meant 2022) in the [Lab 02 instructions pdf](https://github.com/THOMASELOVE/431-labs-2022/blob/main/lab02.pdf) on Wednesday 2022-09-21. 
 3. [Feedback on the Minute Paper after Class 07](https://bit.ly/431-2022-min07-feedback) is now available. Thank you all for completing this on time, and thanks again to those of you who said nice things about the course so far. I appreciate it.
-4. **Looking for a Project A partner?** I posted a pinned note to Campuswire, where you can add your name to the Comments if you're still looking for a Project A partner, and (I hope) also identify other people looking for a partner from the list, once people add their name to it.
+4. **Looking for a Project A partner?** I posted a pinned note to Campuswire, where you can add your name to the Comments if you're still looking for a Project A partner, and identify other people looking for a partner from the list.
 5. Link to [RStudio's Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/) is always useful.
 6. I shared a couple of the many nice essays written in response to Questions 2 and 3 from Lab 01 on our Shared Drive, in the Lab Sketches and Rubrics |> Lab 01 folder. Thanks to the (unnamed here) authors.
 
+## Where are we in the [Course Notes](https://thomaselove.github.io/431-notes/)?
+
+So far, we've discussed 
+
+- almost all of the material discussed in Chapters 1-8, 
+- some of the missing data materials in Chapter 9, (but not yet simple imputation) 
+- most of what's discussed in Chapter 10 and Chapter 11, (but not yet much on transformations)
+- and part of what's covered in Chapters 12-17.
+
+We'll get through most of the rest of Chapters 1-17 by the end of Class 12, when Quiz 1 will become available. My best advice for how to prepare for Quiz 1 at this time is to complete your Project A proposal.
+
 ## What Should I Be Working On?
 
-1. Read Chapter 3 (Why are we looking at data anyway? Populations and measurement) of Spiegelhalter.
+1. Read Chapter 3 (Why are we looking at data anyway? Populations and measurement) of Spiegelhalter's *The Art of Statistics*.
 2. Read the Minute Paper and Lab 1 feedback provided this week.
 3. [Lab 02](https://github.com/THOMASELOVE/431-labs-2022), due Monday at 9 PM.
 4. Work on selecting and cleaning [your data for Project A](https://thomaselove.github.io/431-projectA-2022/data.html), and then move on to building the [Project A proposal](https://thomaselove.github.io/431-projectA-2022/proposal.html) (early deadline: 2022-10-03 at Noon.)
@@ -34,4 +45,4 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 
 ## One Last Thing
 
-To come.
+![](https://github.com/THOMASELOVE/431-classes-2022/blob/main/class08/wilkinson_2021-07-22.png)  [Link](https://twitter.com/jd_wilko/status/1418245728795860996?s=11)
