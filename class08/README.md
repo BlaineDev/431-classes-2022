@@ -23,6 +23,14 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 5. Link to [RStudio's Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)
 6. I shared a couple of the many nice essays written in response to Questions 2 and 3 from Lab 01 on our Shared Drive, in the Lab Sketches and Rubrics |> Lab 01 folder. Thanks to the (unnamed here) authors.
 
+## What Should I Be Working On?
+
+1. Read Chapter 3 (Why are we looking at data anyway? Populations and measurement) of Spiegelhalter.
+2. [Lab 02](https://github.com/THOMASELOVE/431-labs-2022), due Monday at 9 PM.
+3. Work on selecting and cleaning [your data for Project A](https://thomaselove.github.io/431-projectA-2022/data.html), and then move on to building the [Project A proposal](https://thomaselove.github.io/431-projectA-2022/proposal.html) (early deadline: 2022-10-03 at Noon.)
+4. You should also be able to do most of [Lab 03] at this point, which is also due Monday 2022-10-03, but at 9 PM. You'll need to have read Chapter 4 of Spiegelhalter.
+5. If you haven't recently [updated your R packages](https://thomaselove.github.io/431-2022/software.html#updating-your-r-packages), now would be a good time.
+
 ## One Last Thing
 
 To come.
