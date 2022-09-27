@@ -12,7 +12,8 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 
 ## Announcements
 
-To come.
+1. There is a [Minute Paper after Class 09](https://bit.ly/431-2022-min-09), due tomorrow (2022-09-28) at noon.
+2. The Answer Sketch for [Lab 2](https://github.com/THOMASELOVE/431-labs-2022) is now available on our Shared Drive.
 
 ## One Last Thing
 
