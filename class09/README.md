@@ -23,7 +23,6 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 5. There is a lot of R material on YouTube. Today, I'll call your attention to two items in particular.
     - [Whole game](https://www.youtube.com/watch?v=go5Au01Jrvs) by Hadley Wickham from 2018 (about 22 minutes). Hadley works in an R Markdown document and analyzes some real data.
     - [Understand the gender pay gap three ways](https://www.youtube.com/watch?v=qu2wsbIeedY) by Julia Silge (about 32 minutes). Part of a series where Julia looks at data from the [TidyTuesday project](https://github.com/rfordatascience/tidytuesday). Check out Julia's [code for this video on her blog](https://juliasilge.com/blog/pay-gap-uk/).
-    - [How to copy website table data to R with the datapasta package](https://www.youtube.com/watch?v=YAkfDQgghzk) by Lyndon Walker (about 6 minutes.) Lyndon demonstrates the use of [the `datapasta` package](https://github.com/MilesMcBain/datapasta).
 6. Quiz 1 looms. I will provide you with a copy of the (general) instructions for the Quiz as part of Class 10, so you'll have a better understanding of what is ahead of you.
 
 ## One Last Thing
