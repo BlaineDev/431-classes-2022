@@ -17,7 +17,7 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 ## Announcements
 
 1. Feedback on the Minute Paper after Class 09 will be available by class time.
-2. Quiz 1 instructions will be available by class time. The actual Quiz will be available at 5 PM next Thursday 2022-10-06, and the Quiz is due 2022-10-10 at 9 PM.
+2. [Quiz 1 instructions](https://github.com/THOMASELOVE/431-quizzes-2022/blob/main/quiz1) will be available by class time. All elements of the actual Quiz [will be available](https://github.com/THOMASELOVE/431-quizzes-2022/blob/main/quiz1) at 5 PM next Thursday 2022-10-06, and Quiz 1 is due 2022-10-10 at 9 PM.
 3. There is a lot of R material on YouTube. Today, I'll call your attention to two items in particular.
     - [How to copy website table data to R with the datapasta package](https://www.youtube.com/watch?v=YAkfDQgghzk) by Lyndon Walker (about 6 minutes.) Lyndon demonstrates the use of [the `datapasta` package](https://github.com/MilesMcBain/datapasta).
     - [Multiple linear regression with interaction in R](https://www.youtube.com/watch?v=yJnHmCMb1q4) from Equitable Equations uses the `palmerpenguins` data to demonstrate the use of interaction terms for categorical variables in R, which we'll be doing in Class 11 next Tuesday. The video is just under 10 minutes long.
