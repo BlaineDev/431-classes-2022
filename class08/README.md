@@ -8,7 +8,9 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 
 Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 :---: | :--------: | :------: | :------: | :--------: | :-------------:
-08 | 2022-09-22 | **[Slides 08](https://thomaselove.github.io/431-slides-2022/class08.html)** | [Code 08](https://thomaselove.github.io/431-slides-2022/class08.qmd) | [PDF 08](431%20Class%2008.pdf) | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
+08 | 2022-09-22 | **[Slides 08](https://thomaselove.github.io/431-slides-2022/class08.html)** | [Code 08](https://thomaselove.github.io/431-slides-2022/class08.qmd) | [PDF 08](431%20Class%2008.pdf) | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings** and see note below.
+
+## NOTE: Since the audio stopped after 13 minutes of Class 08, I built a brief (11 minute) re-recording of the slides from Class 08, where I (very quickly) walk through all of the slides, since we had this problem. You should find this recording (called 431 Class 08 (brief re-recording)) in the Zoom link on our Canvas page.
 
 - The **Reveal JS (HTML) Slides** link provides the version of the slides (in HTML) that I suggest you focus on during class.
 - The Quarto file links provide the code I used (in [Quarto](https://quarto.org/)) to build the slides.
