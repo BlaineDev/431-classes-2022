@@ -18,13 +18,14 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 
 1. Feedback on the Minute Paper after Class 09 will be available **by class time**.
 2. Since the audio stopped after 13 minutes of Class 08, I built a video walking through (very quickly) what I did in the rest of the session. It'll be posted **by class time**.
-3. I corrected an error found in Question 6 of Lab 03 on Tuesday evening. Here's the link to [the corrected PDF of Lab 3 instructions](https://github.com/THOMASELOVE/431-labs-2022/blob/main/lab03.pdf).
-    - The value for Cuyahoga County's `adult_obesity` should in fact be 0.318, and the value for its `food_insecurity` should be 0.159, if you’re interested. In an earlier version of this Lab, we had the wrong value listed for `adult_obesity` in the instructions.
-    - If you are getting a warning message when you try to pull in the `lab03_counties.csv` data, you might want to pull it down again from 431-data. There was an issue with missing values which shouldn't have affected you, but might be a problem. The version posted to 431-data now has no such issues.
-4. A nearly final draft of the [Quiz 1 instructions](https://github.com/THOMASELOVE/431-quizzes-2022/blob/main/quiz1) is now posted.
+3. We have adjusted the Zoom information for the Saturday 7:00 to 8:30 PM TA office hours so that we'll (we hope) no longer have problems with that session.
+4. I made a mistake in trying to correct Lab 03 on Tuesday evening, but fixed it back to the original plan on Wednesday afternoon. Here's the link to [the correct PDF of Lab 3 instructions](https://github.com/THOMASELOVE/431-labs-2022/blob/main/lab03.pdf).
+    - The value for Cuyahoga County's `adult_obesity` should be 0.318, but the value we're interested in is the mean across all 750 sampled counties, which is 0.3345. 
+    - If you are getting a warning message when you try to pull in the `lab03_counties.csv` data, you might want to pull it down again from [431-data](https://github.com/THOMASELOVE/431-data). There was an issue with how the missing values appeared which shouldn't have affected you, but might have. The version posted to [431-data](https://github.com/THOMASELOVE/431-data) now has no such issues.
+5. A nearly final draft of the [Quiz 1 instructions](https://github.com/THOMASELOVE/431-quizzes-2022/blob/main/quiz1) is now posted.
     - All elements of the actual Quiz [will be available](https://github.com/THOMASELOVE/431-quizzes-2022/blob/main/quiz1) at 5 PM next Thursday 2022-10-06, and Quiz 1 is due 2022-10-10 at 9 PM. 
-5. Dr. Love prepared a [Sample Quiz](https://github.com/THOMASELOVE/431-quizzes-2022/tree/main/sample) containing five old quiz questions, as well as an answer sketch for those five questions, and some information on results. [You'll find it all here](https://github.com/THOMASELOVE/431-quizzes-2022/tree/main/sample), if you are interested.
-6. There is a lot of R material on YouTube. Today, I'll call your attention to two items in particular.
+6. Dr. Love prepared a [Sample Quiz](https://github.com/THOMASELOVE/431-quizzes-2022/tree/main/sample) containing five old quiz questions, as well as an answer sketch for those five questions, and some information on results. [You'll find it all here](https://github.com/THOMASELOVE/431-quizzes-2022/tree/main/sample), if you are interested.
+7. There is a lot of R material on YouTube. Today, I'll call your attention to two items in particular.
     - [How to copy website table data to R with the datapasta package](https://www.youtube.com/watch?v=YAkfDQgghzk) by Lyndon Walker (about 6 minutes.) Lyndon demonstrates the use of [the `datapasta` package](https://github.com/MilesMcBain/datapasta).
     - [Multiple linear regression with interaction in R](https://www.youtube.com/watch?v=yJnHmCMb1q4) from Equitable Equations uses the `palmerpenguins` data to demonstrate the use of interaction terms for categorical variables in R, which we'll be doing in Class 11 next Tuesday. The video is just under 10 minutes long.
 
