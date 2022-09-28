@@ -21,7 +21,7 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 3. I corrected an error found in Question 6 of Lab 03 on Tuesday evening. Here's the link to [the corrected PDF of Lab 3 instructions](https://github.com/THOMASELOVE/431-labs-2022/blob/main/lab03.pdf).
     - The value for Cuyahoga County's `adult_obesity` should in fact be 0.318, and the value for its `food_insecurity` should be 0.159, if you’re interested. In an earlier version of this Lab, we had the wrong value listed for `adult_obesity` in the instructions.
 4. A nearly final draft of the [Quiz 1 instructions](https://github.com/THOMASELOVE/431-quizzes-2022/blob/main/quiz1) is now posted.
-    - All elements of the actual Quiz [will be available](https://github.com/THOMASELOVE/431-quizzes-2022/blob/main/quiz1) at 5 PM next Thursday 2022-10-06, and Quiz 1 is due 2022-10-10 at 9 PM.
+    - All elements of the actual Quiz [will be available](https://github.com/THOMASELOVE/431-quizzes-2022/blob/main/quiz1) at 5 PM next Thursday 2022-10-06, and Quiz 1 is due 2022-10-10 at 9 PM. 
 5. Dr. Love prepared a [Sample Quiz](https://github.com/THOMASELOVE/431-quizzes-2022/tree/main/sample) containing five old quiz questions, as well as an answer sketch for those five questions, and some information on results. [You'll find it all here](https://github.com/THOMASELOVE/431-quizzes-2022/tree/main/sample), if you are interested.
 6. There is a lot of R material on YouTube. Today, I'll call your attention to two items in particular.
     - [How to copy website table data to R with the datapasta package](https://www.youtube.com/watch?v=YAkfDQgghzk) by Lyndon Walker (about 6 minutes.) Lyndon demonstrates the use of [the `datapasta` package](https://github.com/MilesMcBain/datapasta).
@@ -30,9 +30,10 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 ## What Should I Be Working On?
 
 1. [Lab 03](https://github.com/THOMASELOVE/431-labs-2022) is due Monday 2022-10-03 at 9 PM. (Note the correction in Question 6)
-2. Read Spiegelhalter Chapter 4 (What Causes What?)
-3. Work on your [Project A](https://thomaselove.github.io/431-projectA-2022/) Proposal (early deadline is Monday 2022-10-03 at NOON.)
-4. Now would be a good time to [update your R packages](https://thomaselove.github.io/431-2022/software.html#updating-your-r-packages), and maybe take a look at the Quiz 1 instructions (and sample Quiz) I mentioned above.
+2. Work on your [Project A](https://thomaselove.github.io/431-projectA-2022/) Proposal (early deadline is Monday 2022-10-03 at NOON.)
+3. Read Spiegelhalter Chapter 4 (What Causes What?)
+4. Work on your [Project A](https://thomaselove.github.io/431-projectA-2022/) Proposal (early deadline is Monday 2022-10-03 at NOON.)
+5. Now would be a good time to [update your R packages](https://thomaselove.github.io/431-2022/software.html#updating-your-r-packages), and maybe take a look at the Quiz 1 instructions (and sample Quiz) I mentioned above.
 
 ## One Last Thing
 
