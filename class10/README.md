@@ -32,7 +32,7 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 1. [Lab 03](https://github.com/THOMASELOVE/431-labs-2022) is due Monday 2022-10-03 at 9 PM. (Note the correction in Question 6)
 2. Read Spiegelhalter Chapter 4 (What Causes What?)
 3. Work on your [Project A](https://thomaselove.github.io/431-projectA-2022/) Proposal (early deadline is Monday 2022-10-03 at NOON.)
-4. Now would be a good time to [update your R packages](https://thomaselove.github.io/431-2022/software.html#updating-your-r-packages)
+4. Now would be a good time to [update your R packages](https://thomaselove.github.io/431-2022/software.html#updating-your-r-packages), and maybe take a look at the Quiz 1 instructions (and sample Quiz) I mentioned above.
 
 ## One Last Thing
 
