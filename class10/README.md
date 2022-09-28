@@ -17,8 +17,8 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 ## Announcements
 
 1. Feedback on the Minute Paper after Class 09 [is now available](https://bit.ly/431-2022-min09-feedback). Thanks for completing the form, everyone!
-2. Since the audio stopped after 13 minutes of Class 08, I built a brief (11 minute) re-recording of the slides from Class 08, where I (very quickly) walk through all of the slides, since we had this problem. You should find this recording (called **431 Class 08 (brief re-recording)**) in the Zoom link on our Canvas page.
-3. We have adjusted the Zoom information for the Saturday 7:00 to 8:30 PM TA office hours so that we'll (we hope) no longer have problems with that session.
+2. Since the audio stopped after 13 minutes of Class 08, I built a brief (11 minute) re-recording of the slides from Class 08, where I (very quickly) walk through all of the slides, since we had this problem. You should find this recording (called **431 Class 08 (brief re-recording)**) in the Zoom link on our [Canvas](https://canvas.case.edu) page.
+3. We have adjusted the Zoom information for the Saturday 7:00 to 8:30 PM TA office hours so that we'll (we hope) no longer have technical problems with that session.
 4. I made a mistake in trying to correct Lab 03 on Tuesday evening, but fixed it back to the original plan on Wednesday afternoon. Here's the link to [the correct PDF of Lab 3 instructions](https://github.com/THOMASELOVE/431-labs-2022/blob/main/lab03.pdf).
     - The value for Cuyahoga County's `adult_obesity` should be 0.318, but the value we're interested in is the mean across all 750 sampled counties, which is 0.3345. 
     - If you are getting a warning message when you try to pull in the `lab03_counties.csv` data, you might want to pull it down again from [431-data](https://github.com/THOMASELOVE/431-data). There was an issue with how the missing values appeared which shouldn't have affected you, but might have. The version posted to [431-data](https://github.com/THOMASELOVE/431-data) now has no such issues.
