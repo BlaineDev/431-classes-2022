@@ -4,9 +4,7 @@ To be completed on 2022-10-04 (Class 11).
 
 ## The Five Variables We're Focusing On Today
 
-Today's activity uses the 2022-09-08 version of `movies_2022-09-08` in the `favorite_movies` directory on our Shared Drive.
-
-This file describes 159 films mentioned as "favorites" by students in 431 for Fall 2020, 2021 or 2022. 
+We will use the `movies_2022-09-08` data in the `favorite_movies` directory on our Shared Drive, which describes 159 films mentioned as "favorites" by students in 431 for Fall 2020, 2021 or 2022. The data are [also found here](data/movies_2022-09-08.csv).
 
 Here are the five variables (`year`, `length`, `imdb_categories`, `imdb_ratings`, and `imdb_stars`) that we will focus on today...
 
@@ -29,7 +27,7 @@ You'll have between 15 and 20 minutes to accomplish the following tasks.
 3. As a group, you will identify **two** exploratory questions about films in this sample that could be addressed using the five key variables (`year`, `imdb_categories`, `imdb_ratings`, `imdb_stars` and `length`) listed above in the [current version of the movies data](data/movies_2022-09-08.csv).
     - A good question (a) explores relationships involving two or more variables from the data set (b) lets us use data from all (or almost all) of the films and (c) ends with a question mark.
     - As an example that fits at least (a) and (c), we might ask "Do dramas last longer than comedy films?" which could be answered using the `length` and `imdb_categories` variables, although (b) is a problem since some films are not listed as either Drama or Comedy.
-   - The current version (dated 2022-09-08) of the movies data is available on our Shared Google Drive, and [also here](data/movies_2022-09-08.csv).
+    - The current version (dated 2022-09-08) of the movies data is available on our Shared Google Drive, and [also here](data/movies_2022-09-08.csv).
     - Here is the [full codebook that explains what the other variables in the data mean](codebook1.md) but for today, we're sticking to the five variables listed above.
 4. Look at the [list of films](movie_list.md). Alphabetically, what is the first film (i.e., lowest `film_id` value) that **all** of the members of your breakout group have seen? 
     - [The form](https://bit.ly/431-2022-movies-1) asks you type in that film's `film_id` value and name. If there isn't a film on the list that you've all seen, you'll type in "We couldn't find one."
