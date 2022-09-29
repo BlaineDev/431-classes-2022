@@ -1,6 +1,6 @@
 # Favorite Movies: Breakout Activity 1
 
-To be completed on 2022-10-04 (Class 08).
+To be completed on 2022-10-04 (Class 11).
 
 ## The Five Variables We're Focusing On Today
 
