@@ -32,6 +32,6 @@ You'll have between 15 and 20 minutes to accomplish the following tasks.
    - The current version (dated 2022-09-08) of the movies data is available on our Shared Google Drive, and [also here](data/movies_2022-09-08.csv).
     - Here is the [full codebook that explains what the other variables in the data mean](codebook1.md) but for today, we're sticking to the five variables listed above.
 4. Look at the [list of films](movie_list.md). Alphabetically, what is the first film (i.e., lowest `film_id` value) that **all** of the members of your breakout group have seen? 
-    - [The form](https://bit.ly/431-2022-movies-1) will ask you first to select the film and then to scroll down to the bottom and type in its name. If there isn't a film on the list that you've all seen, you'll select and type in "We couldn't find one."
+    - [The form](https://bit.ly/431-2022-movies-1) asks you first to select the film and then to scroll down to the bottom and type in its name. If there isn't a film on the list that you've all seen, you'll select and type in "We couldn't find one."
 5. Ensure that your group's reporter has completed [the Google Form](https://bit.ly/431-2022-movies-1) to report your group's results and has submitted the form successfully (they should receive an email confirmation.)
 
