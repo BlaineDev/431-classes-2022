@@ -24,7 +24,7 @@ Variable | Sample Value | Explanation
 
 You'll have between 15 and 20 minutes to accomplish the following tasks.
 
-1. Form a group of 4-6 people. Come up with a memorable name for your group that each of you will be able to remember a week from now.
+1. Form a group of 4-6 people. Come up with a memorable name for your group that each of you will still remember in a week.
 2. One person in your group will report the results of your work using the Google Form found at https://bit.ly/431-2022-movies-1. 
 3. As a group, you will identify **two** exploratory questions about films in this sample that could be addressed using the five key variables (`year`, `imdb_categories`, `imdb_ratings`, `imdb_stars` and `length`) listed above in the [current version of the movies data](data/movies_2022-09-08.csv).
     - A good question (a) explores relationships involving two or more variables from the data set (b) lets us use data from all (or almost all) of the films and (c) ends with a question mark.
