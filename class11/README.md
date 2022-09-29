@@ -29,6 +29,13 @@ ggplot(data = bp_full, aes(x = res_1, y = ninc_1)) +
     - in [R for Data Science](https://r4ds.hadley.nz/) and many also appear 
     - in the [R Graphics Cookbook](https://r-graphics.org/). I encourage you to use those resources. It's what I do.
 
+## Today's Activity
+
+- Here is the link to [today's breakout activity](https://github.com/THOMASELOVE/431-classes-2022/blob/main/movies/breakout1.md).
+- Here is the link to the [main page about the favorite movies work](https://github.com/THOMASELOVE/431-classes-2022/tree/main/movies).
+
+
+
 ## One Last Thing
 
 To come.
