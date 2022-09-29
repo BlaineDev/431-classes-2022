@@ -5,3 +5,10 @@ On our Shared Google Drive in the `favorite_movies` subfolder, you'll find a dat
 ## Activities involving the Movies Data
 
 1. Here's the link for our [first breakout activity](breakout1.md), which we'll do in Class 11 (2022-10-04).
+
+## Original Data Set
+
+The original version of the data set is called `movies_2022-09-08`. A [.csv version is available here](data/movies_2022-09-08.csv).
+
+- [Here is a list of the 159 films](movie_list.md) in alphabetical order.
+- [Here is a brief codebook](codebook1.md) describing the variables presented in the `movies_2022-09-08` file.
