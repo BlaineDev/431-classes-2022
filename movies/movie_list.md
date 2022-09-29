@@ -1,6 +1,6 @@
 # List of Movies in the 2020-2022 data
 
-This is an alphabetical list of the 159 films included as favorite movies by students in 2020-2022. Each film's year of release is provided in parentheses.
+This is an alphabetical list of the 159 films included as favorite movies by students in 2020-2022. The `film_id` number precedes each film, so, for, example, Avatar's `film_id` is 5. Each film's year of release (2009 for Avatar) is also provided in parentheses.
 
 1. 8 1/2 (1963)
 2. 2001: A Space Odyssey (1968)
