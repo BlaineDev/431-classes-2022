@@ -12,7 +12,22 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 
 ## Announcements
 
-To come.
+1. There is a Minute Paper after Class 11 due Wednesday at noon. Details to come.
+2. The Lab 3 Answer Sketch and Grading Rubric will be posted by class time.
+3. Grades and feedback on Lab 2 should be posted by class time.
+4. Thanks to those of you who met the early deadline for the Project A proposal. You'll get feedback as soon as possible.
+5. All elements of the actual Quiz [will be available](https://github.com/THOMASELOVE/431-quizzes-2022/blob/main/quiz1) at 5 PM Thursday 2022-10-06, and Quiz 1 is due 2022-10-10 at 9 PM.
+6. The code for Slide 9 in Class 10 is now shown in the [slides for class 10](https://thomaselove.github.io/431-slides-2022/class10.html) and the [PDF for class 10](https://github.com/THOMASELOVE/431-classes-2022/blob/main/class10/431%20Class%2010.pdf). It's also shown below...
+
+```
+ggplot(data = bp_full, aes(x = res_1, y = ninc_1)) +
+  geom_miss_point()
+```
+
+7. **Sources of R Examples** Almost every R idea I demonstrate and discuss in the slides, or expect you to work through in a Lab, can also be found in:
+    - the [Course Notes](https://thomaselove.github.io/431-notes/) and 
+    - in [R for Data Science](https://r4ds.hadley.nz/) and many also appear 
+    - in the [R Graphics Cookbook](https://r-graphics.org/). I encourage you to use those resources. It's what I do.
 
 ## One Last Thing
 
