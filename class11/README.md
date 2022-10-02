@@ -38,4 +38,4 @@ ggplot(data = bp_full, aes(x = res_1, y = ninc_1)) +
 
 ## One Last Thing
 
-To come.
+I encourage anyone who's interested to [become a student member of the American Statistical Association](http://amstat.informz.net/z/cjUucD9taT0xMDc1NzYzMSZwPTEmdT0xMTY0ODk4NDg4JmxpPTk3MzM0MDk2/index.html), where I am a Fellow. For many of you, at $25 per year, it's a steal.
