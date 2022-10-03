@@ -14,9 +14,9 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 
 ## Announcements
 
-1. There is a Minute Paper after Class 11 due Wednesday at noon. **Details to come by class time**.
+1. There is a [Minute Paper after Class 11](https://bit.ly/431-2022-min-11) due Wednesday 2022-10-05 at noon.
 2. The Lab 3 Answer Sketch and Grading Rubric will be posted **by class time**.
-3. Grades and feedback on Lab 2 should be posted **by class time**.
+3. Grades and feedback on Lab 2 should be posted to the Course Grading Roster on our Shared Drive **by class time**.
 4. Part B (Chapters 18-28) of [the Course Notes](https://thomaselove.github.io/431-notes/) are now available.
 5. Thanks to those of you who met the early deadline for the Project A proposal. You'll get feedback as soon as possible.
 6. All elements of the actual Quiz [will be available](https://github.com/THOMASELOVE/431-quizzes-2022/blob/main/quiz1) at 5 PM Thursday 2022-10-06, and Quiz 1 is due 2022-10-10 at 9 PM.
