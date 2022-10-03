@@ -12,7 +12,7 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 
 ## Announcements
 
-1. Quiz 1 will be available to you by 5 PM today.
+1. [Quiz 1](https://github.com/THOMASELOVE/431-quizzes-2022/tree/main/quiz1) will be available to you by 5 PM today.
 2. Feedback on the Minute Paper after Class 11 will be available **by class time**.
 3. I hope that detailed Comments on the Early Project A Presentations will appear **by class time**.
 4. Tom Mock, at RStudio, presents [Beautiful reports and presentations with Quarto](https://www.youtube.com/watch?v=hbf7Ai3jnxY) if you are interested.
@@ -20,8 +20,8 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 
 ## What Should You Be Working On This Weekend?
 
-- Quiz 1 due Monday at 9 PM.
-- Work on your Project A Proposal (main submission date is Friday 2022-10-14 at NOON.)
+- [Quiz 1](https://github.com/THOMASELOVE/431-quizzes-2022/tree/main/quiz1) due Monday at 9 PM.
+- Work on your [Project A Proposal](https://thomaselove.github.io/431-projectA-2022/proposal.html) (main submission date is Friday 2022-10-14 at NOON.)
 
 ## One Last Thing
 
