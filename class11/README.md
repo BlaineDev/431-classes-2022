@@ -10,6 +10,8 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 :---: | :--------: | :------: | :------: | :--------: | :-------------:
 11 | 2022-10-04 | **[Slides 11](https://thomaselove.github.io/431-slides-2022/class11.html)** | [Code 11](https://thomaselove.github.io/431-slides-2022/class11.qmd) | [PDF 11](431%20Class%2011.pdf) | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
+![](rhodes_2022-10-02.png)
+
 ## Announcements
 
 1. There is a Minute Paper after Class 11 due Wednesday at noon. **Details to come by class time**.
