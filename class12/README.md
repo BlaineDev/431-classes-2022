@@ -12,7 +12,16 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 
 ## Announcements
 
-To come.
+1. Quiz 1 will be available to you by 5 PM today.
+2. Feedback on the Minute Paper after Class 11 will be available **by class time**.
+3. I hope that detailed Comments on the Early Project A Presentations will appear **by class time**.
+4. Tom Mock, at RStudio, presents [Beautiful reports and presentations with Quarto](https://www.youtube.com/watch?v=hbf7Ai3jnxY) if you are interested.
+5. Jared Wilber's [Linear Regression: A Visual Introduction to (Almost) Everything You Should Know](https://mlu-explain.github.io/linear-regression/) is fantastic.
+
+## What Should You Be Working On This Weekend?
+
+- Quiz 1 due Monday at 9 PM.
+- Work on your Project A Proposal (main submission date is Friday 2022-10-14 at NOON.)
 
 ## One Last Thing
 
