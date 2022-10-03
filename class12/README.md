@@ -25,4 +25,6 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 
 ## One Last Thing
 
-To come.
+![](gender_gap.png)
+
+Source: Amelia Thomson-DeVeaux and Meredith Conroy at FiveThirtyEight: [Women Have Swung Toward Democrats Since The Dobbs Decision](https://fivethirtyeight.com/features/women-have-swung-toward-democrats-since-the-dobbs-decision/), published 2022-09-28.
