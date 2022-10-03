@@ -37,8 +37,12 @@ ggplot(data = bp_full, aes(x = res_1, y = ninc_1)) +
 - Here is the link to [today's breakout activity](https://github.com/THOMASELOVE/431-classes-2022/blob/main/movies/breakout1.md).
 - Here is the link to the [main page about the favorite movies work](https://github.com/THOMASELOVE/431-classes-2022/tree/main/movies).
 
+## Join The American Statistical Association for $25!
 
+I encourage anyone who's interested to [become a student member of the American Statistical Association](http://amstat.informz.net/z/cjUucD9taT0xMDc1NzYzMSZwPTEmdT0xMTY0ODk4NDg4JmxpPTk3MzM0MDk2/index.html). For many of you, at $25 per year, it's a steal.
 
 ## One Last Thing
 
-I encourage anyone who's interested to [become a student member of the American Statistical Association](http://amstat.informz.net/z/cjUucD9taT0xMDc1NzYzMSZwPTEmdT0xMTY0ODk4NDg4JmxpPTk3MzM0MDk2/index.html). For many of you, at $25 per year, it's a steal.
+![](mlb_2022-10-02.png)
+
+Source: [FiveThirtyEight 2022 MLB Predictions](https://projects.fivethirtyeight.com/2022-mlb-predictions/)
