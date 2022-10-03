@@ -20,7 +20,7 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 4. Part B (Chapters 18-28) of [the Course Notes](https://thomaselove.github.io/431-notes/) is now available.
 5. Thanks to those of you who met the early deadline for the Project A proposal. You'll get feedback as soon as possible.
 6. All elements of the actual Quiz [will be available](https://github.com/THOMASELOVE/431-quizzes-2022/blob/main/quiz1) at 5 PM Thursday 2022-10-06, and Quiz 1 is due 2022-10-10 at 9 PM.
-7. The code for Slide 9 in Class 10 is now shown in the [slides for class 10](https://thomaselove.github.io/431-slides-2022/class10.html) and the [PDF for class 10](https://github.com/THOMASELOVE/431-classes-2022/blob/main/class10/431%20Class%2010.pdf). It's also shown below...
+7. The code for Slide 9 in Class 10 is now shown in the [slides for class 10](https://thomaselove.github.io/431-slides-2022/class10.html) and the [PDF for class 10](https://github.com/THOMASELOVE/431-classes-2022/blob/main/class10/431%20Class%2010.pdf). The [`geom_miss_point()` function](https://naniar.njtierney.com/reference/geom_miss_point.html) comes from [the `naniar` package](https://naniar.njtierney.com/index.html).
 
 ```
 ggplot(data = bp_full, aes(x = res_1, y = ninc_1)) +
