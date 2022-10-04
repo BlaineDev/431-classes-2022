@@ -39,6 +39,10 @@ Shwetank Singh | A study of teenage pregnancy incidence | no R Markdown submitte
 Neha Solanki | Effects of Air Pollution | Rmd, HTML | 09-29 4:47 PM
 Max Tjen | Investigating Diabetes Prevalence: the Most Influential Factors | Rmd, HTML | 09-30 11:36 AM
 
+## Grading The Proposal
+
+[Here is the list of the 13 "things" Dr. Love was looking for](https://thomaselove.github.io/431-projectA-2022/proposal.html#grading-the-proposal-13-things-were-looking-for) in reviewing your work.
+
 Proj | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | Count | Problems | Status
 :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |:-----: |
 101 | - | - | - | - | - | - | - | - | - | - | - | - | - | -- | -- | Under Review
