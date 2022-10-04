@@ -5,7 +5,7 @@
 - **Names in bold** when there are multiple investigators are the people who submitted the proposal.
 - **ID**: the first digit indicates the number of investigators.
 
-### Six Proposals from Partnerships
+### Six Proposals from Partnerships Awaiting Review by Dr. Love
 
 ID | Partners | Project Title | Files 
 --: | :-------------: | :--------------------------: | :----:
@@ -16,7 +16,7 @@ ID | Partners | Project Title | Files
 215 | Sahana Kannan and **Sajan Patel** | Factors Influencing Preventable Hospital Stays | Rmd, HTML 
 212 | Tian Liu and **Fang Wang** | The violent Crime rate in US counties | Rmd, HTML 
 
-### 19 Proposals from Individuals
+### 19 Proposals from Individuals Awaiting Review by Dr. Love
 
 ID | Investigators | Project Title | Files 
 --: | :-------------: | :--------------------------: | :----: 
