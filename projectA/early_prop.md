@@ -9,24 +9,24 @@
 - **Names in bold** when there are multiple investigators are the people who submitted the proposal.
 - **ID**: the first digit indicates the number of investigators.
 
-### Six Proposals from Partnerships Awaiting Review by Dr. Love
+### Seven Proposals from Partnerships Awaiting Review by Dr. Love
 
 ID | Partners | Project Title | Files 
 --: | :-------------: | :--------------------------: | :----:
 214 | **Moein Amin** and Karlo Toljan | Factors Associated with Preventable Hospital Stays in Midwest States | Rmd, HTML 
 217 | **Naji Ayyash** and Millenia Zhou | Observing and Understanding the Data Obtained from CHR 2022 for Premature Deaths | Rmd, HTML 
+222 | **Seth Bauer** and Jules Bakhos | Predicting Preventable Hospital Stays with CHR-2022 | Rmd, HTML 
 216 | **Chris Benson** and Lentlametse Mantshonyane | How does Social and Economic Factors affect High School Completion Rates | Rmd, HTML 
 210 | **Madi Hunt** and Jae Ho Lee | Social, Environmental, and Behavioral Factors Impacting Low Birth Weight in Northern Central Appalachian States Using 2022 County Health Rankings Data | Rmd, HTML 
 215 | Sahana Kannan and **Sajan Patel** | Factors Influencing Preventable Hospital Stays | Rmd, HTML 
 212 | Tian Liu and **Fang Wang** | The violent Crime rate in US counties | Rmd, HTML 
 
-### 19 Proposals from Individuals Awaiting Review by Dr. Love
+### 18 Proposals from Individuals Awaiting Review by Dr. Love
 
 ID | Investigators | Project Title | Files 
 --: | :-------------: | :--------------------------: | :----: 
 119 | Bryan Abadie | An Analysis of High School Graduation Rates by Social Factors | Rmd, HTML 
 105 | Lithe Basbous | Project A: Life expectancy influence by socioeconomic and mental status | Rmd, HTML, Rds 
-122 | Seth Bauer | Predicting Preventable Hospital Stays with CHR-2022 | Rmd, HTML 
 102 | Alison Berry | Project A | Rmd, unreadable HTML 
 113 | Izzy Genuario | Social Factors and Teen Birth Rate using CHR-2022 Data | Rmd, HTML 
 107 | Benjamin Heifetz | Effectors of Adult Tobacco Smoking Across Four States With Easy Access to Tobacco | Rmd, HTML
