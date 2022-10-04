@@ -36,7 +36,7 @@ ID | Investigators | Project Title | Files
 104 | An Nguyen | Predicting Population Obesity with Relevant Variables in States across America using 2022 County Health Ranking | Rmd, HTML, Rds 
 121 | Sameer Prasada | Poor Mental Health Days in Midwestern States: CHR-2022 | Rmd, HTML 
 118 | Samuel Rodgers-Melnick | Behavioral and Environmental Predictors of Poor Mental Health in the Rust Belt | Rmd, HTML 
-101 | Shwetank Singh | A study of teenage pregnancy incidence | no R Markdown submitted to Canvas (code-download, though), HTML, Rds 
+101 | Shwetank Singh | A study of teenage pregnancy incidence | Rmd only via download, HTML, Rds 
 123 | Neha Solanki | Effects of Air Pollution | Rmd, HTML 
 124 | Max Tjen | Investigating Diabetes Prevalence: the Most Influential Factors | Rmd, HTML
 
