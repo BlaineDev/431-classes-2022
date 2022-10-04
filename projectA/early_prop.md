@@ -44,6 +44,3 @@ ID | Investigators | Project Title | Files
 
 [Here is the list of the 13 "things" Dr. Love was looking for](https://thomaselove.github.io/431-projectA-2022/proposal.html#grading-the-proposal-13-things-were-looking-for) in reviewing your work.
 
-Proj | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | Count | Problems | Status
-:---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |:-----: |
-101 | - | - | - | - | - | - | - | - | - | - | - | - | - | -- | -- | Under Review
