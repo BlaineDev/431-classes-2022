@@ -45,6 +45,6 @@ I encourage anyone who's interested to [become a student member of the American 
 
 ## One Last Thing
 
-![](mlb_2022-10-02.png)
+![](mlb_2022-10-04.png)
 
 Source: [FiveThirtyEight 2022 MLB Predictions](https://projects.fivethirtyeight.com/2022-mlb-predictions/)
