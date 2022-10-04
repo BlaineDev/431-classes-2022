@@ -1,5 +1,9 @@
 # Early Project A Proposal Submissions
 
+## Evaluating The Proposal
+
+[Here is the list of the 13 "things" Dr. Love was looking for](https://thomaselove.github.io/431-projectA-2022/proposal.html#grading-the-proposal-13-things-were-looking-for) in reviewing your work.
+
 ## 25 Proposals Received by TEL that he can review
 
 - **Names in bold** when there are multiple investigators are the people who submitted the proposal.
@@ -39,8 +43,4 @@ ID | Investigators | Project Title | Files
 101 | Shwetank Singh | A study of teenage pregnancy incidence | Rmd only via download, HTML, Rds 
 123 | Neha Solanki | Effects of Air Pollution | Rmd, HTML 
 124 | Max Tjen | Investigating Diabetes Prevalence: the Most Influential Factors | Rmd, HTML
-
-## Grading The Proposal
-
-[Here is the list of the 13 "things" Dr. Love was looking for](https://thomaselove.github.io/431-projectA-2022/proposal.html#grading-the-proposal-13-things-were-looking-for) in reviewing your work.
 
