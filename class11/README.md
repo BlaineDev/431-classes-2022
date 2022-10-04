@@ -10,7 +10,29 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 :---: | :--------: | :------: | :------: | :--------: | :-------------:
 11 | 2022-10-04 | **[Slides 11](https://thomaselove.github.io/431-slides-2022/class11.html)** | [Code 11](https://thomaselove.github.io/431-slides-2022/class11.qmd) | [PDF 11](431%20Class%2011.pdf) | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
-![](rhodes_2022-10-02.png)
+## Hot off the presses
+
+[A Public Health Success Story](https://www.nytimes.com/2022/10/04/briefing/covid-race-gaps.html) by David Leonhardt, in The New York Times
+
+> Around the U.S., many Black and Latino communities had limited early access to the Covid vaccines. That lack of access — combined with greater vaccine hesitancy among some people of color — contributed to racial gaps in vaccination and, by extension, large racial gaps in Covid death rates....
+
+> In the spring of 2021, several months into the mass vaccination program, white Americans were significantly more likely to have been vaccinated than Black or Latino Americans. By late 2021, the Hispanic rate was higher than the white rate, and the Black rate was almost as high as the white rate, according to the C.D.C. As a result, the racial gap in death rates has also disappeared.
+
+> (In fact) The overall Black and Latino rates have been generally lower than the white rate for more than a year.
+
+![](nyt_cov1_2022-10-04.png)
+
+> Overall death rates are the primary way that many organizations (including The Times, on its Covid dashboards, and the C.D.C., in its annual mortality report) describe a disease’s toll. This rate offers a census of who’s dying. If one group’s death rate is higher than another’s, it means the victims of that disease come disproportionately from the first of the two groups.
+
+> But an age-adjusted rate also has advantages. It effectively compares a disease’s toll with its expected toll based on the age profile of different groups. For that reason, the C.D.C.’s mortality report also includes age-adjusted tables — just after the overall tables — for each cause of death. Because white Americans are older than Black or Latino Americans on average and because most diseases affect the old more than the young, age-adjusted rates tend show larger racial gaps.
+
+> By both the overall and age-adjusted measures, the Covid death rates for Black and Latino Americans were higher than the white rate in the early stages of the pandemic, and they remain higher cumulatively. Recently, though, the patterns have changed, and the Black and Latino rates are no longer higher.
+
+![](nyt_cov2_2022-10-04.png)
+
+> The age-adjusted gap lasted longer, before narrowing early this year and eventually flipping. Since April, the Latino age-adjusted rate has been about 15 percent lower than the white rate. The age-adjusted Black rate has been nearly identical to the white rate — with the Black rate about 1 percent lower — during the same period. (The Asian rate has been lowest for much longer.)
+
+> One reason is that the remaining pool of unvaccinated Americans is disproportionately Republican, and Republicans are disproportionately white.
 
 ## Announcements
 
@@ -44,6 +66,8 @@ ggplot(data = bp_full, aes(x = res_1, y = ninc_1)) +
 I encourage anyone who's interested to [become a student member of the American Statistical Association](http://amstat.informz.net/z/cjUucD9taT0xMDc1NzYzMSZwPTEmdT0xMTY0ODk4NDg4JmxpPTk3MzM0MDk2/index.html). For many of you, at $25 per year, it's a steal.
 
 ## One Last Thing
+
+![](rhodes_2022-10-02.png)
 
 ![](mlb_2022-10-04.png)
 
