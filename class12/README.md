@@ -23,6 +23,11 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 - [Quiz 1](https://github.com/THOMASELOVE/431-quizzes-2022/tree/main/quiz1) due Monday at 9 PM.
 - Work on your [Project A Proposal](https://thomaselove.github.io/431-projectA-2022/proposal.html) (main submission date is Friday 2022-10-14 at NOON.)
 
+## Favorite Movies
+
+1. We had nine groups of students go through the first breakout activity. For five of those groups, they'd all seen Avatar (#5 on the list), which I actually haven't seen. Three other groups found connections at The Dark Knight (#26), Despicable Me (#29) and Harry Potter and the Sorcerer's Stone (#55), but one group (of 6 people - the "No Time for Movies" group couldn't find any movie they'd all seen.
+2. More results from the breakout activity will be found here.
+
 ## One Last Thing
 
 ![](gender_gap.png)
