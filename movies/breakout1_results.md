@@ -40,3 +40,5 @@ ID | Proposed Exploratory Question | Variables Used
 16 | How does IMDB categories and the length of the movie predicts the number of stars it receives? | categories, ratings, length
 17 | Does a film's category impact the relationship between the film's length and its average star rating? | categories, ratings, length
 18 | Does the length of an action film impact its IMDB rating - an exploratory analysis of action film length and IMDB ratings | categories, stars, length
+
+See [the Class 12 slides](https://github.com/THOMASELOVE/431-classes-2022/tree/main/class12#todays-slides) for Dr. Love's analyses related to (most of) these questions.
