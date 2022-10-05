@@ -26,7 +26,7 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 ## Favorite Movies
 
 1. We had nine groups of students go through the first breakout activity. For five of those groups, they'd all seen Avatar (#5 on the list), which I actually haven't seen. Three other groups found connections at The Dark Knight (#26), Despicable Me (#29) and Harry Potter and the Sorcerer's Stone (#55), but one group (of 6 people - the "No Time for Movies" group couldn't find any movie they'd all seen.
-2. More [direct results from the first breakout activity are here](https://github.com/THOMASELOVE/431-classes-2022/blob/main/movies/breakout1_results.md). Detailed statistical results will be the main work for today's slides.
+2. [Suggested exploratory questions from the first breakout activity are here](https://github.com/THOMASELOVE/431-classes-2022/blob/main/movies/breakout1_results.md). Detailed statistical results will be the main work for today's slides.
 
 ## One Last Thing
 
