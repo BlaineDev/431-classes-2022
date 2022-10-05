@@ -25,8 +25,9 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 
 ## Favorite Movies
 
-1. We had nine groups of students go through the first breakout activity. 
-2. [Suggested exploratory questions from the first breakout activity are here](https://github.com/THOMASELOVE/431-classes-2022/blob/main/movies/breakout1_results.md). Detailed statistical results will be the main work for today's slides.
+1. I ran a little poll on Campuswire asking which of the ten movies listed had been seen by more of you than the others. There were 24 votes, and the leaders were Iron Man and Jurassic Park, followed closely by The Hunger Games. That was the order in which those three films were seen. The poll didn't include Home Alone, which was the most commonly seen movie in this Minute Paper's set of 20 movies. People who voted got a little bit of class participation credit.
+2. We had nine groups of students go through the first breakout activity in Class 11. [Suggested exploratory questions from the first breakout activity are here](https://github.com/THOMASELOVE/431-classes-2022/blob/main/movies/breakout1_results.md). 
+3. Detailed statistical results addressing (many of) those exploratory questions will be the main work for today's slides.
 
 ## One Last Thing
 
