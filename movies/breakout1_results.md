@@ -20,8 +20,8 @@ No Time for Movies | 6 |	We couldn't find one. (out of 159 films)
 - `imdb_ratings` = number of star ratings at IMDB 
 - `imdb_stars` = weighted average IMDB rating (10 = highest, 1 = lowest possible)
 
-ID | Proposed Exploratory Question | Variables Used
-:--: | :---------------------------------------------------: | :----------------------------------
+Proposed Exploratory Question | Variables Used
+:---------------------------------------------------: | :----------------------------------
 Has modern cinema gone downhill - Do older films have a higher IMDB rating than newer films due to higher rates of viewership?  | year, ratings, stars
 Has the length of movies changed over time?  | year, length
 Is there a relationship between movie length and number of star ratings? | ratings, length
