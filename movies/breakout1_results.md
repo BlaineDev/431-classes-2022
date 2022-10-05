@@ -12,25 +12,31 @@ Movie Theater Butters	| 6 |	Avatar (`film_id` = 5)
 Not Cinephiles | 5 |	Avatar (`film_id` = 5)
 No Time for Movies | 6 |	We couldn't find one. (out of 159 films)
 
-# Raw Questions
+# Available Variables
 
-Proposed Question | Variables Used
-:---------------------------------------------------: | :----------------------------------
-Has modern cinema gone downhill - Do older films have a higher IMDB rating than newer films due to higher rates of viewership?  | year of release, number of star ratings at IMDB (the `imdb_ratings` variable), weighted average IMDB rating (the `imdb_stars` variable)
-Has the length of movies changed over time?  | year of release, Length of the film in minutes
-Is there a relationship between movie length and number of star ratings? | number of star ratings at IMDB (the `imdb_ratings` variable), Length of the film in minutes
-Are movies made prior to 2000 longer or shorter than movies after 2000? | year of release, Length of the film in minutes
-How does IMDB categories and the length of the movie predicts the number of stars it receives? | film categories in the imdb_categories variable, number of star ratings at IMDB (the `imdb_ratings` variable), Length of the film in minutes
-What is the relationship between genre and length of movie? | film categories in the imdb_categories variable, Length of the film in minutes
-Do dramas have higher ratings than comedies? | film categories in the imdb_categories variable, weighted average IMDB rating (the `imdb_stars` variable)
-Are new movies longer in length? | year of release, Length of the film in minutes
-Do movies released in 2000 or later have a longer run time than older movies?  | year of release, Length of the film in minutes
-Does the length of an action film impact its IMDB rating - an exploratory analysis of action film length and IMDB ratings | film categories in the imdb_categories variable, weighted average IMDB rating (the `imdb_stars` variable), Length of the film in minutes
-Do action movies have more IMDB reviews (ratings) than non-action movies?  | film categories in the imdb_categories variable, number of star ratings at IMDB (the `imdb_ratings` variable)
-Does a film's category impact the relationship between the film's length and its average star rating? | film categories in the imdb_categories variable, number of star ratings at IMDB (the `imdb_ratings` variable), Length of the film in minutes
-Are the average IMDB ratings associated with the number of IMDB star ratings? | number of star ratings at IMDB (the `imdb_ratings` variable), weighted average IMDB rating (the `imdb_stars` variable)
-What is the relationship between the year a movie was released and the number of star ratings at IMDB? | year of release, number of star ratings at IMDB (the `imdb_ratings` variable)
-How does IMDB rating (imdv_stars) differ between older and newer movies? | year of release, weighted average IMDB rating (the `imdb_stars` variable)
-How has  action movies' length changed over time? | year of release, Length of the film in minutes
-Does the year of release affect the amount IMDB ratings? | year of release, number of star ratings at IMDB (the `imdb_ratings` variable)
-Do movies longer than 2 hours have lower ratings? | number of star ratings at IMDB (the `imdb_ratings` variable), weighted average IMDB rating (the `imdb_stars` variable), Length of the film in minutes
+- `year` = year of release
+- `length` = Length of the film in minutes
+- `imdb_categories` = film categories (up to 3) assigned by IMDB
+- `imdb_ratings` = number of star ratings at IMDB 
+- `imdb_stars` = weighted average IMDB rating (10 = highest, 1 = lowest possible)
+
+ID | Proposed Exploratory Question | Variables Used
+:--: | :---------------------------------------------------: | :----------------------------------
+Has modern cinema gone downhill - Do older films have a higher IMDB rating than newer films due to higher rates of viewership?  | year, ratings, stars
+Has the length of movies changed over time?  | year, length
+Is there a relationship between movie length and number of star ratings? | ratings, length
+Are movies made prior to 2000 longer or shorter than movies after 2000? | year, length
+How does IMDB categories and the length of the movie predicts the number of stars it receives? | categories, ratings, length
+What is the relationship between genre and length of movie? | categories, length
+Do dramas have higher ratings than comedies? | categories, stars
+Are new movies longer in length? | year, length
+Do movies released in 2000 or later have a longer run time than older movies?  | year, length
+Does the length of an action film impact its IMDB rating - an exploratory analysis of action film length and IMDB ratings | categories, stars, length
+Do action movies have more IMDB reviews (ratings) than non-action movies?  | categories, ratings
+Does a film's category impact the relationship between the film's length and its average star rating? | categories, ratings, length
+Are the average IMDB ratings associated with the number of IMDB star ratings? | ratings, stars
+What is the relationship between the year a movie was released and the number of star ratings at IMDB? | year, ratings
+How does IMDB rating (imdv_stars) differ between older and newer movies? | year, stars
+How has  action movies' length changed over time? | year, length
+Does the year of release affect the amount IMDB ratings? | year, ratings
+Do movies longer than 2 hours have lower ratings? | ratings, stars, length
