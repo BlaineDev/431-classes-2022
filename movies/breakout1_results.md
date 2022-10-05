@@ -26,14 +26,14 @@ ID | Proposed Exploratory Question | Variables Used
 2 | Are new movies longer in length? | year, length
 3 | Do movies released in 2000 or later have a longer run time than older movies?  | year, length
 4 | Are movies made prior to 2000 longer or shorter than movies after 2000? | year, length
-5 | How has action movies' length changed over time? | year, length, (*category*)
+5 | How has action movies' length changed over time? | year, length, (**category**)
 6 | What is the relationship between the year a movie was released and the number of star ratings at IMDB? | year, ratings
 7 | Does the year of release affect the amount IMDB ratings? | year, ratings
 8 | How does IMDB rating (`imdb_stars`) differ between older and newer movies? | year, stars
-9 | Has modern cinema gone downhill - Do older films have a higher IMDB rating than newer films due to higher rates of viewership?  | year, ratings, stars
+9 | Has modern cinema gone downhill - Do older films have a higher IMDB rating than newer films due to higher rates of viewership?  | year, *ratings?*, stars
 10 | Are the average IMDB ratings associated with the number of IMDB star ratings? | ratings, stars
 11 | Is there a relationship between movie length and number of star ratings? | ratings, length
-12 | Do movies longer than 2 hours have lower ratings? | ratings (**?**), stars, length
+12 | Do movies longer than 2 hours have lower ratings? | *ratings?*, stars, length
 13 | What is the relationship between genre and length of movie? | categories, length
 14 | Do dramas have higher ratings than comedies? | categories, stars
 15 | Do action movies have more IMDB reviews (ratings) than non-action movies?  | categories, ratings
