@@ -12,7 +12,7 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 
 ## Announcements
 
-1. [Quiz 1](https://github.com/THOMASELOVE/431-quizzes-2022/tree/main/quiz1) will be available to you by 5 PM today.
+1. [Quiz 1](https://github.com/THOMASELOVE/431-quizzes-2022/tree/main/quiz1) is now available.
 2. [Feedback on the Minute Paper after Class 11](https://bit.ly/431-2022-min11-feedback) is now available.
 3. I am still reviewing the Early Project A Presentations. 
     - I have resolved nine (issues 1, 2, 3, 4, 6, 9, 10, 11 and 12) of [these 13 considerations](https://thomaselove.github.io/431-projectA-2022/proposal.html#grading-the-proposal-13-things-were-looking-for) for all of [the proposals listed here](https://github.com/THOMASELOVE/431-classes-2022/blob/main/projectA/early_prop.md), and have resolved the other four considerations for a few of the proposals listed there. 
