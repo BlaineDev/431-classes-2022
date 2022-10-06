@@ -14,7 +14,8 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 
 1. [Quiz 1](https://github.com/THOMASELOVE/431-quizzes-2022/tree/main/quiz1) will be available to you by 5 PM today.
 2. [Feedback on the Minute Paper after Class 11](https://bit.ly/431-2022-min11-feedback) is now available.
-3. I hope that detailed Comments on the Early Project A Presentations will appear **soon**.
+3. I am still reviewing the Early Project A Presentations. I have resolved issues 1, 2, 3, 4, 6, 9, 10, 11 and 12 of [these 13 considerations](https://thomaselove.github.io/431-projectA-2022/proposal.html#grading-the-proposal-13-things-were-looking-for) for all of [the proposals listed here](https://github.com/THOMASELOVE/431-classes-2022/blob/main/projectA/early_prop.md), and have resolved the others for some of the proposals. 
+    - Further details coming to you as soon as possible, I hope by the end of the day Friday. 
 4. Tom Mock, at RStudio, presents [Beautiful reports and presentations with Quarto](https://www.youtube.com/watch?v=hbf7Ai3jnxY) on YouTube if you are interested.
 5. Jared Wilber's [Linear Regression: A Visual Introduction to (Almost) Everything You Should Know](https://mlu-explain.github.io/linear-regression/) is fantastic.
 
