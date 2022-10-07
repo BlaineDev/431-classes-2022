@@ -15,7 +15,8 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 1. Remember that we do not have class this Thursday 2022-10-13. Instead, you have a working day for your Project A proposal, which is due Friday 2022-10-14 at noon. Class 14 will be held on Tuesday 2022-10-18.
 2. Quiz 1 results should be available to you by Wednesday 2022-10-12 at 5 PM.
 3. I have added chapters 29-31 to the [Course Notes](https://thomaselove.github.io/431-notes/) providing additional details on residual plots for regression assumptions, partitioning and evaluating models with training and test samples, and more on the Western Collaborative Group Study from Chapter 17 of the Notes.
-4. More to come.
+4. On 2022-10-07, I tweaked the Answer Sketch and Grading Rubric for Lab 03 to make the rubric match up better with the findings for Question 3.
+5. More to come.
 
 ## One Last Thing
 
