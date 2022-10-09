@@ -13,10 +13,11 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 ## Announcements
 
 1. Remember that we do not have class this Thursday 2022-10-13. Instead, you have a working day for your Project A proposal, which is due Friday 2022-10-14 at noon. Class 14 will be held on Tuesday 2022-10-18.
-2. Quiz 1 results should be available to you by Wednesday 2022-10-12 at 5 PM.
-3. I have added chapters 29-31 to the [Course Notes](https://thomaselove.github.io/431-notes/) providing additional details on residual plots for regression assumptions, partitioning and evaluating models with training and test samples, and more on the Western Collaborative Group Study from Chapter 17 of the Notes.
-4. On 2022-10-07, I tweaked the Answer Sketch and Grading Rubric for Lab 03 to make the rubric match up better with the findings for Question 3.
-5. Everyone who submitted an early [Proposal for Project A](https://thomaselove.github.io/431-projectA-2022/proposal.html) should have received feedback from me in email on Sunday 2022-10-09. A few tips for those of you working on this now:
+2. I am moving the due date for Lab 4 back one week to Monday 2022-10-24 at 9 PM. We have already covered all of the material you need for Lab 4, but I wanted to give people a little more breathing room if they had a proposal revision for Project A. Note that 2022-10-24 is part of the University's Fall Break.
+3. Quiz 1 results should be available to you by Wednesday 2022-10-12 at 5 PM.
+4. I have added chapters 29-31 to the [Course Notes](https://thomaselove.github.io/431-notes/) providing additional details on residual plots for regression assumptions, partitioning and evaluating models with training and test samples, and more on the Western Collaborative Group Study from Chapter 17 of the Notes.
+5. On 2022-10-07, I tweaked the Answer Sketch and Grading Rubric for Lab 03 to make the rubric match up better with the findings for Question 3.
+6. Everyone who submitted an early [Proposal for Project A](https://thomaselove.github.io/431-projectA-2022/proposal.html) should have received feedback from me in email on Sunday 2022-10-09. A few tips for those of you working on this now:
     - Dr. Love used [this list of 13 things we're looking for](https://thomaselove.github.io/431-projectA-2022/proposal.html#grading-the-proposal-13-things-were-looking-for) to develop his rubric. Items 8 and 9 were especially problematic for some reason, so look at those closely.
     - Students who used the [Sample Project A Proposal](https://thomaselove.github.io/431-projectA-2022/exampleA.html) as a template, while removing the instructions that Dr. Love provided, produced relatively easy-to-work-with HTML files. That's important. Make it **easy for us to find your good work**!
     - Review your HTML file closely to ensure that you have no unnecessary messages, warnings, or problems with your table of contents, headings, figures or tables, and that your codebook (which should include both a table of states and a table of variables, as I did in [the Demo Cookbook](https://thomaselove.github.io/431-projectA-2022/data.html#demo-codebook)) looks nice.
