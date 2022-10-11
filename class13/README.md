@@ -47,6 +47,3 @@ The source for today's data is [Saliva or Nasopharyngeal Swab Specimens for Dete
 
 [Details are here](https://github.com/THOMASELOVE/theater#theater) and I've been told the show may eventually sell out. A recent update is that masks will **not** be required in the audience.
 
-## One Last Thing
-
-
