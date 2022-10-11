@@ -9,7 +9,7 @@
 | 119 | Bryan Abadie | - | Under Revision
 | 214 | Moein Amin and Karlo Toljan | - | Under Revision
 | 217	| Naji Ayyash and Millenia Zhou | - | Under Revision
-| 128 | Samantha Baker | Health and Social Factors Impacting Mental Health in the Great Lakes Region Using CHR-2022 | Received, To Be Reviewed
+| 128 | Samantha Baker | Health and Social Factors Impacting Mental Health in the Great Lakes Region Using CHR-2022 | **Received, To Be Reviewed**
 | 105 | Lithe Basbous | - | Under Revision
 | 222 | Seth Bauer and Jules Bakhos	| Predicting Preventable Hospital Stays with CHR-2022 | Accepted
 | 216 | Chris Benson and Lentlametse Mantshonyane | - | Under Revision
