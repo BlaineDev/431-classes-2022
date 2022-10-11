@@ -43,7 +43,7 @@ The source for today's data is [Saliva or Nasopharyngeal Swab Specimens for Dete
 3. Read Spiegelhalter through Chapter 6 (Algorithms, Analytics and Precision).
 4. [Lab 04](https://github.com/THOMASELOVE/431-labs-2022) is now due Monday 2022-10-24 (during Fall Break) at 9 PM, but you can do it today.
 
-## Dr. Love is in a musical, "Something Rotten", which runs from October 28 through November 19
+## Dr. Love is in a musical, "Something Rotten", which runs October 28 through November 19
 
 [Details are here](https://github.com/THOMASELOVE/theater#theater) and I've been told the show may eventually sell out. A recent update is that masks will **not** be required in the audience.
 
