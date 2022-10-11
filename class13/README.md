@@ -13,15 +13,15 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 ## Announcements
 
 1. Remember that we do not have class this Thursday 2022-10-13. Instead, you have a working day for your Project A proposal, which is due Friday 2022-10-14 at noon. Class 14 will be held on Tuesday 2022-10-18.
-2. On 2022-10-07, I tweaked the Answer Sketch and Grading Rubric for Lab 03 to make the rubric match up better with the findings for Question 3.
-3. Grades and Feedback on Lab 03 should be posted **by class time**.
+2. On 2022-10-07, I tweaked the Answer Sketch and Grading Rubric for Lab 03 on our Shared Drive to make the rubric match up better with the findings for Question 3.
+3. Grades and Feedback on Lab 03 are now available on the [Course Grading Roster](https://bit.ly/431-grades-2022) on our Shared Drive.
 4. I am moving the due date for Lab 4 back one week to Monday 2022-10-24 at 9 PM. We have already covered all of the material you need for Lab 4, but I wanted to give people a little more breathing room if they had a proposal revision for Project A. Note that 2022-10-24 is part of the University's Fall Break.
 5. Quiz 1 results and a full answer sketch should be available to you by Wednesday 2022-10-12 at 5 PM.
 6. I have added chapters 29-31 to the [Course Notes](https://thomaselove.github.io/431-notes/) providing additional details on residual plots for regression assumptions, partitioning and evaluating models with training and test samples, and more on the Western Collaborative Group Study from Chapter 17 of the Notes.
 
 ## Proposal for Project A
 
-Everyone who submitted an early [Proposal for Project A](https://thomaselove.github.io/431-projectA-2022/proposal.html) should have received feedback from me in email on Sunday 2022-10-09. A few tips for those of you working on this now:
+Everyone who submitted an early [Proposal for Project A](https://thomaselove.github.io/431-projectA-2022/proposal.html) should have received feedback from me in email on Sunday 2022-10-09, and [the list is here](https://github.com/THOMASELOVE/431-classes-2022/blob/main/projectA/early_prop.md). A few tips for those of you working on this now:
 
 - Dr. Love used [this list of 13 things we're looking for](https://thomaselove.github.io/431-projectA-2022/proposal.html#grading-the-proposal-13-things-were-looking-for) to develop his rubric. Items 8 and 9 were especially problematic for some reason, so look at those closely.
 - Students who used the [Sample Project A Proposal](https://thomaselove.github.io/431-projectA-2022/exampleA.html) as a template, while removing the instructions that Dr. Love provided, produced relatively easy-to-work-with HTML files. That's important. Make it **easy for us to find your good work**!
@@ -36,10 +36,17 @@ Everyone who submitted an early [Proposal for Project A](https://thomaselove.git
 
 The source for today's data is [Saliva or Nasopharyngeal Swab Specimens for Detection of SARS-CoV-2](https://www.nejm.org/doi/full/10.1056/NEJMc2016359) by Anne L. Wyllie, et al. N Engl J Med 2020; 383:1283-1286 [DOI: 10.1056/NEJMc2016359](https://www.nejm.org/doi/full/10.1056/NEJMc2016359) (2020-09-24).
 
-## What to Work On
+## What to Work On Before Our Next Class (Class 14: Tuesday 2022-10-18)
 
-To come.
+1. Your Project A proposal (due Friday 2022-10-14 at **NOON** if you haven't already received an Accept from Dr. Love: See [list of accepted proposals](https://github.com/THOMASELOVE/431-classes-2022/blob/main/projectA/early_prop.md) here.)
+2. Your Project A analyses (if your proposal has been Accepted by Dr. Love) - this is due 2022-10-31.
+3. Read Spiegelhalter through Chapter 6 (Algorithms, Analytics and Precision).
+4. Lab 4 now due Monday 2022-10-24 (during Fall Break) at 9 PM.
+
+## Dr. Love is in a musical, "Something Rotten", which runs from October 28 through November 19
+
+[Details are here](https://github.com/THOMASELOVE/theater#theater) and I've been told the show may eventually sell out. A recent update is that masks will **not** be required in the audience.
 
 ## One Last Thing
 
-To come.
+
