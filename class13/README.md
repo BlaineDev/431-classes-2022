@@ -19,6 +19,7 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 5. I am moving the due date for [Lab 04](https://github.com/THOMASELOVE/431-labs-2022) back one week to Monday 2022-10-24 at 9 PM. We have already covered all of the material you need for Lab 04, but I wanted to give people a little more breathing room while working on Project A. Note that 2022-10-24 is part of the University's Fall Break.
 6. Regarding Quiz 1, a full answer sketch (PDF) including question-by-question results is available to you on our Shared Drive in the Quiz 1 folder. I have completed all grading, as you'll see, and you'll receive your grade from me via email by noon Wednesday.
     - I'll draw attention to page 52 when we discuss this in class.
+    - **NOTE** After class, a student pointed out an error in the grading of Question 6, which I've now fixed in the document.
 7. I have added chapters 29-31 to the [Course Notes](https://thomaselove.github.io/431-notes/) providing additional details on residual plots for regression assumptions, partitioning and evaluating models with training and test samples, and more on the Western Collaborative Group Study from Chapter 17 of the Notes.
 8. There is no Minute Paper this week. The next Minute Paper will be after Class 14.
 
