@@ -13,9 +13,9 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 ## Announcements
 
 1. Remember that we do not have class this Thursday 2022-10-13. Instead, you have a working day for your Project A proposal, which is due Friday 2022-10-14 at noon. Class 14 will be held on Tuesday 2022-10-18.
-2. On 2022-10-07, I tweaked the Answer Sketch and Grading Rubric for Lab 03 on our Shared Drive to make the rubric match up better with the findings for Question 3.
+2. On 2022-10-07, I tweaked the Answer Sketch and Grading Rubric for [Lab 03](https://github.com/THOMASELOVE/431-labs-2022) on our Shared Drive to make the rubric match up better with the findings for Question 3.
 3. Grades and Feedback on Lab 03 are now available on the [Course Grading Roster](https://bit.ly/431-grades-2022) on our Shared Drive.
-4. I am moving the due date for Lab 4 back one week to Monday 2022-10-24 at 9 PM. We have already covered all of the material you need for Lab 4, but I wanted to give people a little more breathing room if they had a proposal revision for Project A. Note that 2022-10-24 is part of the University's Fall Break.
+4. I am moving the due date for [Lab 04](https://github.com/THOMASELOVE/431-labs-2022) back one week to Monday 2022-10-24 at 9 PM. We have already covered all of the material you need for Lab 04, but I wanted to give people a little more breathing room while working on Project A. Note that 2022-10-24 is part of the University's Fall Break.
 5. Quiz 1 results and a full answer sketch should be available to you by Wednesday 2022-10-12 at 5 PM.
 6. I have added chapters 29-31 to the [Course Notes](https://thomaselove.github.io/431-notes/) providing additional details on residual plots for regression assumptions, partitioning and evaluating models with training and test samples, and more on the Western Collaborative Group Study from Chapter 17 of the Notes.
 
@@ -38,10 +38,10 @@ The source for today's data is [Saliva or Nasopharyngeal Swab Specimens for Dete
 
 ## What to Work On Before Our Next Class (Class 14: Tuesday 2022-10-18)
 
-1. Your Project A proposal (due Friday 2022-10-14 at **NOON** if you haven't already received an Accept from Dr. Love: See [list of accepted proposals](https://github.com/THOMASELOVE/431-classes-2022/blob/main/projectA/early_prop.md) here.)
-2. Your Project A analyses (if your proposal has been Accepted by Dr. Love) - this is due 2022-10-31.
+1. Your [Project A proposal](https://thomaselove.github.io/431-projectA-2022/proposal.html) (due Friday 2022-10-14 at **NOON** if you haven't already received an Accept from Dr. Love: See [list of accepted proposals](https://github.com/THOMASELOVE/431-classes-2022/blob/main/projectA/early_prop.md) here.)
+2. Your [Project A analyses](https://thomaselove.github.io/431-projectA-2022/analyses.html) (if your proposal has been [Accepted by Dr. Love]((https://github.com/THOMASELOVE/431-classes-2022/blob/main/projectA/early_prop.md) here.)) - your [final Project A submission](https://thomaselove.github.io/431-projectA-2022/report.html) is due 2022-10-31 at 9 PM.
 3. Read Spiegelhalter through Chapter 6 (Algorithms, Analytics and Precision).
-4. Lab 4 now due Monday 2022-10-24 (during Fall Break) at 9 PM.
+4. [Lab 04](https://github.com/THOMASELOVE/431-labs-2022) is now due Monday 2022-10-24 (during Fall Break) at 9 PM, but you can do it today.
 
 ## Dr. Love is in a musical, "Something Rotten", which runs from October 28 through November 19
 
