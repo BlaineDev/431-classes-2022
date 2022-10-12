@@ -9,7 +9,7 @@
 | 119 | Bryan Abadie | Are High School Graduation Rates affected by Social Factors? | **Received, To Be Reviewed**
 | 214 | Moein Amin and Karlo Toljan | - | Under Revision
 | 217	| Naji Ayyash and Millenia Zhou | - | Under Revision
-| 128 | Samantha Baker | Health and Social Factors Impacting Mental Health in the Great Lakes Region Using CHR-2022 | **Received, To Be Reviewed**
+| 128 | Samantha Baker | Factors Impacting Mental Health in the Great Lakes Region Using CHR-2022 | Under Revision for FRI/MON
 | 105 | Lithe Basbous | - | Under Revision
 | 222 | Seth Bauer and Jules Bakhos	| Predicting Preventable Hospital Stays with CHR-2022 | Accepted
 | 216 | Chris Benson and Lentlametse Mantshonyane | - | Under Revision
@@ -33,5 +33,5 @@
 | 118 | Samuel Rodgers-Melnick | Behavioral and Environmental Predictors of Poor Mental Health in the Rust Belt | Accepted
 | 101 | Shwetank Singh | - | Under Revision
 | 123 | Neha Solanki | - | Under Revision
-| 129 | Xinyu Sun | Quality of Life & Economic Factors on Life Expectency in the Great Lakes Region | **Received, To Be Reviewed**
+| 129 | Xinyu Sun | Quality of Life and Economic Factors and Great Lakes Region Life Expectancy | Accepted
 | 124 | Max Tjen | Investigating Diabetes Prevalence: the Most Influential Factors | Accepted
