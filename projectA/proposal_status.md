@@ -31,7 +31,7 @@
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
-| 8 | Lithe Basbous | - | Under Review by Dr. Love
+| 8 | Lithe Basbous | Life expectancy influence by socioeconomic and mental status | Under Review by Dr. Love
 
 ## Proposals Under Revision or Development (due Friday 2022-10-14 at NOON)
 
