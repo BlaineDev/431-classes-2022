@@ -30,16 +30,16 @@
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
-| 2 | Samer Alanazi | - | Under Review
 | 51 | Faruk Senturk | - | Under Review
 
 ## Proposals Under Revision or Development (due Friday 2022-10-14 at NOON)
 
-| ID | Investigator(s) | Project Title 
-| --: | :-------------: | :--------------------------: | 
+| ID | Investigator(s) | Project Title | Status
+| --: | :-------------: | :--------------------------: | :-------: |
+| 2 | Samer Alanazi | - | Returned for Revision 10-13
 | 4	| Naji Ayyash and Millenia Zhou | - | 
 | 7 | Sarah Barker | - | 
-| 8 | Lithe Basbous | - |
+| 8 | Lithe Basbous | - | Returned for Revision 10-13
 | 10 | Chris Benson and Lentlametse Mantshonyane | - | 
 | 11 | Alison Berry | - | 
 | 12 | Shubho Das | - |
