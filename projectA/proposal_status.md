@@ -24,11 +24,10 @@
 | 54 | Xinyu Sun | Quality of Life and Economic Factors and Great Lakes Region Life Expectancy | Accepted
 | 55 | Max Tjen | Investigating Diabetes Prevalence: the Most Influential Factors | Accepted
 
-## Proposals Awaiting Review by Dr. Love (n = 1)
+## Proposals Awaiting Review by Dr. Love (n = 0)
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
-| 8 | Lithe Basbous | Life expectancy influence by socioeconomic and mental status | **Received, To Be Reviewed**
 
 ## Proposals Under Revision or Development (due Friday 2022-10-14 at NOON)
 
@@ -38,6 +37,7 @@
 | 3 | Moein Amin and Karlo Toljan | - |
 | 4	| Naji Ayyash and Millenia Zhou | - | 
 | 7 | Sarah Barker | - | 
+| 8 | Lithe Basbous | - |
 | 10 | Chris Benson and Lentlametse Mantshonyane | - | 
 | 11 | Alison Berry | - | 
 | 12 | Shubho Das | - |
