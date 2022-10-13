@@ -30,18 +30,18 @@
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
-| 51 | Faruk Senturk | - | Under Review
+| 51 | Faruk Senturk | The Effect of Financial Insecurity on the Quality of Health | Under Review
 
 ## Proposals Under Revision or Development (due Friday 2022-10-14 at NOON)
 
 | ID | Investigator(s) | Project Title | Status
 | --: | :-------------: | :--------------------------: | :-------: |
-| 2 | Samer Alanazi | - | Returned for Revision 10-13
-| 4	| Naji Ayyash and Millenia Zhou | - | 
+| 2 | Samer Alanazi | - | Revision Requested: 2022-10-13
+| 4	| Naji Ayyash and Millenia Zhou | - | Revision Requested: 2022-10-09
 | 7 | Sarah Barker | - | 
-| 8 | Lithe Basbous | - | Returned for Revision 10-13
-| 10 | Chris Benson and Lentlametse Mantshonyane | - | 
-| 11 | Alison Berry | - | 
+| 8 | Lithe Basbous | - | Revision Requested: 2022-10-13
+| 10 | Chris Benson and Lentlametse Mantshonyane | - | Revision Requested: 2022-10-09
+| 11 | Alison Berry | - | Revision Requested: 2022-10-09
 | 12 | Shubho Das | - |
 | 13 | Tarek ElShebiny | - |
 | 14 | Yinglun Geng | - |
@@ -49,26 +49,26 @@
 | 18 | Heidi Gullett | - |
 | 19 | Alex Gurgis | - | 
 | 20 | Katie Hassett | - | 
-| 21 | Benjamin Heifetz | - | 
+| 21 | Benjamin Heifetz | - | Revision Requested: 2022-10-09
 | 23 | Toby Jin | - |
-| 24 | Naveen Kannan | - | 
+| 24 | Naveen Kannan | - | Revision Requested: 2022-10-09
 | 26 | Rupleen Kaur | - |
 | 28 | Dan Kingsley | - |
 | 30 | Keisi Kotobelli | - |
-| 32 | Tian Liu and Fang Wang | - | 
-| 34 | Valeria Martinez Tenorio | - | 
+| 32 | Tian Liu and Fang Wang | - | Revision Requested: 2022-10-09
+| 34 | Valeria Martinez Tenorio | - | Revision Requested: 2022-10-09
 | 35 | Lydia Masar | - | 
 | 36 | Marie Matsoya | - |
 | 37 | Sarah McNeer | - | 
 | 38 | Emiko Miller | - |
 | 39 | Sid Mittal | - |
 | 42 | Anya Nazarenko | - |
-| 43 | An Nguyen | - | 
+| 43 | An Nguyen | - | Revision Requested: 2022-10-09
 | 47 | Kim Robbins | - |
 | 49 | Miza Salim-Hammoud | - |
 | 50 | Hossam Sarhan | - |
-| 52 | Shwetank Singh | - | 
-| 53 | Neha Solanki | - | 
+| 52 | Shwetank Singh | - | Revision Requested: 2022-10-09
+| 53 | Neha Solanki | - | Revision Requested: 2022-10-09
 | 58 | Savannah Wu | - |
 | 59 | Meredith Zhang | - | 
 | 60 | Qihao (Robby) Zhang | - |
