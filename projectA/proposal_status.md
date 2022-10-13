@@ -4,7 +4,7 @@
 
 [Here is the list of the 13 "things" Dr. Love is looking for](https://thomaselove.github.io/431-projectA-2022/proposal.html#grading-the-proposal-13-things-were-looking-for) in reviewing your work. See [the Class 13 README](https://github.com/THOMASELOVE/431-classes-2022/blob/main/class13/README.md) for some additional advice as you prepare your proposal.
 
-## Accepted Proposals (n = 17)
+## Accepted Proposals (n = 18)
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
@@ -23,14 +23,14 @@
 | 41 | Hala Nas | Environmental Factors and Reported Poor Health in CHR-2022 | Accepted
 | 46 | Sameer Prasada |	Poor Mental Health Days in Midwestern States: CHR-2022 | Accepted
 | 48 | Samuel Rodgers-Melnick | Behavioral and Environmental Predictors of Poor Mental Health in the Rust Belt | Accepted
+| 51 | Faruk Senturk | The Effect of Financial Insecurity on the Quality of Health | Accepted
 | 54 | Xinyu Sun | Quality of Life and Economic Factors and Great Lakes Region Life Expectancy | Accepted
 | 55 | Max Tjen | Investigating Diabetes Prevalence: the Most Influential Factors | Accepted
 
-## Proposals Awaiting Review by Dr. Love (n = 2)
+## Proposals Awaiting Review by Dr. Love (n = 0)
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
-| 51 | Faruk Senturk | The Effect of Financial Insecurity on the Quality of Health | Under Review
 
 ## Proposals Under Revision or Development (due Friday 2022-10-14 at NOON)
 
