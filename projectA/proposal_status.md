@@ -24,10 +24,11 @@
 | 54 | Xinyu Sun | Quality of Life and Economic Factors and Great Lakes Region Life Expectancy | Accepted
 | 55 | Max Tjen | Investigating Diabetes Prevalence: the Most Influential Factors | Accepted
 
-## Proposals Awaiting Review by Dr. Love (n = 0)
+## Proposals Awaiting Review by Dr. Love (n = 1)
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
+| 41 | Hala Nas | Environmental Factors and Reported Poor Health in CHR-2022 | **Under Review by TEL**
 
 ## Proposals Under Revision or Development (due Friday 2022-10-14 at NOON)
 
@@ -49,7 +50,7 @@
 | 20 | Katie Hassett | - | 
 | 21 | Benjamin Heifetz | - | 
 | 23 | Toby Jin | - |
-| 24 |	Naveen Kannan | - | 
+| 24 | Naveen Kannan | - | 
 | 26 | Rupleen Kaur | - |
 | 28 | Dan Kingsley | - |
 | 30 | Keisi Kotobelli | - |
@@ -60,7 +61,6 @@
 | 37 | Sarah McNeer | - | 
 | 38 | Emiko Miller | - |
 | 39 | Sid Mittal | - |
-| 41 | Hala Nas | - | 
 | 42 | Anya Nazarenko | - |
 | 43 | An Nguyen | - | 
 | 47 | Kim Robbins | - |
