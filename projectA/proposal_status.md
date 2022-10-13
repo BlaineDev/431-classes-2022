@@ -18,9 +18,9 @@
 | 25 | Sahana Kannan and Sajan Patel |	Factors Influencing Preventable Hospital Stays | Accepted
 | 27 | Aqsa Khan	| Predicting Life Expectancy by Social Determinants of Health in the Midwest | Accepted
 | 29 | Beverly Koepf | Children in Poverty with Educated Families | Accepted
-| 31 | Anthony Orsino | Predicting Low Birth Weight in a Politically Representative State Cohort | Accepted
 | 40 | Ben Mittman | Relationships Between Community-Level Factors and Life Expectancy in CHR-2022 | Accepted
 | 41 | Hala Nas | Environmental Factors and Reported Poor Health in CHR-2022 | Accepted
+| 44 | Anthony Orsino | Predicting Low Birth Weight in a Politically Representative State Cohort | Accepted
 | 46 | Sameer Prasada |	Poor Mental Health Days in Midwestern States: CHR-2022 | Accepted
 | 48 | Samuel Rodgers-Melnick | Behavioral and Environmental Predictors of Poor Mental Health in the Rust Belt | Accepted
 | 51 | Faruk Senturk | The Effect of Financial Insecurity on the Quality of Health | Accepted
