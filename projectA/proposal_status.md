@@ -4,7 +4,7 @@
 
 [Here is the list of the 13 "things" Dr. Love is looking for](https://thomaselove.github.io/431-projectA-2022/proposal.html#grading-the-proposal-13-things-were-looking-for) in reviewing your work. See [the Class 13 README](https://github.com/THOMASELOVE/431-classes-2022/blob/main/class13/README.md) for some additional advice as you prepare your proposal.
 
-## Accepted Proposals (n = 12)
+## Accepted Proposals (n = 13)
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
@@ -16,19 +16,19 @@
 | 25 | Sahana Kannan and Sajan Patel |	Factors Influencing Preventable Hospital Stays | Accepted
 | 27 | Aqsa Khan	| Predicting Life Expectancy by Social Determinants of Health in the Midwest | Accepted
 | 31 | Anthony Orsino | Predicting Low Birth Weight in a Politically Representative State Cohort | Accepted
+| 40 | Ben Mittman | Relationships Between Community-Level Factors and Life Expectancy in CHR-2022 | Accepted
 | 46 | Sameer Prasada |	Poor Mental Health Days in Midwestern States: CHR-2022 | Accepted
 | 48 | Samuel Rodgers-Melnick | Behavioral and Environmental Predictors of Poor Mental Health in the Rust Belt | Accepted
 | 54 | Xinyu Sun | Quality of Life and Economic Factors and Great Lakes Region Life Expectancy | Accepted
 | 55 | Max Tjen | Investigating Diabetes Prevalence: the Most Influential Factors | Accepted
 
-## Proposals Awaiting Review by Dr. Love (n = 4)
+## Proposals Awaiting Review by Dr. Love (n = 3)
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
 | 1 | Bryan Abadie | Are High School Graduation Rates affected by Social Factors? | **Received, To Be Reviewed**
 | 8 | Lithe Basbous | Life expectancy influence by socioeconomic and mental status | **Received, To Be Reviewed**
 | 29 | Beverly Koepf | Children in Poverty with Educated Families | **Received, To Be Reviewed**
-| 40 | Ben Mittman | Relationships Between Community-Level Factors and Life Expectancy in CHR-2022 | **Received, To Be Reviewed**
 
 ## Proposals Under Revision or Development (due Friday 2022-10-14 at NOON)
 
