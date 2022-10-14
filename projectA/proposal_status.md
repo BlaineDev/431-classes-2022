@@ -11,25 +11,25 @@
 | 30 | Keisi Kotobelli | Social and Economic Factors Influencing Child Poverty | To be reviewed on Friday morning
 | 47 | Kim Robbins | - | To be reviewed on Friday
 
-## Proposals Under Revision/Development (due Friday 2022-10-14 at NOON: n = 17 students)
+## Proposals Under Revision/Development (n = 17 students)
 
 | ID | Investigator(s) | Deadline | Status
 | --: | :-------------: | :--------------------------: | :-------: |
-| 7 | Sarah Barker | Fri 2022-10-14 Noon | Awaiting Initial Submission
-| 11 | Alison Berry | Fri 2022-10-14 Noon | Revision Requested: 2022-10-09
-| 13 | Tarek ElShebiny | Fri 2022-10-14 Noon | Awaiting Initial Submission
+| 7 | Sarah Barker | **Fri 2022-10-14 Noon** | Awaiting Initial Submission
+| 11 | Alison Berry | **Fri 2022-10-14 Noon** | Revision Requested: 2022-10-09
+| 13 | Tarek ElShebiny | **Fri 2022-10-14 Noon** | Awaiting Initial Submission
 | 14 | Yinglun Geng and Qihao (Robby) Zhang | Tue 2022-10-19 9 AM | Revision Requested 2022-10-14 10 AM
-| 17 | Sarah Grabinski | Fri 2022-10-14 Noon | Awaiting Initial Submission
+| 17 | Sarah Grabinski | **Fri 2022-10-14 Noon** | Awaiting Initial Submission
 | 18 | Heidi Gullett | - | Awaiting Initial Submission
 | 19 | Alex Gurgis | - | Awaiting Initial Submission
 | 36 | Marie Masotya | Tue 2022-10-19 9 AM | Revision Requested: 2022-10-13
 | 38 | Emiko Miller | Tue 2022-10-19 9 AM | Revision Requested: 2022-10-13
 | 39 | Siddharth Mittal | Tue 2022-10-19 9 AM | Revision Requested: 2022-10-14 10:30 AM
-| 43 | An Nguyen | Fri 2022-10-14 Noon | Revision Requested: 2022-10-09
+| 43 | An Nguyen | **Fri 2022-10-14 Noon** | Revision Requested: 2022-10-09
 | 49 | Miza Salim-Hammoud and Hossam Sarhan | Tue 2022-10-19 9 AM | Revision Requested: 2022-10-14 9:40 AM
 | 53 | Neha Solanki | Tue 2022-10-19 9 AM | Revision Requested: 2022-10-14 9 AM
-| 58 | Savannah Wu | Fri 2022-10-14 Noon | Awaiting Initial Submission
-| 59 | Meredith Zhang | Fri 2022-10-14 Noon | Awaiting Initial Submission
+| 58 | Savannah Wu | **Fri 2022-10-14 Noon** | Awaiting Initial Submission
+| 59 | Meredith Zhang | **Fri 2022-10-14 Noon** | Awaiting Initial Submission
 
 ## Accepted Proposals (n = 33 proposals, 42/61 students)
 
