@@ -8,9 +8,10 @@
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
-| 14 | Yinglun Geng and Qihao (Robby) Zhang | Factors affecting life expectancies in five mid-west States | To be reviewed on Friday morning
+| 52 | Shwetank Singh | Teenage pregnancy and assosciated factors | To be reviewed on Friday morning
 | 39 | Siddharth Mittal | Predicting Life Expectancy using Social and Health Factors | To be reviewed on Friday morning
 | 30 | Keisi Kotobelli | Social and Economic Factors Influencing Child Poverty | To be reviewed on Friday morning
+| 47 | Kim Robbins | - | To be reviewed on Friday
 
 ## Proposals Under Revision/Development (due Friday 2022-10-14 at NOON: n = 16 students)
 
@@ -19,15 +20,14 @@
 | 7 | Sarah Barker | - | 
 | 11 | Alison Berry | - | Revision Requested: 2022-10-09
 | 13 | Tarek ElShebiny | - |
+| 14 | Yinglun Geng and Qihao (Robby) Zhang | - | Revision Requested 2022-10-14 10 AM
 | 17 | Sarah Grabinski | - |
 | 18 | Heidi Gullett | - |
 | 19 | Alex Gurgis | - | 
 | 36 | Marie Masotya | - | Revision Requested: 2022-10-13
 | 38 | Emiko Miller | - | Revision Requested: 2022-10-13
 | 43 | An Nguyen | - | Revision Requested: 2022-10-09
-| 47 | Kim Robbins | - |
 | 49 | Miza Salim-Hammoud and Hossam Sarhan | - | Revision Requested: 2022-10-14 9:40 AM
-| 52 | Shwetank Singh | - | Revision Requested: 2022-10-09
 | 53 | Neha Solanki | - | Revision Requested: 2022-10-14 9 AM
 | 58 | Savannah Wu | - |
 | 59 | Meredith Zhang | - | 
