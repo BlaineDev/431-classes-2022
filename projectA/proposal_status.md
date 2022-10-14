@@ -8,7 +8,6 @@
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
-| 39 | Siddharth Mittal | Predicting Life Expectancy using Social and Health Factors | To be reviewed on Friday morning
 | 30 | Keisi Kotobelli | Social and Economic Factors Influencing Child Poverty | To be reviewed on Friday morning
 | 47 | Kim Robbins | - | To be reviewed on Friday
 
@@ -25,6 +24,7 @@
 | 19 | Alex Gurgis | - | 
 | 36 | Marie Masotya | - | Revision Requested: 2022-10-13
 | 38 | Emiko Miller | - | Revision Requested: 2022-10-13
+| 39 | Siddharth Mittal | - | Revision Requested: 2022-10-14 10:30 AM
 | 43 | An Nguyen | - | Revision Requested: 2022-10-09
 | 49 | Miza Salim-Hammoud and Hossam Sarhan | - | Revision Requested: 2022-10-14 9:40 AM
 | 53 | Neha Solanki | - | Revision Requested: 2022-10-14 9 AM
