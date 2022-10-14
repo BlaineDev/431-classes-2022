@@ -8,6 +8,7 @@
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
+| 8 | Lithe Basbous | Socioeconomic and mental statuses’ relationship to life expectancy | To be reviewed on Friday after 9 AM
 
 ## Accepted Proposals (n = 30 proposals, 39/61 students)
 
@@ -44,12 +45,11 @@
 | 54 | Xinyu Sun | Quality of Life and Economic Factors and Great Lakes Region Life Expectancy | Accepted
 | 55 | Max Tjen | Investigating Diabetes Prevalence: the Most Influential Factors | Accepted
 
-## Proposals Under Revision or Development (due Friday 2022-10-14 at NOON: n = 22 students)
+## Proposals Under Revision/Development (due Friday 2022-10-14 at NOON: n = 21 students)
 
 | ID | Investigator(s) | Project Title | Status
 | --: | :-------------: | :--------------------------: | :-------: |
 | 7 | Sarah Barker | - | 
-| 8 | Lithe Basbous | - | Revision Requested: 2022-10-13 9:20 PM
 | 11 | Alison Berry | - | Revision Requested: 2022-10-09
 | 13 | Tarek ElShebiny | - |
 | 14 | Yinglun Geng | - |
