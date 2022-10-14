@@ -31,12 +31,14 @@
 | 54 | Xinyu Sun | Quality of Life and Economic Factors and Great Lakes Region Life Expectancy | Accepted
 | 55 | Max Tjen | Investigating Diabetes Prevalence: the Most Influential Factors | Accepted
 
-## Proposals Awaiting Review by Dr. Love (n = 3)
+## Proposals Awaiting Review by Dr. Love (n = 5)
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
 | 20 | Katie Hassett | Healthcare and Socioeconomic Predictors of Shorter Life Expectancy in Midwest States using CHR-2022 | Under Review by Dr. Love
+| 28 | Dan Kingsley and Sarah McNeer | Assessing Life Expectancy by Geographical Region | Under Review by Dr. Love
 | 36 | Marie Matsoya | Life Expectancy and Health Factors in Counties in Ohio and Surrounding States in CHR-2022 | Under Review by Dr. Love
+| 38 | Emiko Miller | Relationship between health and life expectancy in states adjacent to the Great Lakes | Under Review by Dr. Love
 | 42 | Anya Nazarenko | Poverty and Pollution Exposure as Predictors of Premature Death in American Appalachia | Under Review by Dr. Love
 
 ## Proposals Under Revision or Development (due Friday 2022-10-14 at NOON)
@@ -56,12 +58,9 @@
 | 21 | Benjamin Heifetz | - | Revision Requested: 2022-10-09
 | 23 | Toby Jin | - |
 | 26 | Rupleen Kaur | - |
-| 28 | Dan Kingsley | - |
 | 30 | Keisi Kotobelli | - |
 | 32 | Tian Liu and Fang Wang | - | Revision Requested: 2022-10-09
 | 35 | Lydia Masar | - | 
-| 37 | Sarah McNeer | - | 
-| 38 | Emiko Miller | - |
 | 39 | Sid Mittal | - |
 | 43 | An Nguyen | - | Revision Requested: 2022-10-09
 | 47 | Kim Robbins | - |
