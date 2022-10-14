@@ -8,7 +8,7 @@
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
-| 7 | Sarah Barker | Predicting Poor Mental Health Days in Blue and Red Staes with CHR-22 | To be reviewed on Friday 2022-10-14
+| 7 | Sarah Barker | Predicting Poor Mental Health Days in Blue and Red States with CHR-22 | To be reviewed on Friday 2022-10-14
 | 59 | Meredith Zhang | Mental Health in the Midwest | To be reviewed on Friday 2022-10-14
 | 58 | Savannah Wu | Health Behaviors and Longevity | To be reviewed on Friday 2022-10-14
 | 13 | Tarek ElShebiny | Title will need revision | To be reviewed on Friday 2022-10-14
