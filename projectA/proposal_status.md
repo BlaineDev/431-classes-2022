@@ -8,10 +8,10 @@
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
+| 49 | Miza Salim-Hammoud and <br /> Hossam Sarhan | Factors Affecting Life Expectancy in Midwestern States | To be reviewed Friday 2022-10-14
 | 59 | Meredith Zhang | Mental Health in the Midwest | To be reviewed Friday 2022-10-14
 | 58 | Savannah Wu | Health Behaviors and Longevity | To be reviewed Friday 2022-10-14
 | 17 | Sarah Grabinski | Title will need revision | To be reviewed Friday 2022-10-14
-| 49 | Miza Salim-Hammoud and <br /> Hossam Sarhan | Factors Affecting Life Expectancy in Midwestern States | To be reviewed Friday 2022-10-14
 
 ## Proposals Under Revision/Development (8 proposals and 10 students)
 
