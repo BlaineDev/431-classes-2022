@@ -4,7 +4,7 @@
 
 [Here is the list of the 13 "things" Dr. Love is looking for](https://thomaselove.github.io/431-projectA-2022/proposal.html#grading-the-proposal-13-things-were-looking-for) in reviewing your work. See [the Class 13 README](https://github.com/THOMASELOVE/431-classes-2022/blob/main/class13/README.md) for some additional advice as you prepare your proposal.
 
-## Accepted Proposals (n = 26)
+## Accepted Proposals (n = 27)
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
@@ -14,6 +14,7 @@
 | 5 | Samantha Baker | Factors Impacting Mental Health in the Great Lakes Region Using CHR-2022 | Accepted
 | 6 | Seth Bauer and Jules Bakhos	| Predicting Preventable Hospital Stays with CHR-2022 | Accepted
 | 10 | Chris Benson and Lentlametse Mantshonyane | How do Social and Economic Factors affect High School Completion Rates | Accepted
+| 12 | Shubho Das and Toby Jin | Factors that Affect Life Expectancy Across the United States | Accepted 
 | 15 | Izzy Genuario	| Social Factors and Teen Birth Rate using CHR-2022 | Accepted
 | 16 | Pedram Golnari | Health Factors Affecting the Life Expectancy in the US | Accepted
 | 20 | Katie Hassett | Healthcare and Socioeconomic Predictors of Life Expectancy in Midwest Counties | Accepted
@@ -39,7 +40,6 @@
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
-| 12 | Shubho Das and Toby Jin | Factors that Affect Life Expectancy Across the United States | To Be Reviewed Friday 
 | 35 | Lydia Masar | Multi-state Analysis of Behavioral Factors Potentially Associated with Suicide | To Be Reviewed Friday
 | 32 | Tian Liu and Fang Wang | Investigation of the Violent Crime Situation using CHR-2022 | To Be Reviewed Friday
 
