@@ -4,16 +4,15 @@
 
 [Here is the list of the 13 "things" Dr. Love is looking for](https://thomaselove.github.io/431-projectA-2022/proposal.html#grading-the-proposal-13-things-were-looking-for) in reviewing your work. See [the Class 13 README](https://github.com/THOMASELOVE/431-classes-2022/blob/main/class13/README.md) for some additional advice as you prepare your proposal.
 
-## Submitted Proposals Awaiting Review by Dr. Love (4 proposals and 5 students)
+## Submitted Proposals Awaiting Review by Dr. Love (3 proposals and 3 students)
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
-| 49 | Miza Salim-Hammoud and <br /> Hossam Sarhan | Factors Affecting Life Expectancy in Midwestern States | To be reviewed Friday 2022-10-14
 | 59 | Meredith Zhang | Mental Health in the Midwest | To be reviewed Friday 2022-10-14
 | 58 | Savannah Wu | Health Behaviors and Longevity | To be reviewed Friday 2022-10-14
 | 17 | Sarah Grabinski | Title will need revision | To be reviewed Friday 2022-10-14
 
-## Proposals Under Revision/Development (8 proposals and 10 students)
+## Proposals Under Revision/Development (9 proposals, 12 students)
 
 | ID | Investigator(s) | Deadline | Last Review by TEL
 | --: | :-------------: | :--------------------------: | :-------: |
@@ -24,6 +23,7 @@
 | 18 | Heidi Gullett | - | Awaiting Initial Submission
 | 36 | Marie Masotya | Tue 2022-10-18 9 AM | 2022-10-13
 | 39 | Siddharth Mittal | Tue 2022-10-18 9 AM | 2022-10-14 10:30 AM
+| 49 | Miza Salim-Hammoud and Hossam Sarhan | Tue 2022-10-18 9 AM | 2022-10-14 2:20 PM
 | 53 | Neha Solanki | Tue 2022-10-18 9 AM | 2022-10-14 9 AM
 
 ## Accepted Proposals (n = 37 proposals, 46/61 students)
