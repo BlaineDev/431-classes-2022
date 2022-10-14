@@ -4,28 +4,27 @@
 
 [Here is the list of the 13 "things" Dr. Love is looking for](https://thomaselove.github.io/431-projectA-2022/proposal.html#grading-the-proposal-13-things-were-looking-for) in reviewing your work. See [the Class 13 README](https://github.com/THOMASELOVE/431-classes-2022/blob/main/class13/README.md) for some additional advice as you prepare your proposal.
 
-## Submitted Proposals Awaiting Review by Dr. Love (in the order I'll review them)
+## Submitted Proposals Awaiting Review by Dr. Love 
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
+| 43 | An Nguyen | Predicting Population Obesity in selected states across America with CHR-2022 | To be reviewed on Friday 2022-10-14
 | 59 | Meredith Zhang | Mental Health in the Midwest | To be reviewed on Friday 2022-10-14
 | 58 | Savannah Wu | Health Behaviors and Longevity | To be reviewed on Friday 2022-10-14
-| 13 | Tarek ElShebiny | Title will need revision | To be reviewed on Friday 2022-10-14
+| 13 | Tarek ElShebiny and Alex Gurgis | Title will need revision | To be reviewed on Friday 2022-10-14
+| 17 | Sarah Grabinski | Title will need revision | To be reviewed on Friday 2022-10-14
+| 49 | Miza Salim-Hammoud and Hossam Sarhan | Factors Affecting Life Expectancy in Midwestern States | To be reviewed on Friday 2022-10-14
 
-## Proposals Under Revision/Development (n = 13 students)
+## Proposals Under Revision/Development (n = 8 students)
 
 | ID | Investigator(s) | Deadline | Status
 | --: | :-------------: | :--------------------------: | :-------: |
 | 7 | Sarah Barker | Tue 2022-10-18 9 AM | Revision Requested 2022-10-14 11:50 AM
 | 11 | Alison Berry | **Fri 2022-10-14 Noon** | Revision Requested: 2022-10-09
 | 14 | Yinglun Geng and Qihao (Robby) Zhang | Tue 2022-10-18 9 AM | Revision Requested 2022-10-14 10 AM
-| 17 | Sarah Grabinski | **Fri 2022-10-14 Noon** | Awaiting Initial Submission
 | 18 | Heidi Gullett | - | Awaiting Initial Submission
-| 19 | Alex Gurgis | - | Awaiting Initial Submission
 | 36 | Marie Masotya | Tue 2022-10-18 9 AM | Revision Requested: 2022-10-13
 | 39 | Siddharth Mittal | Tue 2022-10-18 9 AM | Revision Requested: 2022-10-14 10:30 AM
-| 43 | An Nguyen | **Fri 2022-10-14 Noon** | Revision Requested: 2022-10-09
-| 49 | Miza Salim-Hammoud and Hossam Sarhan | **Fri 2022-10-14 Noon** | Title & YAML change Requested: <br /> 2022-10-14 9:40 AM and again 11:30 AM
 | 53 | Neha Solanki | Tue 2022-10-18 9 AM | Revision Requested: 2022-10-14 9 AM
 
 ## Accepted Proposals (n = 36 proposals, 45/61 students)
