@@ -20,7 +20,7 @@
 | ID | Investigator(s) | Deadline | Status
 | --: | :-------------: | :--------------------------: | :-------: |
 | 7 | Sarah Barker | Tue 2022-10-18 9 AM | Revision Requested 2022-10-14 11:50 AM
-| 11 | Alison Berry | **Fri 2022-10-14 Noon** | Revision Requested: 2022-10-09
+| 11 | Alison Berry | **Fri 2022-10-14 Noon** | HTML file requested 2022-10-14 12:10 PM
 | 14 | Yinglun Geng and Qihao (Robby) Zhang | Tue 2022-10-18 9 AM | Revision Requested 2022-10-14 10 AM
 | 18 | Heidi Gullett | - | Awaiting Initial Submission
 | 36 | Marie Masotya | Tue 2022-10-18 9 AM | Revision Requested: 2022-10-13
