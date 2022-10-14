@@ -8,7 +8,6 @@
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
-| 8 | Lithe Basbous | Socioeconomic and mental statuses’ relationship to life expectancy | To be reviewed on Friday morning
 | 53 | Neha Solanki | Association of Air Pollution with Public Health | To be reviewed on Friday morning
 | 26 | Rupleen Kaur | Factors affecting Diabetes Prevelance in North-Eastern States | To be reviewed on Friday morning
 | 14 | Yinglun Geng and Qihao (Robby) Zhang | Factors affecting life expectancies in five mid-west States | To be reviewed on Friday morning
@@ -35,7 +34,7 @@
 | 58 | Savannah Wu | - |
 | 59 | Meredith Zhang | - | 
 
-## Accepted Proposals (n = 30 proposals, 39/61 students)
+## Accepted Proposals (n = 31 proposals, 40/61 students)
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
@@ -45,6 +44,7 @@
 | 4	| Naji Ayyash and Millenia Zhou | Studying Premature Deaths in Five States | Accepted
 | 5 | Samantha Baker | Factors Impacting Mental Health in the Great Lakes Region Using CHR-2022 | Accepted
 | 6 | Seth Bauer and Jules Bakhos	| Predicting Preventable Hospital Stays with CHR-2022 | Accepted
+| 8 | Lithe Basbous | Life Expectancy and its relation to socioeconomic and health status | Accepted
 | 10 | Chris Benson and Lentlametse Mantshonyane | How do Social and Economic Factors affect High School Completion Rates | Accepted
 | 12 | Shubho Das and Toby Jin | Factors that Affect Life Expectancy Across the United States | Accepted 
 | 15 | Izzy Genuario	| Social Factors and Teen Birth Rate using CHR-2022 | Accepted
