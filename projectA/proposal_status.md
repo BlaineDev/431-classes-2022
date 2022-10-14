@@ -13,13 +13,13 @@
 | 13 | Tarek ElShebiny and <br /> Alex Gurgis | Title will need revision | To be reviewed Friday 2022-10-14
 | 17 | Sarah Grabinski | Title will need revision | To be reviewed Friday 2022-10-14
 | 49 | Miza Salim-Hammoud and <br /> Hossam Sarhan | Factors Affecting Life Expectancy in Midwestern States | To be reviewed Friday 2022-10-14
-| 11 | Alison Berry | West Coast Vs. Midwest | To be reviewed Friday 2022-10-14
 
 ## Proposals Under Revision/Development (n = 7 students)
 
 | ID | Investigator(s) | Deadline | Status
 | --: | :-------------: | :--------------------------: | :-------: |
 | 7 | Sarah Barker | Tue 2022-10-18 9 AM | Revision Requested 2022-10-14 11:50 AM
+| 11 | Alison Berry | Tue 2022-10-18 9 AM | Revision Requested 2022-10-14 1:30 PM
 | 14 | Yinglun Geng and Qihao (Robby) Zhang | Tue 2022-10-18 9 AM | Revision Requested 2022-10-14 10 AM
 | 18 | Heidi Gullett | - | Awaiting Initial Submission
 | 36 | Marie Masotya | Tue 2022-10-18 9 AM | Revision Requested: 2022-10-13
