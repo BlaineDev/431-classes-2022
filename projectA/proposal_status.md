@@ -39,7 +39,7 @@
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
-| 12 | Shubho Das | Factors that Affect Life Expectancy Across the United States | To Be Reviewed Friday 
+| 12 | Shubho Das and Toby Jin | Factors that Affect Life Expectancy Across the United States | To Be Reviewed Friday 
 | 35 | Lydia Masar | Multi-state Analysis of Behavioral Factors Potentially Associated with Suicide | To Be Reviewed Friday
 | 32 | Tian Liu and Fang Wang | Investigation of the Violent Crime Situation using CHR-2022 | To Be Reviewed Friday
 
@@ -56,7 +56,6 @@
 | 17 | Sarah Grabinski | - |
 | 18 | Heidi Gullett | - |
 | 19 | Alex Gurgis | - | 
-| 23 | Toby Jin | - |
 | 26 | Rupleen Kaur | - |
 | 30 | Keisi Kotobelli | - |
 | 36 | Marie Matsoya | - | Revision Requested: 2022-10-13
