@@ -8,13 +8,11 @@
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
-| 53 | Neha Solanki | Association of Air Pollution with Public Health | To be reviewed on Friday morning
-| 26 | Rupleen Kaur | Factors affecting Diabetes Prevelance in North-Eastern States | To be reviewed on Friday morning
 | 14 | Yinglun Geng and Qihao (Robby) Zhang | Factors affecting life expectancies in five mid-west States | To be reviewed on Friday morning
 | 39 | Siddharth Mittal | Predicting Life Expectancy using Social and Health Factors | To be reviewed on Friday morning
 | 30 | Keisi Kotobelli | Social and Economic Factors Influencing Child Poverty | To be reviewed on Friday morning
 
-## Proposals Under Revision/Development (due Friday 2022-10-14 at NOON: n = 15 students)
+## Proposals Under Revision/Development (due Friday 2022-10-14 at NOON: n = 16 students)
 
 | ID | Investigator(s) | Project Title | Status
 | --: | :-------------: | :--------------------------: | :-------: |
@@ -24,17 +22,17 @@
 | 17 | Sarah Grabinski | - |
 | 18 | Heidi Gullett | - |
 | 19 | Alex Gurgis | - | 
-| 36 | Marie Matsoya | - | Revision Requested: 2022-10-13
+| 36 | Marie Masotya | - | Revision Requested: 2022-10-13
 | 38 | Emiko Miller | - | Revision Requested: 2022-10-13
 | 43 | An Nguyen | - | Revision Requested: 2022-10-09
 | 47 | Kim Robbins | - |
-| 49 | Miza Salim-Hammoud | - |
-| 50 | Hossam Sarhan | - |
+| 49 | Miza Salim-Hammoud and Hossam Sarhan | - | Revision Requested: 2022-10-14 9:40 AM
 | 52 | Shwetank Singh | - | Revision Requested: 2022-10-09
+| 53 | Neha Solanki | - | Revision Requested: 2022-10-14 9 AM
 | 58 | Savannah Wu | - |
 | 59 | Meredith Zhang | - | 
 
-## Accepted Proposals (n = 31 proposals, 40/61 students)
+## Accepted Proposals (n = 32 proposals, 41/61 students)
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
@@ -54,6 +52,7 @@
 | 22 | Madi Hunt and Jae Ho Lee | Social, Environmental, and Behavioral Factors and Low Birth Weight in Appalachian States | Accepted
 | 24 | Naveen Kannan | Adult Obesity in the American Midwest | Accepted
 | 25 | Sahana Kannan and Sajan Patel |	Factors Influencing Preventable Hospital Stays | Accepted
+| 26 | Rupleen Kaur | Factors affecting Diabetes Prevelance in North-Eastern States | Accepted
 | 27 | Aqsa Khan	| Predicting Life Expectancy by Social Determinants of Health in the Midwest | Accepted
 | 28 | Dan Kingsley and Sarah McNeer | Assessing Life Expectancy by Geographical Region | Accepted
 | 29 | Beverly Koepf | Children in Poverty with Educated Families | Accepted
