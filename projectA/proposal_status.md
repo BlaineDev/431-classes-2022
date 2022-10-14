@@ -8,7 +8,6 @@
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
-| 7 | Sarah Barker | Predicting Poor Mental Health Days in Blue and Red States with CHR-22 | To be reviewed on Friday 2022-10-14
 | 59 | Meredith Zhang | Mental Health in the Midwest | To be reviewed on Friday 2022-10-14
 | 58 | Savannah Wu | Health Behaviors and Longevity | To be reviewed on Friday 2022-10-14
 | 13 | Tarek ElShebiny | Title will need revision | To be reviewed on Friday 2022-10-14
@@ -17,6 +16,7 @@
 
 | ID | Investigator(s) | Deadline | Status
 | --: | :-------------: | :--------------------------: | :-------: |
+| 7 | Sarah Barker | Tue 2022-10-18 9 AM | Revision Requested 2022-10-14 11:50 AM
 | 11 | Alison Berry | **Fri 2022-10-14 Noon** | Revision Requested: 2022-10-09
 | 14 | Yinglun Geng and Qihao (Robby) Zhang | Tue 2022-10-18 9 AM | Revision Requested 2022-10-14 10 AM
 | 17 | Sarah Grabinski | **Fri 2022-10-14 Noon** | Awaiting Initial Submission
