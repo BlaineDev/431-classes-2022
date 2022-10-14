@@ -8,7 +8,6 @@
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
-| 43 | An Nguyen | Predicting Population Obesity in selected states across America with CHR-2022 | To be reviewed on Friday 2022-10-14
 | 59 | Meredith Zhang | Mental Health in the Midwest | To be reviewed on Friday 2022-10-14
 | 58 | Savannah Wu | Health Behaviors and Longevity | To be reviewed on Friday 2022-10-14
 | 13 | Tarek ElShebiny and Alex Gurgis | Title will need revision | To be reviewed on Friday 2022-10-14
@@ -27,7 +26,7 @@
 | 39 | Siddharth Mittal | Tue 2022-10-18 9 AM | Revision Requested: 2022-10-14 10:30 AM
 | 53 | Neha Solanki | Tue 2022-10-18 9 AM | Revision Requested: 2022-10-14 9 AM
 
-## Accepted Proposals (n = 36 proposals, 45/61 students)
+## Accepted Proposals (n = 37 proposals, 46/61 students)
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
@@ -59,6 +58,7 @@
 | 40 | Ben Mittman | Relationships Between Community-Level Factors and Life Expectancy in CHR-2022 | Accepted
 | 41 | Hala Nas | Environmental Factors and Reported Poor Health in CHR-2022 | Accepted
 | 42 | Anya Nazarenko | Poverty and Pollution Exposure as Predictors of Premature Death in American Appalachia | Accepted
+| 43 | An Nguyen | Predicting Population Obesity in selected states across America with CHR-2022 | Accepted
 | 44 | Anthony Orsino | Predicting Low Birth Weight in a Politically Representative State Cohort | Accepted
 | 46 | Sameer Prasada |	Poor Mental Health Days in Midwestern States: CHR-2022 | Accepted
 | 47 | Kim Robbins | How Social and Economic Factors Relate to Teen Births: Using CHR-2022 | Accepted
