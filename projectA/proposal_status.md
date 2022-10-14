@@ -12,7 +12,7 @@
 | 58 | Savannah Wu | Health Behaviors and Longevity | To be reviewed on Friday 2022-10-14
 | 13 | Tarek ElShebiny | Title will need revision | To be reviewed on Friday 2022-10-14
 
-## Proposals Under Revision/Development (n = 12 students)
+## Proposals Under Revision/Development (n = 13 students)
 
 | ID | Investigator(s) | Deadline | Status
 | --: | :-------------: | :--------------------------: | :-------: |
