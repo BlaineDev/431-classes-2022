@@ -8,7 +8,6 @@
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
-| 30 | Keisi Kotobelli | Social and Economic Factors Influencing Child Poverty | To be reviewed on Friday morning
 | 47 | Kim Robbins | - | To be reviewed on Friday
 
 ## Proposals Under Revision/Development (n = 17 students)
@@ -26,12 +25,12 @@
 | 38 | Emiko Miller | Tue 2022-10-19 9 AM | Revision Requested: 2022-10-13
 | 39 | Siddharth Mittal | Tue 2022-10-19 9 AM | Revision Requested: 2022-10-14 10:30 AM
 | 43 | An Nguyen | **Fri 2022-10-14 Noon** | Revision Requested: 2022-10-09
-| 49 | Miza Salim-Hammoud and Hossam Sarhan | Tue 2022-10-19 9 AM | Revision Requested: 2022-10-14 9:40 AM
+| 49 | Miza Salim-Hammoud and Hossam Sarhan | **Fri 2022-10-14 Noon** | Title & YAML change Requested: 2022-10-14 9:40 AM
 | 53 | Neha Solanki | Tue 2022-10-19 9 AM | Revision Requested: 2022-10-14 9 AM
 | 58 | Savannah Wu | **Fri 2022-10-14 Noon** | Awaiting Initial Submission
 | 59 | Meredith Zhang | **Fri 2022-10-14 Noon** | Awaiting Initial Submission
 
-## Accepted Proposals (n = 33 proposals, 42/61 students)
+## Accepted Proposals (n = 34 proposals, 43/61 students)
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
@@ -55,6 +54,7 @@
 | 27 | Aqsa Khan	| Predicting Life Expectancy by Social Determinants of Health in the Midwest | Accepted
 | 28 | Dan Kingsley and Sarah McNeer | Assessing Life Expectancy by Geographical Region | Accepted
 | 29 | Beverly Koepf | Children in Poverty with Educated Families | Accepted
+| 30 | Keisi Kotobelli | Social and Economic Factors Influencing Child Poverty | Accepted
 | 32 | Tian Liu and Fang Wang | Investigation of the Violent Crime Situation using CHR-2022 | Accepted
 | 34 | Valeria Martinez Tenorio | Nutrition-related factors from CHR-2022 and how they influence premature death | Accepted
 | 35 | Lydia Masar | Multi-state Analysis of Behavioral Factors Potentially Associated with Suicide | Accepted
