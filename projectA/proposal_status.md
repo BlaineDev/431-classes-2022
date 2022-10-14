@@ -36,7 +36,7 @@
 | 54 | Xinyu Sun | Quality of Life and Economic Factors and Great Lakes Region Life Expectancy | Accepted
 | 55 | Max Tjen | Investigating Diabetes Prevalence: the Most Influential Factors | Accepted
 
-## Proposals Awaiting Review by Dr. Love (n = 3)
+## Proposals Awaiting Review by Dr. Love (n = 2)
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
