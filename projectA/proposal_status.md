@@ -8,10 +8,9 @@
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
-| 32 | Tian Liu and Fang Wang | Investigation of the Violent Crime Situation using CHR-2022 | To Be Reviewed Friday
 | 2 | Samer Alanazi | Studying low birth weight in counties of five different states | To Be Reviewed Friday
 
-## Accepted Proposals (n = 28 proposals, 36/61 students)
+## Accepted Proposals (n = 29 proposals, 38/61 students)
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
@@ -32,6 +31,7 @@
 | 27 | Aqsa Khan	| Predicting Life Expectancy by Social Determinants of Health in the Midwest | Accepted
 | 28 | Dan Kingsley and Sarah McNeer | Assessing Life Expectancy by Geographical Region | Accepted
 | 29 | Beverly Koepf | Children in Poverty with Educated Families | Accepted
+| 32 | Tian Liu and Fang Wang | Investigation of the Violent Crime Situation using CHR-2022 | Accepted
 | 34 | Valeria Martinez Tenorio | Nutrition-related factors from CHR-2022 and how they influence premature death | Accepted
 | 35 | Lydia Masar | Multi-state Analysis of Behavioral Factors Potentially Associated with Suicide | Accepted
 | 40 | Ben Mittman | Relationships Between Community-Level Factors and Life Expectancy in CHR-2022 | Accepted
