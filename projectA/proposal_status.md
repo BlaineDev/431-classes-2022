@@ -4,7 +4,7 @@
 
 [Here is the list of the 13 "things" Dr. Love is looking for](https://thomaselove.github.io/431-projectA-2022/proposal.html#grading-the-proposal-13-things-were-looking-for) in reviewing your work. See [the Class 13 README](https://github.com/THOMASELOVE/431-classes-2022/blob/main/class13/README.md) for some additional advice as you prepare your proposal.
 
-## Accepted Proposals (n = 25)
+## Accepted Proposals (n = 26)
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
@@ -16,6 +16,7 @@
 | 10 | Chris Benson and Lentlametse Mantshonyane | How do Social and Economic Factors affect High School Completion Rates | Accepted
 | 15 | Izzy Genuario	| Social Factors and Teen Birth Rate using CHR-2022 | Accepted
 | 16 | Pedram Golnari | Health Factors Affecting the Life Expectancy in the US | Accepted
+| 20 | Katie Hassett | Healthcare and Socioeconomic Predictors of Life Expectancy in Midwest Counties | Accepted
 | 21 | Benjamin Heifetz | Modulators of Adult Tobacco Smoking In States With Easy Access to Tobacco | Accepted
 | 22 | Madi Hunt and Jae Ho Lee | Social, Environmental, and Behavioral Factors and Low Birth Weight in Appalachian States | Accepted
 | 24 | Naveen Kannan | Adult Obesity in the American Midwest | Accepted
@@ -34,13 +35,12 @@
 | 54 | Xinyu Sun | Quality of Life and Economic Factors and Great Lakes Region Life Expectancy | Accepted
 | 55 | Max Tjen | Investigating Diabetes Prevalence: the Most Influential Factors | Accepted
 
-## Proposals Awaiting Review by Dr. Love (n = 3)
+## Proposals Awaiting Review by Dr. Love (n = 2)
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
-| 20 | Katie Hassett | Healthcare and Socioeconomic Predictors of Shorter Life Expectancy in Midwest States using CHR-2022 | Under Review by Dr. Love
 | 38 | Emiko Miller | Relationship between health and life expectancy in states adjacent to the Great Lakes | Under Review by Dr. Love
-| 12 | Shubho Das | Factors that Affect Life Expectancy Across the United States | To Be Reviewed by Dr. Love
+| 12 | Shubho Das | Factors that Affect Life Expectancy Across the United States | To Be Reviewed Friday 
 
 ## Proposals Under Revision or Development (due Friday 2022-10-14 at NOON)
 
