@@ -8,14 +8,16 @@
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
-| 7 | Sarah Barker | - | To be reviewed on Friday
+| 7 | Sarah Barker | Predicting Poor Mental Health Days in Blue and Red Staes with CHR-22 | To be reviewed on Friday
+| 59 | Meredith Zhang | Mental Health in the Midwest | To be reviewed on Friday
+| 58 | Savannah Wu | Health Behaviors and Longevity | To be reviewed on Friday
+| 13 | Tarek ElShebiny | Title will need revision | To be reviewed on Friday
 
-## Proposals Under Revision/Development (n = 15 students)
+## Proposals Under Revision/Development (n = 12 students)
 
 | ID | Investigator(s) | Deadline | Status
 | --: | :-------------: | :--------------------------: | :-------: |
 | 11 | Alison Berry | **Fri 2022-10-14 Noon** | Revision Requested: 2022-10-09
-| 13 | Tarek ElShebiny | **Fri 2022-10-14 Noon** | Awaiting Initial Submission
 | 14 | Yinglun Geng and Qihao (Robby) Zhang | Tue 2022-10-19 9 AM | Revision Requested 2022-10-14 10 AM
 | 17 | Sarah Grabinski | **Fri 2022-10-14 Noon** | Awaiting Initial Submission
 | 18 | Heidi Gullett | - | Awaiting Initial Submission
@@ -23,10 +25,8 @@
 | 36 | Marie Masotya | Tue 2022-10-19 9 AM | Revision Requested: 2022-10-13
 | 39 | Siddharth Mittal | Tue 2022-10-19 9 AM | Revision Requested: 2022-10-14 10:30 AM
 | 43 | An Nguyen | **Fri 2022-10-14 Noon** | Revision Requested: 2022-10-09
-| 49 | Miza Salim-Hammoud and Hossam Sarhan | **Fri 2022-10-14 Noon** | Title & YAML change Requested: 2022-10-14 9:40 AM
+| 49 | Miza Salim-Hammoud and Hossam Sarhan | **Fri 2022-10-14 Noon** | Title & YAML change Requested: 2022-10-14 9:40 AM and again 11:30 AM
 | 53 | Neha Solanki | Tue 2022-10-19 9 AM | Revision Requested: 2022-10-14 9 AM
-| 58 | Savannah Wu | **Fri 2022-10-14 Noon** | Awaiting Initial Submission
-| 59 | Meredith Zhang | **Fri 2022-10-14 Noon** | Awaiting Initial Submission
 
 ## Accepted Proposals (n = 36 proposals, 45/61 students)
 
