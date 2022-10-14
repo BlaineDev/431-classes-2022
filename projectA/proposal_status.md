@@ -12,7 +12,7 @@
 | 3 | Moein Amin and Karlo Toljan | Factors Associated with Preventable Hospital Stays in Midwest States | Accepted
 | 5 | Samantha Baker | Factors Impacting Mental Health in the Great Lakes Region Using CHR-2022 | Accepted
 | 6 | Seth Bauer and Jules Bakhos	| Predicting Preventable Hospital Stays with CHR-2022 | Accepted
-| 10 | Chris Benson and Lentlametse Mantshonyane | How do Social and Economic Factors affect High School Completion Rates | Under Review by Dr. Love
+| 10 | Chris Benson and Lentlametse Mantshonyane | How do Social and Economic Factors affect High School Completion Rates | Accepted
 | 15 | Izzy Genuario	| Social Factors and Teen Birth Rate using CHR-2022 | Accepted
 | 16 | Pedram Golnari | Health Factors Affecting the Life Expectancy in the US | Accepted
 | 22 | Madi Hunt and Jae Ho Lee | Social, Environmental, and Behavioral Factors and Low Birth Weight in Appalachian States | Accepted
