@@ -8,7 +8,6 @@
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
-| 52 | Shwetank Singh | Teenage pregnancy and assosciated factors | To be reviewed on Friday morning
 | 39 | Siddharth Mittal | Predicting Life Expectancy using Social and Health Factors | To be reviewed on Friday morning
 | 30 | Keisi Kotobelli | Social and Economic Factors Influencing Child Poverty | To be reviewed on Friday morning
 | 47 | Kim Robbins | - | To be reviewed on Friday
@@ -32,7 +31,7 @@
 | 58 | Savannah Wu | - |
 | 59 | Meredith Zhang | - | 
 
-## Accepted Proposals (n = 32 proposals, 41/61 students)
+## Accepted Proposals (n = 33 proposals, 42/61 students)
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
@@ -66,6 +65,7 @@
 | 46 | Sameer Prasada |	Poor Mental Health Days in Midwestern States: CHR-2022 | Accepted
 | 48 | Samuel Rodgers-Melnick | Behavioral and Environmental Predictors of Poor Mental Health in the Rust Belt | Accepted
 | 51 | Faruk Senturk | The Effect of Financial Insecurity on the Quality of Health | Accepted
+| 52 | Shwetank Singh | Teenage Pregnancy and Associated Factors | Accepted
 | 54 | Xinyu Sun | Quality of Life and Economic Factors and Great Lakes Region Life Expectancy | Accepted
 | 55 | Max Tjen | Investigating Diabetes Prevalence: the Most Influential Factors | Accepted
 
