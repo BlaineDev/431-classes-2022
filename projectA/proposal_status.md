@@ -36,18 +36,18 @@
 | 54 | Xinyu Sun | Quality of Life and Economic Factors and Great Lakes Region Life Expectancy | Accepted
 | 55 | Max Tjen | Investigating Diabetes Prevalence: the Most Influential Factors | Accepted
 
-## Proposals Awaiting Review by Dr. Love (n = 2)
+## Proposals Awaiting Review by Dr. Love (in the order I'll review them: n = 3)
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
 | 35 | Lydia Masar | Multi-state Analysis of Behavioral Factors Potentially Associated with Suicide | To Be Reviewed Friday
 | 32 | Tian Liu and Fang Wang | Investigation of the Violent Crime Situation using CHR-2022 | To Be Reviewed Friday
+| 2 | Samer Alanazi | Studying low birth weight in counties of five different states | To Be Reviewed Friday
 
 ## Proposals Under Revision or Development (due Friday 2022-10-14 at NOON)
 
 | ID | Investigator(s) | Project Title | Status
 | --: | :-------------: | :--------------------------: | :-------: |
-| 2 | Samer Alanazi | - | Revision Requested: 2022-10-13
 | 7 | Sarah Barker | - | 
 | 8 | Lithe Basbous | - | Revision Requested: 2022-10-13 9:20 PM
 | 11 | Alison Berry | - | Revision Requested: 2022-10-09
