@@ -4,15 +4,14 @@
 
 [Here is the list of the 13 "things" Dr. Love is looking for](https://thomaselove.github.io/431-projectA-2022/proposal.html#grading-the-proposal-13-things-were-looking-for) in reviewing your work. See [the Class 13 README](https://github.com/THOMASELOVE/431-classes-2022/blob/main/class13/README.md) for some additional advice as you prepare your proposal.
 
-## Submitted Proposals Awaiting Review by Dr. Love (in the order I'll review them: n = 3)
+## Submitted Proposals Awaiting Review by Dr. Love (in the order I'll review them: n = 2)
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
-| 35 | Lydia Masar | Multi-state Analysis of Behavioral Factors Potentially Associated with Suicide | To Be Reviewed Friday
 | 32 | Tian Liu and Fang Wang | Investigation of the Violent Crime Situation using CHR-2022 | To Be Reviewed Friday
 | 2 | Samer Alanazi | Studying low birth weight in counties of five different states | To Be Reviewed Friday
 
-## Accepted Proposals (n = 27 proposals, 35 students)
+## Accepted Proposals (n = 28 proposals, 36/61 students)
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
@@ -34,6 +33,7 @@
 | 28 | Dan Kingsley and Sarah McNeer | Assessing Life Expectancy by Geographical Region | Accepted
 | 29 | Beverly Koepf | Children in Poverty with Educated Families | Accepted
 | 34 | Valeria Martinez Tenorio | Nutrition-related factors from CHR-2022 and how they influence premature death | Accepted
+| 35 | Lydia Masar | Multi-state Analysis of Behavioral Factors Potentially Associated with Suicide | Accepted
 | 40 | Ben Mittman | Relationships Between Community-Level Factors and Life Expectancy in CHR-2022 | Accepted
 | 41 | Hala Nas | Environmental Factors and Reported Poor Health in CHR-2022 | Accepted
 | 42 | Anya Nazarenko | Poverty and Pollution Exposure as Predictors of Premature Death in American Appalachia | Accepted
