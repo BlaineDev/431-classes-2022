@@ -24,10 +24,10 @@
 | 27 | Aqsa Khan	| Predicting Life Expectancy by Social Determinants of Health in the Midwest | Accepted
 | 28 | Dan Kingsley and Sarah McNeer | Assessing Life Expectancy by Geographical Region | Accepted
 | 29 | Beverly Koepf | Children in Poverty with Educated Families | Accepted
-| 34 | Valeria Martinez Tenorio | Nutrition-related factors from CHR-2022 and how they influence premature death | Under Review by Dr. Love
+| 34 | Valeria Martinez Tenorio | Nutrition-related factors from CHR-2022 and how they influence premature death | Accepted
 | 40 | Ben Mittman | Relationships Between Community-Level Factors and Life Expectancy in CHR-2022 | Accepted
 | 41 | Hala Nas | Environmental Factors and Reported Poor Health in CHR-2022 | Accepted
-| 42 | Anya Nazarenko | Poverty and Pollution Exposure as Predictors of Premature Death in American Appalachia | Under Review by Dr. Love
+| 42 | Anya Nazarenko | Poverty and Pollution Exposure as Predictors of Premature Death in American Appalachia | Accepted
 | 44 | Anthony Orsino | Predicting Low Birth Weight in a Politically Representative State Cohort | Accepted
 | 46 | Sameer Prasada |	Poor Mental Health Days in Midwestern States: CHR-2022 | Accepted
 | 48 | Samuel Rodgers-Melnick | Behavioral and Environmental Predictors of Poor Mental Health in the Rust Belt | Accepted
