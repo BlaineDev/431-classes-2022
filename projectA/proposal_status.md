@@ -35,11 +35,11 @@
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
-| 20 | Katie Hassett | Healthcare and Socioeconomic Predictors of Shorter Life Expectancy in Midwest States using CHR-2022 | Under Review by Dr. Love
-| 28 | Dan Kingsley and Sarah McNeer | Assessing Life Expectancy by Geographical Region | Under Review by Dr. Love
 | 36 | Marie Matsoya | Life Expectancy and Health Factors in Counties in Ohio and Surrounding States in CHR-2022 | Under Review by Dr. Love
-| 38 | Emiko Miller | Relationship between health and life expectancy in states adjacent to the Great Lakes | Under Review by Dr. Love
 | 42 | Anya Nazarenko | Poverty and Pollution Exposure as Predictors of Premature Death in American Appalachia | Under Review by Dr. Love
+| 20 | Katie Hassett | Healthcare and Socioeconomic Predictors of Shorter Life Expectancy in Midwest States using CHR-2022 | Under Review by Dr. Love
+| 38 | Emiko Miller | Relationship between health and life expectancy in states adjacent to the Great Lakes | Under Review by Dr. Love
+| 28 | Dan Kingsley and Sarah McNeer | Assessing Life Expectancy by Geographical Region | Under Review by Dr. Love
 
 ## Proposals Under Revision or Development (due Friday 2022-10-14 at NOON)
 
