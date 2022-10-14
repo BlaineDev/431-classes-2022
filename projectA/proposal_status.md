@@ -27,11 +27,14 @@
 | 54 | Xinyu Sun | Quality of Life and Economic Factors and Great Lakes Region Life Expectancy | Accepted
 | 55 | Max Tjen | Investigating Diabetes Prevalence: the Most Influential Factors | Accepted
 
-## Proposals Awaiting Review by Dr. Love (n = 1)
+## Proposals Awaiting Review by Dr. Love (n = 4)
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
 | 8 | Lithe Basbous | Life expectancy influence by socioeconomic and mental status | Under Review by Dr. Love
+| 10 | Chris Benson and Lentlametse Mantshonyane | How does Social and Economic Factors affect High School Completion Rates | Under Review by Dr. Love
+| 24 | Naveen Kannan | Adult Obesity in the American Midwest | Under Review by Dr. Love
+| 34 | Valeria Martinez Tenorio | Nutrition-related factors from CHR-2022 and how they influence premature death | Under Review by Dr. Love
 
 ## Proposals Under Revision or Development (due Friday 2022-10-14 at NOON)
 
@@ -40,7 +43,6 @@
 | 2 | Samer Alanazi | - | Revision Requested: 2022-10-13
 | 4	| Naji Ayyash and Millenia Zhou | - | Revision Requested: 2022-10-09
 | 7 | Sarah Barker | - | 
-| 10 | Chris Benson and Lentlametse Mantshonyane | - | Revision Requested: 2022-10-09
 | 11 | Alison Berry | - | Revision Requested: 2022-10-09
 | 12 | Shubho Das | - |
 | 13 | Tarek ElShebiny | - |
@@ -51,12 +53,10 @@
 | 20 | Katie Hassett | - | 
 | 21 | Benjamin Heifetz | - | Revision Requested: 2022-10-09
 | 23 | Toby Jin | - |
-| 24 | Naveen Kannan | - | Revision Requested: 2022-10-09
 | 26 | Rupleen Kaur | - |
 | 28 | Dan Kingsley | - |
 | 30 | Keisi Kotobelli | - |
 | 32 | Tian Liu and Fang Wang | - | Revision Requested: 2022-10-09
-| 34 | Valeria Martinez Tenorio | - | Revision Requested: 2022-10-09
 | 35 | Lydia Masar | - | 
 | 36 | Marie Matsoya | - |
 | 37 | Sarah McNeer | - | 
