@@ -4,7 +4,7 @@
 
 [Here is the list of the 13 "things" Dr. Love is looking for](https://thomaselove.github.io/431-projectA-2022/proposal.html#grading-the-proposal-13-things-were-looking-for) in reviewing your work. See [the Class 13 README](https://github.com/THOMASELOVE/431-classes-2022/blob/main/class13/README.md) for some additional advice as you prepare your proposal.
 
-## Accepted Proposals (n = 24)
+## Accepted Proposals (n = 25)
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
@@ -21,6 +21,7 @@
 | 24 | Naveen Kannan | Adult Obesity in the American Midwest | Accepted
 | 25 | Sahana Kannan and Sajan Patel |	Factors Influencing Preventable Hospital Stays | Accepted
 | 27 | Aqsa Khan	| Predicting Life Expectancy by Social Determinants of Health in the Midwest | Accepted
+| 28 | Dan Kingsley and Sarah McNeer | Assessing Life Expectancy by Geographical Region | Accepted
 | 29 | Beverly Koepf | Children in Poverty with Educated Families | Accepted
 | 34 | Valeria Martinez Tenorio | Nutrition-related factors from CHR-2022 and how they influence premature death | Under Review by Dr. Love
 | 40 | Ben Mittman | Relationships Between Community-Level Factors and Life Expectancy in CHR-2022 | Accepted
@@ -33,13 +34,12 @@
 | 54 | Xinyu Sun | Quality of Life and Economic Factors and Great Lakes Region Life Expectancy | Accepted
 | 55 | Max Tjen | Investigating Diabetes Prevalence: the Most Influential Factors | Accepted
 
-## Proposals Awaiting Review by Dr. Love (n = 4)
+## Proposals Awaiting Review by Dr. Love (n = 3)
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
 | 20 | Katie Hassett | Healthcare and Socioeconomic Predictors of Shorter Life Expectancy in Midwest States using CHR-2022 | Under Review by Dr. Love
 | 38 | Emiko Miller | Relationship between health and life expectancy in states adjacent to the Great Lakes | Under Review by Dr. Love
-| 28 | Dan Kingsley and Sarah McNeer | Assessing Life Expectancy by Geographical Region | Under Review by Dr. Love
 | 12 | Shubho Das | Factors that Affect Life Expectancy Across the United States | To Be Reviewed by Dr. Love
 
 ## Proposals Under Revision or Development (due Friday 2022-10-14 at NOON)
