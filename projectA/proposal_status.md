@@ -8,7 +8,32 @@
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
-| 8 | Lithe Basbous | Socioeconomic and mental statuses’ relationship to life expectancy | To be reviewed on Friday after 9 AM
+| 8 | Lithe Basbous | Socioeconomic and mental statuses’ relationship to life expectancy | To be reviewed on Friday morning
+| 53 | Neha Solanki | Association of Air Pollution with Public Health | To be reviewed on Friday morning
+| 26 | Rupleen Kaur | Factors affecting Diabetes Prevelance in North-Eastern States | To be reviewed on Friday morning
+| 14 | Yinglun Geng and Qihao (Robby) Zhang | Factors affecting life expectancies in five mid-west States | To be reviewed on Friday morning
+| 39 | Siddharth Mittal | Predicting Life Expectancy using Social and Health Factors | To be reviewed on Friday morning
+| 30 | Keisi Kotobelli | Social and Economic Factors Influencing Child Poverty | To be reviewed on Friday morning
+
+## Proposals Under Revision/Development (due Friday 2022-10-14 at NOON: n = 15 students)
+
+| ID | Investigator(s) | Project Title | Status
+| --: | :-------------: | :--------------------------: | :-------: |
+| 7 | Sarah Barker | - | 
+| 11 | Alison Berry | - | Revision Requested: 2022-10-09
+| 13 | Tarek ElShebiny | - |
+| 17 | Sarah Grabinski | - |
+| 18 | Heidi Gullett | - |
+| 19 | Alex Gurgis | - | 
+| 36 | Marie Matsoya | - | Revision Requested: 2022-10-13
+| 38 | Emiko Miller | - | Revision Requested: 2022-10-13
+| 43 | An Nguyen | - | Revision Requested: 2022-10-09
+| 47 | Kim Robbins | - |
+| 49 | Miza Salim-Hammoud | - |
+| 50 | Hossam Sarhan | - |
+| 52 | Shwetank Singh | - | Revision Requested: 2022-10-09
+| 58 | Savannah Wu | - |
+| 59 | Meredith Zhang | - | 
 
 ## Accepted Proposals (n = 30 proposals, 39/61 students)
 
@@ -45,29 +70,5 @@
 | 54 | Xinyu Sun | Quality of Life and Economic Factors and Great Lakes Region Life Expectancy | Accepted
 | 55 | Max Tjen | Investigating Diabetes Prevalence: the Most Influential Factors | Accepted
 
-## Proposals Under Revision/Development (due Friday 2022-10-14 at NOON: n = 21 students)
 
-| ID | Investigator(s) | Project Title | Status
-| --: | :-------------: | :--------------------------: | :-------: |
-| 7 | Sarah Barker | - | 
-| 11 | Alison Berry | - | Revision Requested: 2022-10-09
-| 13 | Tarek ElShebiny | - |
-| 14 | Yinglun Geng | - |
-| 17 | Sarah Grabinski | - |
-| 18 | Heidi Gullett | - |
-| 19 | Alex Gurgis | - | 
-| 26 | Rupleen Kaur | - |
-| 30 | Keisi Kotobelli | - |
-| 36 | Marie Matsoya | - | Revision Requested: 2022-10-13
-| 38 | Emiko Miller | - | Revision Requested: 2022-10-13
-| 39 | Sid Mittal | - |
-| 43 | An Nguyen | - | Revision Requested: 2022-10-09
-| 47 | Kim Robbins | - |
-| 49 | Miza Salim-Hammoud | - |
-| 50 | Hossam Sarhan | - |
-| 52 | Shwetank Singh | - | Revision Requested: 2022-10-09
-| 53 | Neha Solanki | - | Revision Requested: 2022-10-09
-| 58 | Savannah Wu | - |
-| 59 | Meredith Zhang | - | 
-| 60 | Qihao (Robby) Zhang | - |
 
