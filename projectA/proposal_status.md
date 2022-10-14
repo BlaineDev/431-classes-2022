@@ -4,7 +4,7 @@
 
 [Here is the list of the 13 "things" Dr. Love is looking for](https://thomaselove.github.io/431-projectA-2022/proposal.html#grading-the-proposal-13-things-were-looking-for) in reviewing your work. See [the Class 13 README](https://github.com/THOMASELOVE/431-classes-2022/blob/main/class13/README.md) for some additional advice as you prepare your proposal.
 
-## Accepted Proposals (n = 19)
+## Accepted Proposals (n = 20)
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
@@ -16,6 +16,7 @@
 | 15 | Izzy Genuario	| Social Factors and Teen Birth Rate using CHR-2022 | Accepted
 | 16 | Pedram Golnari | Health Factors Affecting the Life Expectancy in the US | Accepted
 | 22 | Madi Hunt and Jae Ho Lee | Social, Environmental, and Behavioral Factors and Low Birth Weight in Appalachian States | Accepted
+| 24 | Naveen Kannan | Adult Obesity in the American Midwest | Accepted
 | 25 | Sahana Kannan and Sajan Patel |	Factors Influencing Preventable Hospital Stays | Accepted
 | 27 | Aqsa Khan	| Predicting Life Expectancy by Social Determinants of Health in the Midwest | Accepted
 | 29 | Beverly Koepf | Children in Poverty with Educated Families | Accepted
@@ -28,11 +29,10 @@
 | 54 | Xinyu Sun | Quality of Life and Economic Factors and Great Lakes Region Life Expectancy | Accepted
 | 55 | Max Tjen | Investigating Diabetes Prevalence: the Most Influential Factors | Accepted
 
-## Proposals Awaiting Review by Dr. Love (n = 3)
+## Proposals Awaiting Review by Dr. Love (n = 2)
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
-| 24 | Naveen Kannan | Adult Obesity in the American Midwest | Under Review by Dr. Love
 | 34 | Valeria Martinez Tenorio | Nutrition-related factors from CHR-2022 and how they influence premature death | Under Review by Dr. Love
 | 36 | Marie Matsoya | Life Expectancy and Health Factors in Counties in Ohio and Surrounding States in CHR-2022 | Under Review by Dr. Love
 
