@@ -8,13 +8,13 @@
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
-| 2 | Samer Alanazi | Studying low birth weight in counties of five different states | To Be Reviewed Friday
 
-## Accepted Proposals (n = 29 proposals, 38/61 students)
+## Accepted Proposals (n = 30 proposals, 39/61 students)
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
 | 1 | Bryan Abadie | Are High School Graduation Rates affected by Social Factors? | Accepted
+| 2 | Samer Alanazi | Studying low birth weight in counties of five different states | Accepted
 | 3 | Moein Amin and Karlo Toljan | Factors Associated with Preventable Hospital Stays in Midwest States | Accepted
 | 4	| Naji Ayyash and Millenia Zhou | Studying Premature Deaths in Five States | Accepted
 | 5 | Samantha Baker | Factors Impacting Mental Health in the Great Lakes Region Using CHR-2022 | Accepted
