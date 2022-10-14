@@ -8,7 +8,6 @@
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
-| 47 | Kim Robbins | - | To be reviewed on Friday
 | 7 | Sarah Barker | - | To be reviewed on Friday
 
 ## Proposals Under Revision/Development (n = 15 students)
@@ -29,7 +28,7 @@
 | 58 | Savannah Wu | **Fri 2022-10-14 Noon** | Awaiting Initial Submission
 | 59 | Meredith Zhang | **Fri 2022-10-14 Noon** | Awaiting Initial Submission
 
-## Accepted Proposals (n = 35 proposals, 44/61 students)
+## Accepted Proposals (n = 36 proposals, 45/61 students)
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
@@ -63,6 +62,7 @@
 | 42 | Anya Nazarenko | Poverty and Pollution Exposure as Predictors of Premature Death in American Appalachia | Accepted
 | 44 | Anthony Orsino | Predicting Low Birth Weight in a Politically Representative State Cohort | Accepted
 | 46 | Sameer Prasada |	Poor Mental Health Days in Midwestern States: CHR-2022 | Accepted
+| 47 | Kim Robbins | How Social and Economic Factors Relate to Teen Births: Using CHR-2022 | Accepted
 | 48 | Samuel Rodgers-Melnick | Behavioral and Environmental Predictors of Poor Mental Health in the Rust Belt | Accepted
 | 51 | Faruk Senturk | The Effect of Financial Insecurity on the Quality of Health | Accepted
 | 52 | Shwetank Singh | Teenage Pregnancy and Associated Factors | Accepted
