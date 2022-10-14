@@ -35,12 +35,13 @@
 | 54 | Xinyu Sun | Quality of Life and Economic Factors and Great Lakes Region Life Expectancy | Accepted
 | 55 | Max Tjen | Investigating Diabetes Prevalence: the Most Influential Factors | Accepted
 
-## Proposals Awaiting Review by Dr. Love (n = 2)
+## Proposals Awaiting Review by Dr. Love (n = 3)
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
-| 38 | Emiko Miller | Relationship between health and life expectancy in states adjacent to the Great Lakes | Under Review by Dr. Love
 | 12 | Shubho Das | Factors that Affect Life Expectancy Across the United States | To Be Reviewed Friday 
+| 35 | Lydia Masar | Multi-state Analysis of Behavioral Factors Potentially Associated with Suicide | To Be Reviewed Friday
+| 32 | Tian Liu and Fang Wang | Investigation of the Violent Crime Situation using CHR-2022 | To Be Reviewed Friday
 
 ## Proposals Under Revision or Development (due Friday 2022-10-14 at NOON)
 
@@ -58,9 +59,8 @@
 | 23 | Toby Jin | - |
 | 26 | Rupleen Kaur | - |
 | 30 | Keisi Kotobelli | - |
-| 32 | Tian Liu and Fang Wang | - | Revision Requested: 2022-10-09
-| 35 | Lydia Masar | - | 
 | 36 | Marie Matsoya | - | Revision Requested: 2022-10-13
+| 38 | Emiko Miller | - | Revision Requested: 2022-10-13
 | 39 | Sid Mittal | - |
 | 43 | An Nguyen | - | Revision Requested: 2022-10-09
 | 47 | Kim Robbins | - |
