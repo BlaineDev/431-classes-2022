@@ -25,7 +25,7 @@
 | 36 | Marie Masotya | Tue 2022-10-19 9 AM | Revision Requested: 2022-10-13
 | 39 | Siddharth Mittal | Tue 2022-10-19 9 AM | Revision Requested: 2022-10-14 10:30 AM
 | 43 | An Nguyen | **Fri 2022-10-14 Noon** | Revision Requested: 2022-10-09
-| 49 | Miza Salim-Hammoud and Hossam Sarhan | **Fri 2022-10-14 Noon** | Title & YAML change Requested: 2022-10-14 9:40 AM and again 11:30 AM
+| 49 | Miza Salim-Hammoud and Hossam Sarhan | **Fri 2022-10-14 Noon** | Title & YAML change Requested: <br /> 2022-10-14 9:40 AM and again 11:30 AM
 | 53 | Neha Solanki | Tue 2022-10-19 9 AM | Revision Requested: 2022-10-14 9 AM
 
 ## Accepted Proposals (n = 36 proposals, 45/61 students)
