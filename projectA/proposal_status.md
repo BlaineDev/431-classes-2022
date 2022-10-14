@@ -9,12 +9,12 @@
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
 | 47 | Kim Robbins | - | To be reviewed on Friday
+| 7 | Sarah Barker | - | To be reviewed on Friday
 
-## Proposals Under Revision/Development (n = 17 students)
+## Proposals Under Revision/Development (n = 15 students)
 
 | ID | Investigator(s) | Deadline | Status
 | --: | :-------------: | :--------------------------: | :-------: |
-| 7 | Sarah Barker | **Fri 2022-10-14 Noon** | Awaiting Initial Submission
 | 11 | Alison Berry | **Fri 2022-10-14 Noon** | Revision Requested: 2022-10-09
 | 13 | Tarek ElShebiny | **Fri 2022-10-14 Noon** | Awaiting Initial Submission
 | 14 | Yinglun Geng and Qihao (Robby) Zhang | Tue 2022-10-19 9 AM | Revision Requested 2022-10-14 10 AM
@@ -22,7 +22,6 @@
 | 18 | Heidi Gullett | - | Awaiting Initial Submission
 | 19 | Alex Gurgis | - | Awaiting Initial Submission
 | 36 | Marie Masotya | Tue 2022-10-19 9 AM | Revision Requested: 2022-10-13
-| 38 | Emiko Miller | Tue 2022-10-19 9 AM | Revision Requested: 2022-10-13
 | 39 | Siddharth Mittal | Tue 2022-10-19 9 AM | Revision Requested: 2022-10-14 10:30 AM
 | 43 | An Nguyen | **Fri 2022-10-14 Noon** | Revision Requested: 2022-10-09
 | 49 | Miza Salim-Hammoud and Hossam Sarhan | **Fri 2022-10-14 Noon** | Title & YAML change Requested: 2022-10-14 9:40 AM
@@ -30,7 +29,7 @@
 | 58 | Savannah Wu | **Fri 2022-10-14 Noon** | Awaiting Initial Submission
 | 59 | Meredith Zhang | **Fri 2022-10-14 Noon** | Awaiting Initial Submission
 
-## Accepted Proposals (n = 34 proposals, 43/61 students)
+## Accepted Proposals (n = 35 proposals, 44/61 students)
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
@@ -58,6 +57,7 @@
 | 32 | Tian Liu and Fang Wang | Investigation of the Violent Crime Situation using CHR-2022 | Accepted
 | 34 | Valeria Martinez Tenorio | Nutrition-related factors from CHR-2022 and how they influence premature death | Accepted
 | 35 | Lydia Masar | Multi-state Analysis of Behavioral Factors Potentially Associated with Suicide | Accepted
+| 38 | Emiko Miller | Health and Life Expectancy in Great Lakes counties | Accepted
 | 40 | Ben Mittman | Relationships Between Community-Level Factors and Life Expectancy in CHR-2022 | Accepted
 | 41 | Hala Nas | Environmental Factors and Reported Poor Health in CHR-2022 | Accepted
 | 42 | Anya Nazarenko | Poverty and Pollution Exposure as Predictors of Premature Death in American Appalachia | Accepted
