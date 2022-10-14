@@ -4,7 +4,15 @@
 
 [Here is the list of the 13 "things" Dr. Love is looking for](https://thomaselove.github.io/431-projectA-2022/proposal.html#grading-the-proposal-13-things-were-looking-for) in reviewing your work. See [the Class 13 README](https://github.com/THOMASELOVE/431-classes-2022/blob/main/class13/README.md) for some additional advice as you prepare your proposal.
 
-## Accepted Proposals (n = 27)
+## Submitted Proposals Awaiting Review by Dr. Love (in the order I'll review them: n = 3)
+
+| ID | Investigator(s) | Project Title | Status |
+| --: | :-------------: | :--------------------------: | :-------: |
+| 35 | Lydia Masar | Multi-state Analysis of Behavioral Factors Potentially Associated with Suicide | To Be Reviewed Friday
+| 32 | Tian Liu and Fang Wang | Investigation of the Violent Crime Situation using CHR-2022 | To Be Reviewed Friday
+| 2 | Samer Alanazi | Studying low birth weight in counties of five different states | To Be Reviewed Friday
+
+## Accepted Proposals (n = 27 proposals, 35 students)
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
@@ -35,14 +43,6 @@
 | 51 | Faruk Senturk | The Effect of Financial Insecurity on the Quality of Health | Accepted
 | 54 | Xinyu Sun | Quality of Life and Economic Factors and Great Lakes Region Life Expectancy | Accepted
 | 55 | Max Tjen | Investigating Diabetes Prevalence: the Most Influential Factors | Accepted
-
-## Proposals Awaiting Review by Dr. Love (in the order I'll review them: n = 3)
-
-| ID | Investigator(s) | Project Title | Status |
-| --: | :-------------: | :--------------------------: | :-------: |
-| 35 | Lydia Masar | Multi-state Analysis of Behavioral Factors Potentially Associated with Suicide | To Be Reviewed Friday
-| 32 | Tian Liu and Fang Wang | Investigation of the Violent Crime Situation using CHR-2022 | To Be Reviewed Friday
-| 2 | Samer Alanazi | Studying low birth weight in counties of five different states | To Be Reviewed Friday
 
 ## Proposals Under Revision or Development (due Friday 2022-10-14 at NOON)
 
