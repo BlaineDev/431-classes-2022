@@ -11,7 +11,7 @@
 | 30 | Keisi Kotobelli | Social and Economic Factors Influencing Child Poverty | To be reviewed on Friday morning
 | 47 | Kim Robbins | - | To be reviewed on Friday
 
-## Proposals Under Revision/Development (due Friday 2022-10-14 at NOON: n = 16 students)
+## Proposals Under Revision/Development (due Friday 2022-10-14 at NOON: n = 17 students)
 
 | ID | Investigator(s) | Project Title | Status
 | --: | :-------------: | :--------------------------: | :-------: |
