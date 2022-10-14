@@ -14,17 +14,17 @@
 | 17 | Sarah Grabinski | Title will need revision | To be reviewed Friday 2022-10-14
 | 49 | Miza Salim-Hammoud and <br /> Hossam Sarhan | Factors Affecting Life Expectancy in Midwestern States | To be reviewed Friday 2022-10-14
 
-## Proposals Under Revision/Development (n = 7 students)
+## Proposals Under Revision/Development (n = 8 students)
 
-| ID | Investigator(s) | Deadline | Status
+| ID | Investigator(s) | Deadline | Last Review by TEL
 | --: | :-------------: | :--------------------------: | :-------: |
-| 7 | Sarah Barker | Tue 2022-10-18 9 AM | Revision Requested 2022-10-14 11:50 AM
-| 11 | Alison Berry | Tue 2022-10-18 9 AM | Revision Requested 2022-10-14 1:30 PM
-| 14 | Yinglun Geng and Qihao (Robby) Zhang | Tue 2022-10-18 9 AM | Revision Requested 2022-10-14 10 AM
+| 7 | Sarah Barker | Tue 2022-10-18 9 AM | 2022-10-14 11:50 AM
+| 11 | Alison Berry | Tue 2022-10-18 9 AM | 2022-10-14 1:30 PM
+| 14 | Yinglun Geng and Qihao (Robby) Zhang | Tue 2022-10-18 9 AM | 2022-10-14 10 AM
 | 18 | Heidi Gullett | - | Awaiting Initial Submission
-| 36 | Marie Masotya | Tue 2022-10-18 9 AM | Revision Requested: 2022-10-13
-| 39 | Siddharth Mittal | Tue 2022-10-18 9 AM | Revision Requested: 2022-10-14 10:30 AM
-| 53 | Neha Solanki | Tue 2022-10-18 9 AM | Revision Requested: 2022-10-14 9 AM
+| 36 | Marie Masotya | Tue 2022-10-18 9 AM | 2022-10-13
+| 39 | Siddharth Mittal | Tue 2022-10-18 9 AM | 2022-10-14 10:30 AM
+| 53 | Neha Solanki | Tue 2022-10-18 9 AM | 2022-10-14 9 AM
 
 ## Accepted Proposals (n = 37 proposals, 46/61 students)
 
