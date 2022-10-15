@@ -8,8 +8,6 @@
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
-| 7 | Sarah Barker | - | To be reviewed Saturday 2022-10-15
-| 36 | Marie Masotya | - | To be reviewed Saturday 2022-10-15
 
 ## Proposals Under Revision/Development (7 proposals, 10 students)
 
@@ -23,7 +21,7 @@
 | 49 | Miza Salim-Hammoud and Hossam Sarhan | Tue 2022-10-18 9 AM | 2022-10-14 2:20 PM
 | 53 | Neha Solanki | Tue 2022-10-18 9 AM | 2022-10-14 9 AM
 
-## Accepted Proposals (n = 40/49 proposals, 49/61 students)
+## Accepted Proposals (n = 42/49 proposals, 51/61 students)
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
@@ -33,6 +31,7 @@
 | 4	| Naji Ayyash and Millenia Zhou | Studying Premature Deaths in Five States | Accepted
 | 5 | Samantha Baker | Factors Impacting Mental Health in the Great Lakes Region Using CHR-2022 | Accepted
 | 6 | Seth Bauer and Jules Bakhos	| Predicting Preventable Hospital Stays with CHR-2022 | Accepted
+| 7 | Sarah Barker | Predicting Poor Mental Health Days in Blue and Red States with CHR-22 | Accepted
 | 8 | Lithe Basbous | Life Expectancy and its relation to socioeconomic and health status | Accepted
 | 10 | Chris Benson and Lentlametse Mantshonyane | How do Social and Economic Factors affect High School Completion Rates | Accepted
 | 12 | Shubho Das and Toby Jin | Factors that Affect Life Expectancy Across the United States | Accepted 
@@ -52,6 +51,7 @@
 | 32 | Tian Liu and Fang Wang | Investigation of the Violent Crime Situation using CHR-2022 | Accepted
 | 34 | Valeria Martinez Tenorio | Nutrition-related factors from CHR-2022 and how they influence premature death | Accepted
 | 35 | Lydia Masar | Multi-state Analysis of Behavioral Factors Potentially Associated with Suicide | Accepted
+| 36 | Marie Masotya | Life Expectancy and Health in Counties in Ohio and Three Neighboring States | Accepted
 | 38 | Emiko Miller | Health and Life Expectancy in Great Lakes counties | Accepted
 | 40 | Ben Mittman | Relationships Between Community-Level Factors and Life Expectancy in CHR-2022 | Accepted
 | 41 | Hala Nas | Environmental Factors and Reported Poor Health in CHR-2022 | Accepted
