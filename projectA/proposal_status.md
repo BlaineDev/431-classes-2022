@@ -23,7 +23,7 @@
 | 49 | Miza Salim-Hammoud and Hossam Sarhan | Tue 2022-10-18 9 AM | 2022-10-14 2:20 PM
 | 53 | Neha Solanki | Tue 2022-10-18 9 AM | 2022-10-14 9 AM
 
-## Accepted Proposals (n = 40 proposals, 49/61 students)
+## Accepted Proposals (n = 40/49 proposals, 49/61 students)
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
