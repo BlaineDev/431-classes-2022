@@ -14,6 +14,6 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 
 1. There is a [Minute Paper after Class 14](https://github.com/THOMASELOVE/431-minute-2022), due Wednesday 2022-10-19 at Noon. Details to be available **by class time**.
 2. An update on the status of Project A Proposals [is available here](https://github.com/THOMASELOVE/431-classes-2022/blob/main/projectA/proposal_status.md).
-3. [Lab 04](https://github.com/THOMASELOVE/431-labs-2022) is due Monday 2022-10-24 at 9 PM. 
+3. [Lab 04](https://github.com/THOMASELOVE/431-labs-2022) is due Monday 2022-10-24 at 9 PM, but you can do it now, if you like. 
     - Remember CWRU's Fall Break is next Monday and Tuesday, so we won't have class on Tuesday 2022-10-25.
 
