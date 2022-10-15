@@ -8,8 +8,6 @@
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
-| 58 | Savannah Wu | Health Behaviors and Longevity | To be reviewed Friday 2022-10-14
-| 17 | Sarah Grabinski | Title will need revision | To be reviewed Friday 2022-10-14
 | 7 | Sarah Barker | - | To be reviewed Saturday 2022-10-15
 | 36 | Marie Masotya | - | To be reviewed Saturday 2022-10-15
 
@@ -25,7 +23,7 @@
 | 49 | Miza Salim-Hammoud and Hossam Sarhan | Tue 2022-10-18 9 AM | 2022-10-14 2:20 PM
 | 53 | Neha Solanki | Tue 2022-10-18 9 AM | 2022-10-14 9 AM
 
-## Accepted Proposals (n = 38 proposals, 47/61 students)
+## Accepted Proposals (n = 40 proposals, 49/61 students)
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
@@ -40,6 +38,7 @@
 | 12 | Shubho Das and Toby Jin | Factors that Affect Life Expectancy Across the United States | Accepted 
 | 15 | Izzy Genuario	| Social Factors and Teen Birth Rate using CHR-2022 | Accepted
 | 16 | Pedram Golnari | Health Factors Affecting the Life Expectancy in the US | Accepted
+| 17 | Sarah Grabinski | Gone Too Young: Assessing Risk Factors of Premature Death | Accepted
 | 20 | Katie Hassett | Healthcare and Socioeconomic Predictors of Life Expectancy in Midwest Counties | Accepted
 | 21 | Benjamin Heifetz | Modulators of Adult Tobacco Smoking In States With Easy Access to Tobacco | Accepted
 | 22 | Madi Hunt and Jae Ho Lee | Social, Environmental, and Behavioral Factors and Low Birth Weight in Appalachian States | Accepted
@@ -66,6 +65,7 @@
 | 52 | Shwetank Singh | Teenage Pregnancy and Associated Factors | Accepted
 | 54 | Xinyu Sun | Quality of Life and Economic Factors and Great Lakes Region Life Expectancy | Accepted
 | 55 | Max Tjen | Investigating Diabetes Prevalence: the Most Influential Factors | Accepted
+| 58 | Savannah Wu | Health Behaviors and Longevity | Accepted
 | 59 | Meredith Zhang | Mental Health in the Midwest | Accepted
 
 
