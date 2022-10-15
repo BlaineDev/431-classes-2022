@@ -12,4 +12,7 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 
 ## Announcements
 
-To come.
+1. There is a Minute Paper after Class 14, due Wednesday 2022-10-19 at Noon. Details to be available **by class time**.
+2. An update on the status of Project A Proposals [is available here](https://github.com/THOMASELOVE/431-classes-2022/blob/main/projectA/proposal_status.md).
+
+
