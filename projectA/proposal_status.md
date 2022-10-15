@@ -4,11 +4,10 @@
 
 [Here is the list of the 13 "things" Dr. Love is looking for](https://thomaselove.github.io/431-projectA-2022/proposal.html#grading-the-proposal-13-things-were-looking-for) in reviewing your work. See [the Class 13 README](https://github.com/THOMASELOVE/431-classes-2022/blob/main/class13/README.md) for some additional advice as you prepare your proposal.
 
-## Submitted Proposals Awaiting Review by Dr. Love (5 proposals, 5 students)
+## Submitted Proposals Awaiting Review by Dr. Love (4 proposals, 4 students)
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
-| 59 | Meredith Zhang | Mental Health in the Midwest | To be reviewed Friday 2022-10-14
 | 58 | Savannah Wu | Health Behaviors and Longevity | To be reviewed Friday 2022-10-14
 | 17 | Sarah Grabinski | Title will need revision | To be reviewed Friday 2022-10-14
 | 7 | Sarah Barker | - | To be reviewed Saturday 2022-10-15
@@ -26,7 +25,7 @@
 | 49 | Miza Salim-Hammoud and Hossam Sarhan | Tue 2022-10-18 9 AM | 2022-10-14 2:20 PM
 | 53 | Neha Solanki | Tue 2022-10-18 9 AM | 2022-10-14 9 AM
 
-## Accepted Proposals (n = 37 proposals, 46/61 students)
+## Accepted Proposals (n = 38 proposals, 47/61 students)
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
@@ -67,6 +66,7 @@
 | 52 | Shwetank Singh | Teenage Pregnancy and Associated Factors | Accepted
 | 54 | Xinyu Sun | Quality of Life and Economic Factors and Great Lakes Region Life Expectancy | Accepted
 | 55 | Max Tjen | Investigating Diabetes Prevalence: the Most Influential Factors | Accepted
+| 59 | Meredith Zhang | Mental Health in the Midwest | Accepted
 
 
 
