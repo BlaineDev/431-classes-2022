@@ -4,7 +4,7 @@
 
 [Here is the list of the 13 "things" Dr. Love is looking for](https://thomaselove.github.io/431-projectA-2022/proposal.html#grading-the-proposal-13-things-were-looking-for) in reviewing your work. See [the Class 13 README](https://github.com/THOMASELOVE/431-classes-2022/blob/main/class13/README.md) for some additional advice as you prepare your proposal.
 
-## Submitted Proposals Awaiting Review by Dr. Love (4 proposals, 4 students)
+## Submitted Proposals Awaiting Review by Dr. Love (2 proposals, 2 students)
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
