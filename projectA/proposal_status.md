@@ -4,7 +4,7 @@
 
 [Here is the list of the 13 "things" Dr. Love is looking for](https://thomaselove.github.io/431-projectA-2022/proposal.html#grading-the-proposal-13-things-were-looking-for) in reviewing your work. See [the Class 13 README](https://github.com/THOMASELOVE/431-classes-2022/blob/main/class13/README.md) for some additional advice as you prepare your proposal.
 
-## Proposals Under Revision/Development (7 proposals, 10 students)
+## Proposals Under Revision/Development (6 proposals, 9 students)
 
 | ID | Investigator(s) | Deadline | Last Review by TEL
 | --: | :-------------: | :--------------------------: | :-------: |
@@ -14,14 +14,13 @@
 | 18 | Heidi Gullett | - | Awaiting Initial Submission
 | 39 | Siddharth Mittal | Tue 2022-10-18 9 AM | 2022-10-14 10:30 AM
 | 49 | Miza Salim-Hammoud and Hossam Sarhan | Tue 2022-10-18 9 AM | 2022-10-14 2:20 PM
-| 53 | Neha Solanki | Tue 2022-10-18 9 AM | 2022-10-14 9 AM
 
 ## Submitted Proposals Awaiting Review by Dr. Love 
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
 
-## Accepted Proposals (n = 42/49 proposals, 51/61 students)
+## Accepted Proposals (n = 43/49 proposals, 52/61 students)
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
@@ -63,6 +62,7 @@
 | 48 | Samuel Rodgers-Melnick | Behavioral and Environmental Predictors of Poor Mental Health in the Rust Belt | Accepted
 | 51 | Faruk Senturk | The Effect of Financial Insecurity on the Quality of Health | Accepted
 | 52 | Shwetank Singh | Teenage Pregnancy and Associated Factors | Accepted
+| 53 | Neha Solanki | Association of Air Pollution with Public Health | Accepted
 | 54 | Xinyu Sun | Quality of Life and Economic Factors and Great Lakes Region Life Expectancy | Accepted
 | 55 | Max Tjen | Investigating Diabetes Prevalence: the Most Influential Factors | Accepted
 | 58 | Savannah Wu | Health Behaviors and Longevity | Accepted
