@@ -4,12 +4,11 @@
 
 [Here is the list of the 13 "things" Dr. Love is looking for](https://thomaselove.github.io/431-projectA-2022/proposal.html#grading-the-proposal-13-things-were-looking-for) in reviewing your work. See [the Class 13 README](https://github.com/THOMASELOVE/431-classes-2022/blob/main/class13/README.md) for some additional advice as you prepare your proposal.
 
-## Proposals Under Revision/Development (6 proposals, 9 students)
+## Proposals Under Revision/Development (5 proposals, 7 students)
 
 | ID | Investigator(s) | Deadline | Last Review by TEL
 | --: | :-------------: | :--------------------------: | :-------: |
 | 11 | Alison Berry | Tue 2022-10-18 9 AM | 2022-10-14 1:30 PM
-| 13 | Tarek ElShebiny and Alex Gurgis | Tue 2022-10-18 9 AM | 2022-10-14 1:50 PM
 | 14 | Yinglun Geng and Qihao (Robby) Zhang | Tue 2022-10-18 9 AM | 2022-10-14 10 AM
 | 18 | Heidi Gullett | - | Awaiting Initial Submission
 | 39 | Siddharth Mittal | Tue 2022-10-18 9 AM | 2022-10-14 10:30 AM
@@ -20,7 +19,7 @@
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
 
-## Accepted Proposals (n = 43/49 proposals, 52/61 students)
+## Accepted Proposals (n = 44/49 proposals, 54/61 students)
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
@@ -34,6 +33,7 @@
 | 8 | Lithe Basbous | Life Expectancy and its relation to socioeconomic and health status | Accepted
 | 10 | Chris Benson and Lentlametse Mantshonyane | How do Social and Economic Factors affect High School Completion Rates | Accepted
 | 12 | Shubho Das and Toby Jin | Factors that Affect Life Expectancy Across the United States | Accepted 
+| 13 | Tarek ElShebiny and Alex Gurgis | Predictors of Adult Obesity | Accepted
 | 15 | Izzy Genuario	| Social Factors and Teen Birth Rate using CHR-2022 | Accepted
 | 16 | Pedram Golnari | Health Factors Affecting the Life Expectancy in the US | Accepted
 | 17 | Sarah Grabinski | Gone Too Young: Assessing Risk Factors of Premature Death | Accepted
