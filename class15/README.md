@@ -13,3 +13,10 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 ## Announcements
 
 To come.
+
+
+## One Last Thing
+
+- FiveThirtyEight has now paused (as of 2022-09-15) its page called [All The Science You Need To Make Your COVID-19 Decisions](https://projects.fivethirtyeight.com/covid-19-updates/): subtitled "We're tracking the research so you don't have to." and is no longer updating it with new guidance or science.
+- The New York Times continues to update [its vaccination tracker](https://www.nytimes.com/interactive/2020/us/covid-19-vaccine-doses.html) and other tools, but hasn't updated [its COVID FAQ](https://www.nytimes.com/explain/2022/coronavirus-questions) since 2022-07-15.
+- *Nature Communications* on 2022-10-12 published [Outcomes among confirmed cases and a matched comparison group in the Long-COVID in Scotland study](https://www.nature.com/articles/s41467-022-33415-5) by Claire E. Hastie et al., which, among other things, provides an attempt to describe the nature of long-COVID and the factors associated with it. I found this to be a really interesting article.
