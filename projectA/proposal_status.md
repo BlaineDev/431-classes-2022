@@ -17,7 +17,6 @@
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
-| 39 | Siddharth Mittal | Predicting Life Expectancy using Social and Health Factors | To Be Reviewed Monday
 
 ## Accepted Proposals (n = 44/49 proposals, 54/61 students)
 
@@ -52,6 +51,7 @@
 | 35 | Lydia Masar | Multi-state Analysis of Behavioral Factors Potentially Associated with Suicide | Accepted
 | 36 | Marie Masotya | Life Expectancy and Health in Counties in Ohio and Three Neighboring States | Accepted
 | 38 | Emiko Miller | Health and Life Expectancy in Great Lakes counties | Accepted
+| 39 | Siddharth Mittal | Predicting Life Expectancy using Social and Health Factors | Accepted
 | 40 | Ben Mittman | Relationships Between Community-Level Factors and Life Expectancy in CHR-2022 | Accepted
 | 41 | Hala Nas | Environmental Factors and Reported Poor Health in CHR-2022 | Accepted
 | 42 | Anya Nazarenko | Poverty and Pollution Exposure as Predictors of Premature Death in American Appalachia | Accepted
