@@ -16,4 +16,6 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 2. The status of Project A Proposals [is available here](https://github.com/THOMASELOVE/431-classes-2022/blob/main/projectA/proposal_status.md).
 3. [Lab 04](https://github.com/THOMASELOVE/431-labs-2022) is due Monday 2022-10-24 at 9 PM, but you can do it now, if you like. 
     - Remember CWRU's Fall Break is next Monday and Tuesday, so we won't have class on Tuesday 2022-10-25.
+4. Today's data sets come from the [Cleveland Clinic Statistical Education Dataset Repository](https://www.lerner.ccf.org/qhs/datasets/) and you can [register there](https://www.lerner.ccf.org/qhs/datasets/) to download the [two data sets we'll use](https://github.com/THOMASELOVE/431-classes-2022/tree/main/classes/class14/data) if you like. Registration is fast and free.
+    - Just a note for November: In Project B, you cannot use that repository as a source of project data.
 
