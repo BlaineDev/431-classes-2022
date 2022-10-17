@@ -13,7 +13,7 @@
 | 14 | Yinglun Geng and Qihao (Robby) Zhang | Tue 2022-10-18 9 AM | 2022-10-14 10 AM
 | 18 | Heidi Gullett | - | Awaiting Initial Submission
 | 39 | Siddharth Mittal | Tue 2022-10-18 9 AM | 2022-10-14 10:30 AM
-| 49 | Miza Salim-Hammoud and Hossam Sarhan | Tue 2022-10-18 9 AM | 2022-10-14 2:20 PM
+| 49 | Miza Salim-Hammoud and Hossam Sarhan | Wed 2022-10-19 Noon | 2022-10-14 2:20 PM
 
 ## Submitted Proposals Awaiting Review by Dr. Love 
 
