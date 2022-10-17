@@ -13,12 +13,7 @@
 | 18 | Heidi Gullett | - | Awaiting Initial Submission
 | 49 | Miza Salim-Hammoud and Hossam Sarhan | Wed 2022-10-19 Noon | 2022-10-14 2:20 PM
 
-## Submitted Proposals Awaiting Review by Dr. Love 
-
-| ID | Investigator(s) | Project Title | Status |
-| --: | :-------------: | :--------------------------: | :-------: |
-
-## Accepted Proposals (n = 44/49 proposals, 54/61 students)
+## Accepted Proposals (n = 45/49 proposals, 55/61 students)
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
