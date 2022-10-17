@@ -4,20 +4,20 @@
 
 [Here is the list of the 13 "things" Dr. Love is looking for](https://thomaselove.github.io/431-projectA-2022/proposal.html#grading-the-proposal-13-things-were-looking-for) in reviewing your work. See [the Class 13 README](https://github.com/THOMASELOVE/431-classes-2022/blob/main/class13/README.md) for some additional advice as you prepare your proposal.
 
-## Proposals Under Revision/Development (5 proposals, 7 students)
+## Proposals Under Revision/Development (4 proposals, 6 students)
 
 | ID | Investigator(s) | Deadline | Last Review by TEL
 | --: | :-------------: | :--------------------------: | :-------: |
 | 11 | Alison Berry | Tue 2022-10-18 9 AM | 2022-10-14 1:30 PM
 | 14 | Yinglun Geng and Qihao (Robby) Zhang | Tue 2022-10-18 9 AM | 2022-10-14 10 AM
 | 18 | Heidi Gullett | - | Awaiting Initial Submission
-| 39 | Siddharth Mittal | Tue 2022-10-18 9 AM | 2022-10-14 10:30 AM
 | 49 | Miza Salim-Hammoud and Hossam Sarhan | Wed 2022-10-19 Noon | 2022-10-14 2:20 PM
 
 ## Submitted Proposals Awaiting Review by Dr. Love 
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
+| 39 | Siddharth Mittal | Predicting Life Expectancy using Social and Health Factors | To Be Reviewed Monday
 
 ## Accepted Proposals (n = 44/49 proposals, 54/61 students)
 
