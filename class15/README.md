@@ -12,8 +12,14 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 
 ## Announcements
 
-To come.
+1. Feedback from the Minute Paper after Class 14 should be available **by class time**.
+2. Remember that Monday and Tuesday (10-24/25) are CWRU Fall Break, so our next class will be next Thursday 2022-10-27.
 
+## What Should I Be Working On?
+
+1. [Lab 04](https://github.com/THOMASELOVE/431-labs-2022) is due Monday 2022-10-24 at 9 PM.
+2. Read Spiegelhalter through Chapter 7 (How Sure Can We Be About What's Going On? Estimates and Intervals)
+3. [Project A](https://thomaselove.github.io/431-projectA-2022/) due Monday 2022-10-31 at 9 PM. See my comments in [today's slides](https://thomaselove.github.io/431-slides-2022/class15.html).
 
 ## One Last Thing
 
