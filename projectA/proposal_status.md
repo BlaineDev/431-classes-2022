@@ -39,7 +39,7 @@
 | 17 | Sarah Grabinski | Gone Too Young: Assessing Risk Factors of Premature Death | Accepted
 | 20 | Katie Hassett | Healthcare and Socioeconomic Predictors of Life Expectancy in Midwest Counties | Accepted
 | 21 | Benjamin Heifetz | Modulators of Adult Tobacco Smoking In States With Easy Access to Tobacco | Accepted
-| 22 | Madi Hunt and Jae Ho Lee | Social, Environmental, and Behavioral Factors and Low Birth Weight in Appalachian States | Accepted
+| 22 | Madi Hunt and Jae Ho Lee | Social and Environmental Predictors of Low Birth Weight in Appalachian States | Accepted
 | 24 | Naveen Kannan | Adult Obesity in the American Midwest | Accepted
 | 25 | Sahana Kannan and Sajan Patel |	Factors Influencing Preventable Hospital Stays | Accepted
 | 26 | Rupleen Kaur | Factors affecting Diabetes Prevelance in North-Eastern States | Accepted
