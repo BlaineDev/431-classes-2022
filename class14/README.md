@@ -28,3 +28,7 @@ A great resource for news and opinions on data analysis, statistical modeling an
 - [Screening Colonoscopy Misses the Mark in its First Real Test](https://sensiblemed.substack.com/p/screening-colonoscopy-misses-the), a commentary by John Mandrola and Vinay Prasad at Sensible Medicine describing the NordICC Trial's results. This was the first randomized trial of screening colonoscopy.
 
 among other links.
+
+## Dr. Love is in a musical, "Something Rotten", which runs October 28 through November 19
+
+[Details are here](https://github.com/THOMASELOVE/theater#theater) and I've been told the show may eventually sell out. A recent update is that masks will **not** be required in the audience.
