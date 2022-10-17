@@ -19,4 +19,12 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 4. Today's data sets come from the [Cleveland Clinic Statistical Education Dataset Repository](https://www.lerner.ccf.org/qhs/datasets/) and you can [register there](https://www.lerner.ccf.org/qhs/datasets/) to download the [two data sets we'll use](https://github.com/THOMASELOVE/431-classes-2022/tree/main/class14/data) if you like. Registration is fast and free.
     - Just a note for November: In Project B, you cannot use that repository as a source of project data.
 
+## One Last Thing
 
+A great resource for news and opinions on data analysis, statistical modeling and many related topics is Frank Harrell's [Statistical Thinking News](https://paper.li/stn) to which I subscribe (it's free and weekly). The most recent issue includes:
+
+- [How to Do Bad Biomarker Research](http://hbiostat.org/blog/post/badb/) from Frank's [blog on Statistical Thinking](http://hbiostat.org/blog/)
+- Retraction Watch on [In 1987, the NIH found a paper contained fake data. It was just retracted.](https://retractionwatch.com/2022/10/13/in-1987-the-nih-found-a-paper-contained-fake-data-it-was-just-retracted/)
+- [Screening Colonoscopy Misses the Mark in its First Real Test](https://sensiblemed.substack.com/p/screening-colonoscopy-misses-the), a commentary by John Mandrola and Vinay Prasad at Sensible Medicine describing the NordICC Trial's results. This was the first randomized trial of screening colonoscopy.
+
+among other links.
