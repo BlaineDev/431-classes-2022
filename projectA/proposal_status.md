@@ -12,13 +12,7 @@
 | 18 | Heidi Gullett | - | Awaiting Initial Submission
 | 49 | Miza Salim-Hammoud and Hossam Sarhan | Wed 2022-10-19 Noon | 2022-10-14 2:20 PM
 
-## Proposals Under Review by Dr. Love (1 proposal, 2 students)
-
-| ID | Investigator(s) | Under Review
-| --: | :-------------: | :-------: |
-| 14 | Yinglun Geng and Qihao (Robby) Zhang | Tue 2022-10-18
-
-## Accepted Proposals (n = 45/49 proposals, 55/61 students)
+## Accepted Proposals (n = 46/49 proposals, 57/61 students)
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
@@ -33,6 +27,7 @@
 | 10 | Chris Benson and Lentlametse Mantshonyane | How do Social and Economic Factors affect High School Completion Rates | Accepted
 | 12 | Shubho Das and Toby Jin | Factors that Affect Life Expectancy Across the United States | Accepted 
 | 13 | Tarek ElShebiny and Alex Gurgis | Predictors of Adult Obesity | Accepted
+| 14 | Yinglun Geng and Qihao (Robby) Zhang | Factors affecting life expectancies in five midwest States | Accepted
 | 15 | Izzy Genuario	| Social Factors and Teen Birth Rate using CHR-2022 | Accepted
 | 16 | Pedram Golnari | Health Factors Affecting the Life Expectancy in the US | Accepted
 | 17 | Sarah Grabinski | Gone Too Young: Assessing Risk Factors of Premature Death | Accepted
