@@ -4,14 +4,19 @@
 
 [Here is the list of the 13 "things" Dr. Love is looking for](https://thomaselove.github.io/431-projectA-2022/proposal.html#grading-the-proposal-13-things-were-looking-for) in reviewing your work. See [the Class 13 README](https://github.com/THOMASELOVE/431-classes-2022/blob/main/class13/README.md) for some additional advice as you prepare your proposal.
 
-## Proposals Under Revision/Development (4 proposals, 6 students)
+## Proposals Under Revision/Development (3 proposals, 4 students)
 
 | ID | Investigator(s) | Deadline | Last Review by TEL
 | --: | :-------------: | :--------------------------: | :-------: |
 | 11 | Alison Berry | Tue 2022-10-18 9 AM | 2022-10-14 1:30 PM
-| 14 | Yinglun Geng and Qihao (Robby) Zhang | Tue 2022-10-18 9 AM | 2022-10-14 10 AM
 | 18 | Heidi Gullett | - | Awaiting Initial Submission
 | 49 | Miza Salim-Hammoud and Hossam Sarhan | Wed 2022-10-19 Noon | 2022-10-14 2:20 PM
+
+## Proposals Under Review by Dr. Love (1 proposal, 2 students)
+
+| ID | Investigator(s) | Under Review
+| --: | :-------------: | :-------: |
+| 14 | Yinglun Geng and Qihao (Robby) Zhang | Tue 2022-10-18
 
 ## Accepted Proposals (n = 45/49 proposals, 55/61 students)
 
