@@ -13,9 +13,9 @@
 
 ## To Be Reviewed Tuesday Night
 
-| ID | Investigator(s) | 
-| --: | :-------------: | 
-| 11 | Alison Berry | 
+| ID | Investigator(s) | Title |
+| --: | :-------------: | :--------------------------------------: | 
+| 11 | Alison Berry | Physical Health of Select Midwest and West Coast Counties
 
 ## Accepted Proposals (n = 46/49 proposals, 57/61 students)
 
