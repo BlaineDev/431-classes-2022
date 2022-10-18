@@ -14,8 +14,7 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 
 1. Feedback from the Minute Paper after Class 14 should be available **by class time**.
 2. The status of Project A Proposals [is available here](https://github.com/THOMASELOVE/431-classes-2022/blob/main/projectA/proposal_status.md).
-    - To ease the transition to the final version of the project (including Analyses) I have created a [Sample Project A](https://thomaselove.github.io/431-projectA-2022/exampleC.html) and then reproduced it using four different themes. I suggest the use of one of these documents as your starting point for the final report due 2022-10-31. If you've already done the proposal successfully, the minor rearrangement here should be easy to accomplish, and will make our evaluation much easier. Also, you have the option to try out three different themes (in addition to the `readthedown` most of you used on the proposal.
-    - Details on [the changes are here](https://github.com/THOMASELOVE/431-classes-2022/blob/main/projectA/changes_from_proposal.md).
+    - To ease the transition to the final version of the project (including Analyses) I have created a [Sample Project A](https://thomaselove.github.io/431-projectA-2022/exampleC.html) and then reproduced it using four different themes. I **strongly** suggest the use of one of these documents as your starting point for the final report due 2022-10-31. 
 3. Remember that Monday and Tuesday (10-24/25) are CWRU Fall Break, so our next class will be next Thursday 2022-10-27.
 
 ## What Should I Be Working On?
@@ -26,6 +25,7 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
     - See my comments in [today's slides](https://thomaselove.github.io/431-slides-2022/class15.html).
     - See also my [revised Sample Project A](https://thomaselove.github.io/431-projectA-2022/exampleC.html) documents, this [description of what's changed since the Proposal](https://github.com/THOMASELOVE/431-classes-2022/blob/main/projectA/changes_from_proposal.md), and the updated final report [instructions](https://thomaselove.github.io/431-projectA-2022/report.html) and [checklist](https://thomaselove.github.io/431-projectA-2022/check_final.html).
 4. Get started on building your own website for (bonus) [Lab X](https://github.com/THOMASELOVE/431-labs-2022/blob/main/labX.md).
+
 ## One Last Thing
 
 - FiveThirtyEight has now paused (as of 2022-09-15) its page called [All The Science You Need To Make Your COVID-19 Decisions](https://projects.fivethirtyeight.com/covid-19-updates/): subtitled "We're tracking the research so you don't have to." and is no longer updating it with new guidance or science.
