@@ -14,7 +14,7 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 
 1. Feedback from the Minute Paper after Class 14 should be available **by class time**.
 2. The status of Project A Proposals [is available here](https://github.com/THOMASELOVE/431-classes-2022/blob/main/projectA/proposal_status.md).
-    - To ease the transition to the final version of the project (including Analyses) I have created a [Sample Project A](https://thomaselove.github.io/431-projectA-2022/exampleC.html) and then reproduced it using four different themes. I **strongly** suggest the use of one of these documents as your starting point for the final report due 2022-10-31. 
+    - To ease the transition to the final version of the project (including Analyses) I have created a [Sample Project A](https://thomaselove.github.io/431-projectA-2022/exampleC.html) and then reproduced it using four different themes. I **strongly** suggest using one of these documents to build your final report due 2022-10-31. 
 3. Remember that Monday and Tuesday (10-24/25) are CWRU Fall Break, so our next class will be next Thursday 2022-10-27.
 
 ## What Should I Be Working On?
