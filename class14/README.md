@@ -19,9 +19,10 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
     - I've also edited the [Final Project A Report Checklist](https://thomaselove.github.io/431-projectA-2022/check_final.html) and the [Final Report Instructions](https://thomaselove.github.io/431-projectA-2022/report.html) to better match up with these [revised sample Project A documents](https://thomaselove.github.io/431-projectA-2022/exampleC.html).
 3. [Lab 04](https://github.com/THOMASELOVE/431-labs-2022) is due Monday 2022-10-24 at 9 PM, but you can do it now, if you like. 
     - Remember CWRU's Fall Break is next Monday and Tuesday, so we won't have class on Tuesday 2022-10-25.
-4. Today's data sets come from the [Cleveland Clinic Statistical Education Dataset Repository](https://www.lerner.ccf.org/qhs/datasets/) and you can [register there](https://www.lerner.ccf.org/qhs/datasets/) to download the [two data sets we'll use](https://github.com/THOMASELOVE/431-classes-2022/tree/main/class14/data) if you like. Registration is fast and free.
+4. [Lab X](https://github.com/THOMASELOVE/431-labs-2022/blob/main/labX.md) is an (optional) bonus lab, due in December, as indicated in the [Course Calendar](https://thomaselove.github.io/431-2022/calendar.html). You'd be building your own professional website, perhaps using tools from R and [Quarto](https://quarto.org/). Take a look. I hope everyone will do this.
+5. Today's data sets come from the [Cleveland Clinic Statistical Education Dataset Repository](https://www.lerner.ccf.org/qhs/datasets/) and you can [register there](https://www.lerner.ccf.org/qhs/datasets/) to download the [two data sets we'll use](https://github.com/THOMASELOVE/431-classes-2022/tree/main/class14/data) if you like. Registration is fast and free.
     - Just a note for November: In Project B, you cannot use that repository as a source of project data.
-5. Chapter 32 is now part of the [Course Notes](https://thomaselove.github.io/431-notes/).
+6. Chapter 32 is now part of the [Course Notes](https://thomaselove.github.io/431-notes/).
 
 ## One Last Thing
 
