@@ -22,8 +22,10 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 
 1. [Lab 04](https://github.com/THOMASELOVE/431-labs-2022) is due Monday 2022-10-24 at 9 PM.
 2. Read Spiegelhalter through Chapter 7 (How Sure Can We Be About What's Going On? Estimates and Intervals)
-3. [Project A](https://thomaselove.github.io/431-projectA-2022/) due Monday 2022-10-31 at 9 PM. See my comments in [today's slides](https://thomaselove.github.io/431-slides-2022/class15.html).
-
+3. [Project A](https://thomaselove.github.io/431-projectA-2022/) due Monday 2022-10-31 at 9 PM. 
+    - See my comments in [today's slides](https://thomaselove.github.io/431-slides-2022/class15.html).
+    - See also my [revised Sample Project A](https://thomaselove.github.io/431-projectA-2022/exampleC.html) documents, this [description of what's changed since the Proposal](https://github.com/THOMASELOVE/431-classes-2022/blob/main/projectA/changes_from_proposal.md), and the updated final report [instructions](https://thomaselove.github.io/431-projectA-2022/report.html) and [checklist](https://thomaselove.github.io/431-projectA-2022/check_final.html).
+4. Get started on building your own website for (bonus) [Lab X](https://github.com/THOMASELOVE/431-labs-2022/blob/main/labX.md).
 ## One Last Thing
 
 - FiveThirtyEight has now paused (as of 2022-09-15) its page called [All The Science You Need To Make Your COVID-19 Decisions](https://projects.fivethirtyeight.com/covid-19-updates/): subtitled "We're tracking the research so you don't have to." and is no longer updating it with new guidance or science.
