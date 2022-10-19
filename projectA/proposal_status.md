@@ -1,9 +1,5 @@
 # Project A Proposal Status
 
-## Evaluating The Proposal
-
-[Here is the list of the 13 "things" Dr. Love is looking for](https://thomaselove.github.io/431-projectA-2022/proposal.html#grading-the-proposal-13-things-were-looking-for) in reviewing your work. See [the Class 13 README](https://github.com/THOMASELOVE/431-classes-2022/blob/main/class13/README.md) for some additional advice as you prepare your proposal.
-
 ## Accepted Proposals (n = 47/49 proposals, 58/61 students)
 
 | ID | Investigator(s) | Project Title | 
@@ -55,6 +51,10 @@
 | 55 | Max Tjen | Investigating Diabetes Prevalence: the Most Influential Factors | 
 | 58 | Savannah Wu | Health Behaviors and Longevity | 
 | 59 | Meredith Zhang | Mental Health in the Midwest | 
+
+## Evaluating The Proposal
+
+[Here is the list of the 13 "things" Dr. Love is looking for](https://thomaselove.github.io/431-projectA-2022/proposal.html#grading-the-proposal-13-things-were-looking-for) in reviewing your work. See [the Class 13 README](https://github.com/THOMASELOVE/431-classes-2022/blob/main/class13/README.md) for some additional advice as you prepare your proposal.
 
 ## Proposals Under Revision/Development (2 proposals, 3 students)
 
