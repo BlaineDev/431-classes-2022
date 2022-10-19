@@ -14,7 +14,7 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 
 ## Announcements
 
-1. Feedback from the Minute Paper after Class 14 should be available **by class time**.
+1. Feedback from the Minute Paper after Class 14 [is now available](https://bit.ly/431-2022-min14-feedback).
 2. The status of Project A Proposals [is available here](https://github.com/THOMASELOVE/431-classes-2022/blob/main/projectA/proposal_status.md).
     - To ease the transition to the final version of the project (including Analyses) I have created a [Sample Project A](https://thomaselove.github.io/431-projectA-2022/exampleC.html) and then reproduced it using four different themes. I **strongly** suggest using one of these documents to build your final report due 2022-10-31. 
 3. Here are some [summary statistics based on the currently accepted proposals](https://github.com/THOMASELOVE/431-classes-2022/blob/main/projectA/proposal_status.md#some-summary-statistics-through-47-accepted-proposals) for Project A.
