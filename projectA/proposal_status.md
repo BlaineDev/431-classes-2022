@@ -38,7 +38,7 @@
 | 39 | Siddharth Mittal | Predicting Life Expectancy using Social and Health Factors | 
 | 40 | Ben Mittman | Relationships Between Community-Level Factors and Life Expectancy in CHR-2022 | 
 | 41 | Hala Nas | Environmental Factors and Reported Poor Health in CHR-2022 | 
-| 42 | Anya Nazarenko | Poverty and Pollution Exposure as Predictors of Premature Death in American Appalachia | 
+| 42 | Anya Nazarenko | Poverty and Pollution Exposure as Predictors of Premature Death in Appalachia | 
 | 43 | An Nguyen | Predicting Population Obesity in selected states across America with CHR-2022 | 
 | 44 | Anthony Orsino | Predicting Low Birth Weight in a Politically Representative State Cohort | 
 | 46 | Sameer Prasada |	Poor Mental Health Days in Midwestern States: CHR-2022 | 
