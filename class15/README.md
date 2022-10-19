@@ -17,6 +17,7 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
     - To ease the transition to the final version of the project (including Analyses) I have created a [Sample Project A](https://thomaselove.github.io/431-projectA-2022/exampleC.html) and then reproduced it using four different themes. I **strongly** suggest using one of these documents to build your final report due 2022-10-31. 
 3. Here are some [summary statistics based on the currently accepted proposals](https://github.com/THOMASELOVE/431-classes-2022/blob/main/projectA/proposal_status.md#some-summary-statistics-through-47-accepted-proposals) for Project A.
 4. Remember that Monday and Tuesday (10-24/25) are CWRU Fall Break, so [our next class](https://github.com/THOMASELOVE/431-classes-2022/tree/main/class16) will be next Thursday 2022-10-27.
+5. All 35 chapters of [Course Notes](https://thomaselove.github.io/431-notes/) that I plan to post this semester are now available.
 
 ## What Should I Be Working On?
 
