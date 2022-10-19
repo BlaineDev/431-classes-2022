@@ -4,13 +4,7 @@
 
 [Here is the list of the 13 "things" Dr. Love is looking for](https://thomaselove.github.io/431-projectA-2022/proposal.html#grading-the-proposal-13-things-were-looking-for) in reviewing your work. See [the Class 13 README](https://github.com/THOMASELOVE/431-classes-2022/blob/main/class13/README.md) for some additional advice as you prepare your proposal.
 
-
-## To Be Reviewed Tuesday Night
-
-| ID | Investigator(s) | Title |
-| --: | :-------------: | :--------------------------------------: | 
-
-## Accepted Proposals (n = 46/49 proposals, 57/61 students)
+## Accepted Proposals (n = 47/49 proposals, 58/61 students)
 
 | ID | Investigator(s) | Project Title | Status |
 | --: | :-------------: | :--------------------------: | :-------: |
