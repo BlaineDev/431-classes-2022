@@ -4,18 +4,11 @@
 
 [Here is the list of the 13 "things" Dr. Love is looking for](https://thomaselove.github.io/431-projectA-2022/proposal.html#grading-the-proposal-13-things-were-looking-for) in reviewing your work. See [the Class 13 README](https://github.com/THOMASELOVE/431-classes-2022/blob/main/class13/README.md) for some additional advice as you prepare your proposal.
 
-## Proposals Under Revision/Development (2 proposals, 3 students)
-
-| ID | Investigator(s) | Deadline | Last Review by TEL
-| --: | :-------------: | :--------------------------: | :-------: |
-| 18 | Heidi Gullett | - | Awaiting Initial Submission
-| 49 | Miza Salim-Hammoud and Hossam Sarhan | Wed 2022-10-19 Noon | 2022-10-14 2:20 PM
 
 ## To Be Reviewed Tuesday Night
 
 | ID | Investigator(s) | Title |
 | --: | :-------------: | :--------------------------------------: | 
-| 11 | Alison Berry | Physical Health of Select Midwest and West Coast Counties
 
 ## Accepted Proposals (n = 46/49 proposals, 57/61 students)
 
@@ -30,6 +23,7 @@
 | 7 | Sarah Barker | Predicting Poor Mental Health Days in Blue and Red States with CHR-22 | Accepted
 | 8 | Lithe Basbous | Life Expectancy and its relation to socioeconomic and health status | Accepted
 | 10 | Chris Benson and Lentlametse Mantshonyane | How do Social and Economic Factors affect High School Completion Rates | Accepted
+| 11 | Alison Berry | Physical Health of Select Midwest and West Coast Counties | Accepted
 | 12 | Shubho Das and Toby Jin | Factors that Affect Life Expectancy Across the United States | Accepted 
 | 13 | Tarek ElShebiny and Alex Gurgis | Predictors of Adult Obesity | Accepted
 | 14 | Yinglun Geng and Qihao (Robby) Zhang | Factors affecting life expectancies in five midwest States | Accepted
@@ -68,5 +62,11 @@
 | 58 | Savannah Wu | Health Behaviors and Longevity | Accepted
 | 59 | Meredith Zhang | Mental Health in the Midwest | Accepted
 
+## Proposals Under Revision/Development (2 proposals, 3 students)
+
+| ID | Investigator(s) | Deadline | Last Review by TEL
+| --: | :-------------: | :--------------------------: | :-------: |
+| 18 | Heidi Gullett | - | Awaiting Initial Submission
+| 49 | Miza Salim-Hammoud and Hossam Sarhan | Wed 2022-10-19 Noon | 2022-10-14 2:20 PM
 
 
