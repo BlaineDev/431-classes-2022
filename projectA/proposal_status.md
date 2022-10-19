@@ -66,7 +66,7 @@ For the multi-categorical predictor, 25 projects use a 3-category predictor, 12 
 
 26 on Windows machines, 21 on macOS.
 
-## Accepted Proposals (n = 47/49 proposals, 58/61 students)
+## Accepted Proposals (n = 48 proposals, 60 students)
 
 | ID | Investigator(s) | Project Title | 
 | --: | :-------------: | :-------------------------------------------------------: |
@@ -110,6 +110,7 @@ For the multi-categorical predictor, 25 projects use a 3-category predictor, 12 
 | 46 | Sameer Prasada |	Poor Mental Health Days in Midwestern States: CHR-2022 | 
 | 47 | Kim Robbins | How Social and Economic Factors Relate to Teen Births: Using CHR-2022 | 
 | 48 | Samuel Rodgers-Melnick | Behavioral and Environmental Predictors of Poor Mental Health in the Rust Belt | 
+| 49 | Miza Salim-Hammoud and Hossam Sarhan | Factors Affecting Life Expectancy in Midwestern States |
 | 51 | Faruk Senturk | The Effect of Financial Insecurity on the Quality of Health | 
 | 52 | Shwetank Singh | Teenage Pregnancy and Associated Factors | 
 | 53 | Neha Solanki | Association of Air Pollution with Public Health | 
@@ -118,17 +119,10 @@ For the multi-categorical predictor, 25 projects use a 3-category predictor, 12 
 | 58 | Savannah Wu | Health Behaviors and Longevity | 
 | 59 | Meredith Zhang | Mental Health in the Midwest | 
 
-
-
 ## Evaluating The Proposal
 
 [Here is the list of the 13 "things" Dr. Love is looking for](https://thomaselove.github.io/431-projectA-2022/proposal.html#grading-the-proposal-13-things-were-looking-for) in reviewing your work. See [the Class 13 README](https://github.com/THOMASELOVE/431-classes-2022/blob/main/class13/README.md) for some additional advice as you prepare your proposal.
 
-## Proposals Under Revision/Development (2 proposals, 3 students)
 
-| ID | Investigator(s) | Deadline | Last Review by TEL
-| --: | :-------------: | :--------------------------: | :-------: |
-| 18 | Heidi Gullett | - | Awaiting Initial Submission
-| 49 | Miza Salim-Hammoud and Hossam Sarhan | Wed 2022-10-19 Noon | 2022-10-14 2:20 PM
 
 
