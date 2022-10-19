@@ -10,6 +10,8 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 :---: | :--------: | :------: | :------: | :--------: | :-------------:
 15 | 2022-10-20 | **[Slides 15](https://thomaselove.github.io/431-slides-2022/class15.html)** | [Code 15](https://thomaselove.github.io/431-slides-2022/class15.qmd) | [PDF 15](431%20Class%2015.pdf) | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
+![](grant_2022-10-18.png) [Link](https://twitter.com/adammgrant/status/1582379253479354368)
+
 ## Announcements
 
 1. Feedback from the Minute Paper after Class 14 should be available **by class time**.
