@@ -23,6 +23,8 @@ Ohio | PA | CA | IN, MI, NY, WV | GA, KY | FL, MA, OR, WA | MN | AZ, IL, NJ, WI 
 - States selected in only one proposal: AR, ID, LA, MT, SD, and TN
 - States (eligible for project) not selected: MO, NE, and WY
 
+Note that in each of the cases where two proposals are using exactly the same states, they are using different outcomes.
+
 #### Outcome Variables
 
 V code | Proposals | Description | | V code | Proposals | Description
