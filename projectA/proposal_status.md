@@ -1,5 +1,69 @@
 # Project A Proposal Status
 
+## Some Summary Statistics through 47 accepted proposals
+
+#### State Counts
+
+25 proposals use 4 states, 15 use 5 states and 7 use 6 states
+
+#### County Counts (sorted)
+
+```
+207, 221, 231, 243, 268, 279, 300, 302, 302, 305, 306, 312, 315, 315, 315, 317, 322, 322, 327, 330
+330, 330, 330, 330, 343, 352, 352, 353, 355, 355, 361, 367, 368, 369, 372, 373, 374, 374, 375, 378
+379, 383, 383, 384, 391, 400, 400
+```
+
+#### By State
+
+Ohio | PA | CA | IN, MI, NY, WV | GA, KY | FL, MA, OR, WA | MN | AZ, IL, NJ, WI | AK, IA, MD, ME, ND, NM, NV, OK, SC | AL, CO, KS, MS, NC, TX, UT, VA, VT |
+:---: | :--: | :--: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+47   | 15 | 10 | 9 | 7 | 6 | 5 | 4 | 3 | 2 |
+
+- States selected in only one proposal: AR, ID, LA, MT, SD, and TN
+- States (eligible for project) not selected: MO, NE, and WY
+
+#### Outcome Variables
+
+V code | Proposals | Description | | V code | Proposals | Description
+----: | ---: | -------------------------- | -- |  ----: | ---: | --------------------------
+v147 | 13 | Life expectancy
+v042 | 5 | Poor mental health days
+v001 | 3 | Premature death                |  | v009 | 1 | Adult smoking
+v005 | 3 | Preventable hospital stays     |  | v036 | 1 | Poor physical health days
+v011 | 3 | Adult obesity                  |  | v043 | 1 | Violent crime
+v014 | 3 | Teen births                    |  | v125 | 1 | Air pollution - particulate matter
+v037 | 3 | Low birthweight                |  | v127 | 1 | Premature age-adjusted mortality
+v002 | 2 | Poor or fair health            |  | v158 | 1 | Juvenile arrests
+v024 | 2 | Children in poverty            |  | v161 | 1 | Suicides
+v060 | 2 | Diabetes prevalence            |  | v168 | 1 | High school completion
+
+#### Predictor Variables
+
+52 different variables were chosen as either quantitative or categorical predictors. The most common choices were:
+
+V code | Proposals | Description | | V code | Proposals | Description
+----: | ---: | -------------------------- | -- |  ----: | ---: | --------------------------
+v063 | 17 | Median household income | | v044 | 6 | Income inequality
+v049 | 11 | Excessive drinking  | | v139 | 6 | Food insecurity
+v009 | 9 | Adult smoking   | | v011 | 5 | Adult obesity
+v070 | 9 | Physical inactivity   | | v014 | 5 | Teen births
+v143 | 9 | Insufficient sleep   | | v069 | 5 | Some college
+v023 | 8 | Unemployment  | | v085 | 5 | Uninsured
+v124 | 8 | Drinking Water Violations   | | v133 | 5 | Food environment index
+v083 | 7 | Limited access to healthy foods   | | v004 | 4 | Population to Primary care physicians
+v125 | 7 | Air pollution - particulate matter   | | v045 | 4 | Sexually transmitted infections
+v132 | 7 | Access to exercise opportunities   | | v140 | 4 | Social associations
+  --   | --  | --   | | v145 | 4 | Frequent mental distress
+
+#### Multi-Categorical Categories
+
+For the multi-categorical predictor, 25 projects use a 3-category predictor, 12 use a 4-category predictor, and 10 use a 5-category predictor.
+
+#### Operating Systems
+
+26 on Windows machines, 21 on macOS.
+
 ## Accepted Proposals (n = 47/49 proposals, 58/61 students)
 
 | ID | Investigator(s) | Project Title | 
@@ -51,6 +115,8 @@
 | 55 | Max Tjen | Investigating Diabetes Prevalence: the Most Influential Factors | 
 | 58 | Savannah Wu | Health Behaviors and Longevity | 
 | 59 | Meredith Zhang | Mental Health in the Midwest | 
+
+
 
 ## Evaluating The Proposal
 
