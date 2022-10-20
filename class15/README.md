@@ -1,5 +1,9 @@
 # 431 Class 15: 2022-10-20
 
+## TODAY'S CLASS IS CANCELLED, AND WILL BE REPLACED BY A RECORDING AS SOON AS POSSIBLE.
+
+Dr. Love is ill, with laryngitis as the principal symptom. Today's 431 class will not be held at 1 PM. Instead, Dr. Love will record a class to replace today's session, as soon as his voice will let him do so.
+
 [Main Website](https://thomaselove.github.io/431-2022/) | [Calendar](https://thomaselove.github.io/431-2022/calendar.html) | [Syllabus](https://thomaselove.github.io/431-syllabus-2022/) | [Notes](https://thomaselove.github.io/431-notes/) | [Contact Us](https://thomaselove.github.io/431-2022/contact.html) | [Canvas](https://canvas.case.edu) | [Data and Code](https://github.com/THOMASELOVE/431-data)
 :-----------: | :--------------: | :----------: | :---------: | :-------------: | :-----------: | :------------:
 for everything | for deadlines | expectations | from Dr. Love | ways to get help | lab submission | for downloads
