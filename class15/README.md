@@ -12,6 +12,14 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 
 ![](grant_2022-10-18.png) [Link](https://twitter.com/adammgrant/status/1582379253479354368)
 
+## New Schedule
+
+- Today is Class 15.
+- Classes 16 and 17 have been shifted to 2022-11-01 and 2022-11-03, and the Minute Paper will be due Friday 11-04 after Class 17 instead of Wednesday.
+- The Project A deadline has been pushed back to Wednesday 2022-11-02 at 10 PM.
+- Class 18 will be a recording, made available no later than Election Day (2022-11-08), when we won't have class in person.
+- We'll be back to the original schedule with Class 19 on 2022-11-10.
+
 ## Announcements
 
 1. Feedback from the Minute Paper after Class 14 [is now available](https://bit.ly/431-2022-min14-feedback).
