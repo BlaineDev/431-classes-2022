@@ -1,8 +1,4 @@
-# 431 Class 15: 2022-10-20
-
-## TODAY'S CLASS IS CANCELLED, AND WILL BE REPLACED BY A RECORDING AS SOON AS POSSIBLE.
-
-Dr. Love is ill, with laryngitis as the principal symptom. Today's 431 class will not be held at 1 PM. Instead, Dr. Love will record a class to replace today's session, as soon as his voice will let him do so.
+# 431 Class 15: 2022-10-27
 
 [Main Website](https://thomaselove.github.io/431-2022/) | [Calendar](https://thomaselove.github.io/431-2022/calendar.html) | [Syllabus](https://thomaselove.github.io/431-syllabus-2022/) | [Notes](https://thomaselove.github.io/431-notes/) | [Contact Us](https://thomaselove.github.io/431-2022/contact.html) | [Canvas](https://canvas.case.edu) | [Data and Code](https://github.com/THOMASELOVE/431-data)
 :-----------: | :--------------: | :----------: | :---------: | :-------------: | :-----------: | :------------:
@@ -12,7 +8,7 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 
 Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 :---: | :--------: | :------: | :------: | :--------: | :-------------:
-15 | 2022-10-20 | **[Slides 15](https://thomaselove.github.io/431-slides-2022/class15.html)** | [Code 15](https://thomaselove.github.io/431-slides-2022/class15.qmd) | [PDF 15](431%20Class%2015.pdf) | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
+15 | 2022-10-27 | **[Slides 15](https://thomaselove.github.io/431-slides-2022/class15.html)** | [Code 15](https://thomaselove.github.io/431-slides-2022/class15.qmd) | [PDF 15](431%20Class%2015.pdf) | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
 ![](grant_2022-10-18.png) [Link](https://twitter.com/adammgrant/status/1582379253479354368)
 
@@ -22,17 +18,14 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 2. The status of Project A Proposals [is available here](https://github.com/THOMASELOVE/431-classes-2022/blob/main/projectA/proposal_status.md).
     - To ease the transition to the final version of the project (including Analyses) I have created a [Sample Project A](https://thomaselove.github.io/431-projectA-2022/exampleC.html) and then reproduced it using four different themes. I **strongly** suggest using one of these documents to build your final report due 2022-10-31. 
 3. Here are some [summary statistics based on the currently accepted proposals](https://github.com/THOMASELOVE/431-classes-2022/blob/main/projectA/proposal_status.md#some-summary-statistics-through-47-accepted-proposals) for Project A.
-4. Remember that Monday and Tuesday (10-24/25) are CWRU Fall Break, so [our next class](https://github.com/THOMASELOVE/431-classes-2022/tree/main/class16) will be next Thursday 2022-10-27.
-5. All 35 chapters of [Course Notes](https://thomaselove.github.io/431-notes/) that I plan to post this semester are now available.
+4. All 35 chapters of [Course Notes](https://thomaselove.github.io/431-notes/) that I plan to post this semester are now available.
 
 ## What Should I Be Working On?
 
-1. [Lab 04](https://github.com/THOMASELOVE/431-labs-2022) is due Monday 2022-10-24 at 9 PM.
-2. Read Spiegelhalter through Chapter 7 (How Sure Can We Be About What's Going On? Estimates and Intervals)
-3. [Project A](https://thomaselove.github.io/431-projectA-2022/) due Monday 2022-10-31 at 9 PM. 
+1. [Project A](https://thomaselove.github.io/431-projectA-2022/) now due Wednesday 2022-11-02 at 10 PM. 
     - See my comments in [today's slides](https://thomaselove.github.io/431-slides-2022/class15.html).
     - See also my [revised Sample Project A](https://thomaselove.github.io/431-projectA-2022/exampleC.html) documents, this [description of what's changed since the Proposal](https://github.com/THOMASELOVE/431-classes-2022/blob/main/projectA/changes_from_proposal.md), and the updated final report [instructions](https://thomaselove.github.io/431-projectA-2022/report.html) and [checklist](https://thomaselove.github.io/431-projectA-2022/check_final.html).
-4. Get started on building your own website for (bonus) [Lab X](https://github.com/THOMASELOVE/431-labs-2022/blob/main/labX.md).
+2. Get started on building your own website for (bonus) [Lab X](https://github.com/THOMASELOVE/431-labs-2022/blob/main/labX.md).
 
 ## One Last Thing
 
