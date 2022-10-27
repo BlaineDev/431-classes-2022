@@ -27,6 +27,8 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 3. Here are some [summary statistics based on the currently accepted proposals](https://github.com/THOMASELOVE/431-classes-2022/blob/main/projectA/proposal_status.md#some-summary-statistics-through-47-accepted-proposals) for Project A.
     - To ease the transition to the final version of the project (including Analyses) I have created a [Sample Project A](https://thomaselove.github.io/431-projectA-2022/exampleC.html) and then reproduced it using four different themes. I **strongly** suggest using one of these documents to build your final report due 2022-10-31. 
 4. All 35 chapters of [Course Notes](https://thomaselove.github.io/431-notes/) that I plan to post this semester are now available.
+5. Raincloud plots: [Reference 1](https://www.cedricscherer.com/2021/06/06/visualizing-distributions-with-raincloud-plots-and-how-to-create-them-with-ggplot2/), [Reference 2](https://z3tt.github.io/Rainclouds/) to learn more.
+
 
 ## What Should I Be Working On?
 
