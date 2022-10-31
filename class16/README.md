@@ -22,7 +22,7 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
         - We will follow up shortly after the deadline to ensure that we have all necessary materials. If not, late penalties will come into play.
 3. This week's Minute Paper will be due Friday 2022-11-04 at Noon, and will be available Thursday.
 4. [Lab 5](https://github.com/THOMASELOVE/431-labs-2022) is due Monday 2022-11-07 at 9 PM. It uses (especially in the lindner example) material from today's class and from Spiegelhalter, Chapter 6. 
-5. The Project B registration form is due at 5 PM on Friday 2022-11-11. This form will be all you need to obtain my approval for your plan, let me know if you’re working with a partner, and schedule your oral presentation. 
+5. The [Project B registration form](https://bit.ly/431-projB-registration-2022) is due at 5 PM on Friday 2022-11-11. This form will be all you need to obtain my approval for your plan, let me know if you’re working with a partner, and schedule your oral presentation. 
     - This deadline will not change, and you need to start Project B this weekend if you haven't already. 
     - We'll spend a few minutes today (and more time Thursday as needed) talking about [Project B](https://thomaselove.github.io/431-projectB-2022/). Specifically, we'll talk about the [five things you need to do to be able to register your work](https://thomaselove.github.io/431-projectB-2022/register.html#what-do-you-need-to-do-before-filling-out-the-form).
 6. Remember that we don't have class next Tuesday (2022-11-08) both because of Election Day, and to let you have some time to work on your Project B registration.
