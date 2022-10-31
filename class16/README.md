@@ -27,6 +27,10 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
     - We'll spend a few minutes today (and more time Thursday as needed) talking about [Project B](https://thomaselove.github.io/431-projectB-2022/). Specifically, we'll talk about the [five things you need to do to be able to register your work](https://thomaselove.github.io/431-projectB-2022/register.html#what-do-you-need-to-do-before-filling-out-the-form).
 6. Remember that we don't have class next Tuesday (2022-11-08) both because of Election Day, and to let you have some time to work on your Project B registration.
 
+## One Last Thing
+
+The issue of [when to check assumptions](https://stats.stackexchange.com/questions/551264/when-to-check-model-assumptions) can be tricky.
+
 ## [Something Rotten at Hudson Players](https://www.hudsonplayers.com/something-rotten/) opened this past weekend, and continues November 4-6, 11-13 and 18-19.
 
 Please come, if you're interested. Audiences have been really happy about the show, and I'm proud to be a part of the production.
