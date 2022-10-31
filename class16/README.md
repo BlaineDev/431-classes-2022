@@ -13,3 +13,9 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 ## Announcements
 
 To come.
+
+## Want to know what this is all about?
+
+![](brother_jeremiah.jpg)
+
+Come see [Something Rotten at Hudson Players](https://www.hudsonplayers.com/something-rotten/) November 4-6, 11-13 and 18-19.
