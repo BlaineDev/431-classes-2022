@@ -13,7 +13,7 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 ## Announcements
 
 1. Grades and Feedback on [Lab 4](https://github.com/THOMASELOVE/431-labs-2022#answer-sketches-and-grading-rubrics) are available in the [Course Grading Roster](https://bit.ly/431-grades-2022) on our Shared Drive.
-2. Project A is due Wednesday 2022-11-01 at 10 PM to Canvas. 
+2. Project A is due Wednesday 2022-11-02 at 10 PM to Canvas. 
     - Be sure to submit:
         - Your R Markdown, HTML, R data set (.Rds), and video (.mp4 is preferred, 3 minutes if alone, 5 minutes if a pair) files to Canvas
         - the Project A [Self-Evaluation Form](https://bit.ly/431-projectA-self-evaluation-2022)
@@ -25,6 +25,7 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 5. The Project B registration form is due at 5 PM on Friday 2022-11-11. This form will be all you need to obtain my approval for your plan, let me know if you’re working with a partner, and schedule your oral presentation. 
     - This deadline will not change, and you need to start Project B this weekend if you haven't already. 
     - We'll spend a few minutes today (and more time Thursday as needed) talking about [Project B](https://thomaselove.github.io/431-projectB-2022/). Specifically, we'll talk about the [five things you need to do to be able to register your work](https://thomaselove.github.io/431-projectB-2022/register.html#what-do-you-need-to-do-before-filling-out-the-form).
+6. Remember that we don't have class next Tuesday (2022-11-08) both because of Election Day, and to let you have some time to work on your Project B registration.
 
 ## [Something Rotten at Hudson Players](https://www.hudsonplayers.com/something-rotten/) opened this past weekend, and continues November 4-6, 11-13 and 18-19.
 
