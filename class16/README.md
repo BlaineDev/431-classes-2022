@@ -12,7 +12,8 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 
 ## Announcements
 
-1. Grades and Feedback on [Lab 4](https://github.com/THOMASELOVE/431-labs-2022#answer-sketches-and-grading-rubrics) are available in the [Course Grading Roster](https://bit.ly/431-grades-2022) on our Shared Drive.
+1. Grades and Feedback on [Lab 4](https://github.com/THOMASELOVE/431-labs-2022#answer-sketches-and-grading-rubrics) are available in the [Course Grading Roster](https://bit.ly/431-grades-2022) on our Shared Drive. 
+    - A reminder about [How to submit a Lab Regrade Request](https://github.com/THOMASELOVE/431-labs-2022#lab-regrade-requests-will-be-reviewed-in-december).
 2. Project A is due Wednesday 2022-11-02 at 10 PM to Canvas. 
     - Be sure to submit:
         - Your R Markdown, HTML, R data set (.Rds), and video (.mp4 is preferred, 3 minutes if alone, 5 minutes if a pair) files to Canvas
