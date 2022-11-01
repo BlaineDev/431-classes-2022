@@ -34,4 +34,4 @@ The issue of [when to check assumptions](https://stats.stackexchange.com/questio
 
 ## [Something Rotten at Hudson Players](https://www.hudsonplayers.com/something-rotten/) opened this past weekend, and continues November 4-6, 11-13 and 18-19.
 
-Please come, if you're interested. Audiences have been really happy about the show, and I'm proud to be a part of the production.
+Please come, if you're interested. Audiences have been really happy about the show, and I'm proud to be a part of the production. My voice is getting there.
