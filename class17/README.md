@@ -12,7 +12,8 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 
 ## Announcements
 
-To come.
+1. I've gently tweaked [Lab 7's instructions (pdf)](https://github.com/THOMASELOVE/431-labs-2022/blob/main/lab07.pdf) and [data set (.xls)](https://github.com/THOMASELOVE/431-data/blob/main/lab07_trial.xls) to make things easier and clearer for you when doing that Lab (it's due right after Thanksgiving.)
+2. The Minute Paper for this week is due Friday at noon, and will be available **by class time**.
 
 ## Want to know what this is all about?
 
