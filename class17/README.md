@@ -17,6 +17,21 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 3. The status of Project A submissions [is summarized here](https://github.com/THOMASELOVE/431-classes-2022/blob/main/projectA/submission_status.md). Please check Canvas and your email for details if an issue is indicated.
     > In both speech and writing, among and amongst are interchangeable. Both are grammatically correct and mean the same thing. However, amongst is often considered old-fashioned or pretentious in American English, so you may want to avoid it. [Link](https://www.dictionary.com/e/among-vs-amongst/#:~:text=In%20both%20speech%20and%20writing,may%20want%20to%20avoid%20it.)
 
+## Lines of R Markdown Code in Project A final submissions
+
+```
+ 4 | 04 56
+ 5 | 22 43 56 63 80 85 98
+ 6 | 00 03 06 09 15 21 34 40 59 64 67 74 98
+ 7 | 32 43 50 52 53 90
+ 8 | 01 11 19 23 38 72 72 82 88 
+ 9 | 16 50 58 65 73
+10 | 02
+11 | 07
+12 | 18
+19 | 20
+```
+
 ## What Should I Be Working On?
 
 1. The Minute Paper for this week is due Friday at noon, and is available at https://bit.ly/431-2022-min-17.
