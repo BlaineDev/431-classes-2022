@@ -46,7 +46,7 @@ Shwetank Singh | Teenage pregnancy and associated factors | Received | Received 
 Neha Solanki | Association of Air Pollution with Public Health | Received | Received | Submitted
 Xinyu Sun | Quality of Life and Economic Factors and Great Lakes Region Life Expectancy | Received | Received | Submitted
 Max Tjen | Diabetes Prevalence Across Geographically Diverse States in the US | Received | Received | Submitted
-Fang Wang & Tian Liu | Investigation of the Violent Crime Situation using CHR-2022 | Received | **Revision Expected** | Submitted
+Fang Wang & Tian Liu | Investigation of the Violent Crime Situation using CHR-2022 | Received | Received | Submitted
 Savannah (Qian) Wu | Health Behaviors and Longevity | Received | **Not Submitted** | Submitted
 Meredith Zhang | Mental Health in the Midwest | Received | Received | Submitted
 Qihao (Robby) Zhang & Yinglun Geng | Analysis of correlation among some quantitative and categorical variables with life expectancies in four midwest States | Received | Received | Submitted
