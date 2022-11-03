@@ -14,7 +14,7 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 
 1. I've gently tweaked [Lab 7's instructions (pdf)](https://github.com/THOMASELOVE/431-labs-2022/blob/main/lab07.pdf) and [data set (.xls)](https://github.com/THOMASELOVE/431-data/blob/main/lab07_trial.xls) to make things easier and clearer for you when doing that Lab (it's due right after Thanksgiving.)
 2. Remember we don't have class next Tuesday (2022-11-08) because of Election Day. Instead, Class 18 will be pre-recorded, and I'll make that available to you **as soon as possible**.
-3. The status of Project A submissions [is summarized here](https://github.com/THOMASELOVE/431-classes-2022/blob/main/projectA/submission_status.md).
+3. The status of Project A submissions [is summarized here](https://github.com/THOMASELOVE/431-classes-2022/blob/main/projectA/submission_status.md). Please check Canvas and your email for details if an issue is indicated.
 
 ## What Should I Be Working On?
 
