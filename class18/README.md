@@ -8,8 +8,10 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 
 Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 :---: | :--------: | :------: | :------: | :--------: | :-------------:
-18 | 2022-11-08 | **[Slides 18](https://thomaselove.github.io/431-slides-2022/class18.html)** | [Code 18](https://thomaselove.github.io/431-slides-2022/class18.qmd) | [PDF 18](431%20Class%2018.pdf) | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
+18 | 2022-11-08 | **[Slides 18](https://thomaselove.github.io/431-slides-2022/class18.html)** | [Code 18](https://thomaselove.github.io/431-slides-2022/class18.qmd) | [PDF 18](431%20Class%2018.pdf) | See below.
 
-## Announcements
+## This class is pre-recorded. The link is:
 
-To come.
+<https://cwru.zoom.us/rec/share/eXf6w1TnN4QYSWm6I2GipI9jE7VdTJWOCi2HjDMGefqbYnbWZhJ392lv1KIJoVcg.8uoy_ilFkKk5L3d9>
+
+The recording is about 29 minutes long.
