@@ -41,7 +41,7 @@ Sameer Prasada | Poor Mental Health Days in Midwestern States: CHR-2022 | Receiv
 Kim Robbins | How Social and Economic Factors Relate to Teen Births: Using CHR-2022 | Received | Received | Submitted
 Samuel Rodgers-Melnick | Behavioral and Environmental Predictors of Poor Mental Health in the Rust Belt | Received | Received | Submitted
 Hossam Sarhan & Miza Salim-Hammoud | Factors Affecting Life Expectancy in Midwestern States | Received | **Revision Expected** | Submitted
-Faruk Senturk | The Effect of Financial Insecurity on the Quality of Health | Received | **Revision Expected** | **Missing**
+Faruk Senturk | The Effect of Financial Insecurity on the Quality of Health | Received | **Revision Expected** | Submitted
 Shwetank Singh | Teenage pregnancy and associated factors | Received | Received | Submitted
 Neha Solanki | Association of Air Pollution with Public Health | Received | Received | Submitted
 Xinyu Sun | Quality of Life and Economic Factors and Great Lakes Region Life Expectancy | Received | Received | Submitted
