@@ -19,7 +19,7 @@ Izzy Genuario | Social Factors and Teen Birth Rate using CHR-2022 | Received | R
 Pedram Golnari | Health Factors Affecting Life Expectancy in Four Selected States | Received | Received | Submitted
 Sarah Grabinski | Gone Too Young: The Impact of Food, Sleep, and Income on Premature Mortality | Received | Received | Submitted
 Alex Gurgis & Tarek ElShebiny | Predictors of Adult Obesity | Received | Received | Submitted
-Katie Hassett | Healthcare and Socioeconomic Predictors of Life Expectancy in Midwest States | Received | **Revision Expected** | Submitted
+Katie Hassett | Healthcare and Socioeconomic Predictors of Life Expectancy in Midwest States | Received | **Too Long** | Submitted
 Benjamin Heifetz | Modulators of Adult Tobacco Smoking In States With Easy Access to Tobacco | Received | Received | Submitted
 Naveen Kannan | Adult Obesity in the American Midwest | Received | Received | Submitted
 Rupleen Kaur | Factors affecting Diabetes Prevalence in North-Eastern States | Received | Received | Submitted
@@ -33,7 +33,7 @@ Sarah McNeer & Dan Kingsley | Assessing Life Expectancy by Geographical Region |
 Emiko Miller | Health and Life Expectancy in Great Lakes counties | Received | Received | Submitted
 Siddharth Mittal | Predicting Life Expectancy using Social and Health Factors | Received | Received | Submitted
 Ben Mittman | Relationships Between Community-Level Factors and Life Expectancy in CHR-2022 | Received | Received | Submitted
-Hala Nas | Envriromental Factor Effects on Reported Poor Health in CHR-2022 | Received | **Revision Expected** | Submitted
+Hala Nas | Envriromental Factor Effects on Reported Poor Health in CHR-2022 | Received | **Too Long** | Submitted
 Anya Nazarenko | Poverty and Pollution Exposure as Predictors of Premature Death | Received | Received | Submitted
 Anthony Orsino | Predicting Low Birth Weight in a Politically Diverse State Cohort | Received | Received | Submitted
 Sajan Patel & Sahana Kannan | Factors Influencing Preventable Hospital Stays | Received | Received | Submitted
@@ -41,7 +41,7 @@ Sameer Prasada | Poor Mental Health Days in Midwestern States: CHR-2022 | Receiv
 Kim Robbins | How Social and Economic Factors Relate to Teen Births: Using CHR-2022 | Received | Received | Submitted
 Samuel Rodgers-Melnick | Behavioral and Environmental Predictors of Poor Mental Health in the Rust Belt | Received | Received | Submitted
 Hossam Sarhan & Miza Salim-Hammoud | Factors Affecting Life Expectancy in Midwestern States | Received | Received | Submitted
-Faruk Senturk | The Effect of Financial Insecurity on the Quality of Health | Received | **Revision Expected** | Submitted
+Faruk Senturk | The Effect of Financial Insecurity on the Quality of Health | Received | **Too Long** | Submitted
 Shwetank Singh | Teenage pregnancy and associated factors | Received | Received | Submitted
 Neha Solanki | Association of Air Pollution with Public Health | Received | Received | Submitted
 Xinyu Sun | Quality of Life and Economic Factors and Great Lakes Region Life Expectancy | Received | Received | Submitted
