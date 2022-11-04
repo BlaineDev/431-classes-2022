@@ -31,7 +31,7 @@ Lydia Masar | Multi-state Analysis of Behavioral Factors Potentially Associated 
 Marie Masotya | Life Expectancy and Health in Counties in Ohio and Three Neighboring States | Received | Received | Submitted
 Sarah McNeer & Dan Kingsley | Assessing Life Expectancy by Geographical Region | Received | Received | Submitted
 Emiko Miller | Health and Life Expectancy in Great Lakes counties | Received | Received | Submitted
-Siddharth Mittal | Predicting Life Expectancy using Social and Health Factors | Received | **Revision Expected** | Submitted
+Siddharth Mittal | Predicting Life Expectancy using Social and Health Factors | Received | Received | Submitted
 Ben Mittman | Relationships Between Community-Level Factors and Life Expectancy in CHR-2022 | Received | Received | Submitted
 Hala Nas | Envriromental Factor Effects on Reported Poor Health in CHR-2022 | Received | **Revision Expected** | Submitted
 Anya Nazarenko | Poverty and Pollution Exposure as Predictors of Premature Death | Received | Received | Submitted
