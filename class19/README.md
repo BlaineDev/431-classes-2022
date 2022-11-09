@@ -13,7 +13,7 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 ## Announcements
 
 1. The [Class 18 recording remains here](https://cwru.zoom.us/rec/share/eXf6w1TnN4QYSWm6I2GipI9jE7VdTJWOCi2HjDMGefqbYnbWZhJ392lv1KIJoVcg.8uoy_ilFkKk5L3d9) and is about 29 minutes long. We assume you will have watched this before today's class.
-2. A Lab 5 answer sketch and grading rubric is available to our Shared Drive.
+2. The Lab 5 answer sketch and grading rubric is available to our Shared Drive.
 3. Results from the Minute Paper after Class 17 will be posted **by class time**.
 4. Project A submission status [is available here](https://github.com/THOMASELOVE/431-classes-2022/blob/main/projectA/submission_status.md).
 
