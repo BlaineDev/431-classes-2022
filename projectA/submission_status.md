@@ -21,6 +21,7 @@ Sarah Grabinski | Gone Too Young: The Impact of Food, Sleep, and Income on Prema
 Alex Gurgis & Tarek ElShebiny | Predictors of Adult Obesity | Received | Received | Submitted
 Katie Hassett | Healthcare and Socioeconomic Predictors of Life Expectancy in Midwest States | Received | Received | Submitted
 Benjamin Heifetz | Modulators of Adult Tobacco Smoking In States With Easy Access to Tobacco | Received | Received | Submitted
+Madi Hunt | Social and Environmental Predictors of Low Birth Weight in Appalachian States | Received | Received | Submitted
 Naveen Kannan | Adult Obesity in the American Midwest | Received | Received | Submitted
 Rupleen Kaur | Factors affecting Diabetes Prevalence in North-Eastern States | Received | Received | Submitted
 Aqsa Khan | Predicting Life Expectancy by Social Determinants of Health in the Midwest | Received | Received | Submitted
@@ -35,6 +36,7 @@ Siddharth Mittal | Predicting Life Expectancy using Social and Health Factors | 
 Ben Mittman | Relationships Between Community-Level Factors and Life Expectancy in CHR-2022 | Received | Received | Submitted
 Hala Nas | Envriromental Factor Effects on Reported Poor Health in CHR-2022 | Received | **Too Long** | Submitted
 Anya Nazarenko | Poverty and Pollution Exposure as Predictors of Premature Death | Received | Received | Submitted
+An Nguyen | Predicting Population Obesity in selected states across America with CHR-2022 | Received | **Too Long** | **Not Done**
 Anthony Orsino | Predicting Low Birth Weight in a Politically Diverse State Cohort | Received | Received | Submitted
 Sajan Patel & Sahana Kannan | Factors Influencing Preventable Hospital Stays | Received | Received | Submitted
 Sameer Prasada | Poor Mental Health Days in Midwestern States: CHR-2022 | Received | Received | Submitted
@@ -50,7 +52,5 @@ Fang Wang & Tian Liu | Investigation of the Violent Crime Situation using CHR-20
 Savannah (Qian) Wu | Health Behaviors and Longevity | Received | Received | Submitted
 Meredith Zhang | Mental Health in the Midwest | Received | Received | Submitted
 Qihao (Robby) Zhang & Yinglun Geng | Analysis of correlation among some quantitative and categorical variables with life expectancies in four midwest States | Received | Received | Submitted
-Madi Hunt | Social and Environmental Predictors of Low Birth Weight in Appalachian States | Received | Received | Submitted
-An Nguyen | Predicting Population Obesity in selected states across America with CHR-2022 | Received | **Too Long** | **Not Done**
 Heidi Gullett | **Not yet submitted**
 Jae Ho Lee | **Not yet submitted**
