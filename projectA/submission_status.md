@@ -19,7 +19,7 @@ Izzy Genuario | Social Factors and Teen Birth Rate using CHR-2022 | Received | R
 Pedram Golnari | Health Factors Affecting Life Expectancy in Four Selected States | Received | Received | Submitted
 Sarah Grabinski | Gone Too Young: The Impact of Food, Sleep, and Income on Premature Mortality | Received | Received | Submitted
 Alex Gurgis & Tarek ElShebiny | Predictors of Adult Obesity | Received | Received | Submitted
-Katie Hassett | Healthcare and Socioeconomic Predictors of Life Expectancy in Midwest States | Received | **Too Long** | Submitted
+Katie Hassett | Healthcare and Socioeconomic Predictors of Life Expectancy in Midwest States | Received | Received | Submitted
 Benjamin Heifetz | Modulators of Adult Tobacco Smoking In States With Easy Access to Tobacco | Received | Received | Submitted
 Naveen Kannan | Adult Obesity in the American Midwest | Received | Received | Submitted
 Rupleen Kaur | Factors affecting Diabetes Prevalence in North-Eastern States | Received | Received | Submitted
@@ -51,6 +51,6 @@ Savannah (Qian) Wu | Health Behaviors and Longevity | Received | Received | Subm
 Meredith Zhang | Mental Health in the Midwest | Received | Received | Submitted
 Qihao (Robby) Zhang & Yinglun Geng | Analysis of correlation among some quantitative and categorical variables with life expectancies in four midwest States | Received | Received | Submitted
 Madi Hunt | Social and Environmental Predictors of Low Birth Weight in Appalachian States | Received | Received | Submitted
-An Nguyen | Predicting Population Obesity in selected states across America with CHR-2022 | Received | Received | **Not Done**
+An Nguyen | Predicting Population Obesity in selected states across America with CHR-2022 | Received | **Too Long** | **Not Done**
 Heidi Gullett | **Not yet submitted**
 Jae Ho Lee | **Not yet submitted**
