@@ -12,4 +12,18 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 
 ## Announcements
 
+1. The [Class 18 recording remains here](https://cwru.zoom.us/rec/share/eXf6w1TnN4QYSWm6I2GipI9jE7VdTJWOCi2HjDMGefqbYnbWZhJ392lv1KIJoVcg.8uoy_ilFkKk5L3d9) and is about 29 minutes long. We assume you will have watched this before today's class.
+2. An answer sketch and grading rubric for Lab 5 will be posted **by class time**.
+3. Results from the Minute Paper after Class 17 will be posted **by class time**.
+4. Project A submission status [is available here](https://github.com/THOMASELOVE/431-classes-2022/blob/main/projectA/submission_status.md).
+
+## Upcoming Deadlines
+
+1. The [Project B registration form](https://bit.ly/431-projB-registration-2022) is due this Friday 2022-11-11 at 5 PM. 
+2. [Lab 6](https://github.com/THOMASELOVE/431-labs-2022) is due Monday 2022-11-14 at 9 PM.
+3. Before you finish the Lab, you should have read through Chapter 10 of Spiegelhalter.
+4. The next Minute Paper will be due Wednesday 2022-11-16, after Class 20.
+
+## One Last Thing
+
 To come.
