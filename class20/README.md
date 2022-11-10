@@ -10,7 +10,7 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 :---: | :--------: | :------: | :------: | :--------: | :-------------:
 20 | 2022-11-15 | **[Slides 20](https://thomaselove.github.io/431-slides-2022/class20.html)** | [Code 20](https://thomaselove.github.io/431-slides-2022/class20.qmd) | [PDF 20](431%20Class%2020.pdf) | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
-![](https://imgs.xkcd.com/comics/precision_vs_accuracy.png)
+![](https://imgs.xkcd.com/comics/precision_vs_accuracy.png) from [XKCD](https://xkcd.com/2696)
 
 ## Announcements
 
