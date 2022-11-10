@@ -28,4 +28,6 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 
 ## One Last Thing
 
-To come.
+**On Asking Questions**: We know it can be difficult to ask for help, and while we try to be helpful in responding on Campuswire, over Zoom office hours, via email or through the Minute Papers, if we don't understand your question (or don't understand the purpose of it) we can often confuse matters. Moreover, if we think you already know something when you don't, that can also get in the way of giving you a useful response. 
+
+Our goal is to understand what you're asking and help you, however we can. Please help us help you by being as specific as you can about where you're having trouble when you ask a question, and be persistent - we want to help you, really! We are, in fact, very grateful for every question we receive.
