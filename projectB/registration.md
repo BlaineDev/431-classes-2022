@@ -31,11 +31,11 @@ Sarah Barker | NHANES | Blood lead level (ug/dl) | 1322
 Seth Bauer | [MIMIC-II](https://physionet.org/content/mimic2-iaccd/1.0/) | Heart Rate at ICU admission | 1758
 Pedram Golnari | NHANES | Serum triglyceride (mg/dl) | 3901 
 Katie Hassett | NHANES | Body-mass index (kg/m^2) | 5540
-Benjamin Heifetz | [Kaggle Stroke Prediction Data](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset) | Body-mass index (kg/m^2) | 3426 
+**Benjamin Heifetz** | [Kaggle Stroke Prediction Data](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset) | Body-mass index (kg/m^2) | 3426 
 Madi Hunt | NHANES | Glycohemoglobin (%) | 6064
 Naveen Kannan | NHANES | Direct HDL cholesterol (mg/dl) | 2809
 Aqsa Khan | NHANES | Systolic BP (1st reading - mm Hg) | 1839
-Beverly Koepf | [Births by Tract 2014](https://catalog.data.gov/dataset/births-bytract-2014-b3012) | "Likelihood of a population to experience low birth weight?" | 572
+**Beverly Koepf** | [Births by Tract 2014](https://catalog.data.gov/dataset/births-bytract-2014-b3012) | "Likelihood of a population to experience low birth weight?" | 572
 Keisi Kotobelli | NHANES | Systolic BP (1st reading - mm Hg) | 7187
 Valeria Martinez | NHANES | Most recent A1c level (%) | 530
 Sarah McNeer | [Vital Statistics Birth Data](https://www.nber.org/research/data/vital-statistics-natality-birth-data) | Gestational age (weeks) | 9421
@@ -45,8 +45,8 @@ Anya Nazarenko | NHANES | Total cholesterol (mg/dl) | 5210
 Anthony Orsino | [National Health Interview Series](https://healthsurveys.ipums.org) | Family Income as % of Poverty | 1969
 Sameer Prasada | NHANES | Direct LDL cholesterol (mg/dl) | 3277
 Sam Rodgers-Melnick | [National Health Interview Survey 2019](https://www.cdc.gov/nchs/nhis/2019nhis.htm) | PHQ Depression Score | 6003
-Neha Solanki | NHANES | Asthma attack in past year? | 95
+**Neha Solanki** | NHANES | Asthma attack in past year? | 95
 Xinyu Sun | NHANES | Body-mass index (kg/m^2) | 7352
 Meredith Zhang | NHANES | Current body weight | 5208
 
-
+Folks whose **name is in bold** should check their email for a note from Dr. Love.
