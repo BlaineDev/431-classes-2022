@@ -1,12 +1,16 @@
 # Project B Registration Status
 
-Last update: 1 PM 2022-11-11
+Last update: 5:37 PM 2022-11-11
 
 The notes below just describe what was submitted by each team or individual, with no feedback yet on whether or not this is going to work for Project B.
 
 ## People who still need to submit the form (including those in the partners list)
 
-Samer Alanazi, Jules Joel Bakhos, Lithe Basbous, Chris Benson, Alison Berry, Shubho Das, Tarek ElShebiny, Yinglun Geng, Izzy Genuario, Sarah Grabinski, Alex Gurgis, Rupleen Kaur, Dan Kingsley, Tian Liu, Lent Mantshonyane, Marie Masotya, Emiko Miller, Sid Mittal, An Nguyen, Sajan Patel, Kim Robbins, Miza Salim Hammoud, Hossam Sarhan, Faruk Senturk, Max Tjen, Savannah Wu, Robby Zhang
+Samer Alanazi, Alison Berry, Tian Liu, Marie Masotya, Emiko Miller, Sid Mittal, Hossam Sarhan
+
+## People who've submitted the form but I haven't incorporated their information into the tables below yet.
+
+Jules Joel Bakhos, Lithe Basbous, Chris Benson, Shubho Das, Tarek ElShebiny, Yinglun Geng, Izzy Genuario, Sarah Grabinski, Alex Gurgis, Rupleen Kaur, Dan Kingsley, Lent Mantshonyane, An Nguyen, Sajan Patel, Kim Robbins, Miza Salim Hammoud, Faruk Senturk, Max Tjen, Savannah Wu, Robby Zhang
 
 ## Teams of Two
 
