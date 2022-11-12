@@ -25,7 +25,7 @@ Millie Zhou | Naji Ayyash | [NFL data from Advanced Sports Analytics](https://ww
 ## So, far, I know about these 40 individual projects
 
 Investigator | Data Source | Study 2 Outcome | Study 2 *n* | Revision Requested?
-:-----------------: | :-------------------: | :-----------------: | ---:
+:-----------------: | :-------------------: | :-----------------: | ---: | :---:
 Bryan Abadie | NHANES | Serum triglyceride (mg/dl) | 4518 
 Samer Alanazi | NHANES | **Needs to be re-specified** | 7029 | **Yes**
 Samantha Baker | NHANES | Direct HDL cholesterol (mg/dl) | 653
