@@ -10,16 +10,16 @@ Emiko Miller and the people on pause.
 
 ## There will be nine teams of two investigators
 
-Form completed by | Partner | Data Source | Study 2 Outcome | Study 2 *n*
-:-----------------: | :---------------: | :-------------------: | :-----------------: | ---:
+Form completed by | Partner | Data Source | Study 2 Outcome | Study 2 *n* | Revision Requested?
+:-----------------: | :---------------: | :-------------------: | :-----------------: | ---: | :---:
 Moein Amin | Karlo Toljan | NHANES | Serum triglyceride (mg/dl) | 3331
 Chris Benson | Lent Mantshonyane | NHANES | Total cholesterol (mg/dl) | 9319
-Shubho Das | Toby Jin | NHANES | Direct LDL cholesterol (mg/dl) | 4617
+Shubho Das | Toby Jin | NHANES | Direct LDL cholesterol (mg/dl) | **4617?** | **Yes**
 Alex Gurgis | Tarek ElShebiny | NHANES | Body-mass index (kg/m^2) | 1163
-Sahana Kannan | Sajan Patel | NHANES | Times broken/fractured wrist | 4987
-Lydia Masar | Shwetank Singh | NHANES | Self-reported weight | 6364
+Sahana Kannan | Sajan Patel | NHANES | **Times broken/fractured wrist** | **4987?** | **Yes**
+Lydia Masar | Shwetank Singh | NHANES | **Self-reported weight** | 6364 | **Yes**
 Fang Wang | Tian Liu | NHANES | Direct HDL cholesterol (mg/dl) | 1752
-Savannah Wu | Qihao (Robby) Zhang | NHANES | Self-reported Systolic BP | 817
+Savannah Wu | Qihao (Robby) Zhang | NHANES | **Self-reported Systolic BP** | 817 | **Yes**
 Millie Zhou | Naji Ayyash | [NFL data from Advanced Sports Analytics](https://www.advancedsportsanalytics.com/nfl-raw-data) |  Total Fantasy points | 9992
 
 ## So, far, I know about these 40 individual projects
@@ -29,7 +29,7 @@ Investigator | Data Source | Study 2 Outcome | Study 2 *n* | Revision Requested?
 Bryan Abadie | NHANES | Serum triglyceride (mg/dl) | 4518 
 Samer Alanazi | NHANES | **Needs to be re-specified** | 7029 | **Yes**
 Samantha Baker | NHANES | Direct HDL cholesterol (mg/dl) | 653
-Jules Joel Bakhos | NHANES | Total Spine Bone Density | 2121
+Jules Joel Bakhos | NHANES | Total Spine Bone Density | **2121?** | **Yes**
 Sarah Barker | NHANES | Blood lead level (ug/dl) | 1322
 Seth Bauer | [MIMIC-II](https://physionet.org/content/mimic2-iaccd/1.0/) | Heart Rate at ICU admission | 1758
 Lithe Basbous | NHANES | Direct LDL cholesterol (mg/dl) | **not specified** | **Yes**
