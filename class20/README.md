@@ -10,8 +10,14 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 :---: | :--------: | :------: | :------: | :--------: | :-------------:
 20 | 2022-11-15 | **[Slides 20](https://thomaselove.github.io/431-slides-2022/class20.html)** | [Code 20](https://thomaselove.github.io/431-slides-2022/class20.qmd) | [PDF 20](431%20Class%2020.pdf) | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
-![](https://imgs.xkcd.com/comics/precision_vs_accuracy.png) from [XKCD](https://xkcd.com/2696)
-
 ## Announcements
 
-To come.
+1. Grades and feedback for Lab 5 will be posted **by class time**.
+2. The answer sketch for Lab 6 will be posted **by class time**.
+3. There is a Minute Paper due Wednesday 2022-11-16, which will be posted **by class time**.
+4. Details on Project A grading will be available **by class time**.
+5. Details on Project B registrations will be updated **by class time**.
+
+## One Last Thing "[Precision vs. Accuracy](https://xkcd.com/2696)"
+
+![](https://imgs.xkcd.com/comics/precision_vs_accuracy.png) from [XKCD](https://xkcd.com/2696)
