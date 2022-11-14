@@ -2,13 +2,13 @@
 
 ## Classifying the 50 Projects Submitted, by Status
 
-Last update: 2022-11-14 3:22 PM 
+Last update: 2022-11-14 5:16 PM
 
 Accepted by Dr. Love | NHANES | Non-NHANES | Total | | Revisions Required | NHANES | Non-NHANES | Total
 -------------------: | ------: | --------: | -------: | - | -------------------: | ------: | --------: | -------:
-Individuals | 26 | 7 | 33 | | Individuals | 7 | 1 | 8
+Individuals | 27 | 7 | 33 | | Individuals | 6 | 1 | 8
 Teams of 2  |  5 | 1 |  6 | | Teams of 2 | 3 | 0 | 3
-TOTAL | 31 | 8 | 39 | | TOTAL | 10 | 1 | 11
+TOTAL | 32 | 8 | 40 | | TOTAL | 9 | 1 | 10
 
 ## Projects Not Using NHANES data
 
@@ -41,7 +41,7 @@ Moein <br /> Amin | Karlo <br /> Toljan | Triglyceride (mg/dl) <br /> `LBXTR` fr
 Chris <br /> Benson | Lent <br /> Mantshonyane | Total cholesterol (mg/dl) <br /> `LBXTC` from `P_TCHOL` | *(revise)* | **Revise.** <br /> Email sent 11-14.
 Shubho <br /> Das | Toby <br /> Jin | LDL-Cholesterol, Friedewald (mg/dL) <br /> `LBDLDL` from `P_TRIGLY` | *(revise)* | **Revise.** <br /> Email sent 11-14.
 Alex <br /> Gurgis | Tarek <br /> ElShebiny | Body-mass index (kg/m^2) <br /> `BMXBMI` from `P_BMX` | 1163 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
-Sahana <br /> Kannan | Sajan <br /> Patel | *(Times broken/fractured wrist)* | *(4987?)* | **Revise.** <br /> Email sent 11-12.
+Sahana <br /> Kannan | Sajan <br /> Patel | needs revision | needs revision | **Revise** <br /> Email sent 11-14 at 5:21 PM.
 Lydia <br /> Masar | Shwetank <br /> Singh | Weight (kg) <br /> `BMXWT` from `P_BMX` | 5942 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
 Fang <br /> Wang | Tian <br /> Liu | Direct HDL-Cholesterol (mg/dL) <br /> `LBDHDD` from `P_HDL` | 1752 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
 Savannah <br /> Wu | Qihao <br /> Zhang | Systolic Blood Pressure - 1st reading <br /> `BPXOSY1` from `P_BPXO` | 817 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
@@ -95,7 +95,7 @@ Miza <br /> Salim Hammoud | Body-mass index (kg/m^2) <br /> `BMXBMI` from `P_BMX
 Hossam <br /> Sarhan | Total femur bone mineral density (gm/cm^2) <br /> `DXXOFBMD` from `P_DXXFEM` | 3545 | Accepted. See 11-14 email, and <br /> see [notes below](#notes-on-accepted-nhanes-projects).
 Faruk <br /> Senturk | Median CAP (liver steatosis) (dB/m) <br /> `LUXCAPM` from `P_LUX` | 2590 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
 Neha <br /> Solanki | Glycohemoglobin (%) <br /> `LBXGH` from `P_GHB` | 3898 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
-Xinyu <br /> Sun | Body-mass index (kg/m^2) <br /> `BMXBMI` from `P_BMX` | 7352 | **Revise.** <br /> Email sent 11-14.
+Xinyu <br /> Sun | Body-mass index (kg/m^2) <br /> `BMXBMI` from `P_BMX` | 6421 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
 Max <br /> Tjen | LDL-Cholesterol, Friedewald (mg/dL) <br /> `LBDLDL` from `P_TRIGLY` | 2597 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
 Meredith <br /> Zhang | Weight (kg) <br /> `BMXWT` from `P_BMX` | 5208 | **Revise.** <br /> Email sent 11-14.
 
