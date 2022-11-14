@@ -1,6 +1,6 @@
 # Project B Registration Status
 
-Last update: 2022-11-14 2:08 PM
+Last update: 2022-11-14 2:08 PM but I am actively updating now
 
 Total Projects | Individuals | Teams of Two | NHANES | Non-NHANES
 -------------: | ---------: | ----------: | -------: | -----------:
