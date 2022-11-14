@@ -13,11 +13,13 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 ## Announcements
 
 1. I've updated RStudio to 2022.07.2 build 576 with no problems. I suggest you do the same when RStudio prompts you to do so. 
-2. Grades and feedback for Lab 5 will be posted **by class time**.
-3. The answer sketch for Lab 6 will be posted **by class time**.
-4. There is a Minute Paper due Wednesday 2022-11-16, which will be posted **by class time**.
-5. Details on Project A grading will be available **by class time**.
-6. Details on Project B registrations will be updated **by class time**.
+2. I haven't yet (on some of my machines) updated R from version 4.2.1 to 4.2.2. so that I could review Project A thoroughly using what you used. 
+    I anticipate no problems with this upgrade, but suggest only that you use either 4.2.1. or 4.2.2. for Project B.
+3. Grades and feedback for Lab 5 will be posted **by class time**.
+4. The answer sketch for Lab 6 will be posted **by class time**.
+5. There is a Minute Paper due Wednesday 2022-11-16, which will be posted **by class time**.
+6. Details on Project A grading will be available **by class time**.
+7. Details on Project B registrations will be updated **by class time**.
 
 ## If you are using NHANES data in your project B, here's how I'd like you to describe the source of your data as part of your codebook in Study 1 and Study 2.
 
