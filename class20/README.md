@@ -20,6 +20,7 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 5. There is a Minute Paper due Wednesday 2022-11-16, which will be posted **by class time**.
 6. Details on Project A grading will be available **by class time**.
 7. Details on Project B registrations [are found here](https://github.com/THOMASELOVE/431-classes-2022/blob/main/projectB/registration.md).
+    - The Project B Schedule of Presentations [is found here](https://github.com/THOMASELOVE/431-classes-2022/blob/main/projectB/schedule.md).
 
 ## If you are using NHANES data in your project B, here's how I'd like you to describe the source of your data as part of your codebook in Study 1 and Study 2.
 
