@@ -18,6 +18,10 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 4. Details on Project A grading will be available **by class time**.
 5. Details on Project B registrations will be updated **by class time**.
 
+## If you are using NHANES data in your project B, here's how I'd like you to describe the source of your data as part of your codebook in Study 1 and Study 2.
+
+The NHANES dataset combines interviews and physical examinations from adults and children in the United States using surveys examining a nationally representative sample of about 5,000 persons each year. In (my/our) work, we used data from the 2017 - March 2020 survey period, and from the following data sets: Demographics (P-DEMO), and [list next data source, with P-XXXX name], and [list next data source, with P-XXXX name]. [If appropriate, you should then specify any restrictions on your data, perhaps to adults (specify your age range) or people with a particular condition.)] 
+
 ## One Last Thing "[Precision vs. Accuracy](https://xkcd.com/2696)"
 
 ![](https://imgs.xkcd.com/comics/precision_vs_accuracy.png) from [XKCD](https://xkcd.com/2696)
