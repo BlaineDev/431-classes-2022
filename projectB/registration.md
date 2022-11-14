@@ -1,25 +1,39 @@
 # Project B Registration Status
 
-Last update: 10:51 AM 2022-11-12
+Last update: 2022-11-14 1:00 PM
 
-The notes below just describe what was submitted by each team or individual, with no feedback yet on whether or not this is going to work for Project B.
+## If you are using NHANES data in your project B, here's how I'd like you to describe the source of your data as part of your codebook in Study 1 and Study 2.
 
-## People who still need to submit the form (including those in the partners list)
-
-Emiko Miller and the people on pause.
+The NHANES dataset combines interviews and physical examinations from adults and children in the United States using surveys examining a nationally representative sample of about 5,000 persons each year. In (my/our) work, we used data from the 2017 - March 2020 survey period, and from the following data sets: Demographics (P-DEMO), and [list next data source, with P-XXXX name], and [list next data source, with P-XXXX name]. [If appropriate, you should then specify any restrictions on your data, perhaps to adults (specify your age range, which is usually 21-79 - do not use the 80-year old subjects) and/or people with a particular condition.)] 
 
 ## There will be nine teams of two investigators
 
-Form completed by | Partner | Data Source | Study 2 Outcome | Study 2 *n* | Revision Requested?
+### NHANES Projects
+
+Form done by | Partner | Data Source | Study 2 <br /> Outcome | Study 2 <br /> *n* | Status
 :-----------------: | :---------------: | :-------------------: | :-----------------: | ---: | :---:
-Moein Amin | Karlo Toljan | NHANES | Serum triglyceride (mg/dl) | 3331
-Chris Benson | Lent Mantshonyane | NHANES | Total cholesterol (mg/dl) | 9319
-Shubho Das | Toby Jin | NHANES | Direct LDL cholesterol (mg/dl) | **4617?** | **Yes**
-Alex Gurgis | Tarek ElShebiny | NHANES | Body-mass index (kg/m^2) | 1163
-Sahana Kannan | Sajan Patel | NHANES | **Times broken/fractured wrist** | **4987?** | **Yes**
-Lydia Masar | Shwetank Singh | NHANES | **Self-reported weight** | 6364 | **Yes**
-Fang Wang | Tian Liu | NHANES | Direct HDL cholesterol (mg/dl) | 1752
-Savannah Wu | Qihao (Robby) Zhang | NHANES | **Self-reported Systolic BP** | 817 | **Yes**
+Moein <br /> Amin | Karlo <br /> Toljan | NHANES | Triglyceride (mg/dl) <br /> `LBXTR` from `P_TRIGLY` | 3331 | Accepted. See [note](#note).
+Chris <br /> Benson | Lent <br /> Mantshonyane | NHANES | Total cholesterol (mg/dl) <br /> `LBXTC` from `P_TCHOL` | revise | Email sent 11/14.
+Shubho <br /> Das | Toby <br /> Jin | NHANES |  LDL-Cholesterol, Friedewald (mg/dL) <br /> `LBDLDL` from `P_TRIGLY` | revise | Email sent 11/14.
+Alex <br /> Gurgis | Tarek <br /> ElShebiny | NHANES | Body-mass index (kg/m^2) <br /> `BMXBMI` from `P_BMX` | 1163 | Accepted. See [note](#note).
+Sahana <br /> Kannan | Sajan <br /> Patel | NHANES | **Times broken/fractured wrist** | **4987?** | **Yes**
+Lydia <br /> Masar | Shwetank <br /> Singh | NHANES | **Self-reported weight** | 6364 | **Yes**
+Fang <br /> Wang | Tian <br /> Liu | NHANES | Direct HDL cholesterol (mg/dl) | 1752
+Savannah <br /> Wu | Qihao <br /> Zhang | NHANES | **Self-reported Systolic BP** | 817 | **Yes**
+
+#### Notes
+
+1. Be sure you restrict your sample to adults ages 21-79. That should be accomplished with a simple filter immediately after you ingest the data.
+2. If the variable name and data set name Dr. Love has listed above doesn't match your plans, contact him via email immediately.
+3. In your codebook, start with this statement (filling in your pieces as appropriate):
+
+> The NHANES dataset combines interviews and physical examinations from adults and children in the United States using surveys examining a nationally representative sample of about 5,000 persons each year. In (my/our) work, we used data from the 2017 - March 2020 survey period, and from the following data sets: Demographics (P-DEMO), and [list next data source, with P-XXXX name], and [list next data source, with P-XXXX name]. [If appropriate, you should then specify any restrictions on your data, perhaps to adults (specify your age range, which is usually 21-79 - do not use the 80-year old subjects) and/or people with a particular condition.)] 
+
+
+### Non-NHANES Projects
+
+Form done by | Partner | Data Source | Study 2 <br /> Outcome | Study 2 <br /> *n* | Status
+:-----------------: | :---------------: | :-------------------: | :-----------------: | ---: | :---:
 Millie Zhou | Naji Ayyash | [NFL data from Advanced Sports Analytics](https://www.advancedsportsanalytics.com/nfl-raw-data) |  Total Fantasy points | 9992
 
 ## So, far, I know about these 40 individual projects
