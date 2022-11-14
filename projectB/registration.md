@@ -1,10 +1,14 @@
 # Project B Registration Status
 
-Last update: 2022-11-14 2:50 PM but I am actively updating now
+## Classifying the 50 Projects Submitted, by Status
 
-Total Projects | Individuals | Teams of Two | NHANES | Non-NHANES
--------------: | ---------: | ----------: | -------: | -----------:
-50 | 41 | 9 | 41 (8/9 teams) | 9 (1/9 teams)
+Last update: 2022-11-14 3:22 PM 
+
+Accepted by Dr. Love | NHANES | Non-NHANES | Total | | Revisions Required | NHANES | Non-NHANES | Total
+-------------------: | ------: | --------: | -------: | - | -------------------: | ------: | --------: | -------:
+Individuals | 26 | 7 | 33 | | Individuals | 7 | 1 | 8
+Teams of 2  |  5 | 1 |  6 | | Teams of 2 | 3 | 0 | 3
+TOTAL | 31 | 8 | 39 | | TOTAL | 10 | 1 | 11
 
 ## Projects Not Using NHANES data
 
@@ -16,16 +20,16 @@ Millie Zhou | Naji Ayyash | [NFL data from Advanced Sports Analytics](https://ww
 
 ### Non-NHANES Projects by Individual Investigators
 
-Investigator | Data Source | Study 2 Outcome | Study 2 *n* | Revision Requested?
+Investigator | Data Source | Study 2 Outcome | Study 2 *n* | Status
 :-----------------: | :-------------------: | :-----------------: | ---: | :---:
-Seth Bauer | [MIMIC-II](https://physionet.org/content/mimic2-iaccd/1.0/) | Heart Rate at ICU admission | 1758
-Sarah Grabinski | [Shen et al. paper](https://datadryad.org/stash/dataset/doi:10.5061%2Fdryad.pd44k8r) | **needs a new outcome** | **redo** | **Resubmitted**
-Benjamin Heifetz | [Kaggle Stroke Prediction Data](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset) | Body-mass index (kg/m^2) | 3426 
-Beverly Koepf | [Lost, found adoptable pets](https://catalog.data.gov/dataset/lost-found-adoptable-pets) | **not going to work** | **redo** | **Yes**
-Sarah McNeer | [Vital Statistics Birth Data](https://www.nber.org/research/data/vital-statistics-natality-birth-data) | Gestational age (weeks) | 9421
-Sid Mittal | [Health Information National Trends Survey](https://hints.cancer.gov/data/download-data.aspx) | Average time doing moderate exercise | 884
-Anthony Orsino | [National Health Interview Series](https://healthsurveys.ipums.org) | Family Income as % of Poverty | 1969
-Sam Rodgers-Melnick | [National Health Interview Survey 2019](https://www.cdc.gov/nchs/nhis/2019nhis.htm) | PHQ Depression Score | 6003
+Seth <br /> Bauer | [MIMIC-II](https://physionet.org/content/mimic2-iaccd/1.0/) | Heart Rate at ICU admission | 1758 | Accepted.
+Sarah <br /> Grabinski | [Shen et al. paper](https://datadryad.org/stash/dataset/doi:10.5061%2Fdryad.pd44k8r) | Blooid Glucose | 719 | Accepted.
+Benjamin <br /> Heifetz | [Kaggle Stroke Prediction Data](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset) | Body-mass index (kg/m^2) | 3426 | Accepted.
+Beverly <br /> Koepf | [Lost, found adoptable pets](https://catalog.data.gov/dataset/lost-found-adoptable-pets) | *not going to work* | *redo* | **Revise.** <br /> Email sent 11-12.
+Sarah <br /> McNeer | [Vital Statistics Birth Data](https://www.nber.org/research/data/vital-statistics-natality-birth-data) | Gestational age (weeks) | 9421 | Accepted.
+Sid <br /> Mittal | [Health Information National Trends Survey](https://hints.cancer.gov/data/download-data.aspx) | Average time doing moderate exercise | 884 | Accepted.
+Anthony <br /> Orsino | [National Health Interview Series](https://healthsurveys.ipums.org) | Family Income as % of Poverty | 1969 | Accepted. <br /> Specify NHIS year.
+Sam <br /> Rodgers-Melnick | [National Health Interview Survey 2019](https://www.cdc.gov/nchs/nhis/2019nhis.htm) | PHQ Depression Score | 6003 | Accepted.
 
 ## NHANES Projects
 
