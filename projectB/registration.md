@@ -1,5 +1,7 @@
 # Project B Registration Status
 
+The [schedule of Project B presentations is here](https://github.com/THOMASELOVE/431-classes-2022/blob/main/projectB/schedule.md).
+
 ## Classifying the 50 Projects Submitted, by Status
 
 Last update: 2022-11-14 5:25 PM
