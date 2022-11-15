@@ -10,7 +10,7 @@ Accepted by Dr. Love | NHANES | Non-NHANES | Total | | Revisions Required | NHAN
 -------------------: | ------: | --------: | -------: | - | -------------------: | ------: | --------: | -------:
 Individuals | 32 | 7 | 39 | | Individuals | 2 | 0 | 2
 Teams of 2  |  8 | 1 |  9 | | Teams of 2 | 0 | 0 | 0
-TOTAL | 40 | 8 | 48 | | TOTAL | 1 | 1 | 2
+TOTAL | 40 | 8 | 48 | | TOTAL | 2 | 0 | 2
 
 ## Projects Not Using NHANES data
 
