@@ -8,7 +8,7 @@ Last update: 2022-11-14 7:25 PM
 
 Accepted by Dr. Love | NHANES | Non-NHANES | Total | | Revisions Required | NHANES | Non-NHANES | Total
 -------------------: | ------: | --------: | -------: | - | -------------------: | ------: | --------: | -------:
-Individuals | 27 | 7 | 34 | | Individuals | 6 | 1 | 8
+Individuals | 27 | 7 | 34 | | Individuals | 6 | 1 | 7
 Teams of 2  |  7 | 1 |  8 | | Teams of 2 | 1 | 0 | 1
 TOTAL | 34 | 8 | 42 | | TOTAL | 7 | 1 | 8
 
