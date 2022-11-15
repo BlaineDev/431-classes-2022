@@ -1,5 +1,7 @@
 # Schedule for 431 Project B Presentations
 
+If you would prefer to do your project over Zoom, please indicate that in your response to the Minute Paper after Class 20.
+
 ## Thursday December 8 (times being arranged - see my email)
 
 - Lithe Basbous
@@ -78,5 +80,5 @@ THU 12-15 | 1:15 PM | Z-10 | Samer Alanzi
 THU 12-15 | 1:40 PM | Z-11 | Xinyu Sun
 THU 12-15 | 2:05 PM | Z-12 | Miza Salim Hammoud
 THU 12-15 | 2:45 PM | Z-13 | Sarah Grabinski
-THU 12-15 | 3:10 PM | Z-14 | Hala Nas
+THU 12-15 | 3:10 PM | Z-14 | Hala Nas (Zoom)
 
