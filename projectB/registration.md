@@ -27,7 +27,7 @@ Investigator | Data Source | Study 2 Outcome | Study 2 *n* | Status
 Seth <br /> Bauer | [MIMIC-II](https://physionet.org/content/mimic2-iaccd/1.0/) | Heart Rate at ICU admission | 1758 | Accepted.
 Sarah <br /> Grabinski | [Mendivil 2020 paper](https://datadryad.org/stash/dataset/doi:10.5061%2Fdryad.sqv9s4n2n) | Blood Glucose | 719 | Accepted.
 Benjamin <br /> Heifetz | [Kaggle Stroke Prediction Data](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset) | Body-mass index (kg/m^2) | 3426 | Accepted.
-Beverly <br /> Koepf | [Lost, found adoptable pets](https://catalog.data.gov/dataset/lost-found-adoptable-pets) | *not going to work* | *redo* | **Revise.** <br /> Email sent 11-12.
+**Beverly <br /> Koepf** | [Lost, found adoptable pets](https://catalog.data.gov/dataset/lost-found-adoptable-pets) | *not going to work* | *redo* | **Revise.** <br /> Email sent 11-12.
 Sarah <br /> McNeer | [Vital Statistics Birth Data](https://www.nber.org/research/data/vital-statistics-natality-birth-data) | Gestational age (weeks) | 9421 | Accepted.
 Sid <br /> Mittal | [Health Information National Trends Survey](https://hints.cancer.gov/data/download-data.aspx) | Average time doing moderate exercise | 884 | Accepted.
 Anthony <br /> Orsino | [National Health Interview Series](https://healthsurveys.ipums.org) | Family Income as % of Poverty | 1969 | Accepted. <br /> Specify NHIS year.
@@ -41,7 +41,7 @@ Form done by | Partner |  Study 2 Outcome | Study 2 *n* | Status
 :-----------------: | :---------------: | :-----------------: | ---: | :---:
 Moein <br /> Amin | Karlo <br /> Toljan | Triglyceride (mg/dl) <br /> `LBXTR` from `P_TRIGLY` | 3331 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
 Chris <br /> Benson | Lent <br /> Mantshonyane | Total cholesterol (mg/dl) <br /> `LBXTC` from `P_TCHOL` | 3272 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
-Shubho <br /> Das | Toby <br /> Jin | LDL-Cholesterol, Friedewald (mg/dL) <br /> `LBDLDL` from `P_TRIGLY` | *(revise)* | **Revise.** <br /> Email sent 11-14.
+**Shubho <br /> Das | Toby <br /> Jin** | LDL-Cholesterol, Friedewald (mg/dL) <br /> `LBDLDL` from `P_TRIGLY` | *(revise)* | **Revise.** <br /> Email sent 11-14.
 Alex <br /> Gurgis | Tarek <br /> ElShebiny | Body-mass index (kg/m^2) <br /> `BMXBMI` from `P_BMX` | 1163 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
 Sahana <br /> Kannan | Sajan <br /> Patel | Triglyceride (mg/dl) <br /> `LBXTR` from `P_TRIGLY` | 4251 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
 Lydia <br /> Masar | Shwetank <br /> Singh | Weight (kg) <br /> `BMXWT` from `P_BMX` | 5942 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
@@ -58,8 +58,8 @@ Samantha <br /> Baker | Direct HDL-Cholesterol (mg/dL) <br /> `LBDHDD` from `P_H
 Jules Joel <br /> Bakhos | Total Spine Bone Mineral Density (gm/cm^2) <br /> `DXXOSBMD` from `P_DXXSPN` | 1021 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
 Sarah <br /> Barker | Blood lead level (ug/dl) <br /> `LBXBPB` from `P_PBCD` | 1322 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
 Lithe <br /> Basbous | LDL-Cholesterol, Friedewald (mg/dL) <br /> `LBDLDL` from `P_TRIGLY` | 660 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
-Alison <br /> Berry | *(Needs to be re-specified)* | *(redo)* | **Revise.** <br /> Email sent 11-12
-Yinglun <br /> Geng | *(Needs to be re-specified)* | *(redo)* | **Revise.** <br /> Email sent 11-12
+**Alison <br /> Berry** | *(Needs to be re-specified)* | *(redo)* | **Revise.** <br /> Email sent 11-12
+**Yinglun <br /> Geng** | *(Needs to be re-specified)* | *(redo)* | **Revise.** <br /> Email sent 11-12
 
 ### NHANES Projects By Individual Investigators (Second Eight, Alphabetically by Last Name)
 
@@ -81,7 +81,7 @@ Investigator | Study 2 Outcome | Study 2 *n* | Status
 Keisi <br /> Kotobelli | Systolic Blood Pressure - 1st reading <br /> `BPXOSY1` from `P_BPXO` | 7187 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
 Valeria <br /> Martinez | Most recent A1c level (%) <br /> `DIQ280` from `P_DIQ` | 530 | Accepted. See 11-14 email, and <br /> See [notes below](#notes-on-accepted-nhanes-projects).
 Marie <br /> Masotya | Total cholesterol (mg/dl) <br /> `LBXTC` from `P_TCHOL` | 1161 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
-Emiko <br /> Miller | Total cholesterol (mg/dl) <br /> `LBXTC` from `P_TCHOL` | *(revise)* | **Revise.** <br /> Email sent 11-14.
+**Emiko <br /> Miller** | Total cholesterol (mg/dl) <br /> `LBXTC` from `P_TCHOL` | *(revise)* | **Revise.** <br /> Email sent 11-14.
 Ben <br /> Mittman | Body-mass index (kg/m^2) <br /> `BMXBMI` from `P_BMX` | 6121 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
 Hala <br /> Nas | Median liver stiffness (kilopascals) <br /> `LUXSMED` from `P_LUX` | 3600 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
 Anya <br /> Nazarenko | Total cholesterol (mg/dl) <br /> `LBXTC` from `P_TCHOL` | 5210 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
@@ -99,7 +99,7 @@ Faruk <br /> Senturk | Median CAP (liver steatosis) (dB/m) <br /> `LUXCAPM` from
 Neha <br /> Solanki | Glycohemoglobin (%) <br /> `LBXGH` from `P_GHB` | 3898 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
 Xinyu <br /> Sun | Body-mass index (kg/m^2) <br /> `BMXBMI` from `P_BMX` | 6421 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
 Max <br /> Tjen | LDL-Cholesterol, Friedewald (mg/dL) <br /> `LBDLDL` from `P_TRIGLY` | 2597 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
-Meredith <br /> Zhang | Weight (kg) <br /> `BMXWT` from `P_BMX` | 5208 | **Revise.** <br /> Email sent 11-14.
+**Meredith <br /> Zhang** | Weight (kg) <br /> `BMXWT` from `P_BMX` | 5208 | **Revise.** <br /> Email sent 11-14.
 
 #### Notes on Accepted NHANES Projects
 
