@@ -25,7 +25,7 @@ Millie Zhou | Naji Ayyash | [NFL data from Advanced Sports Analytics](https://ww
 Investigator | Data Source | Study 2 Outcome | Study 2 *n* | Status
 :-----------------: | :-------------------: | :-----------------: | ---: | :---:
 Seth <br /> Bauer | [MIMIC-II](https://physionet.org/content/mimic2-iaccd/1.0/) | Heart Rate at ICU admission | 1758 | Accepted.
-Sarah <br /> Grabinski | [Shen et al. paper](https://datadryad.org/stash/dataset/doi:10.5061%2Fdryad.pd44k8r) | Blooid Glucose | 719 | Accepted.
+Sarah <br /> Grabinski | [Mendivil 2020 paper](https://datadryad.org/stash/dataset/doi:10.5061%2Fdryad.sqv9s4n2n) | Blood Glucose | 719 | Accepted.
 Benjamin <br /> Heifetz | [Kaggle Stroke Prediction Data](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset) | Body-mass index (kg/m^2) | 3426 | Accepted.
 Beverly <br /> Koepf | [Lost, found adoptable pets](https://catalog.data.gov/dataset/lost-found-adoptable-pets) | *not going to work* | *redo* | **Revise.** <br /> Email sent 11-12.
 Sarah <br /> McNeer | [Vital Statistics Birth Data](https://www.nber.org/research/data/vital-statistics-natality-birth-data) | Gestational age (weeks) | 9421 | Accepted.
