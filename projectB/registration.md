@@ -99,7 +99,7 @@ Faruk <br /> Senturk | Median CAP (liver steatosis) (dB/m) <br /> `LUXCAPM` from
 Neha <br /> Solanki | Glycohemoglobin (%) <br /> `LBXGH` from `P_GHB` | 3898 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
 Xinyu <br /> Sun | Body-mass index (kg/m^2) <br /> `BMXBMI` from `P_BMX` | 6421 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
 Max <br /> Tjen | LDL-Cholesterol, Friedewald (mg/dL) <br /> `LBDLDL` from `P_TRIGLY` | 2597 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
-**Meredith <br /> Zhang** | Weight (kg) <br /> `BMXWT` from `P_BMX` | 5208 | **Revise.** <br /> Email sent 11-14.
+Meredith <br /> Zhang | Weight (kg) <br /> `BMXWT` from `P_BMX` | 5008 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
 
 #### Notes on Accepted NHANES Projects
 
