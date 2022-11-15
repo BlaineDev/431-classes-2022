@@ -4,13 +4,13 @@ The [schedule of Project B presentations is here](https://github.com/THOMASELOVE
 
 ## Classifying the 50 Projects Submitted, by Status
 
-Last update: 2022-11-14 10:35 PM
+Last update: 2022-11-15 6:40 AM
 
 Accepted by Dr. Love | NHANES | Non-NHANES | Total | | Revisions Required | NHANES | Non-NHANES | Total
 -------------------: | ------: | --------: | -------: | - | -------------------: | ------: | --------: | -------:
-Individuals | 28 | 7 | 35 | | Individuals | 5 | 1 | 6
+Individuals | 29 | 7 | 36 | | Individuals | 4 | 1 | 5
 Teams of 2  |  7 | 1 |  8 | | Teams of 2 | 1 | 0 | 1
-TOTAL | 35 | 8 | 43 | | TOTAL | 6 | 1 | 7
+TOTAL | 36 | 8 | 44 | | TOTAL | 5 | 1 | 6
 
 ## Projects Not Using NHANES data
 
@@ -55,7 +55,7 @@ Investigator | Study 2 Outcome | Study 2 *n* | Status
 Bryan <br /> Abadie | Triglyceride (mg/dl) <br /> `LBXTR` from `P_TRIGLY` | 4518 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
 Samer <br /> Alanazi | Systolic Blood Pressure - 1st reading <br /> `BPXOSY1` from `P_BPXO` | 7029 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
 Samantha <br /> Baker | Direct HDL-Cholesterol (mg/dL) <br /> `LBDHDD` from `P_HDL` | 653 | Accepted. See 11-14 email, and <br /> See [notes below](#notes-on-accepted-nhanes-projects).
-Jules Joel <br /> Bakhos | Total Spine Bone Mineral Density (gm/cm^2) <br /> `DXXOSBMD` from `P_DXXSPN` | *(2121?)* | **Revise.** <br /> Email sent 11-12.
+Jules Joel <br /> Bakhos | Total Spine Bone Mineral Density (gm/cm^2) <br /> `DXXOSBMD` from `P_DXXSPN` | 1021 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
 Sarah <br /> Barker | Blood lead level (ug/dl) <br /> `LBXBPB` from `P_PBCD` | 1322 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
 Lithe <br /> Basbous | LDL-Cholesterol, Friedewald (mg/dL) <br /> `LBDLDL` from `P_TRIGLY` | 660 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
 Alison <br /> Berry | *(Needs to be re-specified)* | *(redo)* | **Revise.** <br /> Email sent 11-12
