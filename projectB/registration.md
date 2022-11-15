@@ -4,13 +4,13 @@ The [schedule of Project B presentations is here](https://github.com/THOMASELOVE
 
 ## Classifying the 50 Projects Submitted, by Status
 
-Last update: 2022-11-14 5:25 PM
+Last update: 2022-11-14 7:25 PM
 
 Accepted by Dr. Love | NHANES | Non-NHANES | Total | | Revisions Required | NHANES | Non-NHANES | Total
 -------------------: | ------: | --------: | -------: | - | -------------------: | ------: | --------: | -------:
-Individuals | 27 | 7 | 33 | | Individuals | 6 | 1 | 8
+Individuals | 27 | 7 | 34 | | Individuals | 6 | 1 | 8
 Teams of 2  |  6 | 1 |  7 | | Teams of 2 | 2 | 0 | 2
-TOTAL | 32 | 8 | 40 | | TOTAL | 9 | 1 | 10
+TOTAL | 33 | 8 | 41 | | TOTAL | 8 | 1 | 10
 
 ## Projects Not Using NHANES data
 
