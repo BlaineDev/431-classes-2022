@@ -85,12 +85,12 @@ Marie <br /> Masotya | Total cholesterol (mg/dl) <br /> `LBXTC` from `P_TCHOL` |
 Ben <br /> Mittman | Body-mass index (kg/m^2) <br /> `BMXBMI` from `P_BMX` | 6121 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
 Hala <br /> Nas | Median liver stiffness (kilopascals) <br /> `LUXSMED` from `P_LUX` | 3600 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
 Anya <br /> Nazarenko | Total cholesterol (mg/dl) <br /> `LBXTC` from `P_TCHOL` | 5210 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
-An <br /> Nguyen | Weight (kg) <br /> `BMXWT` from `P_BMX` | 2513 | Accepted. See 11-14 email, and <br /> See [notes below](#notes-on-accepted-nhanes-projects).
 
-### NHANES Projects By Individual Investigators (Last Nine, Alphabetically by Last Name)
+### NHANES Projects By Individual Investigators (Last Ten, Alphabetically by Last Name)
 
 Investigator | Study 2 Outcome | Study 2 *n* | Status
 :-----------------: | :--------------------: | ---: | :----:
+An <br /> Nguyen | Weight (kg) <br /> `BMXWT` from `P_BMX` | 2513 | Accepted. See 11-14 email, and <br /> See [notes below](#notes-on-accepted-nhanes-projects).
 Sameer <br /> Prasada | LDL-Cholesterol, Friedewald (mg/dL) <br /> `LBDLDL` from `P_TRIGLY` | 3277 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
 Kim <br /> Robbins | Total cholesterol (mg/dl) <br /> `LBXTC` from `P_TCHOL` | 1293 | Accepted. See 11-14 email, and <br /> see [notes below](#notes-on-accepted-nhanes-projects).
 Miza <br /> Salim Hammoud | Body-mass index (kg/m^2) <br /> `BMXBMI` from `P_BMX` | 6699 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
