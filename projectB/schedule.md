@@ -2,10 +2,16 @@
 
 In the Minute Paper after Class 20, you will let me know whether you'd prefer to give your presentation in person or via Zoom. I DO NOT PROMISE to match your preference, so you should be prepared to give the presentation in person until I tell you otherwise in writing.
 
-## Thursday December 8 (times being arranged - see my email)
+## Thursday December 8 
 
-- Lithe Basbous
-- Sahana Kannan and Sajan Patel
+- Please arrive at Dr. Love's office **10 minutes prior** to the start time listed below. If his door is open, knock and let him know you're there. If it's closed, please don't knock - just wait until he opens the door. Thank you.
+- Dr. Love’s office at CWRU is on the ground floor of the Wood building (in the WG-82 Suite), specifically it is **WG-82J**.
+- Email Dr. Love with any day-of-presentation emergencies.
+
+Date | Start Time | Group | Investigator(s)
+----: | ----: | ----: | :------------------------------
+THU 12-08 | 12:20 PM | A-01 | Lithe Basbous
+THU 12-08 | 2:30 PM | A-02 | Sahana Kannan and Sajan Patel
 
 ## Monday December 12
 
