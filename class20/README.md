@@ -14,7 +14,7 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 
 1. I've updated RStudio to 2022.07.2 build 576 without problems. I suggest you do the same when RStudio prompts you to do so. 
 2. I will soon update R to version 4.2.2. You are welcome to use either 4.2.1. or 4.2.2. for Project B and the rest of the 431 course.
-3. Grades and feedback for Lab 5 will be posted **by class time**.
+3. Grades and feedback for Lab 5 are now available on the [Grades Roster](https://bit.ly/431-grades-2022).
 4. The answer sketch for Lab 6 will be posted **by class time**.
 5. There is a Minute Paper due Wednesday 2022-11-16, which will be posted **by class time**.
 6. Details on Project A grading will be available **by class time**.
