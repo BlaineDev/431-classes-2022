@@ -4,13 +4,13 @@ The [schedule of Project B presentations is here](https://github.com/THOMASELOVE
 
 ## Classifying the 50 Projects Submitted, by Status
 
-Last update: 2022-11-14 10:25 PM
+Last update: 2022-11-14 10:35 PM
 
 Accepted by Dr. Love | NHANES | Non-NHANES | Total | | Revisions Required | NHANES | Non-NHANES | Total
 -------------------: | ------: | --------: | -------: | - | -------------------: | ------: | --------: | -------:
-Individuals | 27 | 7 | 34 | | Individuals | 6 | 1 | 7
+Individuals | 28 | 7 | 35 | | Individuals | 5 | 1 | 6
 Teams of 2  |  7 | 1 |  8 | | Teams of 2 | 1 | 0 | 1
-TOTAL | 34 | 8 | 42 | | TOTAL | 7 | 1 | 8
+TOTAL | 35 | 8 | 43 | | TOTAL | 6 | 1 | 7
 
 ## Projects Not Using NHANES data
 
@@ -83,7 +83,7 @@ Valeria <br /> Martinez | Most recent A1c level (%) <br /> `DIQ280` from `P_DIQ`
 Marie <br /> Masotya | Total cholesterol (mg/dl) <br /> `LBXTC` from `P_TCHOL` | 1161 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
 Emiko <br /> Miller | Total cholesterol (mg/dl) <br /> `LBXTC` from `P_TCHOL` | *(revise)* | **Revise.** <br /> Email sent 11-14.
 Ben <br /> Mittman | Body-mass index (kg/m^2) <br /> `BMXBMI` from `P_BMX` | 6121 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
-Hala <br /> Nas | Median liver stiffness (kilopascals) <br /> `LUXSMED` from `P_LUX` | *(revise)* | **Revise.** <br /> Email sent 11-14.
+Hala <br /> Nas | Median liver stiffness (kilopascals) <br /> `LUXSMED` from `P_LUX` | 3600 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
 Anya <br /> Nazarenko | Total cholesterol (mg/dl) <br /> `LBXTC` from `P_TCHOL` | 5210 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
 An <br /> Nguyen | Weight (kg) <br /> `BMXWT` from `P_BMX` | 2513 | Accepted. See 11-14 email, and <br /> See [notes below](#notes-on-accepted-nhanes-projects).
 
