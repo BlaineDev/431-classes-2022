@@ -1,6 +1,6 @@
 # Schedule for 431 Project B Presentations
 
-If you would prefer to do your project over Zoom, please indicate that in your response to the Minute Paper after Class 20.
+In the Minute Paper after Class 20, you will let me know whether you'd prefer to give your presentation in person or via Zoom. I DO NOT PROMISE to match your preference, so you should be prepared to give the presentation in person until I tell you otherwise in writing.
 
 ## Thursday December 8 (times being arranged - see my email)
 
