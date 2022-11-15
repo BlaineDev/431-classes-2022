@@ -15,11 +15,11 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 1. I've updated RStudio to 2022.07.2 build 576 without problems. I suggest you do the same when RStudio prompts you to do so. 
 2. I will soon update R to version 4.2.2. You are welcome to use either 4.2.1. or 4.2.2. for Project B and the rest of the 431 course.
 3. Grades and feedback for Lab 5 are now available on the [Grades Roster](https://bit.ly/431-grades-2022).
-4. The answer sketch for Lab 6 will be posted **by class time**.
+4. The answer sketch for Lab 6 will be posted later this afternoon.
 5. There is a [Minute Paper after Class 20](https://bit.ly/431-2022-min-20) due Wednesday 2022-11-16 at noon.
     - One of the Minute Paper questions is about whether you'd rather give your Project B presentation via Zoom or in person. I DO NOT PROMISE to match your preference: at present, everyone is set for in-person presentations in my office (Wood WG-82J) but I do want to know your preferences, in case I can make a switch for some of you.
     - If you have a partner for Project B, please ensure that you each give the same answer to the in person vs. Zoom question on the Minute Paper. Thanks.
-6. Details on Project A grading will be available **by class time**.
+6. Details on Project A grading will be discussed during class. You should have your grade and feedback by noon Wednesday 2022-11-16.
 7. Details on Project B registrations [are found here](https://github.com/THOMASELOVE/431-classes-2022/blob/main/projectB/registration.md).
     - The Project B Schedule of Presentations [is found here](https://github.com/THOMASELOVE/431-classes-2022/blob/main/projectB/schedule.md).
 
