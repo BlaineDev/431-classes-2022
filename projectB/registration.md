@@ -41,7 +41,7 @@ Form done by | Partner |  Study 2 Outcome | Study 2 *n* | Status
 :-----------------: | :---------------: | :-----------------: | ---: | :---:
 Moein <br /> Amin | Karlo <br /> Toljan | Triglyceride (mg/dl) <br /> `LBXTR` from `P_TRIGLY` | 3331 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
 Chris <br /> Benson | Lent <br /> Mantshonyane | Total cholesterol (mg/dl) <br /> `LBXTC` from `P_TCHOL` | 3272 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
-**Shubho <br /> Das | Toby <br /> Jin** | LDL-Cholesterol, Friedewald (mg/dL) <br /> `LBDLDL` from `P_TRIGLY` | *(revise)* | **Revise.** <br /> Email sent 11-14.
+**Shubho <br /> Das** | **Toby <br /> Jin** | LDL-Cholesterol, Friedewald (mg/dL) <br /> `LBDLDL` from `P_TRIGLY` | *(revise)* | **Revise.** <br /> Email sent 11-14.
 Alex <br /> Gurgis | Tarek <br /> ElShebiny | Body-mass index (kg/m^2) <br /> `BMXBMI` from `P_BMX` | 1163 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
 Sahana <br /> Kannan | Sajan <br /> Patel | Triglyceride (mg/dl) <br /> `LBXTR` from `P_TRIGLY` | 4251 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
 Lydia <br /> Masar | Shwetank <br /> Singh | Weight (kg) <br /> `BMXWT` from `P_BMX` | 5942 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
