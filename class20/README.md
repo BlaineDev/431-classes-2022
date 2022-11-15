@@ -23,7 +23,7 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 
 ## Having Trouble with Technical Writing?
 
-A really nice instructional paper to read is "[Discover the Science of Technical Writing](https://stattrak.amstat.org/files/2010/10/OBrienRG01Discover-the-Science-of-Technical-Writing.pdf)" by Ralph O'Brien (who used to teach this course) back in November 2010, and is [found (pdf version) here](https://stattrak.amstat.org/files/2010/10/OBrienRG01Discover-the-Science-of-Technical-Writing.pdf).
+A really nice instructional paper to read is "[Discover the Science of Technical Writing (pdf)](https://stattrak.amstat.org/files/2010/10/OBrienRG01Discover-the-Science-of-Technical-Writing.pdf)" by Ralph O'Brien (who used to teach this course).
 
 ## If you are using NHANES data in your project B, here's how I'd like you to describe the source of your data as part of your codebook in Study 1 and Study 2.
 
