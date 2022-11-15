@@ -9,8 +9,8 @@ Last update: 2022-11-14 7:25 PM
 Accepted by Dr. Love | NHANES | Non-NHANES | Total | | Revisions Required | NHANES | Non-NHANES | Total
 -------------------: | ------: | --------: | -------: | - | -------------------: | ------: | --------: | -------:
 Individuals | 27 | 7 | 34 | | Individuals | 6 | 1 | 8
-Teams of 2  |  6 | 1 |  7 | | Teams of 2 | 2 | 0 | 2
-TOTAL | 33 | 8 | 41 | | TOTAL | 8 | 1 | 10
+Teams of 2  |  7 | 1 |  8 | | Teams of 2 | 1 | 0 | 1
+TOTAL | 34 | 8 | 42 | | TOTAL | 7 | 1 | 8
 
 ## Projects Not Using NHANES data
 
@@ -40,7 +40,7 @@ Sam <br /> Rodgers-Melnick | [National Health Interview Survey 2019](https://www
 Form done by | Partner |  Study 2 Outcome | Study 2 *n* | Status
 :-----------------: | :---------------: | :-----------------: | ---: | :---:
 Moein <br /> Amin | Karlo <br /> Toljan | Triglyceride (mg/dl) <br /> `LBXTR` from `P_TRIGLY` | 3331 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
-Chris <br /> Benson | Lent <br /> Mantshonyane | Total cholesterol (mg/dl) <br /> `LBXTC` from `P_TCHOL` | *(revise)* | **Revise.** <br /> Email sent 11-14.
+Chris <br /> Benson | Lent <br /> Mantshonyane | Total cholesterol (mg/dl) <br /> `LBXTC` from `P_TCHOL` | 3272 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
 Shubho <br /> Das | Toby <br /> Jin | LDL-Cholesterol, Friedewald (mg/dL) <br /> `LBDLDL` from `P_TRIGLY` | *(revise)* | **Revise.** <br /> Email sent 11-14.
 Alex <br /> Gurgis | Tarek <br /> ElShebiny | Body-mass index (kg/m^2) <br /> `BMXBMI` from `P_BMX` | 1163 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
 Sahana <br /> Kannan | Sajan <br /> Patel | Triglyceride (mg/dl) <br /> `LBXTR` from `P_TRIGLY` | 4251 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
