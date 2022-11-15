@@ -8,7 +8,7 @@ Last update: 2022-11-15 8:50 AM
 
 Accepted by Dr. Love | NHANES | Non-NHANES | Total | | Revisions Required | NHANES | Non-NHANES | Total
 -------------------: | ------: | --------: | -------: | - | -------------------: | ------: | --------: | -------:
-Individuals | 32 | 7 | 39 | | Individuals | 1 | 1 | 2
+Individuals | 32 | 7 | 39 | | Individuals | 2 | 0 | 2
 Teams of 2  |  8 | 1 |  9 | | Teams of 2 | 0 | 0 | 0
 TOTAL | 40 | 8 | 48 | | TOTAL | 1 | 1 | 2
 
@@ -27,7 +27,6 @@ Investigator | Data Source | Study 2 Outcome | Study 2 *n* | Status
 Seth <br /> Bauer | [MIMIC-II](https://physionet.org/content/mimic2-iaccd/1.0/) | Heart Rate at ICU admission | 1758 | Accepted.
 Sarah <br /> Grabinski | [Mendivil 2020 paper](https://datadryad.org/stash/dataset/doi:10.5061%2Fdryad.sqv9s4n2n) | Blood Glucose | 719 | Accepted.
 Benjamin <br /> Heifetz | [Kaggle Stroke Prediction Data](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset) | Body-mass index (kg/m^2) | 3426 | Accepted.
-**Beverly <br /> Koepf** | [Lost, found adoptable pets](https://catalog.data.gov/dataset/lost-found-adoptable-pets) | *not going to work* | *redo* | **Revise.** <br /> Email sent 11-12.
 Sarah <br /> McNeer | [Vital Statistics Birth Data](https://www.nber.org/research/data/vital-statistics-natality-birth-data) | Gestational age (weeks) | 9421 | Accepted.
 Sid <br /> Mittal | [Health Information National Trends Survey](https://hints.cancer.gov/data/download-data.aspx) | Average time doing moderate exercise | 884 | Accepted.
 Anthony <br /> Orsino | [National Health Interview Series](https://healthsurveys.ipums.org) | Family Income as % of Poverty | 1969 | Accepted. <br /> Specify NHIS year.
@@ -78,6 +77,7 @@ Dan <br /> Kingsley | White blood cell count (1000 cells/uL) <br /> `LBXWBCSI` f
 
 Investigator | Study 2 Outcome | Study 2 *n* | Status
 :-----------------: | :--------------------: | ---: | :----:
+**Beverly <br /> Koepf** | *revise from poverty level* | *redo* | **Revise.** <br /> Email sent 11-15.
 Keisi <br /> Kotobelli | Systolic Blood Pressure - 1st reading <br /> `BPXOSY1` from `P_BPXO` | 7187 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
 Valeria <br /> Martinez | Most recent A1c level (%) <br /> `DIQ280` from `P_DIQ` | 530 | Accepted. See 11-14 email, and <br /> See [notes below](#notes-on-accepted-nhanes-projects).
 Marie <br /> Masotya | Total cholesterol (mg/dl) <br /> `LBXTC` from `P_TCHOL` | 1161 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
