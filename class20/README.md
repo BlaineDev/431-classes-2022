@@ -21,6 +21,10 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 7. Details on Project B registrations [are found here](https://github.com/THOMASELOVE/431-classes-2022/blob/main/projectB/registration.md).
     - The Project B Schedule of Presentations [is found here](https://github.com/THOMASELOVE/431-classes-2022/blob/main/projectB/schedule.md).
 
+## Having Trouble with Technical Writing?
+
+A really nice instructional paper to read is "[Discover the Science of Technical Writing](https://stattrak.amstat.org/files/2010/10/OBrienRG01Discover-the-Science-of-Technical-Writing.pdf)" by Ralph O'Brien (who used to teach this course) back in November 2010, and is [found (pdf version) here](https://stattrak.amstat.org/files/2010/10/OBrienRG01Discover-the-Science-of-Technical-Writing.pdf).
+
 ## If you are using NHANES data in your project B, here's how I'd like you to describe the source of your data as part of your codebook in Study 1 and Study 2.
 
 > The NHANES dataset combines interviews and physical examinations from adults and children in the United States using a nationally representative sample of about 5,000 persons each year. In (my/our) work, we used data from the 2017 - March 2020 survey period, and from the following data sets: Demographics (P-DEMO), and [list next data source, with P-XXXX name], and [list next data source, with P-XXXX name]. [Next, you should in a sentence then specify any restrictions on your data, perhaps to adults (specify your age range) or people with a particular condition. - an example would be "We restricted our sample to the XXXX individuals between the ages of 21 and 79, who had been told by a physician that they had diabetes, and who had complete data on the variables listed in our codebook."] 
