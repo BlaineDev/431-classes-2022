@@ -7,7 +7,7 @@
 
 ## Monday December 12
 
-- Please arrive at Dr. Love's office **10 minutes prior** to the start time listed below. If his door is open, knock and let him know you're there. If it's closed, please wait until he opens the door. Thank you.
+- Please arrive at Dr. Love's office **10 minutes prior** to the start time listed below. If his door is open, knock and let him know you're there. If it's closed, please don't knock - just wait until he opens the door. Thank you.
 - Dr. Love’s office at CWRU is on the ground floor of the Wood building (in the WG-82 Suite), specifically it is **WG-82J**.
 - Email Dr. Love with any day-of-presentation emergencies.
 
@@ -33,7 +33,7 @@ MON 12-12 | 4:30 PM | M-17 | Keisi Kotobelli
 
 ## Tuesday December 13
 
-- Please arrive at Dr. Love's office **10 minutes prior** to the start time listed below. If his door is open, knock and let him know you're there. If it's closed, please wait until he opens the door. Thank you.
+- Please arrive at Dr. Love's office **10 minutes prior** to the start time listed below. If his door is open, knock and let him know you're there. If it's closed, please don't knock - just wait until he opens the door. Thank you.
 - Dr. Love’s office at CWRU is on the ground floor of the Wood building (in the WG-82 Suite), specifically it is **WG-82J**.
 - Email Dr. Love with any day-of-presentation emergencies.
 
@@ -59,7 +59,7 @@ TUE 12-13 | 4:30 PM | T-17 | Pedram Golnari
 
 ## Thursday December 15
 
-- Please arrive at Dr. Love's office **10 minutes prior** to the start time listed below. If his door is open, knock and let him know you're there. If it's closed, please wait until he opens the door. Thank you.
+- Please arrive at Dr. Love's office **10 minutes prior** to the start time listed below. If his door is open, knock and let him know you're there. If it's closed, please don't knock - just wait until he opens the door. Thank you.
 - Dr. Love’s office at CWRU is on the ground floor of the Wood building (in the WG-82 Suite), specifically it is **WG-82J**.
 - Email Dr. Love with any day-of-presentation emergencies.
 
