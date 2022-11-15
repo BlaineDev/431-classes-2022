@@ -1,6 +1,6 @@
 # Schedule for 431 Project B Presentations
 
-## Thursday December 8 (time to be arranged)
+## Thursday December 8 (times being arranged - see my email)
 
 - Lithe Basbous
 - Sahana Kannan and Sajan Patel
