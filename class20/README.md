@@ -16,7 +16,7 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 2. I will soon update R to version 4.2.2. You are welcome to use either 4.2.1. or 4.2.2. for Project B and the rest of the 431 course.
 3. Grades and feedback for Lab 5 are now available on the [Grades Roster](https://bit.ly/431-grades-2022).
 4. The answer sketch for Lab 6 will be posted **by class time**.
-5. There is a Minute Paper due Wednesday 2022-11-16, which will be posted **by class time**.
+5. There is a [Minute Paper after Class 20](https://bit.ly/431-2022-min-20) due Wednesday 2022-11-16 at noon.
 6. Details on Project A grading will be available **by class time**.
 7. Details on Project B registrations [are found here](https://github.com/THOMASELOVE/431-classes-2022/blob/main/projectB/registration.md).
     - The Project B Schedule of Presentations [is found here](https://github.com/THOMASELOVE/431-classes-2022/blob/main/projectB/schedule.md).
