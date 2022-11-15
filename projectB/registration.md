@@ -8,9 +8,9 @@ Last update: 2022-11-15 8:50 AM
 
 Accepted by Dr. Love | NHANES | Non-NHANES | Total | | Revisions Required | NHANES | Non-NHANES | Total
 -------------------: | ------: | --------: | -------: | - | -------------------: | ------: | --------: | -------:
-Individuals | 30 | 7 | 37 | | Individuals | 3 | 1 | 4
+Individuals | 31 | 7 | 38 | | Individuals | 2 | 1 | 3
 Teams of 2  |  8 | 1 |  9 | | Teams of 2 | 0 | 0 | 0
-TOTAL | 38 | 8 | 46 | | TOTAL | 5 | 1 | 6
+TOTAL | 39 | 8 | 47 | | TOTAL | 2 | 1 | 3
 
 ## Projects Not Using NHANES data
 
@@ -58,8 +58,8 @@ Samantha <br /> Baker | Direct HDL-Cholesterol (mg/dL) <br /> `LBDHDD` from `P_H
 Jules Joel <br /> Bakhos | Total Spine Bone Mineral Density (gm/cm^2) <br /> `DXXOSBMD` from `P_DXXSPN` | 1021 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
 Sarah <br /> Barker | Blood lead level (ug/dl) <br /> `LBXBPB` from `P_PBCD` | 1322 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
 Lithe <br /> Basbous | LDL-Cholesterol, Friedewald (mg/dL) <br /> `LBDLDL` from `P_TRIGLY` | 660 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
-Alison <br /> Berry | Age told had hypertension <br /> `BPD035` from `P_BPQ` | 2016 | Accepted, and see my email <br /> See [notes below](#notes-on-accepted-nhanes-projects).
-**Yinglun <br /> Geng** | *(Needs to be re-specified)* | *(redo)* | **Revise.** <br /> Email sent 11-12
+Alison <br /> Berry | Age told had hypertension <br /> `BPD035` from `P_BPQ` | 2016 | Accepted, and see my 11-15 email <br /> See [notes below](#notes-on-accepted-nhanes-projects).
+Yinglun <br /> Geng | Systolic Blood Pressure - 1st reading <br /> `BPXOSY1` from `P_BPXO` | 6796 |  Accepted, and see my 11-15 email <br /> See [notes below](#notes-on-accepted-nhanes-projects).
 
 ### NHANES Projects By Individual Investigators (Second Eight, Alphabetically by Last Name)
 
