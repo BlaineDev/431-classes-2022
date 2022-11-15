@@ -9,7 +9,7 @@ Last update: 2022-11-14 5:25 PM
 Accepted by Dr. Love | NHANES | Non-NHANES | Total | | Revisions Required | NHANES | Non-NHANES | Total
 -------------------: | ------: | --------: | -------: | - | -------------------: | ------: | --------: | -------:
 Individuals | 27 | 7 | 33 | | Individuals | 6 | 1 | 8
-Teams of 2  |  5 | 1 |  6 | | Teams of 2 | 3 | 0 | 3
+Teams of 2  |  6 | 1 |  7 | | Teams of 2 | 2 | 0 | 2
 TOTAL | 32 | 8 | 40 | | TOTAL | 9 | 1 | 10
 
 ## Projects Not Using NHANES data
@@ -43,7 +43,7 @@ Moein <br /> Amin | Karlo <br /> Toljan | Triglyceride (mg/dl) <br /> `LBXTR` fr
 Chris <br /> Benson | Lent <br /> Mantshonyane | Total cholesterol (mg/dl) <br /> `LBXTC` from `P_TCHOL` | *(revise)* | **Revise.** <br /> Email sent 11-14.
 Shubho <br /> Das | Toby <br /> Jin | LDL-Cholesterol, Friedewald (mg/dL) <br /> `LBDLDL` from `P_TRIGLY` | *(revise)* | **Revise.** <br /> Email sent 11-14.
 Alex <br /> Gurgis | Tarek <br /> ElShebiny | Body-mass index (kg/m^2) <br /> `BMXBMI` from `P_BMX` | 1163 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
-Sahana <br /> Kannan | Sajan <br /> Patel | needs revision | needs revision | **Revise** <br /> Email sent 11-14 at 5:21 PM.
+Sahana <br /> Kannan | Sajan <br /> Patel | Triglyceride (mg/dl) <br /> `LBXTR` from `P_TRIGLY` | 4251 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
 Lydia <br /> Masar | Shwetank <br /> Singh | Weight (kg) <br /> `BMXWT` from `P_BMX` | 5942 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
 Fang <br /> Wang | Tian <br /> Liu | Direct HDL-Cholesterol (mg/dL) <br /> `LBDHDD` from `P_HDL` | 1752 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
 Savannah <br /> Wu | Qihao <br /> Zhang | Systolic Blood Pressure - 1st reading <br /> `BPXOSY1` from `P_BPXO` | 817 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
