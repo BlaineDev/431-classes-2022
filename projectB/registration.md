@@ -8,9 +8,9 @@ Last update: 2022-11-15 8:50 AM
 
 Accepted by Dr. Love | NHANES | Non-NHANES | Total | | Revisions Required | NHANES | Non-NHANES | Total
 -------------------: | ------: | --------: | -------: | - | -------------------: | ------: | --------: | -------:
-Individuals | 29 | 7 | 36 | | Individuals | 4 | 1 | 5
-Teams of 2  |  7 | 1 |  8 | | Teams of 2 | 1 | 0 | 1
-TOTAL | 36 | 8 | 44 | | TOTAL | 5 | 1 | 6
+Individuals | 30 | 7 | 37 | | Individuals | 3 | 1 | 4
+Teams of 2  |  8 | 1 |  9 | | Teams of 2 | 0 | 0 | 0
+TOTAL | 38 | 8 | 46 | | TOTAL | 5 | 1 | 6
 
 ## Projects Not Using NHANES data
 
