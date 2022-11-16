@@ -6,11 +6,11 @@ The [schedule of Project B presentations is here](https://github.com/THOMASELOVE
 
 Last update: 2022-11-15 8:50 AM
 
-Accepted by Dr. Love | NHANES | Non-NHANES | Total | | Revisions Required | NHANES 
--------------------: | ------: | --------: | -------: | - | -------------------: | ------: 
-Individuals | 33 | 7 | 40 | | Individuals | 1 
-Teams of 2  |  8 | 1 |  9 | | Teams of 2 | 0 
-TOTAL | 41 | 8 | 49 | | TOTAL | 1 
+Accepted by Dr. Love | NHANES | Non-NHANES | Total  
+-------------------: | ------: | --------: | -------: 
+Individuals | 34 | 7 | 41  
+Teams of 2  |  8 | 1 |  9  
+TOTAL | 42 | 8 | 50 
 
 ## Projects Not Using NHANES data
 
@@ -77,7 +77,7 @@ Dan <br /> Kingsley | White blood cell count (1000 cells/uL) <br /> `LBXWBCSI` f
 
 Investigator | Study 2 Outcome | Study 2 *n* | Status
 :-----------------: | :--------------------: | ---: | :----:
-**Beverly <br /> Koepf** | *revise from poverty level* | *redo* | **Revise.** <br /> Email sent 11-15.
+Beverly <br /> Koepf | Family Income vs Poverty Level </br > `INDFMPIR` from `P_DEMO` | 6184 | Accepted. See 11-16 email and <br /> See [notes below](#notes-on-accepted-nhanes-projects).
 Keisi <br /> Kotobelli | Systolic Blood Pressure - 1st reading <br /> `BPXOSY1` from `P_BPXO` | 7187 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
 Valeria <br /> Martinez | Most recent A1c level (%) <br /> `DIQ280` from `P_DIQ` | 530 | Accepted. See 11-14 email, and <br /> See [notes below](#notes-on-accepted-nhanes-projects).
 Marie <br /> Masotya | Total cholesterol (mg/dl) <br /> `LBXTC` from `P_TCHOL` | 1161 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
