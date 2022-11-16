@@ -37,7 +37,7 @@ MON 12-12 | 10:45 AM | M-06 | Max Tjen | Wood WG82-J in person
 MON 12-12 | 11:10 AM | M-07 | Beverly Koepf | Zoom
 MON 12-12 | 11:35 AM | M-08 | Sarah McNeer | Wood WG82-J in person
 MON 12-12 | 12:50 PM | M-09 | Samuel Rodgers-Melnick | Wood WG82-J in person
-MON 12-12 | 1:15 PM | M-10 | Shubho Das and Toby Jin | Wood WG82-J in person
+MON 12-12 | 1:15 PM | M-10 | Shubho Das and <br /> Toby Jin | Wood WG82-J in person
 MON 12-12 | 1:40 PM | M-11 | Chris Benson and <br /> Lentlametse Mantshonyane | Wood WG82-J in person
 MON 12-12 | 2:05 PM | M-12 | Bryan Abadie | Wood WG82-J in person
 MON 12-12 | 2:45 PM | M-13 | Sarah Barker | Wood WG82-J in person
