@@ -8,9 +8,9 @@ Last update: 2022-11-15 8:50 AM
 
 Accepted by Dr. Love | NHANES | Non-NHANES | Total | | Revisions Required | NHANES 
 -------------------: | ------: | --------: | -------: | - | -------------------: | ------: 
-Individuals | 32 | 7 | 39 | | Individuals | 2 
+Individuals | 33 | 7 | 40 | | Individuals | 1 
 Teams of 2  |  8 | 1 |  9 | | Teams of 2 | 0 
-TOTAL | 40 | 8 | 48 | | TOTAL | 2 
+TOTAL | 41 | 8 | 49 | | TOTAL | 1 
 
 ## Projects Not Using NHANES data
 
@@ -81,7 +81,7 @@ Investigator | Study 2 Outcome | Study 2 *n* | Status
 Keisi <br /> Kotobelli | Systolic Blood Pressure - 1st reading <br /> `BPXOSY1` from `P_BPXO` | 7187 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
 Valeria <br /> Martinez | Most recent A1c level (%) <br /> `DIQ280` from `P_DIQ` | 530 | Accepted. See 11-14 email, and <br /> See [notes below](#notes-on-accepted-nhanes-projects).
 Marie <br /> Masotya | Total cholesterol (mg/dl) <br /> `LBXTC` from `P_TCHOL` | 1161 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
-**Emiko <br /> Miller** | Total cholesterol (mg/dl) <br /> `LBXTC` from `P_TCHOL` | *(revise)* | **Revise.** <br /> Email sent 11-14.
+Emiko <br /> Miller | Weight (kg) <br /> `BMXWT` from `P_BMX` | 1574 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
 Ben <br /> Mittman | Body-mass index (kg/m^2) <br /> `BMXBMI` from `P_BMX` | 6121 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
 Hala <br /> Nas | Median liver stiffness (kilopascals) <br /> `LUXSMED` from `P_LUX` | 3600 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
 Anya <br /> Nazarenko | Total cholesterol (mg/dl) <br /> `LBXTC` from `P_TCHOL` | 5210 | Accepted. <br /> See [notes below](#notes-on-accepted-nhanes-projects).
