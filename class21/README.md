@@ -20,7 +20,7 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 ## What Should I Be Working On?
 
 1. Project B
-  - I strongly encourage you to read [the Checklist page from the Project B instructions](https://thomaselove.github.io/431-projectB-2022/checklist.html), before too much more time has passed.
+    - I strongly encourage you to read [the Checklist page from the Project B instructions](https://thomaselove.github.io/431-projectB-2022/checklist.html), before too much more time has passed.
 2. [Lab 7](https://github.com/THOMASELOVE/431-labs-2022) due Monday
 3. Spiegehalter, Chapter 10 is required reading for Lab 7, but you should really finish the book before you see Quiz 2 on Tuesday 2022-11-29.
 
