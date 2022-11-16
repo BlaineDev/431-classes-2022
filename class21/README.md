@@ -13,12 +13,16 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 ## Announcements
 
 1. The Lab 6 Sketch and Rubric is posted to our Shared Drive. Sorry for the delay.
+2. Feedback from the Minute Paper after Class 20 [is now available](https://bit.ly/431-2022-min20-feedback).
+3. Project B [registration](https://github.com/THOMASELOVE/431-classes-2022/blob/main/projectB/registration.md) and [scheduling](https://github.com/THOMASELOVE/431-classes-2022/blob/main/projectB/schedule.md), including Zoom.
+4. 431 is cancelled next week. TAs are off from Saturday 11-19 through Friday 11-25, returning to office hours on Saturday 11-26. Dr. Love will be unavailable from Sunday 11-20 through Saturday 11-26, returning Sunday 11-27. Campuswire will remain open, but Dr. Love won't respond before 11-27.
 
 ## What Should I Be Working On?
 
-1. I strongly encourage you to read [the Checklist page from the Project B instructions](https://thomaselove.github.io/431-projectB-2022/checklist.html), before too much more time has passed.
-2. Project B
-3. Lab 7
+1. Project B
+  - I strongly encourage you to read [the Checklist page from the Project B instructions](https://thomaselove.github.io/431-projectB-2022/checklist.html), before too much more time has passed.
+2. [Lab 7](https://github.com/THOMASELOVE/431-labs-2022) due Monday
+3. Spiegehalter, Chapter 10 is required reading for Lab 7, but you should really finish the book before you see Quiz 2 on Tuesday 2022-11-29.
 
 ## One Last Thing
 
