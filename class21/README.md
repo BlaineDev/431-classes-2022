@@ -13,10 +13,13 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 ## Announcements
 
 1. The Lab 6 Sketch and Rubric is posted to our Shared Drive. Sorry for the delay.
-2. Feedback from the Minute Paper after Class 20 [is now available](https://bit.ly/431-2022-min20-feedback).
-3. Project B [registration](https://github.com/THOMASELOVE/431-classes-2022/blob/main/projectB/registration.md) and [scheduling](https://github.com/THOMASELOVE/431-classes-2022/blob/main/projectB/schedule.md), including Zoom.
+2. All 59 of you who completed Project A should now have your feedback and grade on the project in an email from me sent 2022-11-16.
+    - If you have any questions, or haven't received this, please tell me today.
+3. Feedback from the Minute Paper after Class 20 [is now available](https://bit.ly/431-2022-min20-feedback).
+4. Project B [registration](https://github.com/THOMASELOVE/431-classes-2022/blob/main/projectB/registration.md) and [scheduling](https://github.com/THOMASELOVE/431-classes-2022/blob/main/projectB/schedule.md), including Zoom details. I tried to match your preferences.
     - Contact Dr. Love by email today if you see something on the registration or schedule sheet that doesn't match your understanding.
-4. Our next 431 class (Class 22) will be on Tuesday 2022-11-29.
+    - Further information on Zoom will be available after December 1.
+5. Our next 431 class (Class 22) will be on Tuesday 2022-11-29.
     - TAs are off from Saturday 11-19 through Friday 11-25, returning to office hours on Saturday 11-26. 
     - Dr. Love will be unavailable from Sunday 11-20 through Saturday 11-26, returning Sunday 11-27. 
     - Campuswire will remain open, but Dr. Love won't respond before 11-27.
