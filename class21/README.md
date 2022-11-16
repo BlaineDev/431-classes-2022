@@ -21,8 +21,9 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 
 1. Project B
     - I strongly encourage you to read [the Checklist page from the Project B instructions](https://thomaselove.github.io/431-projectB-2022/checklist.html), before too much more time has passed.
-2. [Lab 7](https://github.com/THOMASELOVE/431-labs-2022) due Monday
-3. Spiegehalter, Chapter 10 is required reading for Lab 7, but you should really finish the book before you see Quiz 2 on Tuesday 2022-11-29.
+2. [Lab 7](https://github.com/THOMASELOVE/431-labs-2022) is due Monday 2022-11-28 (Monday after Thanksgiving) at 9 PM. You can do it now.
+3. Spiegehalter, Chapter 10 is required reading for Lab 7, but you should really finish the book before you turn in Quiz 2.
+4. Quiz 2 will be available to you late in the evening on Tuesday 2022-11-29, and is due at 9 PM on Monday 2022-12-05.
 
 ## One Last Thing
 
