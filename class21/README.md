@@ -12,4 +12,13 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 
 ## Announcements
 
-To come.
+1. The Lab 6 Sketch and Rubric is posted to our Shared Drive. Sorry for the delay.
+
+## What Should I Be Working On?
+
+1. I strongly encourage you to read [the Checklist page from the Project B instructions](https://thomaselove.github.io/431-projectB-2022/checklist.html), before too much more time has passed.
+2. Project B
+3. Lab 7
+
+## One Last Thing
+
