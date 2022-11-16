@@ -1,7 +1,5 @@
 # Schedule for 431 Project B Presentations
 
-In the Minute Paper after Class 20, you will let me know whether you'd prefer to give your presentation in person or via Zoom. I DO NOT PROMISE to match your preference, so you should be prepared to give the presentation in person until I tell you otherwise in writing.
-
 ## Thursday December 8 
 
 - Please arrive at Dr. Love's office **10 minutes prior** to the start time listed below. If his door is open, knock and let him know you're there. If it's closed, please don't knock - just wait until he opens the door. Thank you.
