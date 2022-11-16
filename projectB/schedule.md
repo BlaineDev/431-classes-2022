@@ -62,7 +62,7 @@ MON 12-12 | 4:30 PM | M-17 | Keisi Kotobelli | Wood WG82-J in person
 
 - Zoom information will be provided after December 1. You will need to join the Zoom call **10 minutes prior** to the start time listed below. Dr. Love will let you into the Zoom meeting when he is ready for you.
 
-Date | Time | Group | Investigator(s) | Where?
+Date | Start Time | Group | Investigator(s) | Where?
 ----: | ----: | ----: | :-----------------------------: | :----------------:
 TUE 12-13 | 8:40 AM | T-01 | Rupleen Kaur | Zoom
 TUE 12-13 | 9:05 AM | T-02 | Lydia Masar and Shwetank Singh | Wood WG82-J in person
@@ -96,7 +96,7 @@ TUE 12-13 | 4:30 PM | T-17 | Pedram Golnari | Wood WG82-J in person
 
 - Zoom information will be provided after December 1. You will need to join the Zoom call **10 minutes prior** to the start time listed below. Dr. Love will let you into the Zoom meeting when he is ready for you.
 
-Date | Time | Group | Investigator(s) | Where?
+Date | Start Time | Group | Investigator(s) | Where?
 ----: | ----: | ----: | :-----------------------------: | :----------------:
 THU 12-15 | 8:40 AM | Z-01 | Kim Robbins | Zoom
 THU 12-15 | 9:05 AM | Z-02 | Benjamin Heifetz | Wood WG82-J in person
