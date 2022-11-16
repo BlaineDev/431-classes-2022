@@ -10,7 +10,7 @@
 Date | Start Time | Group | Investigator(s) | Where?
 ----: | ----: | ----: | :-----------------------------: | :--------------------:
 THU 12-08 | 12:20 PM | A-01 | Lithe Basbous | Wood WG82-J in person
-THU 12-08 | 2:30 PM | A-02 | Sahana Kannan and Sajan Patel | Wood WG82-J in person
+THU 12-08 | 2:30 PM | A-02 | Sahana Kannan and <br /> Sajan Patel | Wood WG82-J in person
 
 ## Monday December 12
 
@@ -28,7 +28,7 @@ THU 12-08 | 2:30 PM | A-02 | Sahana Kannan and Sajan Patel | Wood WG82-J in pers
 
 Date | Start Time | Group | Investigator(s) | Where?
 ----: | ----: | ----: | :-----------------------------: | :----------------:
-MON 12-12 | 8:40 AM | M-01 | Alex Gurgis and Tarek ElShebiny | Zoom
+MON 12-12 | 8:40 AM | M-01 | Alex Gurgis and <br /> Tarek ElShebiny | Zoom
 MON 12-12 | 9:05 AM | M-02 | Alison Berry | Wood WG82-J in person
 MON 12-12 | 9:30 AM | M-03 | An Nguyen | Zoom
 MON 12-12 | 9:55 AM | M-04 | Sameer Prasada | Zoom
@@ -38,7 +38,7 @@ MON 12-12 | 11:10 AM | M-07 | Beverly Koepf | Zoom
 MON 12-12 | 11:35 AM | M-08 | Sarah McNeer | Wood WG82-J in person
 MON 12-12 | 12:50 PM | M-09 | Samuel Rodgers-Melnick | Wood WG82-J in person
 MON 12-12 | 1:15 PM | M-10 | Shubho Das and Toby Jin | Wood WG82-J in person
-MON 12-12 | 1:40 PM | M-11 | Chris Benson and Lentlametse Mantshonyane | Wood WG82-J in person
+MON 12-12 | 1:40 PM | M-11 | Chris Benson and <br /> Lentlametse Mantshonyane | Wood WG82-J in person
 MON 12-12 | 2:05 PM | M-12 | Bryan Abadie | Wood WG82-J in person
 MON 12-12 | 2:45 PM | M-13 | Sarah Barker | Wood WG82-J in person
 MON 12-12 | 3:10 PM | M-14 | Izzy Genuario | Zoom
@@ -63,15 +63,15 @@ MON 12-12 | 4:30 PM | M-17 | Keisi Kotobelli | Wood WG82-J in person
 Date | Start Time | Group | Investigator(s) | Where?
 ----: | ----: | ----: | :-----------------------------: | :----------------:
 TUE 12-13 | 8:40 AM | T-01 | Rupleen Kaur | Zoom
-TUE 12-13 | 9:05 AM | T-02 | Lydia Masar and Shwetank Singh | Wood WG82-J in person
+TUE 12-13 | 9:05 AM | T-02 | Lydia Masar and <br /> Shwetank Singh | Wood WG82-J in person
 TUE 12-13 | 9:30 AM | T-03 | Valeria Martinez Tenorio | Zoom
 TUE 12-13 | 9:55 AM | T-04 | Emiko Miller | Wood WG82-J in person
 TUE 12-13 | 10:20 AM | T-05 | Meredith Zhang | Wood WG82-J in person
 TUE 12-13 | 10:45 AM | T-06 | Sam Baker | Wood WG82-J in person
-TUE 12-13 | 11:10 AM | T-07 | Fang Wang and Tian Liu | Wood WG82-J in person
+TUE 12-13 | 11:10 AM | T-07 | Fang Wang and <br /> Tian Liu | Wood WG82-J in person
 TUE 12-13 | 11:35 AM | T-08 | Faruk Senturk | Zoom
-TUE 12-13 | 12:50 PM | T-09 | Millie Zhou and Naji Ayyash | Zoom
-TUE 12-13 | 1:15 PM | T-10 | Savannah Wu and Qihao Zhang | Wood WG82-J in person
+TUE 12-13 | 12:50 PM | T-09 | Millie Zhou and <br /> Naji Ayyash | Zoom
+TUE 12-13 | 1:15 PM | T-10 | Savannah Wu and <br /> Qihao Zhang | Wood WG82-J in person
 TUE 12-13 | 1:40 PM | T-11 | Sid Mittal | Wood WG82-J in person
 TUE 12-13 | 2:05 PM | T-12 | Katie Hassett | Zoom
 TUE 12-13 | 2:45 PM | T-13 | Ben Mittman | Wood WG82-J in person
