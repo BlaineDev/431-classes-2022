@@ -45,7 +45,7 @@ I will include in today's conversation a brief walk through [the 2019 American S
 - Ronald L. Wasserstein, Allen L. Schirm & Nicole A. Lazar (2019) [Moving to a World Beyond "p < 0.05"](https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1583913), *The American Statistician*, 73:sup1, 1-19, DOI: [10.1080/00031305.2019.1583913](https://doi.org/10.1080/00031305.2019.1583913). 
     - Ron gave a [one-hour talk you can watch here](https://t.co/GbQF01h4jU) on "[Helping to move to a world beyond p < 0.05](https://t.co/GbQF01h4jU)" which I cannot recommend enough.
 
-You may also be interested in [the American Statistical Association's 2016 statement on P Values](https://github.com/THOMASELOVE/431-2021/blob/main/classes/class23/references/ASA_2016_Pvalues_Context_Process_Purpose.pdf) which originally got me thinking along these lines: 
+You may also be interested in [the American Statistical Association's 2016 statement on P Values](references/ASA_2016_Pvalues_Context_Process_Purpose.pdf) which originally got me thinking along these lines: 
 
 - Ronald L. Wasserstein & Nicole A. Lazar (2016) [The ASA's Statement on p-Values: Context, Process, and Purpose](https://www.tandfonline.com/doi/full/10.1080/00031305.2016.1154108), *The American Statistician*, 70:2, 129-133, DOI:
 [10.1080/00031305.2016.1154108](https://doi.org/10.1080/00031305.2016.1154108).
