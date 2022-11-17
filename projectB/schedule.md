@@ -103,7 +103,7 @@ THU 12-15 | 9:55 AM | Z-04 | Marie Masotya | Wood WG82-J in person
 THU 12-15 | 10:20 AM | Z-05 | Yinglun Geng | Zoom
 THU 12-15 | 10:45 AM | Z-06 | Dan Kingsley | Wood WG82-J in person
 THU 12-15 | 11:10 AM | Z-07 | Jules Joel Bakhos | Wood WG82-J in person
-THU 12-15 | 11:35 AM | Z-08 | Anya Nazarenko | Zoom
+THU 12-15 | 11:35 AM | Z-08 | Anya Nazarenko | Wood WG82-J in person
 THU 12-15 | 12:50 PM | Z-09 | Seth Bauer | Wood WG82-J in person
 THU 12-15 | 1:15 PM | Z-10 | Samer Alanzi | Zoom
 THU 12-15 | 1:40 PM | Z-11 | Xinyu Sun | Wood WG82-J in person
