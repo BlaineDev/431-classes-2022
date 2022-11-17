@@ -32,9 +32,9 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
     - If nothing else, I strongly encourage you to read [the Checklist page from the Project B instructions](https://thomaselove.github.io/431-projectB-2022/checklist.html), before too much more time has passed.
 4. Quiz 2 will be available to you late in the evening on Tuesday 2022-11-29, and is due at 9 PM on Monday 2022-12-05.
 
-## References Associated with This Week's Material
+## References Associated with Material in Classes 21 and 22
 
-The second part of today's class will be centered around replicable research, statistical significance and *p* values. We'll continue this discussion and highlight additional issues in Class 24 on Thursday.
+The second part of today's class will be centered around replicable research, statistical significance and *p* values. We'll continue this discussion and highlight additional issues in Class 22 on 2022-11-29.
 
 ![](https://imgs.xkcd.com/comics/epistemic_uncertainty.png)
 
