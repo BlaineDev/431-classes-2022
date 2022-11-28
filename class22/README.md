@@ -65,5 +65,9 @@ Some other resources for learning more after today's talk are:
     - If you are working with data other than NHANES data, you will also submit your data.
     - The [Self-Evaluation for Project B Form](https://bit.ly/431-2022-projectB-self-evaluation) should take about 15 minutes to complete. If you are working in a team, each of you need to complete the form as an individual. The Form should be completed after meeting with Dr. Love for your presentation **and** after submitting your final reports to Canvas.
 
+## One Last Thing
+
+[Raincloud Plots with ggplot2](https://z3tt.github.io/Rainclouds/) by Cédric Scherer demonstrates lots of nice approaches to showing the distributions of data batches, beyond what you can get from a boxplot-violin combination. Strongly recommended for displaying data usefully in Project B.
+
 
 
