@@ -22,7 +22,7 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 
 ## Remaining Deadlines
 
-1. Our second and final Quiz will be available to you before midnight tonight (2022-11-29). You'll receive an email from Dr. Love with a link to the materials you'll need as soon as everything is ready for you. The Quiz is due on Monday 2022-12-05 at 9 PM.
+1. Our second and final Quiz will be available to you **before midnight tonight** (2022-11-29). You'll receive an email from Dr. Love with a link to the materials you'll need as soon as everything is ready for you. The Quiz is due on Monday 2022-12-05 at 9 PM.
 2. We will have a Minute Paper after Class 23 due Wednesday 2022-12-07, but there is no minute paper this week.
 3. Those of you who are in any way disappointed with your grade in the course so far, **or** who are looking to continue working in or studying statistics and data science past the 431-432 sequence, should definitely be working on [Lab X](https://github.com/THOMASELOVE/431-labs-2022/blob/main/labX.md), which is due Monday 2022-12-12 at Noon.
 4. Should you want Dr. Love to regrade one (or more) of Labs 1-7, please be sure to fill out the [Lab Regrade Request Form](https://bit.ly/431-2022-lab-regrade-requests), which is also due Monday 2022-12-12 at Noon.
