@@ -12,4 +12,5 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 
 ## Announcements
 
-To come.
+1. Lab 6 Grades and Feedback are now available on the [Course Grades Roster](https://bit.ly/431-grades-2022).
+2. 
