@@ -67,7 +67,7 @@ Some other resources for learning more after today's talk are:
 
 ## One Last Thing
 
-[Raincloud Plots with ggplot2](https://z3tt.github.io/Rainclouds/) by Cédric Scherer demonstrates lots of nice approaches to showing the distributions of data batches, beyond what you can get from a boxplot-violin combination. Strongly recommended for displaying data usefully in Project B.
+[Raincloud Plots with ggplot2](https://z3tt.github.io/Rainclouds/) by Cédric Scherer demonstrates many nice approaches to showing the distributions of data batches, beyond what you can get from a boxplot-violin combination. Lots of good choices to consider here when displaying data in Project B.
 
 
 
