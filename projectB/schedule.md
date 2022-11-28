@@ -24,7 +24,9 @@ THU 12-08 | 2:30 PM | A-02 | Sahana Kannan and <br /> Sajan Patel | Wood WG82-J 
 
 ### If you are presenting via Zoom
 
-- Zoom information will be provided after December 1. You will need to join the Zoom call **10 minutes prior** to the start time listed below. Dr. Love will let you into the Zoom meeting when he is ready for you.
+- Zoom information for the Monday morning and Monday afternoon sessions are now posted to the Announcements section of [Canvas](https://canvas.case.edu/). You will need to join the Zoom call **10 minutes prior** to the start time listed below. Dr. Love will let you into the Zoom meeting when he is ready for you.
+
+### Monday Morning (Zoom information is in the Announcements section of Canvas)
 
 Date | Start Time | Group | Investigator(s) | Where?
 ----: | ----: | ----: | :-----------------------------: | :----------------:
@@ -36,6 +38,11 @@ MON 12-12 | 10:20 AM | M-05 | Aqsa Khan | Wood WG82-J in person
 MON 12-12 | 10:45 AM | M-06 | Max Tjen | Wood WG82-J in person
 MON 12-12 | 11:10 AM | M-07 | Beverly Koepf | Zoom
 MON 12-12 | 11:35 AM | M-08 | Sarah McNeer | Wood WG82-J in person
+
+### Monday Afternoon (Zoom information is in the Announcements section of Canvas)
+
+Date | Start Time | Group | Investigator(s) | Where?
+----: | ----: | ----: | :-----------------------------: | :----------------:
 MON 12-12 | 12:50 PM | M-09 | Samuel Rodgers-Melnick | Wood WG82-J in person
 MON 12-12 | 1:15 PM | M-10 | Shubho Das and <br /> Toby Jin | Wood WG82-J in person
 MON 12-12 | 1:40 PM | M-11 | Chris Benson and <br /> Lentlametse Mantshonyane | Wood WG82-J in person
