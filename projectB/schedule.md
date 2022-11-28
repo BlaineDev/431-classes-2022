@@ -65,7 +65,9 @@ MON 12-12 | 4:30 PM | M-17 | Keisi Kotobelli | Wood WG82-J in person
 
 ### If you are presenting via Zoom
 
-- Zoom information will be provided after December 1. You will need to join the Zoom call **10 minutes prior** to the start time listed below. Dr. Love will let you into the Zoom meeting when he is ready for you.
+- Zoom information for the Tuesday morning and Tuesday afternoon sessions are now posted to the Announcements section of [Canvas](https://canvas.case.edu/). You will need to join the Zoom call **10 minutes prior** to the start time listed below. Dr. Love will let you into the Zoom meeting when he is ready for you.
+
+### Tuesday morning (Zoom information is in the Announcements section of Canvas)
 
 Date | Start Time | Group | Investigator(s) | Where?
 ----: | ----: | ----: | :-----------------------------: | :----------------:
@@ -77,6 +79,11 @@ TUE 12-13 | 10:20 AM | T-05 | Meredith Zhang | Wood WG82-J in person
 TUE 12-13 | 10:45 AM | T-06 | Sam Baker | Wood WG82-J in person
 TUE 12-13 | 11:10 AM | T-07 | Fang Wang and <br /> Tian Liu | Wood WG82-J in person
 TUE 12-13 | 11:35 AM | T-08 | Faruk Senturk | Zoom
+
+### Tuesday afternoon (Zoom information is in the Announcements section of Canvas)
+
+Date | Start Time | Group | Investigator(s) | Where?
+----: | ----: | ----: | :-----------------------------: | :----------------:
 TUE 12-13 | 12:50 PM | T-09 | Millie Zhou and <br /> Naji Ayyash | Zoom
 TUE 12-13 | 1:15 PM | T-10 | Savannah Wu and <br /> Qihao Zhang | Wood WG82-J in person
 TUE 12-13 | 1:40 PM | T-11 | Sid Mittal | Wood WG82-J in person
@@ -99,7 +106,9 @@ TUE 12-13 | 4:30 PM | T-17 | Pedram Golnari | Wood WG82-J in person
 
 ### If you are presenting via Zoom
 
-- Zoom information will be provided after December 1. You will need to join the Zoom call **10 minutes prior** to the start time listed below. Dr. Love will let you into the Zoom meeting when he is ready for you.
+- Zoom information for the Thursday morning and Thursday afternoon sessions are now posted to the Announcements section of [Canvas](https://canvas.case.edu/). You will need to join the Zoom call **10 minutes prior** to the start time listed below. Dr. Love will let you into the Zoom meeting when he is ready for you.
+
+### Thursday morning (Zoom information is in the Announcements section of Canvas)
 
 Date | Start Time | Group | Investigator(s) | Where?
 ----: | ----: | ----: | :-----------------------------: | :----------------:
@@ -111,6 +120,11 @@ THU 12-15 | 10:20 AM | Z-05 | Yinglun Geng | Zoom
 THU 12-15 | 10:45 AM | Z-06 | Dan Kingsley | Wood WG82-J in person
 THU 12-15 | 11:10 AM | Z-07 | Jules Joel Bakhos | Wood WG82-J in person
 THU 12-15 | 11:35 AM | Z-08 | Anya Nazarenko | Wood WG82-J in person
+
+### Thursday afternoon (Zoom information is in the Announcements section of Canvas)
+
+Date | Start Time | Group | Investigator(s) | Where?
+----: | ----: | ----: | :-----------------------------: | :----------------:
 THU 12-15 | 12:50 PM | Z-09 | Seth Bauer | Wood WG82-J in person
 THU 12-15 | 1:15 PM | Z-10 | Samer Alanzi | Zoom
 THU 12-15 | 1:40 PM | Z-11 | Xinyu Sun | Wood WG82-J in person
