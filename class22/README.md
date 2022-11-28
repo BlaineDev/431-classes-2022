@@ -16,7 +16,8 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 2. Three nice essays from Question 6 in Lab 6 are posted to [our Shared Drive](https://docs.google.com/document/d/1aqcxNcmUy1BTdV5a3Ocvbgau2aJshX9DCl_l5siPe_I/edit?usp=share_link)
 3. The Answer Sketch and Grading Rubric for Lab 7 will be posted **by class time**.
 4. Some of you have yet to read carefully [the instructions for Project B](https://thomaselove.github.io/431-projectB-2022/), in particular the very important [Checklist](https://thomaselove.github.io/431-projectB-2022/checklist.html). Dr. Love has a way to know this.
-5. Remember that we will not have class on Thursday 2022-12-01. Instead, I will hold a Zoom-only Ask Me Anything session from 1:00 to 2:00 PM on Thursday 2022-12-01. I will record the session and make it available to you all, so you don't have to join if you don't have any questions of your own to ask.
+5. Remember that we will not have class on Thursday 2022-12-01. 
+    - Instead, I will hold a Zoom-only Ask Me Anything session from 1:00 to 2:00 PM on Thursday 2022-12-01. I will record the session and make it available to you all, so you don't have to join if you don't have any questions of your own to ask.
 6. Zoom information for the Project B presentations will be posted **by class time**. The Project B [schedule of presentations is here](https://github.com/THOMASELOVE/431-classes-2022/blob/main/projectB/schedule.md).
 
 ## Remaining Deadlines
