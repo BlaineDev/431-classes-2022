@@ -16,7 +16,7 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 
 1. Lab 6 Grades and Feedback are now available on the [Course Grades Roster](https://bit.ly/431-grades-2022).
 2. Three nice essays from Question 6 in Lab 6 are posted to [our Shared Drive](https://docs.google.com/document/d/1aqcxNcmUy1BTdV5a3Ocvbgau2aJshX9DCl_l5siPe_I/edit?usp=share_link).
-3. The Answer Sketch and Grading Rubric for Lab 7 will be posted **by class time**.
+3. The Answer Sketch and Grading Rubric for Lab 7 are now available on our Shared Drive.
 4. Some of you have yet to read carefully [the instructions for Project B](https://thomaselove.github.io/431-projectB-2022/), in particular the very important [Checklist](https://thomaselove.github.io/431-projectB-2022/checklist.html).
 5. Remember that we will not have class on Thursday 2022-12-01. 
     - Instead, I will hold a Zoom-only Ask Me Anything session from 1:00 to 2:00 PM on Thursday 2022-12-01, which appears in the regular Zoom section of [Canvas](https://canvas.case.edu) and in an email I sent to you on Monday 2022-11-28. 
