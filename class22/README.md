@@ -20,7 +20,7 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 4. A dozen of you have yet to read carefully [the instructions for Project B](https://thomaselove.github.io/431-projectB-2022/), in particular the very important [Checklist](https://thomaselove.github.io/431-projectB-2022/checklist.html), as of noon today.
 5. Remember that we will not have class on Thursday 2022-12-01. 
     - Instead, I will hold a Zoom-only **Ask Me Anything** session from 1:00 to 2:00 PM on Thursday 2022-12-01, which appears in the regular Zoom section of [Canvas](https://canvas.case.edu) and in an email I sent to you on Monday 2022-11-28. 
-    - I will record the Ask Me Anything session and make it available to you all, so you don't have to join if you don't have any questions of your own to ask.
+    - I will record the Ask Me Anything session and make it available afterwards, so you don't have to join if you don't have any questions of your own to ask.
 6. Zoom information for the Project B presentations is now available in the Announcements section of [Canvas](https://canvas.case.edu/). The Project B [schedule of presentations is here](https://github.com/THOMASELOVE/431-classes-2022/blob/main/projectB/schedule.md).
 7. Quiz 2 is [now available](https://github.com/THOMASELOVE/431-quizzes-2022/tree/main/quiz2), and is due next Monday 2022-12-05 at 9 PM.
 
