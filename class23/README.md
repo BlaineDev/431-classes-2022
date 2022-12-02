@@ -12,4 +12,6 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 
 ## Announcements
 
-To come.
+1. I updated the Lab 7 Grading Rubric on our Shared Drive to account for the fact that Question 7 is worth 15, not 10 points.
+2. **By class time** grades and feedback on Lab 7 will be posted to the Grades Roster.
+
