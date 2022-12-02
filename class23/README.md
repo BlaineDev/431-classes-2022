@@ -15,6 +15,7 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 1. I updated the Lab 7 Grading Rubric on our Shared Drive to account for the fact that Question 7 is worth 15, not 10 points.
 2. **By class time** grades and feedback on Lab 7 will be posted to the [Course Grades Roster](https://bit.ly/431-grades-2022).
 3. The [YouTube Playlist of your favorite songs](https://youtube.com/playlist?list=PL1WkTI58HjchPCLLYcV3q48LluH5z8aeN) (and two of mine) is now available. This was a request as part of the [Project B checklist](https://thomaselove.github.io/431-projectB-2022/checklist.html).
+4. Grades and the answer sketch for Quiz 2 should be available by Noon on Thursday 2022-12-08.
 
 ## Remaining Tasks (other than Project B)
 
