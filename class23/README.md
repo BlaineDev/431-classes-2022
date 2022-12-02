@@ -16,13 +16,13 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 2. **By class time** grades and feedback on Lab 7 will be posted to the [Course Grades Roster](https://bit.ly/431-grades-2022).
 3. The [YouTube Playlist of your favorite songs](https://youtube.com/playlist?list=PL1WkTI58HjchPCLLYcV3q48LluH5z8aeN) (and two of mine) is now available. This was a request as part of the [Project B checklist](https://thomaselove.github.io/431-projectB-2022/checklist.html).
 
-## Remaining Tasks
+## Remaining Tasks (other than Project B)
 
 1. Our final Minute Paper (after Class 23) is due Wednesday 2022-12-07, and will be **posted by class time**.
 2. [Lab X](https://github.com/THOMASELOVE/431-labs-2022/blob/main/labX.md) is due Monday 2022-12-12 at Noon.
 3. Should you want Dr. Love to regrade one (or more) of Labs 1-7, please be sure to fill out the [Lab Regrade Request Form](https://bit.ly/431-2022-lab-regrade-requests), which is also due Monday 2022-12-12 at Noon.
 
-## Project B
+## Project B Tasks
 
 1. Project B **presentations** will be held on December 8, 12, 13 and 15 according to [the schedule posted here](https://github.com/THOMASELOVE/431-classes-2022/blob/main/projectB/schedule.md). 
     - Read [the Checklist](https://thomaselove.github.io/431-projectB-2022/checklist.html) well in advance to make sure you complete everything you need to do and are prepared for this Oral Presentation of Results properly.
