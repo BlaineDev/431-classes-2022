@@ -39,6 +39,7 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 
 - Sterne JAC et al [Multiple imputation for missing data in epidemiological and clinical research: potential and pitfalls](https://www.bmj.com/content/338/bmj.b2393) BMJ 2009; 338:b2393.
 - The mice (Multivariate Imputation by Chained Equations) package [reference page](https://amices.org/mice/).
+    - Stef van Buuren, Karin Groothuis-Oudshoorn (2011). [mice: Multivariate Imputation by Chained Equations in R](https://www.jstatsoft.org/article/view/v045i03). Journal of Statistical Software, 45(3), 1-67. DOI 10.18637/jss.v045.i03.
 
 
 ## One Last Thing
