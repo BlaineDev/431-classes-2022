@@ -38,7 +38,7 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 ## References from Today's Class
 
 - Sterne JAC et al [Multiple imputation for missing data in epidemiological and clinical research: potential and pitfalls](https://www.bmj.com/content/338/bmj.b2393) BMJ 2009; 338:b2393.
-- The mice package [reference page](https://amices.org/mice/).
+- The mice (Multivariate Imputation by Chained Equations) package [reference page](https://amices.org/mice/).
 
 
 ## One Last Thing
