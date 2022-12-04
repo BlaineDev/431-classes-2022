@@ -12,10 +12,12 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 
 ## Announcements
 
-1. I updated the Lab 7 Grading Rubric on our Shared Drive to account for the fact that Question 7 is worth 15, not 10 points.
-2. **By class time** grades and feedback on Lab 7 will be posted to the [Course Grades Roster](https://bit.ly/431-grades-2022).
-3. The [YouTube Playlist of your favorite songs](https://youtube.com/playlist?list=PL1WkTI58HjchPCLLYcV3q48LluH5z8aeN) (and two of mine) is now available. This was a request as part of the [Project B checklist](https://thomaselove.github.io/431-projectB-2022/checklist.html).
-4. Grades and the answer sketch for Quiz 2 should be available by Noon on Thursday 2022-12-08.
+1. I added the `mitml` package to our [list of recommended packages](https://github.com/THOMASELOVE/431-packages) for installation. 
+2. I also upgraded my version of R to version 4.2.2 effective with today's slides, and updated all of my R packages.
+3. I updated the Lab 7 Grading Rubric on our Shared Drive to account for the fact that Question 7 is worth 15, not 10 points.
+4. **By class time** grades and feedback on Lab 7 will be posted to the [Course Grades Roster](https://bit.ly/431-grades-2022).
+5. The [YouTube Playlist of your favorite songs](https://youtube.com/playlist?list=PL1WkTI58HjchPCLLYcV3q48LluH5z8aeN) (and two of mine) is now available. This was a request as part of the [Project B checklist](https://thomaselove.github.io/431-projectB-2022/checklist.html).
+6. Grades and the answer sketch for Quiz 2 should be available by Noon on Thursday 2022-12-08.
 
 ## Remaining Tasks (other than Project B)
 
@@ -41,6 +43,7 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 - The mice (Multivariate Imputation by Chained Equations) package [reference page](https://amices.org/mice/).
     - Stef van Buuren, Karin Groothuis-Oudshoorn (2011). [mice: Multivariate Imputation by Chained Equations in R](https://www.jstatsoft.org/article/view/v045i03). Journal of Statistical Software, 45(3), 1-67. DOI 10.18637/jss.v045.i03.
 - Framingham Heart Study at https://www.framinghamheartstudy.org/
+- Heymans MW and Eekhout I [Applied Missing Data Analysis with SPSS and RStudio](https://bookdown.org/mwheymans/bookmi/)
 
 ## One Last Thing
 
