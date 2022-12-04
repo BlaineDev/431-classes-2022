@@ -35,6 +35,11 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
     - If you are working with data other than NHANES data, you will also submit your data.
 3. The [Self-Evaluation for Project B Form](https://bit.ly/431-2022-projectB-self-evaluation) should take about 15 minutes to complete. If you are working in a team, each of you need to complete the form as an individual. The Form should be completed after meeting with Dr. Love for your presentation **and** after submitting your final reports to Canvas.
 
+## References from Today's Class
+
+- Sterne et al 2009 [https://www.bmj.com/content/338/bmj.b2393]
+
+
 ## One Last Thing
 
 To come.
