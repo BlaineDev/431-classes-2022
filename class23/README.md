@@ -10,7 +10,6 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 :---: | :--------: | :------: | :------: | :--------: | :-------------:
 23 | 2022-12-06 | **[Slides 23](https://thomaselove.github.io/431-slides-2022/class23.html)** | [Code 23](https://thomaselove.github.io/431-slides-2022/class23.qmd) | [PDF 23](431%20Class%2023.pdf) | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
-![](Murray_2021-11-04.png) [Link to read the pieces](https://twitter.com/EpiEllie/status/1456252662505218054)
 
 ## Announcements
 
