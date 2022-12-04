@@ -37,7 +37,7 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 
 ## References from Today's Class
 
-- Sterne et al 2009 [https://www.bmj.com/content/338/bmj.b2393]
+- Sterne JAC et al 2009 [Multiple imputation for missing data in epidemiological and clinical research: potential and pitfalls](https://www.bmj.com/content/338/bmj.b2393) BMJ 2009;338:b2393.
 
 
 ## One Last Thing
