@@ -45,6 +45,7 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
     - Stef van Buuren, Karin Groothuis-Oudshoorn (2011). [mice: Multivariate Imputation by Chained Equations in R](https://www.jstatsoft.org/article/view/v045i03). Journal of Statistical Software, 45(3), 1-67. DOI 10.18637/jss.v045.i03.
 - Framingham Heart Study at https://www.framinghamheartstudy.org/
 - Heymans MW and Eekhout I [Applied Missing Data Analysis with SPSS and RStudio](https://bookdown.org/mwheymans/bookmi/)
+- The `mipo` (Multiple Imputation pooled object) help file [can be found here](https://rdrr.io/cran/mice/man/mipo.html).
 
 ## One Last Thing
 
