@@ -10,8 +10,6 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 :---: | :--------: | :------: | :------: | :--------: | :-------------:
 23 | 2022-12-06 | **[Slides 23](https://thomaselove.github.io/431-slides-2022/class23.html)** | [Code 23](https://thomaselove.github.io/431-slides-2022/class23.qmd) | [PDF 23](431%20Class%2023.pdf) | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
-![](schunemann_2022-12-01.png) [Link](https://twitter.com/schunemann_mac/status/1598228310756331520) [Wikipedia on the Bradford-Hill criteria](https://en.wikipedia.org/wiki/Bradford_Hill_criteria)
-
 ## Announcements
 
 1. I added the `mitml` package to our [list of recommended packages](https://github.com/THOMASELOVE/431-packages) for installation. 
@@ -50,4 +48,5 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 
 ## One Last Thing
 
-To come.
+![](schunemann_2022-12-01.png) [Link to this tweet](https://twitter.com/schunemann_mac/status/1598228310756331520); [Wikipedia on the Bradford-Hill criteria](https://en.wikipedia.org/wiki/Bradford_Hill_criteria)
+
