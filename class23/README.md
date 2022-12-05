@@ -26,6 +26,7 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 1. Our final [Minute Paper (after Class 23)](https://bit.ly/431-2022-min-23) is due Wednesday 2022-12-07, and [is available now](https://bit.ly/431-2022-min-23).
 2. (*optional*) [Lab X](https://github.com/THOMASELOVE/431-labs-2022/blob/main/labX.md) is due Monday 2022-12-12 at Noon.
 3. (*optional*) Should you want Dr. Love to regrade one (or more) of Labs 1-7, fill out the [Lab Regrade Request Form](https://bit.ly/431-2022-lab-regrade-requests) by Monday 2022-12-12 at Noon.
+4. (*optional*) [Lab Y](https://github.com/THOMASELOVE/431-labs-2022/blob/main/labY.md) is new, and is worth a little bonus credit to you (less than Lab X, if you're choosing between them, but you can do both). It is due Friday 2022-12-16 at Noon.
 
 ## Project B Tasks
 
