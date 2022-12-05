@@ -17,13 +17,13 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 1. I added the `mitml` package to our [list of recommended packages](https://github.com/THOMASELOVE/431-packages) for installation. 
 2. I also [upgraded my version of R](https://cran.case.edu/) to version 4.2.2 effective with today's slides, and updated all of my R packages.
 3. I updated the Lab 7 Grading Rubric on our Shared Drive to account for the fact that Question 7 is worth 15, not 10 points.
-4. **By class time** grades and feedback on Lab 7 will be posted to the [Course Grades Roster](https://bit.ly/431-grades-2022).
+4. Grades and feedback on Lab 7 are now available on the [Course Grades Roster](https://bit.ly/431-grades-2022).
 5. The [YouTube Playlist of your favorite songs](https://youtube.com/playlist?list=PL1WkTI58HjchPCLLYcV3q48LluH5z8aeN) (and two of mine) is now available. This was a request as part of the [Project B checklist](https://thomaselove.github.io/431-projectB-2022/checklist.html).
 6. Grades and the answer sketch for Quiz 2 should be available by Noon on Thursday 2022-12-08.
 
 ## Remaining Tasks (other than Project B)
 
-1. Our final Minute Paper (after Class 23) is due Wednesday 2022-12-07, and will be **posted by class time**.
+1. Our final [Minute Paper (after Class 23)](https://bit.ly/431-2022-min-23) is due Wednesday 2022-12-07, and [is available now](https://bit.ly/431-2022-min-23).
 2. (*optional*) [Lab X](https://github.com/THOMASELOVE/431-labs-2022/blob/main/labX.md) is due Monday 2022-12-12 at Noon.
 3. (*optional*) Should you want Dr. Love to regrade one (or more) of Labs 1-7, please be sure to fill out the [Lab Regrade Request Form](https://bit.ly/431-2022-lab-regrade-requests), which is also due Monday 2022-12-12 at Noon.
 
