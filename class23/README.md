@@ -24,8 +24,8 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 
 ## How did the Quiz go?
 
-- I've shared the Answer Sketch with those of you who completed the Quiz via email at noon today.
-- You'll get your grade from me (on each question and overall) in an email by noon tomorrow. 
+- I've shared the Answer Sketch with those of you who completed the Quiz via email at noon today, and also sent an email to each of you specifying the general range of your result on the Quiz.
+- You'll get your detailed grade from me (on each question and overall) in an email by noon tomorrow. 
 - Roughly half of our students thought Quiz 1 was easier than Quiz 2, so I guess they were similar.
 
 ### The Questions on which students did least well were 07, 10, 11, 16, 17, 24, 25 and 28.
