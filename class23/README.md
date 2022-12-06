@@ -20,7 +20,39 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 4. I updated the Lab 7 Grading Rubric on our Shared Drive to account for the fact that Question 7 is worth 15, not 10 points.
 5. Grades and feedback on Lab 7 are now available on the [Course Grades Roster](https://bit.ly/431-grades-2022).
 6. The [YouTube Playlist of your favorite songs](https://youtube.com/playlist?list=PL1WkTI58HjchPCLLYcV3q48LluH5z8aeN) (and two of mine) is now available. This was a request as part of the [Project B checklist](https://thomaselove.github.io/431-projectB-2022/checklist.html).
-7. Grades and the answer sketch for Quiz 2 should be available by Noon on Thursday 2022-12-08.
+7. Grades and the answer sketch for Quiz 2 should be available by Noon tomorrow.
+
+## How did the Quiz go?
+
+The Questions on which students did least well were 07, 10, 11, 16, 17, 24, 25 and 28.
+
+- On Question 07, I think the main problems were failing to convert to a factor when running ANOVA, and not recognizing which test was required.
+- On Question 10, I think the main problems included failing to successfully lump together multi-categorical responses as requested, and identifying the appropriate odds ratio in a 2x2 table.
+- On Question 11, I think the main problems included filtering the data successfully by year, and running and interpreting the appropriate `binom.test()` choice.
+- On Question 16, I know the main problems involved parsing the question correctly and building appropriate power.t.test() code.
+- On Question 17, I know the main problems were treating a high-influence outlier with a standardized residual around 4 in Model 2 as if it wasn't indicative of a problem with assumptions, and not recognizing that the residual plots in Model 4 looked fine.
+- On Question 24, I think the main problems were that people didn't parse the question correctly, and were uncomfortable being asked to find something that is often assumed in a power calculation.
+- On Question 25, I think the main problems were in paying attention to details in using `twobytwo()`.
+- On Question 28, I know the main problems were with correctly describing your interpretation of the results provided, and this is a big part of Project B (Study 1.)
+
+Roughly half of our students thought Quiz 1 was easier than Quiz 2, so I guess they were similar.
+
+You'll get your grade from me (on each question and overall) in an email by noon tomorrow. 
+
+Add up your score on each of the 28 questions. The maximum possible score is 104 points, but we'll pretend it was out of 100 points (you might think of this as giving you each four points.)
+
+- The highest score was 99.5 points.
+- The median score was just under 89 points.
+- The mean score was 85.5, which is right where I'd hoped it would be.
+
+Interpretation | Score Range | Students
+:------------: | :----: | :----:
+Strong A | 95 to 99.5 | 10
+Solid A | 90 to 94.5 | 16
+Low A / High B | 86 to 89.5 | 9
+Solid B | 75 to 85.5 | 15
+Low B | 70 to 74.5 | 3
+Weaker | Below 70 | several people
 
 ## Remaining Tasks (other than Project B)
 
