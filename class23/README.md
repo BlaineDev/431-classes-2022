@@ -24,7 +24,11 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 
 ## How did the Quiz go?
 
-The Questions on which students did least well were 07, 10, 11, 16, 17, 24, 25 and 28.
+- I've shared the Answer Sketch with those of you who completed the Quiz via email at noon today.
+- You'll get your grade from me (on each question and overall) in an email by noon tomorrow. 
+- Roughly half of our students thought Quiz 1 was easier than Quiz 2, so I guess they were similar.
+
+### The Questions on which students did least well were 07, 10, 11, 16, 17, 24, 25 and 28.
 
 - On Question 07, I think the main problems were failing to convert to a factor when running ANOVA, and not recognizing which test was required.
 - On Question 10, I think the main problems included failing to successfully lump together multi-categorical responses as requested, and identifying the appropriate odds ratio in a 2x2 table.
@@ -35,9 +39,7 @@ The Questions on which students did least well were 07, 10, 11, 16, 17, 24, 25 a
 - On Question 25, I think the main problems were in paying attention to details in using `twobytwo()`.
 - On Question 28, I know the main problems were with correctly describing your interpretation of the results provided, and this is a big part of Project B (Study 1.)
 
-Roughly half of our students thought Quiz 1 was easier than Quiz 2, so I guess they were similar.
-
-You'll get your grade from me (on each question and overall) in an email by noon tomorrow. 
+### Interpreting Your Score (once you get it) 
 
 Add up your score on each of the 28 questions. The maximum possible score is 104 points, but we'll pretend it was out of 100 points (you might think of this as giving you each four points.)
 
