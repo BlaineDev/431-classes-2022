@@ -13,15 +13,17 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 ## Announcements
 
 1. Feedback on the Minute Paper after Class 23 will be available **by class time**.
-2. Quiz 2 grades should come to you via email by Noon on Wednesday 2022-12-07.
-3. I fixed the Project B instructions so they correctly indicate December 19 at noon as the deadline for the final project reports.
+2. You should have received at least two emails from Dr. Love since last class:
+    - The first one had the subject line "431 Quiz 2 Detailed Results" and was sent Tuesday night.
+    - The second one will have the subject line "431 Urgent: Please Check My Assessment Records" and will be sent Wednesday after the Minute Papers are in.
+3. I fixed the Project B instructions so they correctly indicate **December 19 at noon** as the deadline for the final project reports.
 
 ## Remaining Tasks (other than Project B)
 
-1. (*optional*) [Lab X](https://github.com/THOMASELOVE/431-labs-2022/blob/main/labX.md) is due Monday 2022-12-12 at Noon.
-2. (*optional*) Should you want Dr. Love to regrade one (or more) of Labs 1-7, please be sure to fill out the [Lab Regrade Request Form](https://bit.ly/431-2022-lab-regrade-requests), which is also due Monday 2022-12-12 at Noon.
-3. (*optional*) [Lab Y](https://github.com/THOMASELOVE/431-labs-2022/blob/main/labY.md) is **new**, and is worth a little bonus credit to you (less than Lab X, if you're choosing between them, but you can do both). It is optional, and due (submit via Canvas) on Friday 2022-12-16 at Noon.
-4. CWRU will ask you to complete a course evaluation. Please do so, by their deadline.
+1. CWRU will ask you to complete a course evaluation. Please do so, by their deadline.
+2. (*optional*) [Lab X](https://github.com/THOMASELOVE/431-labs-2022/blob/main/labX.md) is due **Monday 2022-12-12 at Noon**.
+3. (*optional*) Should you want Dr. Love to regrade one (or more) of Labs 1-7, please be sure to fill out the [Lab Regrade Request Form](https://bit.ly/431-2022-lab-regrade-requests), which is also due **Monday 2022-12-12 at Noon**.
+4. (*optional*) [Lab Y](https://github.com/THOMASELOVE/431-labs-2022/blob/main/labY.md) is **new**, and is worth a little bonus credit to you (less than Lab X, if you're choosing between them, but you can do both). It is optional, and due (submit via Canvas) on **Friday 2022-12-16 at Noon**.
 
 ## Project B Tasks
 
