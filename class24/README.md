@@ -12,10 +12,10 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 
 ## Announcements
 
-1. Feedback on the Minute Paper after Class 23 will be available **by class time**.
+1. Feedback on the Minute Paper after Class 23 [is now available](https://bit.ly/431-2022-min23-feedback).
 2. You should have received at least two emails from Dr. Love since last class. If you didn't get them both, email me (or speak to me) now to let me know.
     - The first one had the subject line "431 Quiz 2 Detailed Results" and was sent Tuesday night.
-    - The second one will have the subject line "431 Urgent: Please Check My Assessment Records" and will be sent Wednesday after the Minute Papers are in.
+    - The second one will have the subject line "431 Urgent: Please Check My Assessment Records" and will be sent before Thursday's class.
 3. I fixed the Project B instructions so they correctly indicate **December 19 at noon** as the deadline for the final project reports.
 4. I created a folder on our Shared Drive called "Slides from 431 Fall 2022 Classes" that includes a PDF of the first 12 sets of class slides, and another PDF of the last 12 sets. 
 5. Everything in the 431 Fall 2022 Dr Love and Students Shared Drive folder will remain where it is until 2023-02-01.
