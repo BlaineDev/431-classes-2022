@@ -42,4 +42,4 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 
 ## One Last Thing
 
-After today, when Dr. Love has information for you, he will post it to the [post-class page](https://github.com/THOMASELOVE/431-classes-2022/tree/main/postclass).
+After today, when Dr. Love has information for you, he will post it to the [post-class page](https://github.com/THOMASELOVE/431-classes-2022/tree/main/postclass). What's there now is a description of what we'll be doing in 432, but more will appear.
