@@ -17,7 +17,9 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
     - The first one had the subject line "431 Quiz 2 Detailed Results" and was sent Tuesday night.
     - The second one will have the subject line "431 Urgent: Please Check My Assessment Records" and will be sent Wednesday after the Minute Papers are in.
 3. I fixed the Project B instructions so they correctly indicate **December 19 at noon** as the deadline for the final project reports.
-4. I created a folder on our Shared Drive called "Slides from 431 Fall 2022 Classes" that includes a PDF of the first 12 sets of class slides, and another PDF of the last 12 sets. Everything in the 431 Fall 2022 Dr Love and Students folder (as well as everything on Github) should remain where it is until 2023-06-01.
+4. I created a folder on our Shared Drive called "Slides from 431 Fall 2022 Classes" that includes a PDF of the first 12 sets of class slides, and another PDF of the last 12 sets. 
+5. Everything in the 431 Fall 2022 Dr Love and Students Shared Drive folder should remain where it is until 2023-02-01.
+6. Everything on Github including the Course Notes should remain where it is until 2023-06-01.
 
 ## Remaining Tasks (other than Project B)
 
