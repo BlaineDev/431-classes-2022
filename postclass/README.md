@@ -36,9 +36,11 @@ Within the realm of modeling, our linear regression work will include discussion
 
 ## The Observational Studies Course (PQHS/CRSP 500)
 
-**500** is a project-based and more advanced course covering specific topics in the design and analysis of observational studies. 
-    - The course is mostly about using propensity scores well to help design (and analyze) data from observational studies where we want to estimate a causal effect.
-    - A revised syllabus for the Spring 2023 version of the course will be available on or around January 10. The Spring 2022 syllabus for 500 is [here](https://thomaselove.github.io/500-2022-syllabus/), but of course, things will change between now and January 10, in ways I will start to think about after 431 is complete on December 20.
+**500** is a project-based and more advanced course covering specific topics in the design and analysis of observational studies.
+
+The course is mostly about using propensity scores well to help design (and analyze) data from observational studies where we want to estimate a causal effect.
+
+- A revised syllabus for the Spring 2023 version of the course will be available on or around January 10. The Spring 2022 syllabus for 500 is [here](https://thomaselove.github.io/500-2022-syllabus/), but of course, things will change between now and January 10, in ways I will start to think about after 431 is complete on December 20.
     - I especially think MS and PhD students (in any department) interested in applications of health research in real world situations should take it, as well as people looking for jobs in fields related to health care analytics.
     - For some people, it's better to complete 432 before taking 500 for several reasons, most especially ...
         1. percolation time for some of the ideas in 431/432
