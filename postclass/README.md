@@ -8,6 +8,8 @@ Thanks.
 
 ## 432: What Will We Do?
 
+In 431, students use R Markdown to code their work. In 432 this Spring, we'll switch that to [Quarto](https://quarto.org/).
+
 The 432 course covers the following general topics, roughly in this order, through early April. Additional topics (for the remainder of April) will be determined later in the semester.
 
 - Dealing with interaction and other forms of non-linearity in regression models by spending degrees of freedom on non-linear terms, particularly through the Harrell "verse".
@@ -23,3 +25,4 @@ The 432 course covers the following general topics, roughly in this order, throu
 - Doing replicable research, and how to be a modern scientist with a web presence.
 
 Within the realm of modeling, our linear regression work will include discussions of weighted and robust approaches, variable selection, dealing with missing data, fitting non-linear relationships through predictor transformation, cross-validation approaches, and multi-factor ANOVA and ANCOVA. In terms of logistic regression, we’ll encounter models for binary outcomes, for proportions, and for risk adjustment. We’ll also touch on models for count data and multi-categorical outcomes.
+
