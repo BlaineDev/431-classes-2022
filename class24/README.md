@@ -23,7 +23,9 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 5. Everything in the 431 Fall 2022 Dr Love and Students Shared Drive folder will remain where it is until 2023-02-01.
 6. Everything on Github including the Course Notes will remain where it is until 2023-06-01.
 7. I didn't manage to [get back to the movies data in a meaningful way](https://github.com/THOMASELOVE/431-classes-2022/tree/main/movies), but I did build a new data set (including your responses on Minute Papers) and I will use these data meaningfully in 432. Sorry.
-8. After today, when Dr. Love has information for you, he will post it to the [post-class page](https://github.com/THOMASELOVE/431-classes-2022/tree/main/postclass). What's there now is a description of what we'll be doing in 432 and in 500 (and see below), but more will appear.
+8. Campuswire and TA office hours end December 12.
+9. Dr. Love will not be available to answer emails or address other issues from December 21 through January 3.
+10. After today, when I have information for all of you, I will post it to the [post-class page](https://github.com/THOMASELOVE/431-classes-2022/tree/main/postclass). What's there now is a description of what we'll be doing in 432 and in 500 (and see below), but more will appear.
 
 ## Remaining Tasks (other than Project B)
 
@@ -50,12 +52,12 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 In addition to 431, I teach two other semester-long courses, called **PQHS 432** and **PQHS 500**. I will teach both 432 and 500 in Spring 2023. Here's my advice, for what it's worth ...
 
 - **432** is the continuation of this course (widely regarded as the "better" half.) I think **everyone** in this class should be planning to take 432 this Spring (i.e. Spring 2023), **unless** you don't feel you've received sufficient value from this course and don't need to take 432 to finish your program at CWRU, **or** you have an unshakable conflict in Spring 2023 (especially if you plan to instead take 432 in Spring 2024.)
-    - I will provide the 432 website and syllabus to everyone enrolled in 432 about a week before the class begins on January 10. The Spring 2022 syllabus for 432 is [here](https://thomaselove.github.io/432-2022-syllabus/) but of course, things will change between now and January 10, in ways I will start to think about after 431 is complete on December 20.
+    - I will provide the 432 website and syllabus to everyone enrolled in 432 on 2023-01-10. The Spring 2022 syllabus for 432 is [here](https://thomaselove.github.io/432-2022-syllabus/) but of course, things will change between now and January 10, in ways I will start to think about after 431 is complete on December 20. The 432 class begins on 2023-01-17, and is held on Tuesdays and Thursdays from 1:00 to 2:15 PM.
     - If you want to "get ahead" a bit on 432 over the break, do some work on the transition from R Markdown to [Quarto](https://quarto.org/docs/get-started/hello/rstudio.html).
     - Some details on 432 are available on our [post-class page](https://github.com/THOMASELOVE/431-classes-2022/tree/main/postclass).
 - **500** is a project-based and more advanced course covering specific topics in the design and analysis of observational studies. 
     - I think everyone in this class who is interested in taking 500 should do so at some point. The course is mostly about using propensity scores well to help design (and analyze) data from observational studies where we want to estimate a causal effect.
-    - A revised syllabus for the Spring 2023 version of the course will be available on or around January 10. The Spring 2022 syllabus for 500 is [here](https://thomaselove.github.io/500-2022-syllabus/), but of course, things will change between now and January 10, in ways I will start to think about after 431 is complete on December 20.
+    - A revised syllabus for the Spring 2023 version of the course will be available on or around January 12. The Spring 2022 syllabus for 500 is [here](https://thomaselove.github.io/500-2022-syllabus/), but of course, things will change between now and January 12, in ways I will start to think about after 431 is complete on December 20. The 500 course begins on 2023-01-19, and is held on Thursdays from 8:30 to 11 AM.
     - I especially think MS and PhD students (in any department) interested in applications of health research in real world situations should take it, as well as people looking for jobs in fields related to health care analytics.
     - For some people, it's better to complete 432 before taking 500 for several reasons, most especially ...
         1. percolation time for some of the ideas in 431/432
