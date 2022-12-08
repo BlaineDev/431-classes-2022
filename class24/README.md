@@ -20,8 +20,9 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
     - The second one had the subject line "431 Urgent: Please Check My Assessment Records" and was sent Wednesday night (2022-12-07). Note that the first poll I did on Campuswire (earlier in the semester) will be part of the Campuswire score not yet determined.
 3. I fixed the Project B instructions so they correctly indicate **December 19 at noon** as the deadline for the final project reports.
 4. I created a folder on our Shared Drive called "Slides from 431 Fall 2022 Classes" that includes a PDF of the first 12 sets of class slides, and another PDF of the last 12 sets. 
-5. Everything in the 431 Fall 2022 Dr Love and Students Shared Drive folder will remain where it is until 2023-02-01.
-6. Everything on Github including the Course Notes will remain where it is until 2023-06-01.
+5. After today, when Dr. Love has information for you, he will post it to the [post-class page](https://github.com/THOMASELOVE/431-classes-2022/tree/main/postclass). What's there now is a description of what we'll be doing in 432, but more will appear.
+6. Everything in the 431 Fall 2022 Dr Love and Students Shared Drive folder will remain where it is until 2023-02-01.
+7. Everything on Github including the Course Notes will remain where it is until 2023-06-01.
 
 ## Remaining Tasks (other than Project B)
 
@@ -44,19 +45,20 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 
 ## Taking Other Courses (like 432) With Me
 
-In addition to 431, I teach two other semester-long courses, called **PQHS 432** and **PQHS 500**. I am scheduled to teach both 432 and 500 in Spring 2022. Here's my advice, for what it's worth ...
+In addition to 431, I teach two other semester-long courses, called **PQHS 432** and **PQHS 500**. I will teach both 432 and 500 in Spring 2023. Here's my advice, for what it's worth ...
 
-- **432** is the continuation of this course (widely regarded as the "better" half.) I think **everyone** in this class should be planning to take 432 this Spring (i.e. Spring 2021), **unless** you don't feel you've received sufficient value from this course and don't need to take 432 to finish your program at CWRU, **or** you have an unshakable conflict in Spring 2022 (especially if you plan to instead take 432 in Spring 2023.)
-    - I will provide the start of a 432 website and syllabus to everyone enrolled in this class prior to Christmas.
-    - The old Spring 2021 syllabus for 432 is available [now](https://thomaselove.github.io/432-2021-syllabus/), if you want to look at it, but things will change.
+- **432** is the continuation of this course (widely regarded as the "better" half.) I think **everyone** in this class should be planning to take 432 this Spring (i.e. Spring 2023), **unless** you don't feel you've received sufficient value from this course and don't need to take 432 to finish your program at CWRU, **or** you have an unshakable conflict in Spring 2023 (especially if you plan to instead take 432 in Spring 2024.)
+    - I will provide the 432 website and syllabus to everyone enrolled in 432 about a week before the class begins on January 10. The Spring 2022 syllabus for 432 is [here](https://thomaselove.github.io/432-2022-syllabus/) but of course, things will change between now and January 10, in ways I will start to think about after 431 is complete on December 20.
+    - If you want to "get ahead" a bit on 432 over the break, do some work on the transition from R Markdown to [Quarto](https://quarto.org/docs/get-started/hello/rstudio.html).
+    - Some details on 432 are available on our [post-class page](https://github.com/THOMASELOVE/431-classes-2022/tree/main/postclass).
 - **500** is a project-based and more advanced course covering specific topics in the design and analysis of observational studies. 
     - I think everyone in this class who is interested in taking 500 should do so at some point. The course is mostly about using propensity scores well to help design (and analyze) data from observational studies where we want to estimate a causal effect.
-    - The old Spring 2021 syllabus for 500 is also [available](https://thomaselove.github.io/500-2021-syllabus/) although again, I will change things before the class begins in January.
+    - A revised syllabus for the Spring 2023 version of the course will be available on or around January 10. The Spring 2022 syllabus for 500 is [here](https://thomaselove.github.io/500-2022-syllabus/), but of course, things will change between now and January 10, in ways I will start to think about after 431 is complete on December 20.
     - I especially think MS and PhD students (in any department) interested in applications of health research in real world situations should take it, as well as people looking for jobs in fields related to health care analytics.
     - For some people, it's better to complete 432 before taking 500 for several reasons, most especially ...
         1. percolation time for some of the ideas in 431/432
         2. too much of me at one time can be overwhelming
-    - If Spring 2022 is your best opportunity to take 500, then I will certainly permit you to do so. Send me an email anytime if you want to discuss this.
+    - If Spring 2023 is your best opportunity to take 500, then I will certainly permit you to do so. Send me an email anytime if you want to discuss this.
 
 ## References from Today's Slides
 
@@ -64,6 +66,8 @@ In addition to 431, I teach two other semester-long courses, called **PQHS 432**
 - [Get Started with Tidymodels](https://www.tidymodels.org/start/). The sea urchins example comes from [Build a Model](https://www.tidymodels.org/start/models/).
 - [TidyTuesday and tidymodels](https://juliasilge.com/blog/intro-tidymodels/) by [Julia Silge](https://juliasilge.com/).
 - I have a semi-surprise visualization example, which (after the surprise has been revealed) might interest you in reading more from [Alberto Cairo](http://www.thefunctionalart.com/2016/08/download-datasaurus-never-trust-summary.html), [Steph Locke](https://cran.r-project.org/web/packages/datasauRus/vignettes/Datasaurus.html), [Tomas Westlake](https://r-mageddon.netlify.com/post/reanimating-the-datasaurus/), [Julia Silge](https://juliasilge.com/blog/datasaurus-multiclass/) and [Justin Mareika and George Fitzmaurice](https://www.autodesk.com/research/publications/same-stats-different-graphs) in addition to what you've already read about it in Spiegelhalter. 
+
+![](harrell_2021-11-24.png)
 
 ## Ten of the Most Important Ideas from 431
 
@@ -78,8 +82,4 @@ In addition to 431, I teach two other semester-long courses, called **PQHS 432**
 - Prediction models need to predict well in new situations.
 - Statistical thinking is far too important to be left to statisticians.
 
-![](harrell_2021-11-24.png)
 
-## One Last Thing
-
-After today, when Dr. Love has information for you, he will post it to the [post-class page](https://github.com/THOMASELOVE/431-classes-2022/tree/main/postclass). What's there now is a description of what we'll be doing in 432, but more will appear.
