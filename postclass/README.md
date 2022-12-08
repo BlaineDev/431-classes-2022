@@ -9,6 +9,13 @@ He will also email you to let you know to look for it if it's important.
 
 Thanks.
 
+----------
+
+Table of Contents:
+
+- [432: What Will We Do](#432-what-will-we-do)
+- [500: The Observational Studies Course](#the-observational-studies-course-pqhscrsp-500)
+
 -----------------------
 
 ## 432: What Will We Do?
