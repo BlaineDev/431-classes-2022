@@ -13,7 +13,7 @@ Thanks.
 
 Table of Contents:
 
-- [432: What Will We Do](#432-what-will-we-do)
+- [432: What Will We Do?](#432-what-will-we-do)
 - [500: The Observational Studies Course](#the-observational-studies-course-pqhscrsp-500)
 
 -----------------------
