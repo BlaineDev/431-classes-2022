@@ -20,9 +20,10 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
     - The second one had the subject line "431 Urgent: Please Check My Assessment Records" and was sent Wednesday night (2022-12-07). Note that the first poll I did on Campuswire (earlier in the semester) will be part of the Campuswire score not yet determined.
 3. I fixed the Project B instructions so they correctly indicate **December 19 at noon** as the deadline for the final project reports.
 4. I created a folder on our Shared Drive called "Slides from 431 Fall 2022 Classes" that includes a PDF of the first 12 sets of class slides, and another PDF of the last 12 sets. 
-5. After today, when Dr. Love has information for you, he will post it to the [post-class page](https://github.com/THOMASELOVE/431-classes-2022/tree/main/postclass). What's there now is a description of what we'll be doing in 432, but more will appear.
-6. Everything in the 431 Fall 2022 Dr Love and Students Shared Drive folder will remain where it is until 2023-02-01.
-7. Everything on Github including the Course Notes will remain where it is until 2023-06-01.
+5. Everything in the 431 Fall 2022 Dr Love and Students Shared Drive folder will remain where it is until 2023-02-01.
+6. Everything on Github including the Course Notes will remain where it is until 2023-06-01.
+7. I didn't manage to [get back to the movies data in a meaningful way](https://github.com/THOMASELOVE/431-classes-2022/tree/main/movies), but I did build a new data set (including your responses on Minute Papers) and I will use these data meaningfully in 432. Sorry.
+8. After today, when Dr. Love has information for you, he will post it to the [post-class page](https://github.com/THOMASELOVE/431-classes-2022/tree/main/postclass). What's there now is a description of what we'll be doing in 432 and in 500 (and see below), but more will appear.
 
 ## Remaining Tasks (other than Project B)
 
@@ -41,6 +42,7 @@ Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
     - You should submit both your [Study 1 report](https://thomaselove.github.io/431-projectB-2022/study1b.html) (Rmd and HTML) and your [Study 2 report](https://thomaselove.github.io/431-projectB-2022/study2b.html) (Rmd and HTML) - so a total of four documents to Canvas by that time. 
     - If you are working with a partner, exactly one of you should submit these four items. The other person should submit a one-page note to Canvas (word or PDF is best) containing your name, and stating something like “I worked on Project B with [your partner’s name] and they will submit Project B for our group.”
     - If you are working with data other than NHANES data, you will also submit your data.
+    - **NEW** As I evaluate your presentations, I will fill out a Google Form that [looks a lot like this PDF](Sample%20Form%20for%20Presentation%20Evaluation.pdf). I will not share this with you - it's for my benefit, but it will give you an idea of what I'm doing between talks.
 3. The [Self-Evaluation for Project B Form](https://bit.ly/431-2022-projectB-self-evaluation) should take about 15 minutes to complete. If you are working in a team, each of you need to complete the form as an individual. The Form should be completed after meeting with Dr. Love for your presentation **and** after submitting your final reports to Canvas.
 
 ## Taking Other Courses (like 432) With Me
