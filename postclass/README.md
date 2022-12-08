@@ -2,8 +2,6 @@
 
 When Dr. Love has information to provide to you after our final class session on 2022-12-08, you will find it on this page.
 
-He will also email you to let you know to look for it if it's important.
-
 - Everything in the 431 Fall 2022 Dr Love and Students Shared Drive folder will remain where it is until 2023-02-01.
 - Everything on Github including the Course Notes will remain where it is until 2023-06-01.
 
