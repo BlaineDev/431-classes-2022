@@ -69,17 +69,17 @@ In addition to 431, I teach two other semester-long courses, called **PQHS 432**
 
 ![](harrell_2021-11-24.png)
 
-## Ten of the Most Important Ideas from 431
+# Ten of the Most Important Ideas from 431
 
-- You have to visualize and count data to understand it.
-- 90% of statistical work could be described as data management.
-- R Markdown and the tidyverse make it easier to do the right thing.
-- Statistical significance is not a helpful concept.
-- Point estimates and confidence intervals are useful ideas.
-- Most statistical procedures are in fact regression models.
-- All statistical methods involve assumptions worth checking.
-- The bootstrap is a very useful, and somewhat underused tool.
-- Prediction models need to predict well in new situations.
-- Statistical thinking is far too important to be left to statisticians.
+1. You have to visualize and count data to understand it.
+2. 90% of statistical work could be described as data management.
+3. R Markdown and the tidyverse make it easier to do the right thing.
+4. Statistical significance is not a helpful concept.
+5. Point estimates and confidence intervals are useful ideas.
+6. Most statistical procedures are in fact regression models.
+7. All statistical methods involve assumptions worth checking.
+8. The bootstrap is a very useful, and somewhat underused tool.
+9. Prediction models need to predict well in new situations.
+10. Statistical thinking is far too important to be left to statisticians.
 
 
