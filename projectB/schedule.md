@@ -1,17 +1,5 @@
 # Schedule for 431 Project B Presentations
 
-## Thursday December 8 
-
-- Please arrive at Dr. Love's office **10 minutes prior** to the start time listed below. If his door is open, knock and let him know you're there. If it's closed, please don't knock - just wait until he opens the door. Thank you.
-- Dr. Love’s office at CWRU is on the ground floor of the Wood building (in the WG-82 Suite), specifically it is **WG-82J**.
-- Email Dr. Love with any day-of-presentation emergencies.
-- If you feel ill or have been exposed to COVID, do not attend in-person, but instead email Dr. Love to let him know you'll instead present via Zoom.
-
-Date | Start Time | Group | Investigator(s) | Where?
-----: | ----: | ----: | :-----------------------------: | :--------------------:
-THU 12-08 | 12:20 PM | A-01 | Lithe Basbous | Wood WG82-J in person
-THU 12-08 | 2:30 PM | A-02 | Sahana Kannan and <br /> Sajan Patel | Wood WG82-J in person
-
 ## Monday December 12
 
 - Email Dr. Love with any day-of-presentation emergencies.
@@ -132,3 +120,9 @@ THU 12-15 | 2:05 PM | Z-12 | Miza Salim Hammoud | Wood WG82-J in person
 THU 12-15 | 2:45 PM | Z-13 | Sarah Grabinski | Wood WG82-J in person
 THU 12-15 | 3:10 PM | Z-14 | Hala Nas | Zoom
 
+# Completed Presentations
+
+Group | Investigator(s) | Presentation Status
+----: | :-----------------------------: | :--------------------: 
+A-01 | Lithe Basbous | Complete
+A-02 | Sahana Kannan and <br /> Sajan Patel | Complete
