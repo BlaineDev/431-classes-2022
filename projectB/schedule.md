@@ -1,5 +1,13 @@
 # Schedule for 431 Project B Presentations
 
+### Table of Contents
+
+- [Tuesday (2022-12-13) presentation schedule](#tuesday-december-13)
+- [Wednesday (2022-12-14) presentation schedule](#wednesday-december-14)
+- [Thursday (2022-12-15) presentation schedule](#thursday-december-15)
+- [Presentations that must be re-scheduled](#presentations-to-be-re-scheduled)
+- [Completed Presentations](#completed-presentations)
+
 ## Tuesday December 13
 
 - Email Dr. Love with any day-of-presentation emergencies.
