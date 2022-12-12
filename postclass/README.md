@@ -4,6 +4,8 @@ When Dr. Love has information to provide to you after our final class session on
 
 - Everything in the 431 Fall 2022 Dr Love and Students Shared Drive folder will remain where it is until 2023-02-01.
 - Everything on Github including the Course Notes will remain where it is until 2023-06-01.
+- For your enjoyment and inspiration, our [Lab X websites are here](https://github.com/THOMASELOVE/431-labs-2022/blob/main/labXwebsites.md). I will continue to accept Lab X sites through 2022-12-19 at noon.
+- TA office hours end on 2022-12-12. Campuswire will remain open until 10 AM on Monday 2022-12-19.
 
 Thanks.
 
