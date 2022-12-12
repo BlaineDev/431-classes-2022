@@ -21,7 +21,7 @@ Table of Contents:
 1. For your enjoyment and inspiration, our [Lab X websites are here](https://github.com/THOMASELOVE/431-labs-2022/blob/main/labXwebsites.md). I will continue to accept [Lab X submissions](https://github.com/THOMASELOVE/431-labs-2022/blob/main/labX.md) through 2022-12-19 at noon.
 2. TA office hours end on 2022-12-12. [Campuswire](https://campuswire.com/) will remain open until 10 AM on Monday 2022-12-19.
 3. If you plan to submit [Lab Y](https://github.com/THOMASELOVE/431-labs-2022/blob/main/labY.md), please do so by Friday 2022-12-16 at noon.
-4. Please submit your [Project B R Markdown and HTML reports for Study 1 and Study 2](https://thomaselove.github.io/431-projectB-2022/checklist.html) to Canvas by Monday 2022-12-19 at noon.
+4. Please submit your [Project B R Markdown and HTML reports for Study 1 and Study 2](https://thomaselove.github.io/431-projectB-2022/checklist.html) to [Canvas](https://canvas.case.edu/) by Monday 2022-12-19 at noon.
 5. Please submit your Project B [self-evaluation form](https://thomaselove.github.io/431-projectB-2022/self_eval.html) by Monday 2022-12-19 at noon.
 6. Please complete the CWRU course evaluation form at <https://webapps.case.edu/courseevals/> by the deadline: 11:59 PM on Wed 2022-12-21.
 
