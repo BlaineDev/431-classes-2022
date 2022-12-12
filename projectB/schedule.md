@@ -14,18 +14,6 @@
 
 - Zoom information for the Monday morning and Monday afternoon sessions are now posted to the Announcements section of [Canvas](https://canvas.case.edu/). You will need to join the Zoom call **10 minutes prior** to the start time listed below. Dr. Love will let you into the Zoom meeting when he is ready for you.
 
-### Monday Morning (Zoom information is in the Announcements section of Canvas)
-
-Date | Start Time | Group | Investigator(s) | Where?
-----: | ----: | ----: | :-----------------------------: | :----------------:
-MON 12-12 | 8:40 AM | M-01 | Alex Gurgis and <br /> Tarek ElShebiny | Zoom
-MON 12-12 | 9:05 AM | M-02 | Alison Berry | Wood WG82-J in person
-MON 12-12 | 9:30 AM | M-03 | An Nguyen | Zoom
-MON 12-12 | 9:55 AM | M-04 | Sameer Prasada | Zoom
-MON 12-12 | 10:20 AM | M-05 | Aqsa Khan | Wood WG82-J in person
-MON 12-12 | 10:45 AM | M-06 | Max Tjen | Wood WG82-J in person
-MON 12-12 | 11:35 AM | M-08 | Sarah McNeer | Wood WG82-J in person
-
 ### Monday Afternoon (Zoom information is in the Announcements section of Canvas)
 
 Date | Start Time | Group | Investigator(s) | Where?
@@ -34,7 +22,6 @@ MON 12-12 | 12:50 PM | M-09 | Samuel Rodgers-Melnick | Wood WG82-J in person
 MON 12-12 | 1:15 PM | M-10 | Shubho Das and <br /> Toby Jin | Wood WG82-J in person
 MON 12-12 | 1:40 PM | M-11 | Chris Benson and <br /> Lentlametse Mantshonyane | Wood WG82-J in person
 MON 12-12 | 2:05 PM | M-12 | Bryan Abadie | Wood WG82-J in person
-MON 12-12 | 2:45 PM | M-13 | Sarah Barker | Wood WG82-J in person
 MON 12-12 | 3:10 PM | M-14 | Izzy Genuario | Wood WG82-J in person
 MON 12-12 | 3:35 PM | M-15 | Naveen Kannan | Wood WG82-J in person
 MON 12-12 | 4:05 PM | M-16 | Madi Hunt | Wood WG82-J in person
@@ -119,9 +106,22 @@ THU 12-15 | 2:05 PM | Z-12 | Miza Salim Hammoud | Wood WG82-J in person
 THU 12-15 | 2:45 PM | Z-13 | Sarah Grabinski | Wood WG82-J in person
 THU 12-15 | 3:10 PM | Z-14 | Hala Nas | Zoom
 
+# Presentations to be (Re-)Scheduled
+
+Group | Investigator(s) | Presentation Status
+----: | :-----------------------------: | :--------------------: 
+M-02 | Alison Berry | Monday 12-19?
+M-13 | Sarah Barker | Wednesday 12-14?
+
 # Completed Presentations
 
 Group | Investigator(s) | Presentation Status
 ----: | :-----------------------------: | :--------------------: 
 A-01 | Lithe Basbous | Complete
 A-02 | Sahana Kannan and <br /> Sajan Patel | Complete
+M-01 | Alex Gurgis and <br /> Tarek ElShebiny | Complete
+M-03 | An Nguyen | Complete
+M-04 | Sameer Prasada | Complete
+M-05 | Aqsa Khan | Complete
+M-06 | Max Tjen | Complete
+M-08 | Sarah McNeer | Complete
