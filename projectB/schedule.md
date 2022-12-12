@@ -1,26 +1,5 @@
 # Schedule for 431 Project B Presentations
 
-## Monday December 12
-
-- Email Dr. Love with any day-of-presentation emergencies.
-
-### If you are presenting in person
-
-- Please arrive at Dr. Love's office **10 minutes prior** to the start time listed below. If his door is open, knock and let him know you're there. If it's closed, please don't knock - just wait until he opens the door. Thank you.
-- Dr. Love’s office at CWRU is on the ground floor of the Wood building (in the WG-82 Suite), specifically it is **WG-82J**.
-- If you feel ill or have been exposed to COVID, do not attend in-person, but instead email Dr. Love to let him know you'll instead present via Zoom.
-
-### If you are presenting via Zoom
-
-- Zoom information for the Monday morning and Monday afternoon sessions are now posted to the Announcements section of [Canvas](https://canvas.case.edu/). You will need to join the Zoom call **10 minutes prior** to the start time listed below. Dr. Love will let you into the Zoom meeting when he is ready for you.
-
-### Monday Afternoon (Zoom information is in the Announcements section of Canvas)
-
-Date | Start Time | Group | Investigator(s) | Where?
-----: | ----: | ----: | :-----------------------------: | :----------------:
-MON 12-12 | 4:05 PM | M-16 | Madi Hunt | Wood WG82-J in person
-MON 12-12 | 4:30 PM | M-17 | Keisi Kotobelli | Wood WG82-J in person
-
 ## Tuesday December 13
 
 - Email Dr. Love with any day-of-presentation emergencies.
@@ -61,6 +40,14 @@ TUE 12-13 | 3:10 PM | T-14 | Neha Solanki | Wood WG82-J in person
 TUE 12-13 | 3:35 PM | T-15 | Hossam Sarhan | Wood WG82-J in person
 TUE 12-13 | 4:05 PM | T-16 | Moein Amin and <br /> Karlo Toljan | Zoom
 TUE 12-13 | 4:30 PM | T-17 | Pedram Golnari | Wood WG82-J in person
+
+## Wednesday December 14
+
+Zoom details for Wednesday presentation(s) to come.
+
+Date | Start Time | Group | Investigator(s) | Where?
+----: | ----: | ----: | :-----------------------------: | :----------------:
+WED 12-14 | 12:30 PM | M-13 | Sarah Barker | Zoom
 
 ## Thursday December 15
 
@@ -106,7 +93,6 @@ Group | Investigator(s) | Presentation Status
 ----: | :-----------------------------: | :--------------------: 
 M-02 | Alison Berry | Monday 12-19?
 M-10 | Shubho Das and <br /> Toby Jin | Wednesday 12-14?
-M-13 | Sarah Barker | Wednesday 12-14?
 
 # Completed Presentations
 
@@ -125,3 +111,5 @@ M-11 | Chris Benson and <br /> Lentlametse Mantshonyane | Complete
 M-12 | Bryan Abadie | Complete
 M-14 | Izzy Genuario | Complete
 M-15 | Naveen Kannan | Complete
+M-16 | Madi Hunt | Complete
+M-17 | Keisi Kotobelli | Complete
