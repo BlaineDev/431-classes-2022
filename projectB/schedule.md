@@ -18,7 +18,6 @@
 
 Date | Start Time | Group | Investigator(s) | Where?
 ----: | ----: | ----: | :-----------------------------: | :----------------:
-MON 12-12 | 1:15 PM | M-10 | Shubho Das and <br /> Toby Jin | Wood WG82-J in person
 MON 12-12 | 1:40 PM | M-11 | Chris Benson and <br /> Lentlametse Mantshonyane | Wood WG82-J in person
 MON 12-12 | 2:05 PM | M-12 | Bryan Abadie | Wood WG82-J in person
 MON 12-12 | 3:10 PM | M-14 | Izzy Genuario | Wood WG82-J in person
@@ -110,6 +109,7 @@ THU 12-15 | 3:10 PM | Z-14 | Hala Nas | Zoom
 Group | Investigator(s) | Presentation Status
 ----: | :-----------------------------: | :--------------------: 
 M-02 | Alison Berry | Monday 12-19?
+M-10 | Shubho Das and <br /> Toby Jin | Wednesday 12-14?
 M-13 | Sarah Barker | Wednesday 12-14?
 
 # Completed Presentations
