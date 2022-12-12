@@ -18,8 +18,6 @@
 
 Date | Start Time | Group | Investigator(s) | Where?
 ----: | ----: | ----: | :-----------------------------: | :----------------:
-MON 12-12 | 1:40 PM | M-11 | Chris Benson and <br /> Lentlametse Mantshonyane | Wood WG82-J in person
-MON 12-12 | 2:05 PM | M-12 | Bryan Abadie | Wood WG82-J in person
 MON 12-12 | 3:10 PM | M-14 | Izzy Genuario | Wood WG82-J in person
 MON 12-12 | 3:35 PM | M-15 | Naveen Kannan | Wood WG82-J in person
 MON 12-12 | 4:05 PM | M-16 | Madi Hunt | Wood WG82-J in person
@@ -125,3 +123,5 @@ M-05 | Aqsa Khan | Complete
 M-06 | Max Tjen | Complete
 M-08 | Sarah McNeer | Complete
 M-09 | Samuel Rodgers-Melnick | Complete
+M-11 | Chris Benson and <br /> Lentlametse Mantshonyane | Complete
+M-12 | Bryan Abadie | Complete
