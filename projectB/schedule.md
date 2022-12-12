@@ -24,7 +24,6 @@ MON 12-12 | 9:30 AM | M-03 | An Nguyen | Zoom
 MON 12-12 | 9:55 AM | M-04 | Sameer Prasada | Zoom
 MON 12-12 | 10:20 AM | M-05 | Aqsa Khan | Wood WG82-J in person
 MON 12-12 | 10:45 AM | M-06 | Max Tjen | Wood WG82-J in person
-MON 12-12 | 11:10 AM | M-07 | Beverly Koepf | Zoom
 MON 12-12 | 11:35 AM | M-08 | Sarah McNeer | Wood WG82-J in person
 
 ### Monday Afternoon (Zoom information is in the Announcements section of Canvas)
