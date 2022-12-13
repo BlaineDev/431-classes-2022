@@ -52,11 +52,9 @@ TUE 12-13 | 4:30 PM | T-17 | Pedram Golnari | Wood WG82-J in person
 
 ## Wednesday December 14
 
-Zoom details for Wednesday presentation(s) to come.
-
 Date | Start Time | Group | Investigator(s) | Where?
 ----: | ----: | ----: | :-----------------------------: | :----------------:
-WED 12-14 | 12:30 PM | M-13 | Sarah Barker | Zoom
+WED 12-14 | 12:30 PM | M-13 | Sarah Barker | Zoom (see email for details)
 
 ## Thursday December 15
 
@@ -100,7 +98,7 @@ THU 12-15 | 3:10 PM | Z-14 | Hala Nas | Zoom
 
 Date | Start Time | Group | Investigator(s) | Where?
 ----: | ----: | ----: | :-----------------------------: | :----------------:
-MON 12-19 | 10:30 AM | M-02 | Alison Berry | Zoom
+MON 12-19 | 10:30 AM | M-02 | Alison Berry | Zoom (see email for details)
 
 # Presentations to be (Re-)Scheduled
 
