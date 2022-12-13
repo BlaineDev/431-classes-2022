@@ -29,7 +29,6 @@ Date | Start Time | Group | Investigator(s) | Where?
 ----: | ----: | ----: | :-----------------------------: | :----------------:
 TUE 12-13 | 2:45 PM | T-13 | Ben Mittman | Wood WG82-J in person
 TUE 12-13 | 3:10 PM | T-14 | Neha Solanki | Wood WG82-J in person
-TUE 12-13 | 3:35 PM | T-15 | Hossam Sarhan | Wood WG82-J in person
 TUE 12-13 | 4:05 PM | T-16 | Moein Amin and <br /> Karlo Toljan | Zoom
 TUE 12-13 | 4:30 PM | T-17 | Pedram Golnari | Wood WG82-J in person
 
