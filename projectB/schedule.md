@@ -23,14 +23,6 @@
 
 - Zoom information for the Tuesday morning and Tuesday afternoon sessions are now posted to the Announcements section of [Canvas](https://canvas.case.edu/). You will need to join the Zoom call **10 minutes prior** to the start time listed below. Dr. Love will let you into the Zoom meeting when he is ready for you.
 
-### Tuesday morning (Zoom information is in the Announcements section of Canvas)
-
-Date | Start Time | Group | Investigator(s) | Where?
-----: | ----: | ----: | :-----------------------------: | :----------------:
-TUE 12-13 | 10:45 AM | T-06 | Sam Baker | Wood WG82-J in person
-TUE 12-13 | 11:10 AM | T-07 | Fang Wang and <br /> Tian Liu | Wood WG82-J in person
-TUE 12-13 | 11:35 AM | T-08 | Faruk Senturk | Zoom
-
 ### Tuesday afternoon (Zoom information is in the Announcements section of Canvas)
 
 Date | Start Time | Group | Investigator(s) | Where?
@@ -99,7 +91,7 @@ MON 12-19 | 10:30 AM | M-02 | Alison Berry | Zoom (see email for details)
 
 Group | Investigator(s) | Presentation Status
 ----: | :-----------------------------: | :--------------------: 
-M-10 | Shubho Das and <br /> Toby Jin | Wednesday 12-14?
+M-10 | Shubho Das and <br /> Toby Jin | Wednesday 12-14 at Noon?
 
 # Completed Presentations
 
@@ -125,3 +117,7 @@ T-02 | Lydia Masar and <br /> Shwetank Singh | Complete
 T-03 | Valeria Martinez Tenorio | Complete
 T-04 | Emiko Miller | Complete
 T-05 | Meredith Zhang | Complete
+T-06 | Sam Baker | Complete
+T-07 | Fang Wang and <br /> Tian Liu | Complete
+T-08 | Faruk Senturk | Complete
+
