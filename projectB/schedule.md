@@ -27,10 +27,6 @@
 
 Date | Start Time | Group | Investigator(s) | Where?
 ----: | ----: | ----: | :-----------------------------: | :----------------:
-TUE 12-13 | 12:50 PM | T-09 | Millie Zhou and <br /> Naji Ayyash | Zoom
-TUE 12-13 | 1:15 PM | T-10 | Savannah Wu and <br /> Qihao Zhang | Wood WG82-J in person
-TUE 12-13 | 1:40 PM | T-11 | Sid Mittal | Wood WG82-J in person
-TUE 12-13 | 2:05 PM | T-12 | Katie Hassett | Zoom
 TUE 12-13 | 2:45 PM | T-13 | Ben Mittman | Wood WG82-J in person
 TUE 12-13 | 3:10 PM | T-14 | Neha Solanki | Wood WG82-J in person
 TUE 12-13 | 3:35 PM | T-15 | Hossam Sarhan | Wood WG82-J in person
@@ -92,6 +88,7 @@ MON 12-19 | 10:30 AM | M-02 | Alison Berry | Zoom (see email for details)
 Group | Investigator(s) | Presentation Status
 ----: | :-----------------------------: | :--------------------: 
 M-10 | Shubho Das and <br /> Toby Jin | Wednesday 12-14 at Noon?
+T-15 | Hossam Sarhan | TBD
 
 # Completed Presentations
 
@@ -120,4 +117,8 @@ T-05 | Meredith Zhang | Complete
 T-06 | Sam Baker | Complete
 T-07 | Fang Wang and <br /> Tian Liu | Complete
 T-08 | Faruk Senturk | Complete
+T-09 | Millie Zhou and <br /> Naji Ayyash | Complete
+T-10 | Savannah Wu and <br /> Qihao Zhang | Complete
+T-11 | Sid Mittal | Complete
+T-12 | Katie Hassett | Complete
 
