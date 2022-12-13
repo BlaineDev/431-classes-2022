@@ -27,7 +27,6 @@
 
 Date | Start Time | Group | Investigator(s) | Where?
 ----: | ----: | ----: | :-----------------------------: | :----------------:
-TUE 12-13 | 4:05 PM | T-16 | Moein Amin and <br /> Karlo Toljan | Zoom
 TUE 12-13 | 4:30 PM | T-17 | Pedram Golnari | Wood WG82-J in person
 
 ## Wednesday December 14
@@ -120,3 +119,4 @@ T-10 | Savannah Wu and <br /> Qihao Zhang | Complete
 T-11 | Sid Mittal | Complete
 T-12 | Katie Hassett | Complete
 T-13 | Ben Mittman | Complete
+T-16 | Moein Amin and <br /> Karlo Toljan | Complete
