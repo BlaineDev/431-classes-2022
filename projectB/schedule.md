@@ -18,7 +18,7 @@ WED 12-14 | 12:30 PM | M-13 | Sarah Barker | Zoom (see email for details)
 ## Thursday December 15
 
 - Email Dr. Love with any day-of-presentation emergencies.
-- If you feel ill or have been exposed to COVID, do not attend in-person, but instead email Dr. Love to let him know you'll instead present via Zoom.
+- If you feel ill or have been exposed to something, do not attend in-person, but instead email Dr. Love to let him know you'll instead present via Zoom.
 
 ### If you are presenting in person
 
@@ -68,35 +68,24 @@ T-15 | Hossam Sarhan | To Be Determined
 
 # Completed Presentations
 
-Group | Investigator(s) | Presentation Status
-----: | :-----------------------------: | :--------------------: 
-A-01 | Lithe Basbous | Complete
-A-02 | Sahana Kannan and <br /> Sajan Patel | Complete
-M-01 | Alex Gurgis and <br /> Tarek ElShebiny | Complete
-M-03 | An Nguyen | Complete
-M-04 | Sameer Prasada | Complete
-M-05 | Aqsa Khan | Complete
-M-06 | Max Tjen | Complete
-M-08 | Sarah McNeer | Complete
-M-09 | Samuel Rodgers-Melnick | Complete
-M-11 | Chris Benson and <br /> Lentlametse Mantshonyane | Complete
-M-12 | Bryan Abadie | Complete
-M-14 | Izzy Genuario | Complete
-M-15 | Naveen Kannan | Complete
-M-16 | Madi Hunt | Complete
-M-17 | Keisi Kotobelli | Complete
-T-01 | Rupleen Kaur | Complete
-T-02 | Lydia Masar and <br /> Shwetank Singh | Complete
-T-03 | Valeria Martinez Tenorio | Complete
-T-04 | Emiko Miller | Complete
-T-05 | Meredith Zhang | Complete
-T-06 | Sam Baker | Complete
-T-07 | Fang Wang and <br /> Tian Liu | Complete
-T-08 | Faruk Senturk | Complete
-T-09 | Millie Zhou and <br /> Naji Ayyash | Complete
-T-10 | Savannah Wu and <br /> Qihao Zhang | Complete
-T-11 | Sid Mittal | Complete
-T-12 | Katie Hassett | Complete
-T-13 | Ben Mittman | Complete
-T-16 | Moein Amin and <br /> Karlo Toljan | Complete
-T-17 | Pedram Golnari | Complete
+## Teams of Two
+
+Group | Investigator | Investigator | | Group | Investigator | Investigator
+---: | :-----: | :-----: | :--: | ---: | :-----: | :-----:
+A-02 | Sahana Kannan | Sajan Patel |   | M-01 | Tarek ElShebiny | Alex Gurgis
+M-11 | Chris Benson | Lentlametse Mantshonyane |   | T-02 | Lydia Masar | Shwetank Singh
+T-07 | Tian Liu | Fang Wang |   | T-09 | Naji Ayyash | Millie Zhou
+T-10 | Savannah Wu | Qihao Zhang |   | T-16 | Moein Amin | Karlo Toljan
+
+## Solo Investigators
+
+Code | Investigator | | Code | Investigator | | Code | Investigator
+---: | :-----: | :--: |  ---: | :-----: | :--: | ---: | :-----: 
+A-01 | Lithe Basbous |   | M-03 | An Nguyen |   | M-04 | Sameer Prasada
+M-05 | Aqsa Khan |   | M-06 | Max Tjen |   | M-08 | Sarah McNeer
+M-09 | Samuel Rodgers-Melnick |   | M-12 | Bryan Abadie |   | M-14 | Izzy Genuario
+M-15 | Naveen Kannan |   | M-16 | Madi Hunt |   | M-17 | Keisi Kotobelli
+T-01 | Rupleen Kaur |    | T-03 | Valeria Martinez Tenorio |   | T-04 | Emiko Miller
+T-05 | Meredith Zhang |   | T-06 | Sam Baker |   | T-08 | Faruk Senturk 
+T-11 | Sid Mittal |    | T-12 | Katie Hassett |  | T-13 | Ben Mittman 
+T-17 | Pedram Golnari 
