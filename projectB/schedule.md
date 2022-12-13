@@ -2,37 +2,17 @@
 
 ### Table of Contents
 
-- [Tuesday (2022-12-13) presentation schedule](#tuesday-december-13)
 - [Wednesday (2022-12-14) presentation schedule](#wednesday-december-14)
 - [Thursday (2022-12-15) presentation schedule](#thursday-december-15)
 - [Monday (2022-12-19) presentation schedule](#monday-december-19)
 - [Presentations that must be re-scheduled](#presentations-to-be-re-scheduled)
 - [Completed Presentations](#completed-presentations)
 
-## Tuesday December 13
-
-- Email Dr. Love with any day-of-presentation emergencies.
-
-### If you are presenting in person
-
-- Please arrive at Dr. Love's office **10 minutes prior** to the start time listed below. If his door is open, knock and let him know you're there. If it's closed, please don't knock - just wait until he opens the door. Thank you.
-- Dr. Love’s office at CWRU is on the ground floor of the Wood building (in the WG-82 Suite), specifically it is **WG-82J**.
-- If you feel ill or have been exposed to COVID, do not attend in-person, but instead email Dr. Love to let him know you'll instead present via Zoom.
-
-### If you are presenting via Zoom
-
-- Zoom information for the Tuesday morning and Tuesday afternoon sessions are now posted to the Announcements section of [Canvas](https://canvas.case.edu/). You will need to join the Zoom call **10 minutes prior** to the start time listed below. Dr. Love will let you into the Zoom meeting when he is ready for you.
-
-### Tuesday afternoon (Zoom information is in the Announcements section of Canvas)
-
-Date | Start Time | Group | Investigator(s) | Where?
-----: | ----: | ----: | :-----------------------------: | :----------------:
-TUE 12-13 | 4:30 PM | T-17 | Pedram Golnari | Wood WG82-J in person
-
 ## Wednesday December 14
 
 Date | Start Time | Group | Investigator(s) | Where?
 ----: | ----: | ----: | :-----------------------------: | :----------------:
+WED 12-14 | Noon | M-10 | Shubho Das and <br /> Toby Jin | Zoom (see email for details)
 WED 12-14 | 12:30 PM | M-13 | Sarah Barker | Zoom (see email for details)
 
 ## Thursday December 15
@@ -80,12 +60,11 @@ Date | Start Time | Group | Investigator(s) | Where?
 MON 12-19 | 10:30 AM | M-02 | Alison Berry | Zoom (see email for details)
 MON 12-19 | 12:15 PM | T-14 | Neha Solanki | Zoom (Dr. Love will send email on Wednesday 12-14)
 
-# Presentations to be (Re-)Scheduled
+# Presentation to be (Re-)Scheduled
 
 Group | Investigator(s) | Presentation Status
 ----: | :-----------------------------: | :--------------------: 
-M-10 | Shubho Das and <br /> Toby Jin | Wednesday 12-14 at Noon?
-T-15 | Hossam Sarhan | TBD
+T-15 | Hossam Sarhan | To Be Determined
 
 # Completed Presentations
 
@@ -120,3 +99,4 @@ T-11 | Sid Mittal | Complete
 T-12 | Katie Hassett | Complete
 T-13 | Ben Mittman | Complete
 T-16 | Moein Amin and <br /> Karlo Toljan | Complete
+T-17 | Pedram Golnari | Complete
