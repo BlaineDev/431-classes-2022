@@ -64,7 +64,7 @@ MON 12-19 | 12:15 PM | T-14 | Neha Solanki | Zoom (see email sent 2022-12-14 for
 
 Group | Investigator(s) | Presentation Status
 ----: | :-----------------------------: | :--------------------: 
-T-15 | Hossam Sarhan | To Be Determined
+T-15 | Hossam Sarhan | To Be Determined: contact Dr. Love ASAP
 
 # Completed Presentations
 
