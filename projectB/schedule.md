@@ -38,7 +38,7 @@ THU 12-15 | 11:35 AM | Z-08 | Anya Nazarenko | Wood WG82-J in person
 ### Thursday afternoon (Zoom information is in the Announcements section of Canvas)
 
 Date | Start Time | Group | Investigator(s) | Where?
-----: | ----: | ----: | :-----------------------------: | :----------------:
+----: | ----: | ----: | :-----------------------------: | :----------------
 THU 12-15 | 12:50 PM | Z-09 | Seth Bauer | Zoom (see email sent 2022-12-14 for details)
 THU 12-15 | 1:15 PM | Z-10 | Samer Alanzi | Zoom 
 THU 12-15 | 1:40 PM | Z-11 | Xinyu Sun | Zoom (see email sent 2022-12-14 for details)
