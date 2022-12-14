@@ -12,8 +12,8 @@
 
 Date | Start Time | Group | Investigator(s) | Where?
 ----: | ----: | ----: | :-----------------------------: | :----------------:
-WED 12-14 | Noon | M-10 | Shubho Das and <br /> Toby Jin | Zoom (see email for details)
-WED 12-14 | 12:30 PM | M-13 | Sarah Barker | Zoom (see email for details)
+WED 12-14 | Noon | M-10 | Shubho Das and Toby Jin | Zoom (see revised email sent 2022-12-14 at 7:30 AM for details)
+WED 12-14 | 12:30 PM | M-13 | Sarah Barker | Zoom (see revised email sent 2022-12-14 at 7:30 AM for details)
 
 ## Thursday December 15
 
