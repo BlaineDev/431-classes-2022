@@ -57,8 +57,8 @@ THU 12-15 | 3:10 PM | Z-14 | Hala Nas | Zoom
 
 Date | Start Time | Group | Investigator(s) | Where?
 ----: | ----: | ----: | :-----------------------------: | :----------------:
-MON 12-19 | 10:30 AM | M-02 | Alison Berry | Zoom (see email for details)
-MON 12-19 | 12:15 PM | T-14 | Neha Solanki | Zoom (Dr. Love will send email on Wednesday 12-14)
+MON 12-19 | 10:30 AM | M-02 | Alison Berry | Zoom (see email sent 2022-12-13 for details)
+MON 12-19 | 12:15 PM | T-14 | Neha Solanki | Zoom (see email sent 2022-12-14 for details)
 
 # Presentation to be (Re-)Scheduled
 
