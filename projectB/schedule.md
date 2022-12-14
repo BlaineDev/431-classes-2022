@@ -15,6 +15,7 @@
 ### If you are presenting in person
 
 - Please arrive at Dr. Love's office **10 minutes prior** to the start time listed below. If his door is open, knock and let him know you're there. If it's closed, please don't knock - just wait until he opens the door. Thank you.
+- I've moved all of the Thursday afternoon sessions originally planned as in-person to Zoom. Sorry.
 - Dr. Love’s office at CWRU is on the ground floor of the Wood building (in the WG-82 Suite), specifically it is **WG-82J**.
 
 ### If you are presenting via Zoom
