@@ -38,17 +38,17 @@ THU 12-15 | 11:35 AM | Z-08 | Anya Nazarenko | Wood WG82-J in person
 
 Date | Start Time | Group | Investigator(s) | Where?
 ----: | ----: | ----: | :-----------------------------: | :----------------:
-THU 12-15 | 12:50 PM | Z-09 | Seth Bauer | Wood WG82-J in person
-THU 12-15 | 1:15 PM | Z-10 | Samer Alanzi | Zoom
-THU 12-15 | 1:40 PM | Z-11 | Xinyu Sun | Wood WG82-J in person
-THU 12-15 | 2:05 PM | Z-12 | Miza Salim Hammoud | Wood WG82-J in person
-THU 12-15 | 2:45 PM | Z-13 | Sarah Grabinski | Wood WG82-J in person
+THU 12-15 | 12:50 PM | Z-09 | Seth Bauer | Zoom (see email sent 2022-12-14 for details)
+THU 12-15 | 1:15 PM | Z-10 | Samer Alanzi | Zoom 
+THU 12-15 | 1:40 PM | Z-11 | Xinyu Sun | Zoom (see email sent 2022-12-14 for details)
+THU 12-15 | 2:45 PM | Z-13 | Sarah Grabinski | Zoom (see email sent 2022-12-14 for details)
 THU 12-15 | 3:10 PM | Z-14 | Hala Nas | Zoom
 
 ## Monday December 19
 
 Date | Start Time | Group | Investigator(s) | Where?
 ----: | ----: | ----: | :-----------------------------: | :----------------:
+MON 12-19 | 10:00 AM | Z-12 | Miza Salim Hammoud | Zoom (see email sent 2022-12-14 for details)
 MON 12-19 | 10:30 AM | M-02 | Alison Berry | Zoom (see email sent 2022-12-13 for details)
 MON 12-19 | 11:30 AM | M-10 | Shubho Das and Toby Jin | Zoom (see email sent 2022-12-14 for details)
 MON 12-19 | 12:15 PM | T-14 | Neha Solanki | Zoom (see email sent 2022-12-14 for details)
