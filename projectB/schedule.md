@@ -2,18 +2,10 @@
 
 ### Table of Contents
 
-- [Wednesday (2022-12-14) presentation schedule](#wednesday-december-14)
 - [Thursday (2022-12-15) presentation schedule](#thursday-december-15)
 - [Monday (2022-12-19) presentation schedule](#monday-december-19)
 - [Presentations that must be re-scheduled](#presentations-to-be-re-scheduled)
 - [Completed Presentations](#completed-presentations)
-
-## Wednesday December 14
-
-Date | Start Time | Group | Investigator(s) | Where?
-----: | ----: | ----: | :-----------------------------: | :----------------:
-WED 12-14 | Noon | M-10 | Shubho Das and Toby Jin | Zoom (see revised email sent 2022-12-14 at 7:30 AM for details)
-WED 12-14 | 12:30 PM | M-13 | Sarah Barker | Zoom (see revised email sent 2022-12-14 at 7:30 AM for details)
 
 ## Thursday December 15
 
@@ -58,6 +50,7 @@ THU 12-15 | 3:10 PM | Z-14 | Hala Nas | Zoom
 Date | Start Time | Group | Investigator(s) | Where?
 ----: | ----: | ----: | :-----------------------------: | :----------------:
 MON 12-19 | 10:30 AM | M-02 | Alison Berry | Zoom (see email sent 2022-12-13 for details)
+MON 12-19 | 11:30 AM | M-10 | Shubho Das and Toby Jin | Zoom (see email sent 2022-12-14 for details)
 MON 12-19 | 12:15 PM | T-14 | Neha Solanki | Zoom (see email sent 2022-12-14 for details)
 
 # Presentation to be (Re-)Scheduled
@@ -77,7 +70,7 @@ M-11 | Chris Benson | Lentlametse Mantshonyane |   | T-02 | Lydia Masar | Shweta
 T-07 | Tian Liu | Fang Wang |   | T-09 | Naji Ayyash | Millie Zhou
 T-10 | Savannah Wu | Qihao Zhang |   | T-16 | Moein Amin | Karlo Toljan
 
-## 22 (of 40) Solo Investigators have completed their presentations
+## 23 (of 40) Solo Investigators have completed their presentations
 
 Code | Investigator | | Code | Investigator | | Code | Investigator
 ---: | :-----: | :--: |  ---: | :-----: | :--: | ---: | :-----: 
@@ -88,4 +81,4 @@ M-15 | Naveen Kannan |   | M-16 | Madi Hunt |   | M-17 | Keisi Kotobelli
 T-01 | Rupleen Kaur |    | T-03 | Valeria Martinez Tenorio |   | T-04 | Emiko Miller
 T-05 | Meredith Zhang |   | T-06 | Sam Baker |   | T-08 | Faruk Senturk 
 T-11 | Sid Mittal |    | T-12 | Katie Hassett |  | T-13 | Ben Mittman 
-T-17 | Pedram Golnari 
+T-17 | Pedram Golnari |   | M-13 | Sarah Barker | 
