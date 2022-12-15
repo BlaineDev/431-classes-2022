@@ -40,22 +40,21 @@ T-15 | Hossam Sarhan | To Be Determined: contact Dr. Love ASAP
 
 Code | Investigator | Investigator | Code | Investigator | Investigator
 ---: | :-----: | :-----: | ---: | :-----: | :-----:
-A-02 | Sahana Kannan | Sajan Patel | M-01 | Tarek ElShebiny | Alex Gurgis
-M-11 | Chris Benson | Lentlametse Mantshonyane | T-02 | Lydia Masar | Shwetank Singh
-T-07 | Tian Liu | Fang Wang | T-09 | Naji Ayyash | Millie Zhou
-T-10 | Savannah Wu | Qihao Zhang | T-16 | Moein Amin | Karlo Toljan
+`T-16` | Moein Amin | Karlo Toljan | `T-09` | Naji Ayyash | Millie Zhou
+`M-11` | Chris Benson | Lentlametse Mantshonyane | `M-01` | Tarek ElShebiny | Alex Gurgis
+`A-02` | Sahana Kannan | Sajan Patel | `T-07` | Tian Liu | Fang Wang
+`T-02` | Lydia Masar | Shwetank Singh | `T-10` | Savannah Wu | Qihao Zhang 
 
 ## 34 (of 40) Solo Investigators have completed their presentations
 
-Code | Investigator | Code | Investigator | Code | Investigator | Code | Investigator
----: | :-----: | ---: | :-----: | ---: | :-----: | ---: | :-----: 
-A-01 | Lithe Basbous | M-03 | An Nguyen | M-04 | Sameer Prasada | M-05 | Aqsa Khan 
-M-06 | Max Tjen | M-08 | Sarah McNeer | M-09 | Samuel Rodgers-Melnick | M-12 | Bryan Abadie
-M-14 | Izzy Genuario | M-15 | Naveen Kannan | M-16 | Madi Hunt | M-17 | Keisi Kotobelli
-T-01 | Rupleen Kaur | T-03 | Valeria Martinez Tenorio | T-04 | Emiko Miller | T-05 | Meredith Zhang
-T-06 | Sam Baker | T-08 | Faruk Senturk | T-11 | Sid Mittal | T-12 | Katie Hassett 
-T-13 | Ben Mittman | T-17 | Pedram Golnari | M-13 | Sarah Barker | Z-01 | Kim Robbins
-Z-02 | Benjamin Heifetz | Z-03 | Anthony Orsino | Z-04 | Marie Masotya | Z-05 | Yinglun Geng 
-Z-06 | Dan Kingsley | Z-07 | Jules Joel Bakhos | Z-08 | Anya Nazarenko | Z-09 | Seth Bauer 
-Z-10 | Samer Alanzi | Z-11 | Xinyu Sun 
+Code | Investigator | Code | Investigator | Code | Investigator | Code | Investigator | Code | Investigator
+---: | :-----: | ---: | :-----: | ---: | :-----: | ---: | :-----: | ---: | :-----: 
+`M-12` | Bryan Abadie | `Z-10` | Samer Alanzi | `T-06` | Sam Baker | `Z-07` | Jules Joel Bakhos | `A-01` | Lithe Basbous | 
+`M-13` | Sarah Barker | `Z-09` | Seth Bauer | `Z-05` | Yinglun Geng | `M-14` | Izzy Genuario | T-17 | Pedram Golnari | 
+`T-12` | Katie Hassett | `M-16` | Madi Hunt | `Z-02` | Benjamin Heifetz | `M-15` | Naveen Kannan | `T-01` | Rupleen Kaur 
+`M-05` | Aqsa Khan | `Z-06` | Dan Kingsley | `M-17` | Keisi Kotobelli | `Z-04` | Marie Masotya | `T-03` | Valeria Martinez Tenorio
+`M-08` | Sarah McNeer | `T-04` | Emiko Miller | `T-11` | Sid Mittal | `T-13` | Ben Mittman | `Z-08` | Anya Nazarenko 
+`M-03` | An Nguyen | `Z-03` | Anthony Orsino | `M-04` | Sameer Prasada | `Z-01` | Kim Robbins | 
+`T-08` | Faruk Senturk | `Z-11` | Xinyu Sun | `M-06` | Max Tjen | `T-05` | Meredith Zhang
+ | 
 
