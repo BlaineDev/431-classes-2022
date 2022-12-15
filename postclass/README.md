@@ -21,9 +21,10 @@ Table of Contents:
 1. For your enjoyment and inspiration, our [Lab X websites are here](https://github.com/THOMASELOVE/431-labs-2022/blob/main/labXwebsites.md). I will continue to accept [Lab X submissions](https://github.com/THOMASELOVE/431-labs-2022/blob/main/labX.md) through 2022-12-19 at noon.
 2. TA office hours end on 2022-12-12. [Campuswire](https://campuswire.com/) will remain open until 10 AM on Monday 2022-12-19.
 3. If you plan to submit [Lab Y](https://github.com/THOMASELOVE/431-labs-2022/blob/main/labY.md), please do so by Friday 2022-12-16 at noon.
-4. Please submit your [Project B R Markdown and HTML reports for Study 1 and Study 2](https://thomaselove.github.io/431-projectB-2022/checklist.html) to [Canvas](https://canvas.case.edu/) by Monday 2022-12-19 at noon.
-5. Please submit your Project B [self-evaluation form](https://thomaselove.github.io/431-projectB-2022/self_eval.html) by Monday 2022-12-19 at noon.
-6. Please complete the CWRU course evaluation form at <https://webapps.case.edu/courseevals/> by the deadline: 11:59 PM on Wed 2022-12-21.
+4. I posted [a tip sheet for Project B here](https://thomaselove.github.io/431-projectB-2022/tipsheet.html) and also raised a few salient points on [Campuswire](https://campuswire.com/) which you might want to review before submitting Project B's materials.
+5. Please submit your [Project B R Markdown and HTML reports for Study 1 and Study 2](https://thomaselove.github.io/431-projectB-2022/checklist.html) to [Canvas](https://canvas.case.edu/) by Monday 2022-12-19 at noon.
+6. Please submit your Project B [self-evaluation form](https://thomaselove.github.io/431-projectB-2022/self_eval.html) by Monday 2022-12-19 at noon.
+7. Please complete the CWRU course evaluation form at <https://webapps.case.edu/courseevals/> by the deadline: 11:59 PM on Wed 2022-12-21.
 
 
 ## 432: What Will We Do?
@@ -35,6 +36,7 @@ In 431, students use R Markdown to code their work. In 432 this Spring, we'll sw
 
 The 432 course covers the following general topics, roughly in this order, through early April. Additional topics (for the remainder of April) will be determined later in the semester.
 
+- A review of the work we did in 431, in particular, the Project B work.
 - Dealing with interaction and other forms of non-linearity in regression models by spending degrees of freedom on non-linear terms, particularly through the Harrell "verse".
 - Using regression methods for different purposes (exploring associations, making predictions, assessing cause and effect).
 - Logistic regression and generalized linear models for binary, count and multi-categorical outcomes.
