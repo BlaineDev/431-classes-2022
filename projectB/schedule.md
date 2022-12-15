@@ -40,9 +40,10 @@ T-15 | Hossam Sarhan | To Be Determined: contact Dr. Love ASAP
 Code | Investigator | Investigator | Code | Investigator | Investigator
 ---: | :-----: | :-----: | ---: | :-----: | :-----:
 `T-16` | Moein Amin | Karlo Toljan | `T-09` | Naji Ayyash | Millie Zhou
-`M-11` | Chris Benson | Lentlametse Mantshonyane | `M-01` | Tarek ElShebiny | Alex Gurgis
-`A-02` | Sahana Kannan | Sajan Patel | `T-07` | Tian Liu | Fang Wang
-`T-02` | Lydia Masar | Shwetank Singh | `T-10` | Savannah Wu | Qihao Zhang 
+`M-11` | Chris Benson | Lentlametse Mantshonyane | `-` | - | - 
+`M-01` | Tarek ElShebiny | Alex Gurgis | `A-02` | Sahana Kannan | Sajan Patel 
+`T-07` | Tian Liu | Fang Wang | `T-02` | Lydia Masar | Shwetank Singh
+`T-10` | Savannah Wu | Qihao Zhang 
 
 ## 35 (of 40) Solo Investigators have completed their presentations
 
