@@ -39,11 +39,11 @@ T-15 | Hossam Sarhan | To Be Determined: contact Dr. Love ASAP
 ## Eight (of Nine) Teams of Two have completed their presentations
 
 Group | Investigator | Investigator | | Group | Investigator | Investigator
----: | :-----: | :-----: | :--: | ---: | :-----: | :-----:
-A-02 | Sahana Kannan | Sajan Patel |   | M-01 | Tarek ElShebiny | Alex Gurgis
-M-11 | Chris Benson | Lentlametse Mantshonyane |   | T-02 | Lydia Masar | Shwetank Singh
-T-07 | Tian Liu | Fang Wang |   | T-09 | Naji Ayyash | Millie Zhou
-T-10 | Savannah Wu | Qihao Zhang |   | T-16 | Moein Amin | Karlo Toljan
+---: | :-----: | :-----: | ---: | :-----: | :-----:
+A-02 | Sahana Kannan | Sajan Patel | M-01 | Tarek ElShebiny | Alex Gurgis
+M-11 | Chris Benson | Lentlametse Mantshonyane | T-02 | Lydia Masar | Shwetank Singh
+T-07 | Tian Liu | Fang Wang | T-09 | Naji Ayyash | Millie Zhou
+T-10 | Savannah Wu | Qihao Zhang | T-16 | Moein Amin | Karlo Toljan
 
 ## 34 (of 40) Solo Investigators have completed their presentations
 
