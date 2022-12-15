@@ -26,11 +26,6 @@
 
 Date | Start Time | Group | Investigator(s) | Where?
 ----: | ----: | ----: | :-----------------------------: | :----------------:
-THU 12-15 | 8:40 AM | Z-01 | Kim Robbins | Zoom
-THU 12-15 | 9:05 AM | Z-02 | Benjamin Heifetz | Wood WG82-J in person
-THU 12-15 | 9:30 AM | Z-03 | Anthony Orsino | Wood WG82-J in person
-THU 12-15 | 9:55 AM | Z-04 | Marie Masotya | Wood WG82-J in person
-THU 12-15 | 10:20 AM | Z-05 | Yinglun Geng | Wood WG82-J in person
 THU 12-15 | 10:45 AM | Z-06 | Dan Kingsley | Wood WG82-J in person
 THU 12-15 | 11:10 AM | Z-07 | Jules Joel Bakhos | Wood WG82-J in person
 THU 12-15 | 11:35 AM | Z-08 | Anya Nazarenko | Wood WG82-J in person
@@ -83,4 +78,6 @@ M-15 | Naveen Kannan |   | M-16 | Madi Hunt |   | M-17 | Keisi Kotobelli
 T-01 | Rupleen Kaur |    | T-03 | Valeria Martinez Tenorio |   | T-04 | Emiko Miller
 T-05 | Meredith Zhang |   | T-06 | Sam Baker |   | T-08 | Faruk Senturk 
 T-11 | Sid Mittal |    | T-12 | Katie Hassett |  | T-13 | Ben Mittman 
-T-17 | Pedram Golnari |   | M-13 | Sarah Barker | 
+T-17 | Pedram Golnari |   | M-13 | Sarah Barker |  | Z-01 | Kim Robbins
+Z-02 | Benjamin Heifetz | | Z-03 | Anthony Orsino | | Z-04 | Marie Masotya 
+Z-05 | Yinglun Geng | 
