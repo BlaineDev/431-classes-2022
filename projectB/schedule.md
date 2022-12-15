@@ -57,5 +57,5 @@ T-06 | Sam Baker | T-08 | Faruk Senturk | T-11 | Sid Mittal | T-12 | Katie Hasse
 T-13 | Ben Mittman | T-17 | Pedram Golnari | M-13 | Sarah Barker | Z-01 | Kim Robbins
 Z-02 | Benjamin Heifetz | Z-03 | Anthony Orsino | Z-04 | Marie Masotya | Z-05 | Yinglun Geng 
 Z-06 | Dan Kingsley | Z-07 | Jules Joel Bakhos | Z-08 | Anya Nazarenko | Z-09 | Seth Bauer 
-Z-10 | Samer Alanzi | Z-11 | Xinyu Sun | 
+Z-10 | Samer Alanzi | Z-11 | Xinyu Sun 
 
