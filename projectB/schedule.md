@@ -9,25 +9,8 @@
 
 ## Thursday December 15
 
-- Email Dr. Love with any day-of-presentation emergencies.
-- If you feel ill or have been exposed to something, do not attend in-person, but instead email Dr. Love to let him know you'll instead present via Zoom.
-
-### If you are presenting in person
-
-- Please arrive at Dr. Love's office **10 minutes prior** to the start time listed below. If his door is open, knock and let him know you're there. If it's closed, please don't knock - just wait until he opens the door. Thank you.
 - I've moved all of the Thursday afternoon sessions originally planned as in-person to Zoom. Sorry.
-- Dr. Love’s office at CWRU is on the ground floor of the Wood building (in the WG-82 Suite), specifically it is **WG-82J**.
-
-### If you are presenting via Zoom
-
-- Zoom information for the Thursday morning and Thursday afternoon sessions are now posted to the Announcements section of [Canvas](https://canvas.case.edu/). You will need to join the Zoom call **10 minutes prior** to the start time listed below. Dr. Love will let you into the Zoom meeting when he is ready for you.
-
-### Thursday morning (Zoom information is in the Announcements section of Canvas)
-
-Date | Start Time | Group | Investigator(s) | Where?
-----: | ----: | ----: | :-----------------------------: | :----------------:
-THU 12-15 | 11:10 AM | Z-07 | Jules Joel Bakhos | Wood WG82-J in person
-THU 12-15 | 11:35 AM | Z-08 | Anya Nazarenko | Wood WG82-J in person
+- Zoom information for the Thursday sessions are now posted to the Announcements section of [Canvas](https://canvas.case.edu/). You will need to join the Zoom call **10 minutes prior** to the start time listed below. Dr. Love will let you into the Zoom meeting when he is ready for you.
 
 ### Thursday afternoon (Zoom information is in the Announcements section of Canvas)
 
@@ -66,7 +49,7 @@ M-11 | Chris Benson | Lentlametse Mantshonyane |   | T-02 | Lydia Masar | Shweta
 T-07 | Tian Liu | Fang Wang |   | T-09 | Naji Ayyash | Millie Zhou
 T-10 | Savannah Wu | Qihao Zhang |   | T-16 | Moein Amin | Karlo Toljan
 
-## 29 (of 40) Solo Investigators have completed their presentations
+## 31 (of 40) Solo Investigators have completed their presentations
 
 Code | Investigator | | Code | Investigator | | Code | Investigator
 ---: | :-----: | :--: |  ---: | :-----: | :--: | ---: | :-----: 
@@ -79,4 +62,5 @@ T-05 | Meredith Zhang |   | T-06 | Sam Baker |   | T-08 | Faruk Senturk
 T-11 | Sid Mittal |    | T-12 | Katie Hassett |  | T-13 | Ben Mittman 
 T-17 | Pedram Golnari |   | M-13 | Sarah Barker |  | Z-01 | Kim Robbins
 Z-02 | Benjamin Heifetz | | Z-03 | Anthony Orsino | | Z-04 | Marie Masotya 
-Z-05 | Yinglun Geng | | Z-06 | Dan Kingsley
+Z-05 | Yinglun Geng | | Z-06 | Dan Kingsley | | Z-07 | Jules Joel Bakhos
+Z-08 | Anya Nazarenko |
