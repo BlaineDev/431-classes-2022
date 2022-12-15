@@ -14,13 +14,13 @@
 
 ### Thursday afternoon (Zoom information is in the Announcements section of Canvas)
 
-Date | Start Time | Group | Investigator(s) | Where?
+Date | Start Time | Code | Investigator(s) | Where?
 ----: | ----: | ----: | :-----------------------------: | :----------------
 THU 12-15 | 3:10 PM | Z-14 | Hala Nas | Zoom
 
 ## Monday December 19
 
-Date | Start Time | Group | Investigator(s) | Where?
+Date | Start Time | Code | Investigator(s) | Where?
 ----: | ----: | ----: | :-----------------------------: | :----------------:
 MON 12-19 | 10:00 AM | Z-12 | Miza Salim Hammoud | Zoom (see email sent 2022-12-14 for details)
 MON 12-19 | 10:30 AM | M-02 | Alison Berry | Zoom (see email sent 2022-12-13 for details)
@@ -29,7 +29,7 @@ MON 12-19 | 12:15 PM | T-14 | Neha Solanki | Zoom (see email sent 2022-12-14 for
 
 # Presentation to be (Re-)Scheduled
 
-Group | Investigator(s) | Presentation Status
+Code | Investigator(s) | Presentation Status
 ----: | :-----------------------------: | :--------------------: 
 T-15 | Hossam Sarhan | To Be Determined: contact Dr. Love ASAP
 
