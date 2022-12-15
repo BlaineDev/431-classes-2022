@@ -38,7 +38,7 @@ T-15 | Hossam Sarhan | To Be Determined: contact Dr. Love ASAP
 
 ## Eight (of Nine) Teams of Two have completed their presentations
 
-Group | Investigator | Investigator | | Group | Investigator | Investigator
+Code | Investigator | Investigator | Code | Investigator | Investigator
 ---: | :-----: | :-----: | ---: | :-----: | :-----:
 A-02 | Sahana Kannan | Sajan Patel | M-01 | Tarek ElShebiny | Alex Gurgis
 M-11 | Chris Benson | Lentlametse Mantshonyane | T-02 | Lydia Masar | Shwetank Singh
