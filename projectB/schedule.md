@@ -3,7 +3,7 @@
 ### Table of Contents
 
 - [Monday (2022-12-19) presentation schedule](#monday-december-19)
-- [Presentations that must be re-scheduled](#presentations-to-be-re-scheduled)
+- [Presentation that must be re-scheduled](#presentation-to-be-re-scheduled)
 - [Completed Presentations](#completed-presentations)
 
 ## Monday December 19
