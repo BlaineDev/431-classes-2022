@@ -26,7 +26,6 @@
 
 Date | Start Time | Group | Investigator(s) | Where?
 ----: | ----: | ----: | :-----------------------------: | :----------------:
-THU 12-15 | 10:45 AM | Z-06 | Dan Kingsley | Wood WG82-J in person
 THU 12-15 | 11:10 AM | Z-07 | Jules Joel Bakhos | Wood WG82-J in person
 THU 12-15 | 11:35 AM | Z-08 | Anya Nazarenko | Wood WG82-J in person
 
@@ -67,7 +66,7 @@ M-11 | Chris Benson | Lentlametse Mantshonyane |   | T-02 | Lydia Masar | Shweta
 T-07 | Tian Liu | Fang Wang |   | T-09 | Naji Ayyash | Millie Zhou
 T-10 | Savannah Wu | Qihao Zhang |   | T-16 | Moein Amin | Karlo Toljan
 
-## 23 (of 40) Solo Investigators have completed their presentations
+## 29 (of 40) Solo Investigators have completed their presentations
 
 Code | Investigator | | Code | Investigator | | Code | Investigator
 ---: | :-----: | :--: |  ---: | :-----: | :--: | ---: | :-----: 
@@ -80,4 +79,4 @@ T-05 | Meredith Zhang |   | T-06 | Sam Baker |   | T-08 | Faruk Senturk
 T-11 | Sid Mittal |    | T-12 | Katie Hassett |  | T-13 | Ben Mittman 
 T-17 | Pedram Golnari |   | M-13 | Sarah Barker |  | Z-01 | Kim Robbins
 Z-02 | Benjamin Heifetz | | Z-03 | Anthony Orsino | | Z-04 | Marie Masotya 
-Z-05 | Yinglun Geng | 
+Z-05 | Yinglun Geng | | Z-06 | Dan Kingsley
