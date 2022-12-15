@@ -16,10 +16,6 @@
 
 Date | Start Time | Group | Investigator(s) | Where?
 ----: | ----: | ----: | :-----------------------------: | :----------------
-THU 12-15 | 12:50 PM | Z-09 | Seth Bauer | Zoom (see email sent 2022-12-14 for details)
-THU 12-15 | 1:15 PM | Z-10 | Samer Alanzi | Zoom 
-THU 12-15 | 1:40 PM | Z-11 | Xinyu Sun | Zoom (see email sent 2022-12-14 for details)
---- | --- | --- | --- | short break
 THU 12-15 | 2:45 PM | Z-13 | Sarah Grabinski | Zoom (see email sent 2022-12-14 for details)
 THU 12-15 | 3:10 PM | Z-14 | Hala Nas | Zoom
 
@@ -49,18 +45,17 @@ M-11 | Chris Benson | Lentlametse Mantshonyane |   | T-02 | Lydia Masar | Shweta
 T-07 | Tian Liu | Fang Wang |   | T-09 | Naji Ayyash | Millie Zhou
 T-10 | Savannah Wu | Qihao Zhang |   | T-16 | Moein Amin | Karlo Toljan
 
-## 31 (of 40) Solo Investigators have completed their presentations
+## 34 (of 40) Solo Investigators have completed their presentations
 
-Code | Investigator | | Code | Investigator | | Code | Investigator
----: | :-----: | :--: |  ---: | :-----: | :--: | ---: | :-----: 
-A-01 | Lithe Basbous |   | M-03 | An Nguyen |   | M-04 | Sameer Prasada
-M-05 | Aqsa Khan |   | M-06 | Max Tjen |   | M-08 | Sarah McNeer
-M-09 | Samuel Rodgers-Melnick |   | M-12 | Bryan Abadie |   | M-14 | Izzy Genuario
-M-15 | Naveen Kannan |   | M-16 | Madi Hunt |   | M-17 | Keisi Kotobelli
-T-01 | Rupleen Kaur |    | T-03 | Valeria Martinez Tenorio |   | T-04 | Emiko Miller
-T-05 | Meredith Zhang |   | T-06 | Sam Baker |   | T-08 | Faruk Senturk 
-T-11 | Sid Mittal |    | T-12 | Katie Hassett |  | T-13 | Ben Mittman 
-T-17 | Pedram Golnari |   | M-13 | Sarah Barker |  | Z-01 | Kim Robbins
-Z-02 | Benjamin Heifetz | | Z-03 | Anthony Orsino | | Z-04 | Marie Masotya 
-Z-05 | Yinglun Geng | | Z-06 | Dan Kingsley | | Z-07 | Jules Joel Bakhos
-Z-08 | Anya Nazarenko |
+Code | Investigator | | Code | Investigator | | Code | Investigator | | Code | Investigator
+---: | :-----: | :--: |  ---: | :-----: | :--: | ---: | :-----: | :--: | ---: | :-----: 
+A-01 | Lithe Basbous |   | M-03 | An Nguyen |   | M-04 | Sameer Prasada | | M-05 | Aqsa Khan 
+M-06 | Max Tjen |   | M-08 | Sarah McNeer | | M-09 | Samuel Rodgers-Melnick |   | M-12 | Bryan Abadie
+M-14 | Izzy Genuario | | M-15 | Naveen Kannan |   | M-16 | Madi Hunt |   | M-17 | Keisi Kotobelli
+T-01 | Rupleen Kaur |    | T-03 | Valeria Martinez Tenorio |   | T-04 | Emiko Miller | | T-05 | Meredith Zhang
+T-06 | Sam Baker |   | T-08 | Faruk Senturk | | T-11 | Sid Mittal |   | T-12 | Katie Hassett 
+T-13 | Ben Mittman | | T-17 | Pedram Golnari |   | M-13 | Sarah Barker |  | Z-01 | Kim Robbins
+Z-02 | Benjamin Heifetz | | Z-03 | Anthony Orsino | | Z-04 | Marie Masotya | | Z-05 | Yinglun Geng 
+Z-06 | Dan Kingsley | | Z-07 | Jules Joel Bakhos | | Z-08 | Anya Nazarenko | | Z-09 | Seth Bauer 
+Z-10 | Samer Alanzi | | Z-11 | Xinyu Sun | 
+
