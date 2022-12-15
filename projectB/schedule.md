@@ -8,7 +8,7 @@
 
 ## Monday December 19
 
-- Please join the Zoom five minutes before your Start Time.
+- Please join the Zoom five minutes before your Start Time. See your email for your specific Zoom meeting information.
 
 Date | Start Time | Code | Investigator(s) | Where?
 ----: | ----: | ----: | :-----------------------------: | :----------------:
