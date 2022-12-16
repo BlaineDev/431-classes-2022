@@ -9,7 +9,7 @@
 ## Monday December 19
 
 - Please join the Zoom five minutes before the Start Time listed below
-- See the email I sent you at about 9 AM on 2022-12-16 with subject line "UPDATE: Revised Zoom Details for Monday 2022-12-19 presentations of 431 Project B" for Zoom information.
+- See the email I sent you at about 9 AM on 2022-12-16 with subject line "**UPDATE: Revised Zoom Details for Monday 2022-12-19 presentations of 431 Project B" for Zoom information**."
 
 Date | Join Zoom at | Start Time | Code | Investigator(s) 
 ----: | ----: | ----: | ----: | :-----------------------------: 
