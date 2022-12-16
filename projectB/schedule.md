@@ -8,14 +8,15 @@
 
 ## Monday December 19
 
-- Please join the Zoom five minutes before your Start Time. See your email for your specific Zoom meeting information.
+- Please join the Zoom five minutes before the Start Time listed below
+- See the email I sent you at about 9 AM on 2022-12-16 with subject line "UPDATE: Revised Zoom Details for Monday 2022-12-19 presentations of 431 Project B" for Zoom information.
 
-Date | Start Time | Code | Investigator(s) | Where?
-----: | ----: | ----: | :-----------------------------: | :----------------:
-MON 12-19 | 10:00 AM | Z-12 | Miza Salim Hammoud | Zoom (see email sent 2022-12-14 for details)
-MON 12-19 | 10:30 AM | M-02 | Alison Berry | Zoom (see email sent 2022-12-13 for details)
-MON 12-19 | 11:30 AM | M-10 | Shubho Das and Toby Jin | Zoom (see email sent 2022-12-14 for details)
-MON 12-19 | 12:15 PM | T-14 | Neha Solanki | Zoom (see email sent 2022-12-14 for details)
+Date | Join Zoom at | Start Time | Code | Investigator(s) 
+----: | ----: | ----: | ----: | :-----------------------------: 
+MON 12-19 | 9:55 AM | 10:00 AM | Z-12 | Miza Salim Hammoud 
+MON 12-19 | 10:25 AM | 10:30 AM | M-02 | Alison Berry 
+MON 12-19 | 11:25 AM | 11:30 AM | M-10 | Shubho Das and Toby Jin 
+MON 12-19 | 12:15 PM | 12:20 PM | T-14 | Neha Solanki 
 
 # Presentation to be (Re-)Scheduled
 
