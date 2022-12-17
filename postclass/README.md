@@ -3,6 +3,7 @@
 When Dr. Love has information to provide to you after our final class session on 2022-12-08, you will find it on this page.
 
 - Everything in the 431 Fall 2022 Dr Love and Students Shared Drive folder will remain where it is until 2023-02-01.
+- If you want to download one of the 431 class Zoom recordings from [Canvas], please do so before 2022-02-01. After then, most (if not all) of them will disappear.
 - Everything on Github including the Course Notes will remain where it is until 2023-06-01.
 Thanks.
 
@@ -25,6 +26,7 @@ Table of Contents:
 5. Please submit your [Project B R Markdown and HTML reports for Study 1 and Study 2](https://thomaselove.github.io/431-projectB-2022/checklist.html) to [Canvas](https://canvas.case.edu/) by Monday 2022-12-19 at noon.
 6. Please submit your Project B [self-evaluation form](https://thomaselove.github.io/431-projectB-2022/self_eval.html) by Monday 2022-12-19 at noon.
 7. Please complete the CWRU course evaluation form at <https://webapps.case.edu/courseevals/> by the deadline: 11:59 PM on Wed 2022-12-21.
+
 
 
 ## 432: What Will We Do?
