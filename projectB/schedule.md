@@ -3,7 +3,6 @@
 ### Table of Contents
 
 - [Monday (2022-12-19) presentation schedule](#monday-december-19)
-- [Presentation that must be re-scheduled](#presentation-to-be-re-scheduled)
 - [Completed Presentations](#completed-presentations)
 
 ## Monday December 19
@@ -18,13 +17,7 @@ MON 12-19 | 10:25 AM | 10:30 AM | M-02 | Alison Berry
 MON 12-19 | 11:25 AM | 11:30 AM | M-10 | Shubho Das and Toby Jin 
 MON 12-19 | 12:15 PM | 12:20 PM | T-14 | Neha Solanki 
 
-# Presentation to be (Re-)Scheduled
-
-Code | Investigator(s) | Presentation Status
-----: | :-----------------------------: | :--------------------: 
-T-15 | Hossam Sarhan | To Be Determined: contact Dr. Love ASAP
-
-# Completed Presentations
+## Completed Presentations
 
 ## Eight (of Nine) Teams of Two have completed their presentations
 
@@ -36,7 +29,7 @@ Code | Investigator | Investigator | Code | Investigator | Investigator
 `T-07` | Tian Liu | Fang Wang | `T-02` | Lydia Masar | Shwetank Singh
 `T-10` | Savannah Wu | Qihao Zhang 
 
-## 36 (of 40) Solo Investigators have completed their presentations
+## 36 (of 39) Solo Investigators have completed their presentations
 
 Code | Investigator | Code | Investigator | Code | Investigator | Code | Investigator 
 ---: | :-----: | ---: | :-----: | ---: | :-----: | ---: | :-----: 
@@ -48,6 +41,6 @@ Code | Investigator | Code | Investigator | Code | Investigator | Code | Investi
 `T-03` | Valeria Martinez Tenorio | `Z-04` | Marie Masotya | `M-08` | Sarah McNeer | `T-04` | Emiko Miller 
 `T-11` | Sid Mittal | `T-13` | Ben Mittman | `Z-14` | Hala Nas  | `Z-08` | Anya Nazarenko 
 `M-03` | An Nguyen | `Z-03` | Anthony Orsino | `M-04` | Sameer Prasada | `Z-01` | Kim Robbins 
-`M-09` | Samuel Rodgers-Melnick | `-` | - | `-` | - | `T-08` | Faruk Senturk 
-`-`  | - | `Z-11` | Xinyu Sun | `M-06` | Max Tjen | `T-05` | Meredith Zhang 
+`M-09` | Samuel Rodgers-Melnick | `-` | - | `T-08` | Faruk Senturk | `-`  | - | 
+`Z-11` | Xinyu Sun | `M-06` | Max Tjen | `T-05` | Meredith Zhang 
 
