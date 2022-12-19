@@ -1,19 +1,5 @@
 # Schedule for 431 Project B Presentations
 
-### Table of Contents
-
-- [Monday (2022-12-19) presentation schedule](#monday-december-19)
-- [Completed Presentations](#completed-presentations)
-
-## Monday December 19
-
-- Please join the Zoom as indicated, five minutes before the Start Time listed below
-- See the email I sent you at about 9 AM on 2022-12-16 with subject line "**UPDATE: Revised Zoom Details for Monday 2022-12-19 presentations of 431 Project B**" for complete and revised Zoom information
-
-Date | Join Zoom at | Start Time | Code | Investigator(s) 
-----: | ----: | ----: | ----: | :-----------------------------: 
-MON 12-19 | 12:15 PM | 12:20 PM | T-14 | Neha Solanki 
-
 ## Completed Presentations
 
 ## All Nine Teams of Two have completed their presentations
@@ -26,7 +12,7 @@ Code | Investigator | Investigator | Code | Investigator | Investigator
 `T-07` | Tian Liu | Fang Wang | `T-02` | Lydia Masar | Shwetank Singh
 `T-10` | Savannah Wu | Qihao Zhang 
 
-## 38 (of 39) Solo Investigators have completed their presentations
+## All 39 Solo Investigators have completed their presentations
 
 Code | Investigator | Code | Investigator | Code | Investigator 
 ---: | :-----: | ---: | :-----: | ---: | :-----: | 
@@ -41,6 +27,6 @@ Code | Investigator | Code | Investigator | Code | Investigator
 `T-11` | Sid Mittal | `T-13` | Ben Mittman | `Z-14` | Hala Nas
 `Z-08` | Anya Nazarenko | `M-03` | An Nguyen | `Z-03` | Anthony Orsino
 `M-04` | Sameer Prasada | `Z-01` | Kim Robbins | `M-09` | Samuel Rodgers-Melnick
-`Z-012` | Miza Salim Hammoud | `T-08` | Faruk Senturk | `-`  | - | 
+`Z-012` | Miza Salim Hammoud | `T-08` | Faruk Senturk | `T-14` | Neha Solanki 
 `Z-11` | Xinyu Sun | `M-06` | Max Tjen | `T-05` | Meredith Zhang 
 
