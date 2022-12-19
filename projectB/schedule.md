@@ -12,22 +12,21 @@
 
 Date | Join Zoom at | Start Time | Code | Investigator(s) 
 ----: | ----: | ----: | ----: | :-----------------------------: 
-MON 12-19 | 11:25 AM | 11:30 AM | M-10 | Shubho Das and Toby Jin 
 MON 12-19 | 12:15 PM | 12:20 PM | T-14 | Neha Solanki 
 
 ## Completed Presentations
 
-## Eight (of Nine) Teams of Two have completed their presentations
+## All Nine Teams of Two have completed their presentations
 
 Code | Investigator | Investigator | Code | Investigator | Investigator
 ---: | :-----: | :-----: | ---: | :-----: | :-----:
 `T-16` | Moein Amin | Karlo Toljan | `T-09` | Naji Ayyash | Millie Zhou
-`M-11` | Chris Benson | Lentlametse Mantshonyane | `-` | - | - 
+`M-11` | Chris Benson | Lentlametse Mantshonyane | | `M-10` | Shubho Das and Toby Jin 
 `M-01` | Tarek ElShebiny | Alex Gurgis | `A-02` | Sahana Kannan | Sajan Patel 
 `T-07` | Tian Liu | Fang Wang | `T-02` | Lydia Masar | Shwetank Singh
 `T-10` | Savannah Wu | Qihao Zhang 
 
-## 36 (of 39) Solo Investigators have completed their presentations
+## 38 (of 39) Solo Investigators have completed their presentations
 
 Code | Investigator | Code | Investigator | Code | Investigator 
 ---: | :-----: | ---: | :-----: | ---: | :-----: | 
