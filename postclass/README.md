@@ -26,7 +26,9 @@ Table of Contents:
 
 ## Downloading 431 Fall 2022 Lectures from Zoom
 
-On our Shared Google Drive, there is a new document called Downloading 431 Fall 2022 Lectures from Zoom. This provides links that will let you download each of the classes from this past semester. The links (and the Zoom recordings) will disappear permanently on 2023-02-01, so get whatever you want before then. If you have any questions, let me know.
+On our Shared Google Drive, there is a new document called **Downloading 431 Fall 2022 Lectures from Zoom**, which provides links that will let you download each of the classes from this past semester. 
+
+- The links (and the Zoom recordings) will **disappear permanently on 2023-02-01**, so get whatever you want before then. 
 
 ## 432: What Will We Do?
 
