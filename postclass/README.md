@@ -12,6 +12,7 @@ Thanks.
 Table of Contents:
 
 - [End of Semester Notes / Reminders](#end-of-semester-notes--reminders)
+- [Downloading 431 Fall 2022 Lectures from Zoom](#downloading-431-fall-2022-lectures-from-zoom)
 - [432: What Will We Do?](#432-what-will-we-do)
 - [500: The Observational Studies Course](#the-observational-studies-course-pqhscrsp-500)
 
@@ -23,12 +24,9 @@ Table of Contents:
 2. Some details on the responses I received for [Lab Y are now available](https://github.com/THOMASELOVE/431-labs-2022/blob/main/labY.md#submissions).
 3. Please complete the CWRU course evaluation form at <https://webapps.case.edu/courseevals/> by the deadline: 11:59 PM on Wed 2022-12-21.
 
-### Project B
+## Downloading 431 Fall 2022 Lectures from Zoom
 
-1. I posted [a tip sheet for Project B here](https://thomaselove.github.io/431-projectB-2022/tipsheet.html) and also raised a few salient points on [Campuswire](https://campuswire.com/) which you might want to review before submitting Project B's materials.
-2. The few of you who still need to present your work on Monday can find the Zoom information in your email (note the update sent 2022-12-16) and [the schedule is here](https://github.com/THOMASELOVE/431-classes-2022/blob/main/projectB/schedule.md#monday-december-19).
-3. Please submit your [Project B R Markdown and HTML reports for Study 1 and Study 2](https://thomaselove.github.io/431-projectB-2022/checklist.html) to [Canvas](https://canvas.case.edu/) by Monday 2022-12-19 at noon.
-4. Please submit your Project B [self-evaluation form](https://thomaselove.github.io/431-projectB-2022/self_eval.html) by Monday 2022-12-19 at noon.
+On our Shared Google Drive, there is a new document called Downloading 431 Fall 2022 Lectures from Zoom. This provides links that will let you download each of the classes from this past semester. The links (and the Zoom recordings) will disappear permanently on 2023-02-01, so get whatever you want before then. If you have any questions, let me know.
 
 ## 432: What Will We Do?
 
