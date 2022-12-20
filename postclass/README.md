@@ -3,7 +3,6 @@
 When Dr. Love has information to provide to you after our final class session on 2022-12-08, you will find it on this page.
 
 - Everything in the 431 Fall 2022 Dr Love and Students Shared Drive folder will remain where it is until 2023-02-01.
-- If you want to download one of the 431 class Zoom recordings from [Canvas], please do so before 2022-02-01. After then, most (if not all) of them will disappear.
 - Everything on Github including the Course Notes will remain where it is until 2023-06-01.
 Thanks.
 
