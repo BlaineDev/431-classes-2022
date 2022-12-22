@@ -21,7 +21,8 @@ Table of Contents:
 
 1. For your enjoyment and inspiration, our [Lab X websites are here](https://github.com/THOMASELOVE/431-labs-2022/blob/main/labXwebsites.md). I will continue to accept [Lab X submissions](https://github.com/THOMASELOVE/431-labs-2022/blob/main/labX.md) through 2022-12-19 at noon.
 2. Some details on the responses I received for [Lab Y are now available](https://github.com/THOMASELOVE/431-labs-2022/blob/main/labY.md#submissions).
-3. Please complete the CWRU course evaluation form at <https://webapps.case.edu/courseevals/> by the deadline: 11:59 PM on Wed 2022-12-21.
+3. Grades have been posted to SIS, and feedback on Project B was mailed to all students 2022-12-22.
+4. Dr. Love will return to email correspondence on 2023-01-04.
 
 ## Downloading 431 Fall 2022 Lectures from Zoom
 
