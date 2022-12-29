@@ -34,7 +34,7 @@ On our Shared Google Drive, there is a new document called **Downloading 431 Fal
 
 In 431, students use R Markdown to code their work. In 432 this Spring, we'll switch that to [Quarto](https://quarto.org/).
 
-- I will provide the 432 website and syllabus to everyone enrolled in 432 about a week before the class begins on January 10. The Spring 2022 syllabus for 432 is [here](https://thomaselove.github.io/432-2022-syllabus/) but of course, things will change between now and January 10, in ways I will start to think about after 431 is complete on December 20.
+- I will provide the 432 website and syllabus to everyone enrolled in 432 on January 10. The Spring 2022 syllabus for 432 is [here](https://thomaselove.github.io/432-2022-syllabus/) but of course, things will change between now and January 10, in ways I will start to think about after 431 is complete on December 20.
 - If you want to "get ahead" a bit on 432 over the break, do some work on the transition from R Markdown to [Quarto](https://quarto.org/docs/get-started/hello/rstudio.html).
 
 The 432 course covers the following general topics, roughly in this order, through early April. Additional topics (for the remainder of April) will be determined later in the semester.
